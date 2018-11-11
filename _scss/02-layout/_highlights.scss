@@ -1,0 +1,30 @@
+//  #HIGHLIGHTS
+// ==========================================================================
+
+.highlights-wrapper {
+  // Positioning and sizing
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.highlights-group {
+  // Positioning and sizing
+  width: 100%;
+  @include mq(tablet) {width: 50%;}   
+  @include mq(laptop) {width: 25%;}
+
+  // Padding and margins
+  padding: $padding;
+
+  // Text styles
+  font-size: 112.5%;
+  text-align: center;
+}
+
+.highlights-title {
+  font-weight: 700;
+}
+
+.highlights-image {
+  max-height: 72px;
+}

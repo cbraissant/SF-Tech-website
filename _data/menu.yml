@@ -1,5 +1,5 @@
 toc:
-  - title: drysuit
+  - title: Drysuit
     subfolderitems:
       - page: Neoprene Classic Kevlar
         url: /classic.html
@@ -29,3 +29,25 @@ toc:
         url: /valve.html
       - page: Batteries
         url: /batteries.html
+  - title: Support
+    subfolderitems:
+      - page: Measure Form
+        url: /measure.html
+      - page: User manuals
+        url: /manuals.html
+      - page: Downloads
+        url: /downloads.html
+      - page: FAQ
+        url: /faq.html
+  - title: About Us
+    subfolderitems:
+      - page: News and Events
+        url: /news.html
+      - page: Area of Expertise
+        url: /expertise.html
+  - title: Contact
+    subfolderitems:
+      - page: Contact us
+        url: /contact.html
+      - page: Where to buy
+        url: /retailers.html

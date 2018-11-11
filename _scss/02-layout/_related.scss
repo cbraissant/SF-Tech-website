@@ -1,0 +1,4 @@
+.related-grid {
+  @include grid(1,2,4);
+  grid-gap: $padding;
+}

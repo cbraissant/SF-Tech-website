@@ -1,0 +1,23 @@
+<section class="content-section" id="content">
+  <div class="wrapper content-wrapper">
+
+    <div class="content-text">
+      {{ content }}
+  
+      {% for spec in page.specs %}
+    
+        <h4 class="content-data-title">{{ spec.name }}</h4>
+        <ul class="content-data-list">
+          {% for datas in spec.data %}
+          <li class="content-data-items">{{ datas }}</li>
+          {% endfor %}
+        </ul>
+      {% endfor %}
+    </div>
+
+    <div class="content-text">
+    </div>
+
+    </div>
+  </div>
+</section>

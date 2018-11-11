@@ -1,3 +1,7 @@
+//  #HIGHLIGHTS
+// ==========================================================================
+
+// Overlay on top of background image
 .overlay {
   &:after{
       content: "";
@@ -13,4 +17,11 @@
 
       background:rgba(0, 0, 0, 0.5);
     }
+}
+
+
+// Switch the main and background colors
+.color-switch {
+  color: $text-color-switch;
+  background-color: $background-color-switch;
 }

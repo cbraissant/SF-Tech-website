@@ -62,3 +62,23 @@
   }
 }
 
+
+
+// mixin to easily create a grid
+// --------------------------------------------------------
+
+// Takes 3 arguments, one for each breakpoint
+// Use: @include grid(1,3,4)
+
+@mixin grid($col-small, $col-medium, $col-large) {
+  display: grid;
+  grid-template-columns: repeat($col-small, 1fr);
+
+  @include mq(tablet) {
+    grid-template-columns: repeat($col-medium, 1fr);
+  }
+
+  @include mq(laptop) {
+    grid-template-columns: repeat($col-large, 1fr);
+  }
+}

@@ -1,0 +1,35 @@
+//  #MENU PHONE + TABLET
+// ==========================================================================
+
+.menu-wrapper {
+  // Positioning and sizing
+  display: flex;
+
+  // Text styles
+
+
+  // Padding and margin
+}
+
+.menu-list {
+  // Positioning and sizing
+  flex: 1;
+  // Text styles
+  text-align: center;
+  list-style: none;
+}
+
+.menu-sublist {
+  // Positioning and sizing
+  display: none;
+}
+
+//  #MENU LAPTOP + DESKTOP
+// ==========================================================================
+@include mq(laptop) {
+  // Adda a space for the logo
+  .menu-list:nth-child(3) {
+    margin-right: 100px;
+    border: 1px solid red;
+  }
+}

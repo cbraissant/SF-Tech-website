@@ -1,0 +1,9 @@
+{% assign card = site.data.cards.[include.card_type] %}
+
+<a class="card" href="{{ card.link }}">
+  <img class="card-bg" src="{{site.baseurl }}{{ card.img }}" alt="">
+  <div class="card-inner">
+    <div class="card-headline">{{ card.title }}</div>
+    <div class='card-sub'>{{ card.sub }}</div>
+  </div>
+</a>

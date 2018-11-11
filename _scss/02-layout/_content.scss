@@ -1,0 +1,41 @@
+//  #CONTENT
+// ==========================================================================
+
+.content-wrapper {
+  // Positioning and sizing
+  display: flex;
+  flex-wrap: wrap;
+  
+  // Text styles
+  justify-content: center;
+}
+
+.content-text {
+  // Positioning and sizing
+  margin: 0 auto;
+  max-width: 40rem;
+  width: 100%;
+  @include mq(laptop) {width: 50%;}
+}
+
+.content-title {
+  // Padding and margin
+  margin-bottom: $padding;
+  // borders
+  border-bottom: 1px solid $yellow;
+}
+
+.content-data-title {
+  padding-top: $padding;
+}
+
+.content-data-list {
+  list-style: none;
+}
+
+.content-data-items:before {
+  content: "\2501";
+  display: inline-block;
+  width: 1.5em;
+  color: $yellow;
+}

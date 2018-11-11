@@ -41,12 +41,19 @@
 @import "01-base/typography";
 
 // LAYOUT
+@import "02-layout/header";
 @import "02-layout/container";
+@import "02-layout/menu";
 @import "02-layout/hero";
+@import "02-layout/content";
+@import "02-layout/highlights";
+@import "02-layout/related";
 @import "02-layout/footer";
 
 // MODULE
 @import "03-module/button";
+@import "03-module/card";
 
 // UTILITIES
 @import "04-utilities/utilities";
+

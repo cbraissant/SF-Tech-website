@@ -1,0 +1,42 @@
+//  #HERO IMAGE
+// ==========================================================================
+
+.hero-section {
+  // Positioning and sizing
+  position: relative;
+  z-index: 1;
+  min-height: 400px;
+  height: 100vh;
+  max-height: 100%;
+  @include mq(laptop) {max-height: 70vh;}
+
+  // Background styles
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.hero-wrapper {
+  // Positioning and sizing
+  position: relative;
+  height: 100%;
+  
+  // Text styles
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.hero-inner {
+  // Positioning and sizing
+  margin: auto;
+}
+
+.hero-cta {
+  // Positioning and sizing
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}

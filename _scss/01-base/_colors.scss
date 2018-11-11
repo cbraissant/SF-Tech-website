@@ -1,0 +1,34 @@
+//  #COLORS
+// ==========================================================================
+
+// Colors palette
+$yellow:      #fff200;
+$black:       #000000;
+$light-black: #090909;
+$dark-gray:   #1a1f23;
+$gray:        #777777;
+$light-gray:  #cccccc;
+$white:       #ffffff;
+$light-blue:  #12aaff;
+$trans-blue:  rgba(18, 170, 255, 0.7);
+$purple:      rgba(147, 112, 219, 0.8);
+$shadow:      rgba(0,0,0,0.4);
+
+
+// Site template
+$background-color: $light-black;
+$text-color: $light-gray;
+
+$background-color-switch: $yellow;
+$text-color-switch: $black;
+
+
+// Button
+$button-background: none;
+$button-border: $light-blue;
+$button-text: $light-blue;
+
+$button-background-active: none;
+$button-border-active: $light-blue;
+$button-text-active: $light-blue;
+

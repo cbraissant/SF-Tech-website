@@ -1,0 +1,37 @@
+//  #TYPOGRAPHY
+// ==========================================================================
+
+@import url("https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900");
+@import url("https://fonts.googleapis.com/css?family=Oswald:100,300,400,500,700,900");
+
+
+
+body {
+  @include mq(desktop) {font-size: 100%;}
+  @include mq(laptop) {font-size: 100%;}
+  @include mq(tablet) {font-size: 87.5%;}
+  color: $light-gray;
+  font-family: 'Roboto', sans-serif;
+  font-size: 87.5%;
+  font-weight: 300;
+  line-height: 1.5;
+}
+
+
+h1 {
+  @include fluid-type(20rem, 75rem, 2.4rem, 4.8rem);
+  color: $white;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 900;
+  text-shadow: 2px 2px #000;
+  text-transform: uppercase;
+}
+
+h2 {
+  @include fluid-type(20rem, 75rem, 1.6rem, 3.2rem);
+  color: $yellow;
+  font-family: 'Oswald', sans-serif;
+  text-shadow: 2px 2px #000;
+  text-transform: uppercase;
+}
+

@@ -1,14 +1,14 @@
  <div class="wrapper menu-wrapper">
-  {% for item in site.data.menu.toc %}
-    <ul class="menu-list">
-      <li  class="menu-item">
-        {{ item.title }}
+  <ul class="menu-list">
+    {% for item in site.data.menu.toc %}
+      <li class="menu-dropdown">
+        <div class="menu-item">{{ item.title }}</div>
         <ul  class="menu-sublist">
           {% for entry in item.subfolderitems %}
             <li class="menu-subitem"><a  class="menu-link" href="{{site.baseurl}}{{page.lang}}{{ entry.url }}">{{entry.page }}</a></li>
           {% endfor %}
         </ul>
       </li>
+    {% endfor %}
     </ul>
-  {% endfor %}
 </div>

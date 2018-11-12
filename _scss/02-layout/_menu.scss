@@ -1,35 +1,112 @@
 //  #MENU PHONE + TABLET
 // ==========================================================================
 
-.menu-wrapper {
-  // Positioning and sizing
-  display: flex;
-
-  // Text styles
-
-
-  // Padding and margin
-}
-
-.menu-list {
-  // Positioning and sizing
-  flex: 1;
-  // Text styles
+.menu-item {
+  padding: $padding;
   text-align: center;
-  list-style: none;
 }
 
 .menu-sublist {
-  // Positioning and sizing
   display: none;
+
+  // Background and borders
+  border-bottom: 1px solid $background-color-switch;
 }
+
+.is-active.menu-sublist {
+  display: block;
+}
+
+.menu-dropdown {
+  // Positioning and sizing
+  position: relative;
+
+  // Text styles
+  text-align: center;
+}
+
+.menu-item:after {
+  display: inline-block;
+  position: relative;
+  left: $padding;
+  content: "\25BE";
+}
+
+.is-active.menu-item {
+  background-color: $background-color-switch;
+  color: $text-color-switch;
+
+  &:after {
+    content: "\25B4";
+  }
+} 
+
+.menu-link {
+  // Positioning and sizing
+  display: block;
+
+  // Padding and margin
+  padding-top: $padding;
+  padding-bottom: $padding;
+  padding-left: $padding+$padding;
+  padding-right: $padding+$padding;
+
+  // Background and borders
+  color: $text-color;
+}
+
+.menu-link, .menu-link:visited {
+  color: $text-color;
+}
+
+.menu-link:active, .menu-link:hover, 
+.menu-item:active, .menu-item:hover {
+  background-color: $background-color-switch;
+  color: $text-color-switch;
+}
+
 
 //  #MENU LAPTOP + DESKTOP
 // ==========================================================================
+
 @include mq(laptop) {
-  // Adda a space for the logo
-  .menu-list:nth-child(3) {
-    margin-right: 100px;
-    border: 1px solid red;
+  .menu-list {
+    display: flex;
+    justify-content: center;
   }
+
+  .menu-dropdown {
+    border: none;
+  }
+
+  .menu-item {
+    width: 8rem;
+    line-height: 1rem;
+  }
+  
+  .menu-sublist {
+    // Positioning and sizing
+    position: absolute;
+    top: 3rem;
+    left: 0;
+
+    // Text styles
+    text-align: left;
+    white-space: nowrap;
+
+    // Background and borders
+    background-color: $header-background;
+    border: none;
+  }
+
+  // Add a space for the logo
+  .menu-dropdown:nth-child(3) {
+    margin-right: 100px;
+  }
+
+  .menu-dropdown:hover .menu-sublist,
+  .menu-dropdown:active .menu-sublist {
+    display: block;
+  }
+
 }

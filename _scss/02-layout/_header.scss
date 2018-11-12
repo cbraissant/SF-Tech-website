@@ -1,18 +1,34 @@
-header {
+//  #MAIN HEADER
+// ==========================================================================
+
+.masthead {
   // Positioning and sizing
-  position: relative;
-  
-  // Padding and margin
-  padding-top: $padding;
-  padding-bottom: $padding;
+  position: fixed;
+  width: 100%;
+  z-index: 10;
+
+  // Background and borders
+  background-color: $background-color;
+  @include mq(laptop) {background-color: $header-background;}
 }
 
-.header-logo {
+.is-open.masthead {
+  height: 100%;
+  overflow: scroll;
+}
+
+.masthead-logo {
   // Positioning and sizing
-  position: absolute;
-  left: 50%;
-  transform: translateX(-50%);
-  top: $padding;
-  width: 72px;
-  height: 100px;
+  position: relative;
+  height: 3rem;
+  z-index: 10;
+  padding: 5px;
+  
+  @include mq(laptop) {
+    position: absolute;
+    height: 80px;
+    top: 5px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
 }

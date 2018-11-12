@@ -3,6 +3,7 @@
 
 body {
   background-color: $background-color;
+  position: relative;
 }
 
 
@@ -16,3 +17,7 @@ a:hover, a:active { text-decoration: none; color: inherit; }
 h5 a {color: inherit;}
 h5 a:visited {color: inherit;}
 h5 a:hover {color: inherit; color: $link-color;}
+
+
+// List reset
+ul { list-style: none; }

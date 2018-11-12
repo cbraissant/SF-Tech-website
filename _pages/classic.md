@@ -13,7 +13,7 @@ hero-overlay: true
 
 highlights:
   - icon: assets/icons/weight.svg
-    title: Poids total - 4.5kg
+    title: "Poids total: 4.5kg"
     sub: Varie en fonction des options
   - icon: assets/icons/zipper.svg
     title: Fermeture métal
@@ -23,7 +23,7 @@ highlights:
     sub: Protection thermique et souplesse incomparable
   - icon: assets/icons/pencil.svg
     title: Sur mesure
-    sub: Une seule taille disponible - la tienne
+    sub: "Une seule taille disponible: la&nbsp;tienne"
 
 specs:
   - name: Characteristics

@@ -13,6 +13,7 @@ $light-blue:  #12aaff;
 $trans-blue:  rgba(18, 170, 255, 0.7);
 $purple:      rgba(147, 112, 219, 0.8);
 $shadow:      rgba(0,0,0,0.4);
+$overlay:     rgba(0,0,0,0.8);
 
 
 // Links
@@ -24,6 +25,9 @@ $text-color: $light-gray;
 
 $background-color-switch: $yellow;
 $text-color-switch: $black;
+
+// Header
+$header-background: $overlay;
 
 
 // Button

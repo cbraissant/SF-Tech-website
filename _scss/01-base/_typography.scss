@@ -17,7 +17,11 @@ body {
   @include mainfont();
   color: $text-color;
   font-weight: 300;
-  line-height: 1.5;
+  line-height: 1.618;
+}
+
+p {
+  padding-bottom: $padding;
 }
 
 
@@ -56,3 +60,13 @@ h4 {
   text-transform: uppercase;
 }
 
+
+header {
+  font-size: 125%;
+  color: $text-color;
+  font-family: 'Oswald', sans-serif;
+  text-transform: uppercase;
+  @include mq(laptop) {
+    font-size: 100%;
+  }
+}

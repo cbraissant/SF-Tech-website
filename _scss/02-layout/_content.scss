@@ -2,20 +2,24 @@
 // ==========================================================================
 
 .content-wrapper {
-  // Positioning and sizing
-  display: flex;
-  flex-wrap: wrap;
+    // Positioning and sizing
+    @include mq(laptop) {
+    display: flex;
+    flex-wrap: wrap;
+    // Text styles
+    justify-content: center;
+  }
   
-  // Text styles
-  justify-content: center;
 }
 
 .content-text {
   // Positioning and sizing
   margin: 0 auto;
-  max-width: 40rem;
+  max-width: 30rem;
   width: 100%;
   @include mq(laptop) {width: 50%;}
+  // Text styles
+  text-align: justify;
 }
 
 .content-title {
@@ -27,10 +31,6 @@
 
 .content-data-title {
   padding-top: $padding;
-}
-
-.content-data-list {
-  list-style: none;
 }
 
 .content-data-items:before {

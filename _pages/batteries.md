@@ -8,7 +8,7 @@ permalink: /en/batteries
 title: Batteries
 subtitle: High Tech Energy
 
-hero-image: assets/img/jpg/batterie-pack-0396.jpg
+hero-image: assets/img/jpg/1920/batterie-pack-0396-1920.jpg
 hero-overlay: true
 
 link-card:

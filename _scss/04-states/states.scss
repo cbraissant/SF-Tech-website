@@ -1,0 +1,38 @@
+//  #STATES
+// ==========================================================================
+
+body.menu-is-open {
+  overflow: hidden;
+}
+
+.menu-is-open .masthead {
+  height: 100%;
+  overflow: scroll;
+}
+
+.menu-is-open .menu-wrapper{
+  display: block;
+}
+
+.menu-is-open .menu-icon:before {
+ transform: translateY(11px) rotate(135deg);
+  }
+
+.menu-is-open .menu-icon:after {
+  transform: translateY(-11px) rotate(-135deg);
+}
+
+.menu-is-open .menu-icon div {
+  transform: scale(0);
+}
+
+
+.is-active .menu-sublist {
+  @media screen and (max-width: $laptop) {
+    display: block;
+  }
+}
+
+.is-active .menu-item {
+  color: $text-highlight;
+} 

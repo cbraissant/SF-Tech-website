@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+{% include partials/hero.html %}
+
+<section>
+  <div class="wrapper">
+    <div class="home-grid">
+      
+      {% for homecard in page.cards %}
+        <div class="{{ homecard.style }}">
+          {% include partials/card.html card_type=homecard.type %}
+        </div> 
+      {% endfor %}
+  
+    </div>
+
+    
+  </div>
+</section>

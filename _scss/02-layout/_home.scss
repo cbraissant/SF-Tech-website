@@ -1,0 +1,35 @@
+// --------------------------------------------------------
+// #SECTION
+// --------------------------------------------------------
+
+// .section-home {
+//   padding-top: $space-between;
+//   padding-bottom: $space-between;
+// }
+
+// .home-wrapper {
+//   max-width: $max-width;
+//   margin: 0 auto;
+//   padding-left: $global-padding;
+//   padding-right: $global-padding;
+// }
+
+.home-grid {
+  @include grid(1,2,3);
+  grid-column-gap: 1rem;
+  grid-row-gap: 1rem;
+}
+
+// span over 2 columns on large screen
+.grid-col2 {
+  @include mq(laptop) {
+    grid-column: span 2;
+  }
+}
+
+// span over 2 rows on large screen
+.grid-row2 {
+  @include mq(laptop) {
+    grid-row: span 2;
+  }
+}

@@ -1,28 +1,32 @@
 ---
-title: 404 - Not Found
+title: Page not found
+subtitle: Feeling a bit lost?
+
+hero-image: assets/img/jpg/1920/sandra-3007a-1920.jpg
+hero-overlay: true
+
+cta:
+  - link: /
+    text: Go back to the main line
+
 permalink: /404.html
 redirect_from:
 - /assets/
+
+- /assets/img
+- /assets/img/400
+- /assets/img/800
+- /assets/img/1680
+- /assets/img/1920
+- /assets/img/original
+
+- /assets/img/svg
+
+- /assets/js
+- /assets/css
+
 - /en/
+layout: default
+lang: en
 ---
-
-<style type="text/css" media="screen">
-  .container {
-    margin: 10px auto;
-    max-width: 600px;
-    text-align: center;
-  }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
-    line-height: 1;
-    letter-spacing: -1px;
-  }
-</style>
-
-<div class="container">
-  <h1>404</h1>
-
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
-</div>
+{% include partials/hero.html %}

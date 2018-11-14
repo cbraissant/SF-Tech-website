@@ -4,12 +4,14 @@ lang: en
 permalink: /en/classic
 categories: drysuit
 
-
-title: Polartec Sweater
-subtitle: High Perfomance Undergarments
-
-hero-image: assets/img/jpg/undersuit-logo-0630.jpg
+title: Neoprene Classic Kevlar
+subtitle: Performance meets efficiency
+hero-image: assets/img/jpg/1920/fullface-1920.jpg
 hero-overlay: true
+
+cta:
+  - link: "#highlights"
+    text: Product data
 
 highlights:
   - icon: assets/icons/weight.svg
@@ -27,6 +29,7 @@ highlights:
 
 specs:
   - name: Characteristics
+    id: charcteristics
     data:
       - Fermeture frontale ou dorsale
       - Torse télescopique facilitant l’habillage
@@ -37,6 +40,7 @@ specs:
       - Coupe près du corps
       - Taille sur mesure
   - name: Technical Data
+    id: data
     data:
       - "<strong>Couche imperméable:</strong> Néoprène hyper-compressé 2mm"
       - "<strong>Tissus extérieur (Kevlar):</strong> Kevlar, nylon, spandex"
@@ -47,11 +51,10 @@ specs:
       - "<strong>Taille:</strong> sur mesure"
 
 link-card:
-  - classic
+  - kevlar-pro
   - tnt
-  - batteries
-
-
+  - trilam-pro
+  - trilam
 ---
 
 <h3 class="content-title">Specifications</h3>

@@ -8,8 +8,8 @@ button,
   min-width: 200px;
   
   // Padding and margins
-  padding-top: 1vh;
-  padding-bottom: 1vh;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   padding-left: 3vw;
   padding-right: 3vw;
   margin-left: auto;
@@ -23,7 +23,7 @@ button,
   font-weight: 400;
   
   // Border styles
-  border: 3px solid $button-border;
+  border: 1px solid $button-border;
   border-radius: 20px;
   
   // Background styles

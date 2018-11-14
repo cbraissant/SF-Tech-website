@@ -43,17 +43,22 @@
 // LAYOUT
 @import "02-layout/header";
 @import "02-layout/container";
+@import "02-layout/home";
 @import "02-layout/menu";
 @import "02-layout/hero";
 @import "02-layout/content";
 @import "02-layout/highlights";
 @import "02-layout/related";
+@import "02-layout/contact";
 @import "02-layout/footer";
 
 // MODULE
 @import "03-module/button";
 @import "03-module/card";
 
+// STATES
+@import "04-states/states";
+
 // UTILITIES
-@import "04-utilities/utilities";
+@import "05-utilities/utilities";
 

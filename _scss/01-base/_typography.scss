@@ -64,9 +64,9 @@ h4 {
 header {
   font-size: 125%;
   color: $text-color;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Roboto', sans-serif;
   text-transform: uppercase;
   @include mq(laptop) {
-    font-size: 100%;
+    font-size: 87.5%;
   }
 }

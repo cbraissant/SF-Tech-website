@@ -1,15 +1,89 @@
+# SUITS
+# ==========================================================================
+
 classic:
   title: Neoprene Classic Kevlar
   sub: Performance Meets Efficiency
-  img: assets/img/jpg/undersuit-logo-0630.jpg
+  img: fullface
+  type: jpg
   link: /en/classic.html
+
+kevlar-pro:
+  title: Neoprene Kevlar Pro
+  sub: Most durable suit on the market
+  img: walz
+  type: jpg
+  link: /en/kevlar-pro.html
+
+trilam:
+  title: Trilam Classic Kelvar
+  sub: Lightness and durability
+  img: tom-trilam-2
+  type: jpg
+  link: /en/trilam.html
+
+trilam-pro:
+  title: Trilam Kevlar Pro
+  sub: Durability without compromise
+  img: scooter-down
+  type: jpg
+  link: /en/trilam-pro.html
+
 tnt:
   title: Titanium Neoprene Trilaminate
   sub: The best of both world
-  img: assets/img/jpg/tnt-details-0562.jpg
-  tnt: /en/tnt.html
+  img: slawek-packo-v3
+  type: jpg
+  link: /en/tnt.html
+
+commando:
+  title: Special Forces
+  sub: Military grade drysuits
+  img: commando-1632
+  type: jpg
+  link: /en/special-forces.html
+
+
+
+# CLOTHES
+# ==========================================================================
+
+sweater:
+  title: Polartec Sweater
+  sub: High performance undergarments
+  img: undersuit-logo-0630
+  type: jpg
+  link: /en/sweater.html
+
+
+
+# HEATING
+# ==========================================================================
+valve:
+  title: Heating valve
+  sub: Winter is coming
+  img: heating-valve-0201
+  type: jpg
+  link: /en/valves.html
+
 batteries:
   title: Batteries
   sub: High Tech Energy
-  img: assets/img/jpg/batterie-pack-0396.jpg
+  img: batterie-pack-0396
+  type: jpg
   link: /en/batteries.html
+
+
+
+# OTHER
+# ==========================================================================
+contact:
+  title: Contact us
+  sub: Let's get in touch
+  img: facade-1211
+  type: jpg
+  link: /en/contact.html
+
+
+
+

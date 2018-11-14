@@ -1,4 +1,4 @@
-<section class="content-section" id="content">
+<section class="content-section" id="content" id="content">
   <div class="wrapper content-wrapper">
 
     <div class="content-text">
@@ -6,7 +6,7 @@
   
       {% for spec in page.specs %}
     
-        <h4 class="content-data-title">{{ spec.name }}</h4>
+        <h4 class="content-data-title" id="{{spec.id}}">{{ spec.name }}</h4>
         <ul class="content-data-list">
           {% for datas in spec.data %}
           <li class="content-data-items">{{ datas }}</li>

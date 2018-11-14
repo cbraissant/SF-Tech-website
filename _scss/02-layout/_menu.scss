@@ -1,20 +1,53 @@
-//  #MENU PHONE + TABLET
+//  NAVICON
 // ==========================================================================
+
+.menu-icon {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 15px;
+  width: 60px;
+}
+
+@include mq(laptop) {
+  .menu-icon {
+    display: none;
+  }
+}
+
+.menu-icon div {
+  margin: 8px 0;
+}
+
+.menu-icon:after, 
+.menu-icon:before, 
+.menu-icon div {
+  background-color: #fff;
+  content: '';
+  display: block;
+  height: 3px;
+
+  border-radius: 1px;
+  transition: all 0.2s ease-in-out;
+}
+
+
+
+//  FIRST LIST (BEFORE DROPDOWN)
+// ==========================================================================
+.menu-wrapper{
+  display: none;
+}
 
 .menu-item {
   padding: $padding;
   text-align: center;
+  // Background and borders
+  border-top: 1px solid $dark-gray;
 }
 
 .menu-sublist {
   display: none;
-
-  // Background and borders
-  border-bottom: 1px solid $background-color-switch;
-}
-
-.is-active.menu-sublist {
-  display: block;
 }
 
 .menu-dropdown {
@@ -29,17 +62,7 @@
   display: inline-block;
   position: relative;
   left: $padding;
-  content: "\25BE";
 }
-
-.is-active.menu-item {
-  background-color: $background-color-switch;
-  color: $text-color-switch;
-
-  &:after {
-    content: "\25B4";
-  }
-} 
 
 .menu-link {
   // Positioning and sizing
@@ -59,10 +82,11 @@
   color: $text-color;
 }
 
-.menu-link:active, .menu-link:hover, 
-.menu-item:active, .menu-item:hover {
-  background-color: $background-color-switch;
-  color: $text-color-switch;
+.menu-link:hover,
+.menu-link:active,
+.menu-item:hover, 
+.menu-item:active {
+  color: $text-highlight;
 }
 
 
@@ -70,24 +94,32 @@
 // ==========================================================================
 
 @include mq(laptop) {
+
+  .menu-wrapper{
+    display: block;
+  }
+  
   .menu-list {
     display: flex;
     justify-content: center;
   }
 
   .menu-dropdown {
+    flex: 1;
     border: none;
   }
 
   .menu-item {
-    width: 8rem;
-    line-height: 1rem;
+    height: $header-height;
+    padding-top: $header-height/2;
+    min-width: 8rem;
+    line-height: 0px;
   }
   
   .menu-sublist {
     // Positioning and sizing
     position: absolute;
-    top: 3rem;
+    top: $header-height;
     left: 0;
 
     // Text styles
@@ -95,10 +127,10 @@
     white-space: nowrap;
 
     // Background and borders
+    border-radius: 0 0 15px 15px;
     background-color: $header-background;
     border: none;
   }
-
   // Add a space for the logo
   .menu-dropdown:nth-child(3) {
     margin-right: 100px;

@@ -5,12 +5,14 @@ toc:
         url: /classic.html
       - page: Neoprene Kevlar Pro
         url: /kevlar-pro.html
-      - page: TNT
+      - page: TNT - Titanium Neoprene Trilaminate
         url: /tnt.html
       - page: Trilam Classic Kevlar
         url: /trilam.html
       - page: Trilam Kevlar Pro
         url: /trilam-pro.html
+      - page: Special Forces
+        url: /special-forces.html
   - title: Clothes
     subfolderitems:
       - page: Polartec Sweater

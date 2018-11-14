@@ -4,31 +4,40 @@
 .masthead {
   // Positioning and sizing
   position: fixed;
+  height: 50px;
   width: 100%;
   z-index: 10;
 
+
   // Background and borders
   background-color: $background-color;
-  @include mq(laptop) {background-color: $header-background;}
-}
-
-.is-open.masthead {
-  height: 100%;
-  overflow: scroll;
+  @include mq(laptop) {
+    position: relative;
+    height: $header-height;
+    background-color: $header-background;
+  }
 }
 
 .masthead-logo {
   // Positioning and sizing
   position: relative;
-  height: 3rem;
+  height: 50px;
   z-index: 10;
   padding: 5px;
   
   @include mq(laptop) {
     position: absolute;
-    height: 80px;
-    top: 5px;
+    height: $header-height;
+    padding: 5px;
     left: 50%;
     transform: translateX(-50%);
   }
+}
+
+.menu-icon {
+  position: absolute;
+  right: $padding;
+  top: 10px;
+  font-size: 30px;
+  line-height: 1em;
 }

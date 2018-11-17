@@ -1,0 +1,17 @@
+---
+layout: default
+---
+{% include hero.html %}
+
+{% for material in page.materials %}
+  <section class="{{material.style}}" >
+    <div class="content-wrapper">
+      <div class="content-text">
+
+       <h3 class="content-title">{{material.title}}</h3>
+       {{ material.data }}
+
+      </div>
+    </div>
+  </section>
+{% endfor %}

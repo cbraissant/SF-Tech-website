@@ -36,3 +36,28 @@ body.menu-is-open {
 .is-active .menu-item {
   color: $text-highlight;
 } 
+
+//  #MENU ON SCROLL
+// ==========================================================================
+@include mq(laptop) {
+  .masthead.is-scroll{
+    height: $header-height-scroll;
+    transition: all 0.4s ease-in-out;
+  }
+
+  .is-scroll .masthead-logo {
+    height: $header-height-scroll;
+    transition: all 0.4s ease-in-out;
+  }
+
+  .is-scroll .menu-item {
+    height: $header-height-scroll;
+    padding-top: $header-height-scroll/2;
+    transition: all 0.4s ease-in-out;
+  }
+
+  .is-scroll .menu-sublist {
+    top: $header-height-scroll;
+    transition: all 0.4s ease-in-out;
+  }
+}

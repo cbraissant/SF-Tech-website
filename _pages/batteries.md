@@ -1,15 +1,14 @@
 ---
 layout: suit
 lang: en
-categories: heating
-
 permalink: /en/batteries
+categories: heating
 
 title: Batteries
 subtitle: High Tech Energy
 
-hero-image: assets/img/jpg/1920/batterie-pack-0396-1920.jpg
-hero-overlay: true
+hero-image: assets/img/jpg/1920/batteries-0396-1920.jpg
+heor-style: overlay
 
 link-card:
   - tnt

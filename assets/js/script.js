@@ -21,6 +21,9 @@ $(document).ready(function(){
     });
 })
 
+
+
+
 // Disable all active elements on resize
 window.onresize = function(event) {
     $("body").removeClass("menu-is-open");
@@ -29,5 +32,29 @@ window.onresize = function(event) {
 
 
 
-// CONTACT FORM
-// ==========================================================================
+
+// Change the size of the heeader when the window is scrolled
+$(window).on('scroll', function () {
+  var scrollTop = $(window).scrollTop();
+  if (scrollTop > 200) {
+    $("#masthead").addClass("is-scroll");
+  }
+  else {
+    $("#masthead").removeClass("is-scroll");   
+  }
+});
+
+
+// CSS animation on scroll
+AOS.init({
+  duration: 1200,
+  });
+
+// ScrollReveal - Reveal items on scroll
+ScrollReveal().reveal('.jsReveal', { 
+  delay: 0,
+  duration: 1200,
+  scale: 0.0,
+  reset: true,
+});
+

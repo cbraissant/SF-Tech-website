@@ -15,6 +15,7 @@ section  {
 
 .wrapper-wide {
   margin: 0 auto;
+  max-width: $max-width-wide;
   padding-left: $padding;
   padding-right: $padding;
 }

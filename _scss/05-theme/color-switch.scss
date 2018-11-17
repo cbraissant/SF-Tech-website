@@ -1,0 +1,27 @@
+//  #CONTENT
+// ==========================================================================
+
+.color-switch h3 {
+  color: $text-color-switch;
+}
+
+.color-switch .content-title {
+  border-bottom: 1px solid $text-color-switch;
+}
+
+.color-switch button:hover,
+.color-switch button:focus,
+.color-switch button:active,
+.color-switch .btn:hover,
+.color-switch .btn:focus,
+.color-switch .btn:active, {
+  color: $button-text;
+  border-color: $button-border;
+}
+
+.color-switch button,
+.color-switch .btn,
+.color-switch .btn:visited {
+  color: $black;
+  border: 1px solid $black;
+}

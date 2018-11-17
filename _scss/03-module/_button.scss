@@ -2,7 +2,8 @@
 // ==========================================================================
 
 button,
-.btn {
+.btn,
+.btn:visited {
   // Positioning and sizing
   display: inline-block;
   min-width: 200px;
@@ -24,7 +25,7 @@ button,
   
   // Border styles
   border: 1px solid $button-border;
-  border-radius: 20px;
+  border-radius: 5px;
   
   // Background styles
   background: none;
@@ -36,11 +37,11 @@ button:focus,
 button:active,
 .btn:hover,
 .btn:focus,
-.btn:active {
+.btn:active, {
   color: $button-text-active;
   border-color: $button-border-active;
   background-color: $button-background-active;
 
   transition: all 0.2s ease-in-out;
-  transform: translateY(4px);
+  transform: translateY(2px);
 } 

@@ -1,21 +1,41 @@
 ---
 layout: default
 ---
+<section class="hero-section {{ page.hero-style }}"
+         style="background-image: url('{{site.baseurl}}{{page.hero-image}}')"
+         id="hero">
 
-{% include partials/hero.html %}
+    <div class="wrapper hero-wrapper">
 
-<section>
+      <div class="hero-inner">
+        <div class="home-suptitle">
+          <span>3 lamps,</span>
+          <span>2 computers,</span>
+          <span>2 masks,</span>
+          <span>4 tanks</span>
+        </div>
+        <h1 class="home-title">one drysuit!</h1>
+        <h2 class="home-subtitle">make the right choice</h2>
+      </div>      
+
+      {% for cta in page.cta %}
+      <div class="hero-cta">
+        <a class="btn" href="{{ cta.link }}">{{ cta.text }}</a>
+      </div>
+      {% endfor %}
+    
+    </div>
+</section>
+
+
+<section class="home-section">
   <div class="wrapper">
     <div class="home-grid">
-      
       {% for homecard in page.cards %}
-        <div class="{{ homecard.style }}">
-          {% include partials/card.html card_type=homecard.type %}
+        <div class="{{ homecard.style }} jsReveal">
+          {% include card.html card_type=homecard.type %}
         </div> 
       {% endfor %}
-  
     </div>
-
-    
   </div>
 </section>

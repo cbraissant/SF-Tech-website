@@ -39,6 +39,8 @@ toc:
         url: /manuals.html
       - page: Downloads
         url: /downloads.html
+      - page: materials
+        url: /materials.html
       - page: FAQ
         url: /faq.html
   - title: About Us
@@ -51,5 +53,5 @@ toc:
     subfolderitems:
       - page: Contact us
         url: /contact.html
-      - page: Where to buy
-        url: /retailers.html
+      # - page: Where to buy
+      #   url: /retailers.html

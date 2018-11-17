@@ -5,11 +5,11 @@ lang: en
 title: Heavy duty drysuits
 subtitle: For recreational and technical divers
 
-hero-image: assets/img/jpg/1920/cecile-surface-1920.jpg
-hero-overlay: false
+hero-image: assets/img/jpg/1920/montage-poing-wide-1920.jpg
+hero-style: 
 
 cards:
-  - type: sweater
+  - type: trilam-pro
   - type: tnt
     style: grid-col2
   - type: classic
@@ -17,4 +17,12 @@ cards:
   - type: valve
     style: grid-row2
   - type: commando
+  - type: batteries
+    style: grid-row2
+  - type: gloves
+  - type: contact
+  - type: materials
+    style: grid-col2
+  - type: trilam
+  - type: kevlar-pro
 ---

@@ -2,7 +2,7 @@
 // ==========================================================================
 
 // Colors palette
-$yellow:      #fff200;
+$yellow:      #fde914;
 $black:       #000000;
 $light-black: #090909;
 $dark-gray:   #1a1f23;
@@ -33,13 +33,13 @@ $header-background: $background-color;
 
 
 // Button
-$button-background: none;
-$button-border: $light-blue;
-$button-text: $light-blue;
+$button-background: transparent;
+$button-border: $white;
+$button-text: $white;
 
-$button-background-active: none;
-$button-border-active: $light-blue;
-$button-text-active: $light-blue;
+$button-background-active: transparent;
+$button-border-active: $yellow;
+$button-text-active: $yellow;
 
 
 // Cards

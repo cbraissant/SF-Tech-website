@@ -1,0 +1,13 @@
+<section class="related-section" id="related">
+
+    <div class="wrapper-wide">
+
+      <div class="related-grid">
+        {% for item in page.link-card %}
+          {% include card.html card_type=item %}
+        {% endfor %}
+      </div>
+      
+    </div>
+
+</section>

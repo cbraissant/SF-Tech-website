@@ -30,7 +30,6 @@
 @import "00-reset/normalize";
 @import "00-reset/reset";
 
-
 // BASE
 @import "01-base/variables";
 @import "01-base/colors";
@@ -59,6 +58,9 @@
 // STATES
 @import "04-states/states";
 
+// THEME
+@import "05-theme/color-switch";
+
 // UTILITIES
-@import "05-utilities/utilities";
+@import "06-utilities/utilities";
 

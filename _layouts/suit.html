@@ -2,13 +2,16 @@
 layout: default
 ---
 
-{% include partials/hero.html %}
+{% include hero.html %}
 
-{% include partials/content.html %}
+{% include content.html %}
 
-{% include partials/highlights.html%}
+{% if page.highlights %}
+  {% include highlights.html%}
+{% endif %}
 
-{% include partials/related.html %}
-
+{% if page.link-card %}
+  {% include related.html %}
+{% endif %}
 
 

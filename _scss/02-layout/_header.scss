@@ -12,7 +12,6 @@
   // Background and borders
   background-color: $background-color;
   @include mq(laptop) {
-    position: relative;
     height: $header-height;
     background-color: $header-background;
   }

@@ -6,24 +6,24 @@ categories: drysuit
 
 title: Neoprene Classic Kevlar
 subtitle: Performance meets efficiency
-hero-image: assets/img/jpg/1920/fullface-1920.jpg
-hero-overlay: true
+hero-image: assets/img/jpg/1920/cecile-surface-1920.jpg
+hero-style: overlay
 
 cta:
   - link: "#highlights"
-    text: Product data
+    text: Product highlights
 
 highlights:
-  - icon: assets/icons/weight.svg
+  - icon: assets/img/icons/weight.svg
     title: "Poids total: 4.5kg"
     sub: Varie en fonction des options
-  - icon: assets/icons/zipper.svg
+  - icon: assets/img/icons/zipper.svg
     title: Fermeture métal
     sub: YKK Proseal
-  - icon: assets/icons/thermometer.svg
+  - icon: assets/img/icons/thermometer.svg
     title: Neoprène Yamamoto
     sub: Protection thermique et souplesse incomparable
-  - icon: assets/icons/pencil.svg
+  - icon: assets/img/icons/pencil.svg
     title: Sur mesure
     sub: "Une seule taille disponible: la&nbsp;tienne"
 
@@ -48,7 +48,11 @@ specs:
       - "<strong>Tissus intérieur:</strong> Nylon (70 deniers)"
       - "<strong>Couture:</strong> Chainette non traversante à deux fils"
       - "<strong>Étanchéité:</strong> 3-5 couches d'Aquasure"
-      - "<strong>Taille:</strong> sur mesure"
+
+image:
+  - assets/img/suits/classic-0293.png
+  - assets/img/suits/classic-0297.png
+  - assets/img/suits/classic-0299.png
 
 link-card:
   - kevlar-pro

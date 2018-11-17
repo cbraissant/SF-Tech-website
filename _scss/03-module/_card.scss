@@ -9,7 +9,7 @@
 .card {
   // Positioning and sizing
   position: relative;
-  min-height: 300px;
+  min-height: 200px;
   height: 100%;
   width: 100%;
   
@@ -24,6 +24,10 @@
   background-position: center center;
 
   overflow: hidden;
+
+  @include mq(laptop) {
+    min-height: 300px;
+  }
 }
 
 // BACKGROUND

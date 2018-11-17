@@ -5,19 +5,25 @@
     // Positioning and sizing
     @include mq(laptop) {
     display: flex;
-    flex-wrap: wrap;
     // Text styles
     justify-content: center;
-  }
-  
+    // Background and borders
+    background-position: center center;
+    background-size: contain;
+    background-repeat: no-repeat;
+  } 
 }
 
 .content-text {
   // Positioning and sizing
+  position: relative;
   margin: 0 auto;
   max-width: 30rem;
   width: 100%;
-  @include mq(laptop) {width: 50%;}
+  @include mq(laptop) {
+    max-width: 30rem;
+    width: 40%;
+  }
   // Text styles
   text-align: justify;
 }
@@ -38,4 +44,65 @@
   display: inline-block;
   width: 1.5em;
   color: $yellow;
+}
+
+
+
+//  #PICTURE SIDE
+// ==========================================================================
+.content-picture {
+  padding: $padding;
+  width: 100%;
+  @include mq(laptop) {
+    // Positioning and sizing
+    margin: 0 auto;
+    width: 60%;
+    opacity: 0.8;
+  }
+}
+
+.content-wrapper-image {
+  opacity: 0.8;
+  position: relative;
+  width: 100%;
+  max-width: 1000px;
+  height: 90vh;
+  @include mq(laptop) {
+    height: 100%;
+  }
+}
+
+
+.content-image1 {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  max-height: 90%;
+  @include mq(laptop) {
+    max-height: 90%;
+    max-width: 75%;
+  }
+}
+
+.content-image2,
+.content-image3 {
+  position: absolute;
+  top: 50%;
+  max-width: 40%;
+  max-height: 60%;
+  @include mq(laptop) {
+    max-height: 75%;
+  } 
+}
+
+.content-image2 {
+  left: 0%;
+  transform: translate(0, -50%);
+}
+
+.content-image3 {
+  left: 100%;
+  transform: translate(-100%, -50%);
 }

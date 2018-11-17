@@ -4,7 +4,7 @@
 classic:
   title: Neoprene Classic Kevlar
   sub: Performance Meets Efficiency
-  img: fullface
+  img: cecile-surface
   type: jpg
   link: /en/classic.html
 
@@ -66,10 +66,17 @@ valve:
   type: jpg
   link: /en/valves.html
 
+gloves:
+  title: Gloves
+  sub: Warm and comfortable
+  img: gant-surface
+  type: jpg
+  link: /en/gloves.html
+
 batteries:
   title: Batteries
   sub: High Tech Energy
-  img: batterie-pack-0396
+  img: batteries-0396
   type: jpg
   link: /en/batteries.html
 
@@ -83,6 +90,13 @@ contact:
   img: facade-1211
   type: jpg
   link: /en/contact.html
+
+materials:
+  title: Our materials
+  sub: High quality only
+  img: material-0527
+  type: jpg
+  link: /en/materials.html
 
 
 

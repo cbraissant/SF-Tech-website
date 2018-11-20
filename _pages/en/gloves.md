@@ -7,7 +7,7 @@ categories: heating
 title: Heating gloves
 subtitle: Warm and comfortable
 
-hero-image: assets/img/jpg/1920/gant-surface-1920.jpg
+hero-image: assets/img/jpg/1920/gant-surface.jpg
 hero-style: overlay
 
 highlights:
@@ -49,8 +49,6 @@ link-card:
   - batteries
 
 ---
-<h3 class="content-title">Specifications</h3>
-
 The SF Tech heated glove system is designed to provide the maximum amount of warmth where needed. A heating wire covers all the fingers, on the inside, outside and on the top, as well as the top of the hand. With a maximum heating power of 36W, the system guarantees unprecedented temperature comfort.
 
 Very comfortable gloves, made of Lyrca, an exceptionally soft and flexible material. Close to the hand, they are compatbiles with most of the dryglove systems. A neoprene cuff helps to tighten the wrist and maintain the electrical connection.

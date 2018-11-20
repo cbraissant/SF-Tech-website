@@ -7,7 +7,7 @@ categories: support
 title: Our Materials
 subtitle: High quality only
 
-hero-image: assets/img/jpg/1920/material-0527-1920.jpg
+hero-image: assets/img/jpg/1920/material-0527.jpg
 hero-style:
 
 materials:

@@ -8,7 +8,7 @@ categories: heater
 title: Polartec Sweater
 subtitle: High Perfomance Undergarments
 
-hero-image: assets/img/jpg/1920/undersuit-logo-0630-1920.jpg
+hero-image: assets/img/jpg/1920/undersuit-logo-0630.jpg
 hero-style: overlay
 
 highlights:
@@ -49,8 +49,6 @@ link-card:
   - batteries
 
 ---
-<h3 class="content-title">Specifications</h3>
-
 The SF Tech sweater is specially designed to offer the best possible experience in a dry suit. Polartec® Power Stretch® has the ability to retain warmth without restricting movement or agility during activities. Polartec® is a breathable material that continuously evacuates water vapor while retaining heat. The layer in contact with the skin remains dry and comfortable.
 
 The shape is studied to facilitate the dressing and to keep the clothes in place during the dive. The longer dorsal part covers the lower back even when moving forward, and the thumb holes hold the sleeves in place when donnign the drysuit.

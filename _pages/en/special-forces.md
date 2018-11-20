@@ -6,7 +6,7 @@ categories: drysuit
 
 title: Special Forces
 subtitle: Bespoke drysuits for professionnals
-hero-image: assets/img/jpg/1920/commando-1632-1920.jpg
+hero-image: assets/img/jpg/1920/commando-1632.jpg
 hero-style: overlay
 
 cta:
@@ -19,9 +19,6 @@ link-card:
   - trilam-pro
   - trilam
 ---
-
-<h3 class="content-title">Specifications</h3>
-
 Bespoke drysuit for Special Forces, Police, Firefighters and Military. Any suits from our range of product can be use as a base and adapted to the needs of your team.
 
 The range of availaible options include all the standard options, as well as Militray grade products like amagnetic valves and inflators or molle systems.

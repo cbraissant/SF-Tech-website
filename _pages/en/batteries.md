@@ -7,7 +7,7 @@ categories: heating
 title: Batteries
 subtitle: High Tech Energy
 
-hero-image: assets/img/jpg/1920/batteries-0396-1920.jpg
+hero-image: assets/img/jpg/1920/batteries-0396.jpg
 heor-style: overlay
 
 link-card:

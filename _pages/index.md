@@ -1,11 +1,12 @@
 ---
 layout: home
 lang: en
+permalink: /index.html
 
-title: Heavy duty drysuits
+title: Heavy drysuits
 subtitle: For recreational and technical divers
 
-hero-image: assets/img/jpg/1920/montage-poing-wide-1920.jpg
+hero-image: assets/img/jpg/1920/montage-poing-wide.jpg
 hero-style: 
 
 cards:

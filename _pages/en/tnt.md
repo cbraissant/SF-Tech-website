@@ -6,7 +6,7 @@ categories: drysuit
 
 title: "TNT: Titanium Neoprene Trilaminate"
 subtitle: The best of both worlds
-hero-image: assets/img/jpg/1920/slawek-packo-v3-1920.jpg
+hero-image: assets/img/jpg/1920/slawek-packo-v3.jpg
 hero-overlay: tru
 
 cta:
@@ -62,9 +62,6 @@ link-card:
   - trilam
   - trilam-pro
 ---
-
-<h3 class="content-title">Specifications</h3>
-
 Modèle dédié aux plongées techniques comme aux plongées loisir la SF Tech Classic Trila Kevlar®  convient aussi bien à la plongée en eaux froides qu'aux eaux tempérées.
 
 La toile trilaminée utilisé est flexible et légère, la coupe ajustée profère une excellente liberté de mouvement. La fermeture frontale et les système télescopique permettent un habillage facile et sans assistance. 

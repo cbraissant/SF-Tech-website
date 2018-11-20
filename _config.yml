@@ -18,15 +18,28 @@ email: chris@sftech.ch
 description: >- # this means to ignore newlines until "baseurl:"
   Heavy duty drysuits for recreational, technical and commercial divers, made in Switzerland
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://localhost:4000/" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: jekyllrb
+# github_username:  jekyll
 
 # Build Settings
-sass:
-  sass_dir: _scss
+# sass:                 sass preprocessor is now done with gulp
+#   sass_dir: _scss
 include: ['_pages']
-exclude: ['assets/original']
+
+exclude: ['assets',
+          '_src',
+          '_sass',
+          'node_modules',
+          'gulpfile.js',
+          'feed.xml',
+          'Gemfile',
+          'Gemfile.lock',
+          'package-lock.json',
+          'package.json',
+          'redirects.json']
+
+keep_files: [assets]
 
 markdown: kramdown
 

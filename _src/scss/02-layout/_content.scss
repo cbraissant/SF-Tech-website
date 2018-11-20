@@ -39,11 +39,16 @@
   padding-top: $padding;
 }
 
+.content-data-list {
+  margin-left: 2em;
+}
+
 .content-data-items:before {
-  content: "\2501";
+  content: "\2500";
   display: inline-block;
-  width: 1.5em;
+  width: 2em;
   color: $yellow;
+  margin-left: -2em;
 }
 
 

@@ -53,7 +53,7 @@ AOS.init({
 // ScrollReveal - Reveal items on scroll
 ScrollReveal().reveal('.jsReveal', { 
   delay: 0,
-  duration: 1200,
+  duration: 300,
   scale: 0.0,
   reset: true,
 });

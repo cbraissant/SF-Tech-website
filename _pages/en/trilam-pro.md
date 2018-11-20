@@ -1,12 +1,12 @@
 ---
 layout: suit
 lang: en
-permalink: /en/trilam
+permalink: /en/trilam-pro
 categories: drysuit
 
 title: Trilam Classic Kevlar
 subtitle: Lightness and durability
-hero-image: assets/img/jpg/1920/tom-trilam-2-1920.jpg
+hero-image: assets/img/jpg/1024/scooter-down-1024.jpg
 hero-style:
 
 cta:
@@ -17,6 +17,7 @@ specs:
   - name: Characteristics
     id: charcteristics
     data:
+      - Entièrement recouverte de kevlar®
       - Fermeture frontale ou dorsale
       - Torse télescopique facilitant l’habillage
       - Fermeture éclair YKK en métal
@@ -30,7 +31,6 @@ specs:
     data:
       - "<strong>Couche imperméable:</strong> Caoutchouc de butyle"
       - "<strong>Tissus extérieur (Kevlar):</strong> Kevlar, nylon, polyester"
-      - "<strong>Tissus extérieur (RipStop):</strong> Nylon"
       - "<strong>Tissus intérieur:</strong> Polyester"
       - "<strong>Assemblage:</strong> Couture rabattue à double surpiqure"
       - "<strong>Étanchéité:</strong> 3-5 couches d'Aquasure"
@@ -49,10 +49,10 @@ highlights:
     title: Sur mesure
     sub: "Une seule taille disponible: la&nbsp;tienne"
 
-image:
-  - assets/img/suits/trilam-classic-0322.png
-  - assets/img/suits/trilam-classic-0325.png
-  - assets/img/suits/trilam-classic-0329.png
+image: 
+  - assets/img/suits/tnt-noir-0307.png
+  - assets/img/suits/tnt-noir-0311.png
+  - assets/img/suits/tnt-noir-0313.png
 
 link-card:
   - classic
@@ -60,14 +60,7 @@ link-card:
   - tnt
   - trilam-pro
 ---
+Modèle dédié aux plongées techniques ou professionnelles aussi bien en eaux froides qu'en eaux tempérées. La toile trilaminée utilisé est flexible et légère, la coupe ajustée profère une excellente liberté de mouvement.
 
-<h3 class="content-title">Specifications</h3>
-
-Modèle dédié aux plongées techniques comme aux plongées loisir la SF Tech Classic Trila Kevlar®  convient aussi bien à la plongée en eaux froides qu'aux eaux tempérées.
-
-La toile trilaminée utilisé est flexible et légère, la coupe ajustée profère une excellente liberté de mouvement. La fermeture frontale et les système télescopique permettent un habillage facile et sans assistance. 
-
-Des renforts en Kevlar® sont prévus aux bras, au dos, au torse, à l'entre-jambes et aux genoux. Le reste de la combinaison est recouvert de nylon RipStop, un matériau courrament utilisé pour la confection de produits techniques à haute contraintes, comme les voiles de parapante ou de bateau.
-
-La SF Tech Classic Trilam Kevlar conviendra autant à un plongeur loisir qu'à un plongeur tech et/ou souterrain.
+La fermeture frontale et les système télescopique permettent un habillage facile et sans assistance. Entièrement recouverte de Kevlar® , La SF Tech Trilam Kevlar PRO est extrêmement résistante à l'abrasion et aux coupures ce qui en fait un des modèles favori des scaphandriers, des plongeurs souterrains et des plongeurs épaves.
 

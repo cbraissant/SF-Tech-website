@@ -21,7 +21,8 @@
   max-width: 30rem;
   width: 100%;
   @include mq(laptop) {
-    max-width: 30rem;
+    margin-left: auto;
+    margin-right: $padding;
     width: 40%;
   }
   // Text styles
@@ -58,22 +59,26 @@
 .content-picture {
   padding: $padding;
   width: 100%;
+  margin: 0 auto;
   @include mq(laptop) {
     // Positioning and sizing
-    margin: 0 auto;
-    width: 60%;
-    opacity: 0.8;
+    margin-left: $padding;
+    margin-right: auto;
+    width: 40rem;
+    // width: 60%;
+    // opacity: 0.8;
   }
 }
 
 .content-wrapper-image {
+  margin: auto;
   opacity: 0.8;
   position: relative;
   width: 100%;
-  max-width: 1000px;
+  max-width: 600px;
   height: 90vh;
   @include mq(laptop) {
-    height: 100%;
+    max-height: 90vh;
   }
 }
 
@@ -84,9 +89,10 @@
   top: 50%;
   transform: translate(-50%, -50%);
   z-index: 2;
-  max-height: 90%;
+  max-width: 60%;
+  max-height: 80vh;
   @include mq(laptop) {
-    max-height: 90%;
+    max-height: 80vh;
     max-width: 75%;
   }
 }
@@ -96,18 +102,30 @@
   position: absolute;
   top: 50%;
   max-width: 40%;
-  max-height: 60%;
+  max-height: 50%;
   @include mq(laptop) {
-    max-height: 75%;
+    max-height: 60vh;
   } 
 }
 
 .content-image2 {
   left: 0%;
   transform: translate(0, -50%);
+
+  padding: $spacing $padding;
+  border-top: 1px solid $yellow;
+  border-bottom: 1px solid $yellow;
+  border-left: 1px solid $yellow;
+  border-radius: 20px 0 0 20px;
 }
 
 .content-image3 {
   left: 100%;
   transform: translate(-100%, -50%);
+
+  padding: $spacing $padding;
+  border-top: 1px solid $yellow;
+  border-bottom: 1px solid $yellow;
+  border-right: 1px solid $yellow;
+  border-radius: 0 20px 20px 0;
 }

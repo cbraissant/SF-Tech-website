@@ -8,15 +8,15 @@
 
 .highlights-group {
   // Positioning and sizing
-  width: 100%;
-  @include mq(tablet) {width: 50%;}   
-  @include mq(laptop) {width: 25%;}
+  width: 50%;
+  @include mq(tablet) {width: 33.333333%;}   
+  @include mq(laptop) {width: 16.666666%;}
 
   // Padding and margins
   padding: $padding;
 
   // Text styles
-  font-size: 112.5%;
+  font-size: 100%;
   text-align: center;
 }
 

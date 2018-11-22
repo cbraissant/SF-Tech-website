@@ -4,9 +4,9 @@ lang: en
 permalink: /en/trilam-pro
 categories: drysuit
 
-title: Trilam Classic Kevlar
-subtitle: Lightness and durability
-hero-image: assets/img/jpg/1024/scooter-down-1024.jpg
+title: Trilam Kevlar Pro
+subtitle: Durability without compromise
+hero-image: 
 hero-style:
 
 cta:
@@ -17,23 +17,24 @@ specs:
   - name: Characteristics
     id: charcteristics
     data:
-      - Entièrement recouverte de kevlar®
-      - Fermeture frontale ou dorsale
-      - Torse télescopique facilitant l’habillage
-      - Fermeture éclair YKK en métal
-      - Sur-fermeture de protection
-      - Renfort en Kevlar® aux endroits critiques
-      - Larges bretelles internes ajustables
-      - Coupe près du corps
-      - Taille sur mesure
+      - Fully made of Kevlar® reinforced fabric
+      - Front entry YKK metal zipper
+      - Protective zipper cover
+      - Telescopic torso with crotch strap
+      - Heavy duty Kevlar® knee pads
+      - Large adjustable suspenders
+      - Neoprene insulated neck collar
+      - Fabric available in black and red
+      - Fitted cut
+      - Made to measure
   - name: Technical Data
     id: data
     data:
-      - "<strong>Couche imperméable:</strong> Caoutchouc de butyle"
-      - "<strong>Tissus extérieur (Kevlar):</strong> Kevlar, nylon, polyester"
-      - "<strong>Tissus intérieur:</strong> Polyester"
-      - "<strong>Assemblage:</strong> Couture rabattue à double surpiqure"
-      - "<strong>Étanchéité:</strong> 3-5 couches d'Aquasure"
+      - "<strong>Waterproof layer:</strong> Butyl rubber"
+      - "<strong>External fabric (Kevlar):</strong> Kevlar, nylon, polyester"
+      - "<strong>Internal Fabric:</strong> Polyester"
+      - "<strong>Assembly:</strong> Triple stitched lapped seam"
+      - "<strong>Seams:</strong> 3-5 layers of urethane sealant"
 
 highlights:
   - icon: assets/img/icons/weight.svg
@@ -58,9 +59,10 @@ link-card:
   - classic
   - kevlar-pro
   - tnt
-  - trilam-pro
+  - trilam
 ---
-Modèle dédié aux plongées techniques ou professionnelles aussi bien en eaux froides qu'en eaux tempérées. La toile trilaminée utilisé est flexible et légère, la coupe ajustée profère une excellente liberté de mouvement.
+The SF Tech Trilam PRO is a strong drysuit best suited for technical or commercial divers diving in rough environments. Fully made of Kevlar® reinforced fabric, the suit is design to last. The suit is versatile and can be used in cold or warm water, in wreck, cave or open water, by both recreational, technical and commercial divers.
 
-La fermeture frontale et les système télescopique permettent un habillage facile et sans assistance. Entièrement recouverte de Kevlar® , La SF Tech Trilam Kevlar PRO est extrêmement résistante à l'abrasion et aux coupures ce qui en fait un des modèles favori des scaphandriers, des plongeurs souterrains et des plongeurs épaves.
+The trilaminate material is lightweight and flexible and the shape of the fitted cut of the drysuit provide excellent freedom of movement. The Front-zipper entry as well as the telescopic torso allow the diver to be self-sufficient in the donning and doffing process.
 
+Fully covered with reinforced Kevlar® fabric, SF Tech Trilam Kevlar PRO is extremely abrasion and cut resistant making it a favorite among commercial divers, cave divers and wreck divers.

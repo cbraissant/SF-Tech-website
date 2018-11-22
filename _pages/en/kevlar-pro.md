@@ -4,9 +4,8 @@ lang: en
 permalink: /en/kevlar-pro
 categories: drysuit
 
-title: Neoprene Kevlar Pro
+title: Neoprene Kevlar PRO
 subtitle: Most durable suit on the market
-
 hero-image: assets/img/jpg/1920/walz.jpg
 hero-style: overlay
 
@@ -31,23 +30,25 @@ highlights:
 specs:
   - name: Characteristics
     id: charcteristics
-    data: 
-      - Fermeture frontale ou dorsale
-      - Torse télescopique facilitant l’habillage
-      - Fermeture éclair YKK en métal
-      - Protection de fermeture en néoprène
-      - Renfort en Kevlar® aux endroits critiques
-      - Larges bretelles internes ajustables
-      - Coupe près du corps
-      - Taille sur mesure
+    data:
+    - Hyper-compress 2mm close-cell neoprene foam
+    - Kevlar® reinforcements on critical areas
+    - Front entry YKK metal zipper
+    - Telescopic torso with crotch strap
+    - Heavy duty Kevlar® knee pads
+    - Large adjustable suspenders
+    - Neoprene insulated neck collar
+    - "Total weight: ~5.0kg"
   - name: Technical Data
     id: data
     data:
-      - "<strong>Couche imperméable:</strong> Néoprène hyper-compressé 2mm"
-      - "<strong>Tissus extérieur (Kevlar):</strong> Kevlar, nylon, spandex"
-      - "<strong>Tissus intérieur:</strong> Nylon (70 deniers)"
-      - "<strong>Couture:</strong> Chainette non traversante à deux fils"
-      - "<strong>Étanchéité:</strong> 3-5 couches d'Aquasure"
+      - "<strong>Waterproof layer:</strong> Hyper-compressed 2mm neoprene"
+      - "<strong>External fabric (Kevlar):</strong> Kevlar, nylon, spandex"
+      - "<strong>External fabric (SP):</strong> Polyester, nylon, spandex"
+      - "<strong>Internal Fabric:</strong> Nylon (70 deniers)"
+      - "<strong>Stitching:</strong> Two threads blind stitch"
+      - "<strong>Seams:</strong> 3-5 layers of urethane sealant"
+
 
 link-card:
   - classic
@@ -55,9 +56,8 @@ link-card:
   - trilam
   - trilam-pro
 ---
-Modèle dédié aux plongées en eaux froides, la valeur isolante d'une combinaison SF Tech Kevlar Pro équivaut à elle seule à un Polartec Power stretch. Le néoprène utilisé est extrêmement flexible et profère une excellente liberté de mouvement.
+The SF Tech Neoprene Kevlar PRO is the strongest neoprene drysuit you can find. Made entirely of 2mm hyper-compressed neoprene with Kevlar® reinforced fabric, this suit is design to last. Developped for demanding divers in rough environments, the SF Tech Kevlar PRO is the perfect tool for technical or commercial divers, but is also suited for recreational divers wanting the best!
 
-La fermeture frontale et le système télescopique permettent un habillage facile et sans assistance.
+The core of the material is made of 2mm hyper-compress Yamamoto neoprene, a dense closed-cell foam keeping it's density even at great depth. Kevlar® reinforced fabric recover the whole suit and an extra protective layer is added on the knees pads.
 
-Entièrement recouverte de Kevlar® , La SF Tech Kevlar PRO est extrêmement résistante à l'abrasion et aux coupures ce qui en fait un des modèles favori des scaphandriers, des plongeurs souterrains et des plongeurs épaves.
-
+As standard, the SF Tech Kevlar PRO comes with a front entry zipper and telescopic torso allowing the diver the to be self-sufficient in the donning and doffing process. The fold of the suit is held in place by a crotch strap.

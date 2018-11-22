@@ -42,9 +42,9 @@ specs:
   - name: Technical Data
     id: data
     data:
-      - "<strong>Waterproof layer:</strong> Néoprène hyper-compressé 2mm"
+      - "<strong>Waterproof layer:</strong> Hyper-compressed 2mm neoprene"
       - "<strong>External fabric (Kevlar):</strong> Kevlar, nylon, spandex"
-      - "<strong>External fabric (SP):</strong> Polyester, nylon, spandex"
+      - "<strong>External fabric (Kevlar):</strong> Polyester, nylon, spandex"
       - "<strong>Internal Fabric:</strong> Nylon (70 deniers)"
       - "<strong>Stitching:</strong> Two threads blind stitch"
       - "<strong>Seams:</strong> 3-5 layers of urethane sealant"
@@ -66,6 +66,6 @@ The core of the material is made of 2mm hyper-compress Yamamoto neoprene, a dens
 
 Used in cold water of Antartica or caves in Flordia, the SF Tech Classic Kevlar is an extremely versatile drysuit. The warmth provided by the layer of neoprene allows the diver the reduce the undergarments necessary for a dive.
 
-As standard, the drysuit comes with a front entry zipper and telescopic torso allowing the diver the to be self-sufficient in the donning and doffing process. The fold of the suit is held in place by a crotch strap.
+As standard, the SF Tech Neoprene Classic Kevlar comes with a front entry zipper and telescopic torso allowing the diver the to be self-sufficient in the donning and doffing process. The fold of the suit is held in place by a crotch strap.
 
 

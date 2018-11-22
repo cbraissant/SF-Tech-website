@@ -92,7 +92,7 @@ const gutil = require('gulp-util');
 // #CONSTANTS
 // ************************************
 const siteRoot = '_site';
-const jekyllFiles = ['_data', '_includes', '_layout', '_pages', 'posts']
+const jekyllFiles = ['./_data/**', './_includes/**', './_layout/**', './_pages/**', 'posts/**']
 
 // Set the browser that you want to support
 var browserSupport = [
@@ -116,7 +116,7 @@ var browserSupport = [
 // Check for any change in the site folder
 gulp.task('browser-sync', function() {
 	// initializes browserSync
-	browserSync.init('_site/**', {
+	browserSync.init('./_site/**', {
 		server: {baseDir: "./_site"},
     port: 4000,
 		online: true,
@@ -211,7 +211,7 @@ gulp.task('build-jekyll', () => {
 // Copy the css files
 gulp.task('copy-css', function () {
     gulp.src('./_src/css/**')
-        .pipe(gulp.dest('./assets/css'));
+        .pipe(gulp.dest('./_site/assets/css'));
 });
 
 
@@ -226,7 +226,7 @@ gulp.task('sass', function (){
     .pipe(autoprefixer())
 
     // Output
-    .pipe(gulp.dest('./_src/css'));
+    .pipe(gulp.dest('./_site/assets/css'));
 });
 
 
@@ -243,7 +243,7 @@ gulp.task('build-css', ['copy-css','sass']);
 // Copy the vendor files
 gulp.task('copy-js', function () {
     gulp.src('./_src/js/**/*')
-        .pipe(gulp.dest('./assets/js'));
+        .pipe(gulp.dest('./_site/assets/js'));
 });
 
 
@@ -251,7 +251,7 @@ gulp.task('copy-js', function () {
 // gulp.task('js-minify', function() {
 //   gulp.src(['./_src/js/*.js'])
 //     .pipe(minify())
-//     .pipe(gulp.dest('./assets/js'))
+//     .pipe(gulp.dest('./_site/assets/js'))
 // });
 
 
@@ -296,6 +296,11 @@ gulp.task('build', [
 gulp.task('default', ['build','browser-sync'], function(){
   gulp.watch('./_src/js/**',['copy-js']);
   gulp.watch('./_src/scss/**',['sass']);
-  gulp.watch('./_src/css/**',['copy-css']);
-  gulp.watch(jekyll-files,['build-jekyll']);
+  gulp.watch('./_src/css/vendor/**',['copy-css']);
+  gulp.watch([
+    './_data/**',
+    './_includes/**',
+    './_layout/**',
+    './_pages/**',
+    'posts/**'],['build-jekyll']);
 });

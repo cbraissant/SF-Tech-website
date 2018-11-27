@@ -2,14 +2,14 @@
 // ==========================================================================
 
 // Colors palette
-$yellow:      #fde914;
-$black:       #000000;
-$light-black: #090909;
-$dark-gray:   #1a1f23;
-$gray:        #777777;
-$light-gray:  #cccccc;
-$white:       #ffffff;
-$light-blue:  #12aaff;
+$yellow:      #fe0;
+$black:       #000;
+$light-black: #111;
+$dark-gray:   #222;
+$gray:        #777;
+$light-gray:  #ccc;
+$white:       #fff;
+$light-blue:  #1af;
 $trans-blue:  rgba(18, 170, 255, 0.7);
 $purple:      rgba(147, 112, 219, 0.8);
 $shadow:      rgba(0,0,0,0.4);
@@ -20,7 +20,7 @@ $overlay:     rgba(0,0,0,0.8);
 $link-color: $light-blue;
 
 // Site template
-$background-color: $light-black;
+$background-color: $black;
 $text-color: $light-gray;
 
 $background-color-switch: $yellow;

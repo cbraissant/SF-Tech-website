@@ -59,7 +59,8 @@
   margin: auto; // center verticaly and horizontally
   
   // Text styles
-  font-family: 'Oswald', sans-serif;
+  @include titlefont();
+  font-weight: 500;
   font-size: 1.8rem;
   line-height: 1em;
   text-align: center;

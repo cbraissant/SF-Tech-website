@@ -1,10 +1,12 @@
 ## Batteries
+Compact, high technology and best quality materials. The main body of the battery is realized in carbon fiber to reduce the volume and apparent weight of the battery.
 
-High technology battery made with high quality materials. Realized carbon fiber battery body to reduce the volume and apparent weight of the battery.
+Two different battery sizes are available: the Standard having a capacity of 23.8 Ah and the Mini of 13.6 Ah. Each battery consists of three Lithium-Ion cells in series providing an output voltage of 11.1V (maximum 12.6V at full load). The maximum output powers are respectively 175W and 100W. On top of the battery pack itself, a 5 LEDs fuelgauge alows the user to check the charge of the battery.
 
-Two different battery sizes are available: the Standard having a capacity of 23.8 Ah and the Mini of 13.6 Ah. Each battery consists of three cells in series providing an output voltage of 11.1V (maximum 12.6V at full load). The maximum output powers are respectively 175W and 100W.
+The removable head in manufactured in Delrin, a strong and reliable material. The locking mechanism is realised with a spring pin on the side of the body, and watertightness is guarantee by two radial o-rings. The E/O cable is reinforced with a metal cable gland at the base. 
 
-Manufactured in Delrin, the removable head is available is standard straight version or sidemount version. The sidemount version offers a 90 ° output to optimize the wiring of the E/O cable when the battery is mounted on the crotch strap. The E/O cables are reinforced using a metal cable gland. Two o-rings located on the head of the battery guarantee the watertightness. Locking of the head to the body is done with a spring pin. Each battery has a LEDs charge indicator.
+The head is available is standard straight version or sidemount version. The sidemount version offers a 90° output to optimize the wiring of the E/O cable when the battery is mounted on the crotch strap.
+
 
 ### Characteristic
 

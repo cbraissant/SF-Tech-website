@@ -47,7 +47,7 @@ $(window).on('scroll', function () {
 
 // CSS animation on scroll
 AOS.init({
-  duration: 1200,
+  duration: 800,
   });
 
 // ScrollReveal - Reveal items on scroll

@@ -59,6 +59,13 @@ sweater:
 
 # HEATING
 # ==========================================================================
+pads:
+  title: Heating Pads
+  sub: Modularity at its best
+  img: heating-valve-0201
+  type: jpg
+  link: /en/pads.html
+
 valve:
   title: Heating valve
   sub: Winter is coming
@@ -67,7 +74,7 @@ valve:
   link: /en/valves.html
 
 gloves:
-  title: Gloves
+  title: Heating gloves
   sub: Warm and comfortable
   img: gant-surface
   type: jpg

@@ -2,7 +2,7 @@
 layout: suit
 lang: en
 permalink: /en/sweater
-categories: heater
+categories: clothes
 
 
 title: Polartec Sweater
@@ -13,17 +13,17 @@ hero-style: overlay
 
 highlights:
   - icon: assets/img/icons/polartec.svg
-    title: Polartec® Power Stretch®
+    title: Polartec<sup>&reg;</sup> Power Stretch<sup>&reg;</sup>
     sub: Flexible, breathable and heat retaining material
-  - icon: assets/img/icons/thermometer.svg
+  - icon: assets/img/icons/flame.svg
     title: Heating ready
-    sub: Pockets and wire holes ready for the heating system
-  - icon: assets/img/icons/thermometer.svg
-    title: Wrist straps
-    sub: Large straps for a better fit under drygloves
-  - icon: assets/img/icons/pencil.svg
-    title: Thumb holes
-    sub: To keep the sleeve in place while gearing up
+    sub: Pockets and wire holes ready for the SF Tech heating system
+  - icon: assets/img/icons/fist.svg
+    title: Wrist straps & Thumb Holes
+    sub: To keep the sleeve in place while gearing up and having  a better fit under drygloves
+  - icon: assets/img/icons/snow-flake.svg
+    title: Design for cold weather
+    sub: Fabric and thickness providing enough warmth for freezing cold temperatures
 
 specs:
 - name: Materials
@@ -40,16 +40,16 @@ specs:
     - Thumb loops
     - Large wrist straps
     - Designed for SF Tech heating system
-    - SF Tech logs on the chest and back
+    - SF Tech logos on the chest and back
 
 link-card:
   - pants
   - gloves
-  - valves
+  - valve
   - batteries
 
 ---
-The SF Tech sweater is specially designed to offer the best possible experience in a dry suit. Polartec® Power Stretch® has the ability to retain warmth without restricting movement or agility during activities. Polartec® is a breathable material that continuously evacuates water vapor while retaining heat. The layer in contact with the skin remains dry and comfortable.
+The SF Tech sweater is specially designed to offer the best possible experience in a dry suit. Polartec<sup>&reg;</sup> Power Stretch<sup>&reg;</sup> has the ability to retain warmth without restricting movement or agility during activities. Polartec<sup>&reg;</sup> is a breathable material that continuously evacuates water vapor while retaining heat. The layer in contact with the skin remains dry and comfortable.
 
 The shape is studied to facilitate the dressing and to keep the clothes in place during the dive. The longer dorsal part covers the lower back even when moving forward, and the thumb holes hold the sleeves in place when donnign the drysuit.
 

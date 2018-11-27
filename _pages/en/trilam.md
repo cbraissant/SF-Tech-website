@@ -27,6 +27,7 @@ specs:
       - Fabric available in black and red
       - Fitted cut
       - Made to measure
+      - CE certified
   - name: Technical Data
     id: data
     data:
@@ -38,23 +39,21 @@ specs:
       - "<strong>Seams:</strong> 3-5 layers of urethane sealant"
 
 highlights:
-  - icon: assets/img/icons/weight.svg
-    title: "Poids total: 3.5kg"
-    sub: Varie en fonction des options
+  - icon: assets/img/icons/feather.svg
+    title: Lightweight
+    sub: At only 3.5kg, the SF Tech Trilam Classic is a light holiday-friendly suit
   - icon: assets/img/icons/zipper.svg
-    title: Fermeture métal
-    sub: YKK Proseal
+    title: YKK metal zipper
+    sub: YKK Proseal<sup>&reg;</sup> is a strong and reliable watertight fastening solution
   - icon: assets/img/icons/maximize.svg
-    title: Torse télescopique
-    sub: Aisance et facilité d'habillage
+    title: Telescopique torso
+    sub: The front entry zipper with a telescopic torso ease the donning and doffing process
   - icon: assets/img/icons/pencil.svg
-    title: Sur mesure
-    sub: "Une seule taille disponible: la&nbsp;tienne"
+    title: "Only one size: YOURS"
+    sub: To guarantee perfection, all SF Tech drysuit are made to measure with your choice of options and colors
 
 image:
-  - assets/img/suits/trilam-classic-0322.png
-  - assets/img/suits/trilam-classic-0325.png
-  - assets/img/suits/trilam-classic-0329.png
+  - assets/img/suits/montage-trilam.png
 
 link-card:
   - classic

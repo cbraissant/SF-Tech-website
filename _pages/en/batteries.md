@@ -10,14 +10,48 @@ subtitle: High Tech Energy
 hero-image: assets/img/jpg/1920/batteries-0396.jpg
 heor-style: overlay
 
+specs:
+  - name: Characteristics
+    id: charcteristics
+    data:
+    - Two different sizes and capacities (23.8 Ah / 13.6 Ah)
+    - Two heads versions (standard / sidemount)
+    - Carbon case
+    - Delrin machined head
+    - Charge indicator on the battery
+    - CE certified
+  - name: Technical Data
+    id: data
+    data:
+    - "<strong>Battery type:</strong> Lithium Ion"
+    - "<strong>Nominal voltage:</strong> 11.1 V"
+    - "<strong>Capacity:</strong> 23.8 Ah / 13.6 Ah"
+    - "<strong>Maximal output power:</strong> 175 W / 100 W"
+    - "<strong>Maximal current load:</strong> 5.5 A / 3.0 A"
+    - "<strong>Maximum operating depth:</strong> 200m"
+    - "<strong>Operating temperature:</strong> -20°C to 60°C"
+    - "<strong>Length:</strong> 270mm / 185mm"
+    - "<strong>Diameter:</strong> 61mm / 61mm"
+    - "<strong>Weight (cable included):</strong> 1510g / 1040g"
+
+highlights:
+  - icon: assets/img/icons/fiber.svg
+    title: Carbon fiber canister
+    sub: Strong, lightweight and durable material.
+  - icon: assets/img/icons/battery-full.svg
+    title: 5 LEDs fuelgauge
+    sub: The charge of the battery can be check directly on the battery pack
+
+
 link-card:
-  - tnt
-  - classic
-  - batteries
+  - pads
+  - sweater
+  - gloves
+  - pants
   
 ---
-The SF Tech sweater is specially designed to offer the best possible experience in a dry suit. Polartec® Power Stretch® has the ability to retain warmth without restricting movement or agility during activities. Polartec® is a breathable material that continuously evacuates water vapor while retaining heat. The layer in contact with the skin remains dry and comfortable.
+The SF Tech heating system is based on a modular principle that makes it easy to remove or replace heating elements. This system uses heated pads made of breathable fabric that are connected to each other through an electrical wiring. The modular system makes it possible to replace pads or wire, quickly and without having to change the undergarment.
 
-The shape is studied to facilitate the dressing and to keep the clothes in place during the dive. The longer dorsal part covers the lower back even when moving forward, and the thumb holes hold the sleeves in place when donnign the drysuit.
+The heating elements have a physical dimension of 33x16cm (13"x6.3") and provide a maximum power of 10W each, or a total of 40W for the four elements. Each elements is designed to be fitted in an internal pouch of the SF Tech sweater or the SF Tech vest. The pads are held in place by a velcro fastener and can be easily removed in necessary. The main distribution cable goes through the lining of the undergarment.
 
-The sweater is made for the SF Tech heating system. Four internal pockets are made to receive heating pads. Two heating elements on the torso and two elements in the back. The wiring of the cables is through the lining of the sweater and openings are provided at each pad location and forearms for the heated glove system. Thus, all cables are passed inside the garment.
+The pads are connected to the main distribution cable by small waterproof connectors. For maximum flexibility and strength, the insulation of the electrical wires is made of silicone and the cables are covered with a nylon braided protective sheath. The connection with the heating valve is made using a waterproof push lock connector, to facilitate connection while gearing up and ensuring a stable connection during the dive.

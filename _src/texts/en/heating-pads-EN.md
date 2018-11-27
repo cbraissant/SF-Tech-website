@@ -1,14 +1,19 @@
 ## Heating Pads
+The SF Tech heating system is based on a modular principle that makes it easy to remove or replace heating elements. This system uses heated pads made of breathable fabric that are connected to each other through an electrical wiring. The modular system makes it possible to replace pads or wire, quickly and without having to change the undergarment.
 
-The heating elements are pads made of breathable fabric, having a dimension of 33x16cm. Each pad has a maximum power of 10W, providing a total power of 40W for the four heating elements. Each element is independent, allowing the user to replace himself a pad, to remove the pads to clean the undergarment or to dive without heating.
+The heating elements have a physical dimension of 33x16cm (13"x6.3") and provide a maximum power of 10W each, or a total of 40W for the four elements. Each elements is designed to be fitted in an internal pouch of the SF Tech sweater or the SF Tech vest. The pads are held in place by a velcro fastener and can be easily removed in necessary. The main distribution cable goes through the lining of the undergarment.
 
-The pads are attached to the pockets of the undersuit by a velcro, to prevent them from moving during use. A waterproof connector connects the pads to the electrical wiring passing through the lining of the garment.
+The pads are connected to the main distribution cable by small waterproof connectors. For maximum flexibility and strength, the insulation of the electrical wires is made of silicone and the cables are covered with a nylon braided protective sheath. The connection with the heating valve is made using a waterproof push lock connector, to facilitate connection while gearing up and ensuring a stable connection during the dive.
+
 
 ### Characteristics
 
 - Breathable material
 - Velcro fastening
-- Waterproof connector
+- Waterproof connectors with heating pads
+- Waterproof push lock connector with the heating valve
+- Silicone electrical insulation
+- Nylon braided protective sheath
 
 ### Technical data
 

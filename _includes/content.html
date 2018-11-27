@@ -16,12 +16,12 @@
           </ul>
         </div>
       {% endfor %}
+
     </div>
     
     <div class="content-picture" data-aos="fade-up">
-      <div class="content-wrapper-image">
        {% for slide in page.image %}
-       <img class="content-image{{ forloop.index }}" src="{{ site.baseurl }}{{ slide }}">
+       <img class="content-image" src="{{ site.baseurl }}{{ slide }}">
        {% endfor %}
       </div>
     </div>

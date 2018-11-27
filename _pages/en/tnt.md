@@ -30,6 +30,7 @@ specs:
       - Fabric available in black and red
       - Fitted cut
       - Made to measure
+      - CE certified
   - name: Technical Data
     id: data
     data:
@@ -40,23 +41,21 @@ specs:
       - "<strong>Seams:</strong> 3-5 layers of urethane sealant"
 
 highlights:
+  - icon: assets/img/icons/patent.svg
+    title: Revolutionary material
+    sub: A new patent-pending material made of high density neoprene
+  - icon: assets/img/icons/stretch.svg
+    title: Incredible mobility
+    sub: The TNT material offers unprecedent flexibility and suppleness
   - icon: assets/img/icons/shield.svg
-    title: Entièrement en Kevlar
-    sub: Incroyablement résistante
-  - icon: assets/img/icons/zipper.svg
-    title: Fermeture métal
-    sub: YKK Proseal
-  - icon: assets/img/icons/maximize.svg
-    title: Torse télescopique
-    sub: Aisance et facilité d'habillage
-  - icon: assets/img/icons/pencil.svg
-    title: Sur mesure
-    sub: "Une seule taille disponible: la&nbsp;tienne"
+    title: Full Kelvar
+    sub: Kevlar<sup>&reg;</sup> reinforced fabric is used on the whole suit, making it incredibly resistant
+  - icon: assets/img/icons/flame.svg
+    title: Unequalled warmth
+    sub: The multilayer material with added Titanium Alpha makes the TNT up to 2x warmer than a conventional trilam
 
 image:
-  - assets/img/suits/tnt-rouge-0271.png
-  - assets/img/suits/tnt-rouge-0276.png
-  - assets/img/suits/tnt-rouge-0282.png
+  - assets/img/suits/montage-tnt.png
 
 link-card:
   - classic

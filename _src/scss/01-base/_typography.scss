@@ -8,6 +8,11 @@
   font-family: 'Open Sans', sans-serif;
 }
 
+@mixin titlefont() {
+  font-family: 'Oswald', sans-serif;
+}
+
+
 
 body {
   font-size: 87.5%;
@@ -28,7 +33,7 @@ p {
 h1 {
   @include fluid-type(20rem, 75rem, 2.4rem, 4.8rem);
   color: $white;
-  font-family: 'Oswald', sans-serif;
+  @include titlefont();
   font-weight: 900;
   text-shadow: 2px 2px #000;
   text-transform: uppercase;
@@ -37,7 +42,7 @@ h1 {
 h2 {
   @include fluid-type(20rem, 75rem, 1.6rem, 3.2rem);
   color: $yellow;
-  font-family: 'Oswald', sans-serif;
+  @include titlefont();
   text-shadow: 2px 2px #000;
   text-transform: uppercase;
 }
@@ -46,7 +51,7 @@ h2 {
 h3 {
   @include fluid-type(20rem, 75rem, 1.2rem, 2.4rem);
   color: $text-color;
-  font-family: 'Oswald', sans-serif;
+  @include titlefont();
   font-weight: 200;
   text-transform: uppercase;
 }
@@ -54,8 +59,7 @@ h3 {
 
 h4 {
   @include fluid-type(20rem, 75rem, 1rem, 1.2rem);
-  color: $text-color;
-  font-family: 'Oswald', sans-serif;
+  @include titlefont();
   font-weight: 200;
   text-transform: uppercase;
 }
@@ -64,7 +68,6 @@ h4 {
 header {
   font-size: 125%;
   color: $text-color;
-  font-family: 'Roboto', sans-serif;
   text-transform: uppercase;
   @include mq(laptop) {
     font-size: 87.5%;

@@ -4,9 +4,12 @@
     {% for icons in page.highlights %}
 
       <div class="highlights-group" data-aos="fade-up">
-        <img class="highlights-image" src="{{ site.baseurl }}{{ icons.icon }}" alt="">
-        <p class="highlights-title">{{ icons.title }}</p>
-        <p class="highlights-text">{{ icons.sub }}</p>
+            <img class="highlights-image" src="{{ site.baseurl }}{{ icons.icon }}" alt="">
+
+          <div class="highlights-text">
+            <h4 class="highlights-title">{{ icons.title }}</h4>
+            <p class="highlights-description">{{ icons.sub }}</p>
+        </div>
       </div>
      
     {% endfor %}

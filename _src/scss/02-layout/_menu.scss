@@ -128,8 +128,8 @@
 
     // Background and borders
     border-radius: 0 0 15px 15px;
+    border: 1px solid $dark-gray;
     background-color: $header-background;
-    border: none;
   }
   // Add a space for the logo
   .menu-dropdown:nth-child(3) {

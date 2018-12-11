@@ -4,7 +4,7 @@ lang: en
 permalink: /en/tnt
 categories: drysuit
 
-title: "TNT: Titanium Neoprene Trilaminate"
+title: "Titanium Neoprene Trilaminate"
 subtitle: The best of both worlds
 hero-image: assets/img/jpg/1920/slawek-packo-v3.jpg
 hero-style: overlay
@@ -57,13 +57,19 @@ highlights:
 image:
   - assets/img/suits/montage-tnt.png
 
+product-pictures:
+  - assets/img/temp/IMG_0398.JPG
+  - assets/img/temp/IMG_0399.JPG
+  - assets/img/temp/IMG_0400.JPG
+  - assets/img/temp/IMG_0401.JPG
+
 link-card:
   - classic
   - kevlar-pro
   - trilam
   - trilam-pro
 ---
-The SF Tech TNT, is made of a revolutionary <strong>Patent-Pending</strong> material: a high-density neoprene based trilaminate, with two extra layers of Titanium acting as heat-reflective panel. The overall material feels up to 2x warmer than a standard butyl trilaminate.
+The SF Tech TNT, is made of a revolutionary <strong>Patent-Pending</strong> material: a high density neoprene based trilaminate, with two extra layers of Titanium acting as heat-reflective panel. The overall material feels up to 2x warmer than a standard butyl trilaminate.
 The TNT offers all the advantages of trilaminate while being warmer and more flexible like a neoprene: <strong>The best of both worlds</strong>
 
 To guarantee strength and reliability, the overall suit is made of Kevlar® reinforced fabric. Only the best materials available on the market are used. The high-density neoprene is made by Yamamoto while the Kevlar® is made in Switzerland. 

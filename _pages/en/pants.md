@@ -1,5 +1,5 @@
 ---
-layout: suit
+layout: heating
 lang: en
 permalink: /en/pants
 categories: clothes
@@ -26,13 +26,6 @@ highlights:
     sub: Allow the water humidity to go through the material keeping the skin dry and warm
 
 specs:
-- name: Materials
-  id: materials
-  data:
-    - "Polartec<sup>&reg;</sup> Power Stretch<sup>&reg;</sup>"
-    - "Outer shell: 88% Polyester / 12% Elastan"
-    - "Inner lining: 100% Polyester"
-
 - name: Characteristics
   id: characteristics
   data:
@@ -42,11 +35,21 @@ specs:
     - Strap under the feet
     - Openings for p-valve
     - Ergonomic design
+    - Odor and bacteria resistant
+- name: Materials
+  id: materials
+  data:
+    - "Polartec<sup>&reg;</sup> Power Stretch<sup>&reg;</sup>"
+    - "Outer shell: 88% Polyester / 12% Elastan"
+    - "Inner lining: 100% Polyester"
+
+image:
+  - assets/img/suits/montage-pants.png
 
 link-card:
-  - pants
+  - sweater
   - gloves
-  - valves
+  - valve
   - batteries
 
 ---

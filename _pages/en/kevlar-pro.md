@@ -10,8 +10,8 @@ hero-image: assets/img/jpg/1920/walz.jpg
 hero-style: overlay
 
 cta:
-  - link: "#highlights"
-    text: Product highlights
+  - link: "#technical"
+    text: Technical Data
 
 highlights:
   - icon: assets/img/icons/shield.svg
@@ -44,12 +44,14 @@ specs:
     id: data
     data:
       - "<strong>Waterproof layer:</strong> Hyper-compressed 2mm neoprene"
-      - "<strong>External fabric (Kevlar<sup>&reg;</sup>):</strong> Kevlar, nylon, spandex"
+      - "<strong>External fabric (Kevlar):</strong> Kevlar, nylon, spandex"
       - "<strong>External fabric (SP):</strong> Polyester, nylon, spandex"
       - "<strong>Internal Fabric:</strong> Nylon (70 deniers)"
       - "<strong>Stitching:</strong> Two threads blind stitch"
       - "<strong>Seams:</strong> 3-5 layers of urethane sealant"
 
+image:
+  - assets/img/suits/kevlar.png
 
 link-card:
   - classic

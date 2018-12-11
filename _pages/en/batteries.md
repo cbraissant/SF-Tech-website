@@ -1,5 +1,5 @@
 ---
-layout: suit
+layout: heating
 lang: en
 permalink: /en/batteries
 categories: heating
@@ -8,7 +8,7 @@ title: Batteries
 subtitle: High Tech Energy
 
 hero-image: assets/img/jpg/1920/batteries-0396.jpg
-heor-style: overlay
+hero-style: overlay
 
 specs:
   - name: Characteristics
@@ -18,7 +18,8 @@ specs:
     - Two heads versions (standard / sidemount)
     - Carbon case
     - Delrin machined head
-    - Charge indicator on the battery
+    - Spring loaded lock pin
+    - Fuelgauge indicator on the battery pack
     - CE certified
   - name: Technical Data
     id: data
@@ -37,11 +38,19 @@ specs:
 highlights:
   - icon: assets/img/icons/fiber.svg
     title: Carbon fiber canister
-    sub: Strong, lightweight and durable material.
+    sub: Strong, lightweight and durable material
   - icon: assets/img/icons/battery-full.svg
     title: 5 LEDs fuelgauge
     sub: The charge of the battery can be check directly on the battery pack
+  - icon: assets/img/icons/batteries.svg
+    title: Multiple configurations
+    sub: Choose the best option for your need from 4 differents configurations available
+  - icon: assets/img/icons/finger-push.svg
+    title: Simple locking mechanism
+    sub: A spring loaded push pin locks the head to the canister
 
+image:
+  - assets/img/suits/batteries-akkutank.png
 
 link-card:
   - pads

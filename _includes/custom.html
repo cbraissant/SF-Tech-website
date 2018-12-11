@@ -1,0 +1,263 @@
+<section class="section-customize">
+
+  <div class="wrapper customize-wrapper">
+    <h3 class="customize-title">customize your suit</h3>
+    
+    <div class="custom" id="custom">
+
+      <div class="custom-image js-custom-image">
+        <img class="custom-picture" src="/assets/img/temp/kevlar.png" alt="">
+        {% for option in page.custom-options %}
+        <i class="far fa-dot-circle opt-focus js-focus {{option.name}} {{option.status}}"></i>
+        {% endfor %}
+      </div>
+      
+      <div class="custom-details js-custom">
+        <!-- close button hidden in laptop mode -->
+        <button class="custom-close js-custom-close">
+          <i class="fas fa-times"></i>
+        </button>
+
+
+        <div class="custom-part js-part is-active">
+          <h4>Manchons</h4>
+
+          <div class="custom-options">
+          <h6>Standard</h6>
+            <div class="fiche">
+              <img class="fiche-image" src="/assets/img/temp/man-lat.jpg" alt="">
+              <p class="fiche-text">Latex heavy duty</p>
+            </div>
+          </div>
+
+          <div class="custom-options">
+          <h6>Options</h6>
+            <div class="fiche">
+              <img class="fiche-image" src="/assets/img/temp/man-neo.jpg" alt="">
+              <p class="fiche-text">Néoprène 4mm</p>
+            </div>
+            <div class="fiche">
+              <img class="fiche-image" src="/assets/img/temp/man-sil.jpg" alt="">
+              <p class="fiche-text">Silicone (Si Tech QCS)</p>
+            </div>
+          </div>
+        </div> <!-- end part -->
+
+
+
+        <div class="custom-part js-part">
+          <h4>Collerette</h4>
+
+          <div class="custom-options">
+            <h6>Standard</h6>
+            <div class="fiche">
+              <img class="fiche-image" src="/assets/img/temp/col-lat.jpg" alt="">
+              <p class="fiche-text">Latex</p>
+            </div>
+          </div>
+
+          <div class="custom-options">
+            <h6>Options</h6>
+            <div class="fiche">
+              <img class="fiche-image" src="/assets/img/temp/col-neo.jpg" alt="">
+              <p class="fiche-text">Néoprène</p>
+            </div>
+            <div class="fiche">
+              <img class="fiche-image" src="/assets/img/temp/col-sil.jpg" alt="">
+              <p class="fiche-text">Silicone (SiTeh Orusk)</p>
+            </div>
+          </div>
+        </div> <!-- end part -->
+
+
+
+        <div class="custom-part js-part">
+          <h4>Inflateur</h4>
+
+          <div class="custom-options">
+            <h6>Standard</h6>
+            <div class="fiche">
+              <img class="fiche-image" src="/assets/img/temp/inf-apeks.jpg" alt="">
+              <p class="fiche-text">Apeks</p>
+            </div>
+          </div>
+
+          <div class="custom-options">
+            <h6>Options</h6>
+            <div class="fiche">
+              <img class="fiche-image" src="/assets/img/temp/inf-sitech.jpg" alt="">
+              <p class="fiche-text">Si Tech</p>
+            </div>
+            <div class="fiche">
+              <img class="fiche-image" src="/assets/img/temp/inf-sft.jpg" alt="">
+              <p class="fiche-text">SF Tech heating valve</p>
+            </div>
+            <div class="fiche">
+              <img class="fiche-image" src="/assets/img/temp/inf-vega.jpg" alt="">
+              <p class="fiche-text">Si Tech Vega heating valve</p>
+            </div>
+          </div>
+        </div> <!-- end part -->
+
+
+
+        <div class="custom-part js-part">
+          <h4>Purge</h4>
+
+          <div class="custom-options">
+            <h6>Standard</h6>
+            <div class="fiche">
+              <img class="fiche-image" src="/assets/img/temp/purge-apeks-hp.jpg" alt="">
+              <p class="fiche-text">Apeks auto dump valve</p>
+            </div>
+          </div>
+
+          <div class="custom-options">
+            <h6>Options</h6>
+            <div class="fiche">
+              <img class="fiche-image" src="/assets/img/temp/purge-apeks-lp.jpg" alt="">
+              <p class="fiche-text">Apeks low profile</p>
+            </div>
+            <div class="fiche">
+              <img class="fiche-image" src="/assets/img/temp/purge-sitech.jpg" alt="">
+              <p class="fiche-text">Si Tech</p>
+            </div>
+          </div>
+        </div> end part
+
+
+
+        <div class="custom-part js-part">
+          <h4>Cagoule</h4>
+
+          <div class="custom-options">
+            <h6>Standard</h6>
+            <div class="fiche">
+              <img class="fiche-image" src="/assets/img/temp/none.png" alt="">
+              <p class="fiche-text">Amovible</p>
+            </div>
+          </div>
+
+          <div class="custom-options">
+            <h6>Options</h6>
+            <div class="fiche">
+              <img class="fiche-image" src="/assets/img/temp/none.png" alt="">
+              <p class="fiche-text">Attenante</p>
+            </div>
+          </div>
+        </div> <!-- end part -->
+
+
+
+        <div class="custom-part js-part">
+          <h4>P-Valve</h4>
+
+          <div class="custom-options">
+            <h6>Standard</h6>
+            <div class="fiche">
+              <img class="fiche-image" src="/assets/img/temp/none.png" alt="">
+              <p class="fiche-text">Aucune</p>
+            </div>
+          </div>
+
+          <div class="custom-options">
+            <h6>Options</h6>
+            <div class="fiche">
+              <img class="fiche-image" src="/assets/img/temp/p-sft.jpg" alt="">
+              <p class="fiche-text">SF Tech</p>
+            </div>
+            <div class="fiche">
+              <img class="fiche-image" src="/assets/img/temp/p-sitech.jpg" alt="">
+              <p class="fiche-text">Si Tech Trigon</p>
+            </div>
+          </div>
+        </div> <!-- end part -->
+
+
+
+        <div class="custom-part js-part">
+          <h4>Boots</h4>
+
+          <div class="custom-options">
+            <h6>Standard</h6>
+            <div class="fiche">
+              <img class="fiche-image" src="/assets/img/temp/boots.jpg" alt="">
+              <p class="fiche-text">Boots renforcées</p>
+            </div>
+          </div>
+
+          <div class="custom-options">
+            <h6>Options</h6>
+            <div class="fiche">
+              <img class="fiche-image" src="/assets/img/temp/teckna.jpg" alt="">
+              <p class="fiche-text">Boots légère</p>
+            </div>
+            <div class="fiche">
+              <img class="fiche-image" src="/assets/img/temp/sock.jpg" alt="">
+              <p class="fiche-text">Chaussette néoprène</p>
+            </div>
+            <div class="fiche">
+              <img class="fiche-image" src="/assets/img/temp/rockboots.jpg" alt="">
+              <p class="fiche-text">Rockboots</p>
+            </div>
+          </div>
+        </div> <!-- end part -->
+
+
+
+        <div class="custom-part js-part">
+          <h4>Poches</h4>
+
+          <div class="custom-options">
+            <h6>Standard</h6>
+            <div class="fiche">
+              <img class="fiche-image" src="/assets/img/temp/none.png" alt="">
+              <p class="fiche-text">Aucune</p>
+            </div>
+          </div>
+
+          <div class="custom-options">
+            <h6>Options</h6>
+            <div class="fiche">
+              <img class="fiche-image" src="/assets/img/temp/pocket-right.jpg" alt="">
+              <p class="fiche-text">Poche droite</p>
+            </div>
+            <div class="fiche">
+              <img class="fiche-image" src="/assets/img/temp/pocket-left.jpg" alt="">
+              <p class="fiche-text">Poche gauche</p>
+            </div>
+            <div class="fiche">
+              <img class="fiche-image" src="/assets/img/temp/pockets-both.jpg" alt="">
+              <p class="fiche-text">Deux poches</p>
+            </div>
+          </div>
+        </div> <!-- end part -->
+
+
+
+        <div class="custom-part js-part">
+          <h4>Fermeture éclair</h4>
+
+          <div class="custom-options">
+            <h6>Standard</h6>
+            <div class="fiche">
+              <img class="fiche-image" src="/assets/img/temp/zip-ykk.jpg" alt="">
+              <p class="fiche-text">YKK métal</p>
+            </div>
+          </div>
+
+          <div class="custom-options">
+            <h6>Options</h6>
+            <div class="fiche">
+              <img class="fiche-image" src="/assets/img/temp/tzip.jpg" alt="">
+              <p class="fiche-text">Fermeture plastique</p>
+            </div>
+          </div>
+        </div> <!-- end part -->
+
+      </div> <!-- end details -->
+      
+    </div> <!-- end custom -->
+  </div> <!-- end wrapper -->
+
+</section>

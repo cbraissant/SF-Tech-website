@@ -27,8 +27,7 @@ url: "http://localhost:4000/" # the base hostname & protocol for your site, e.g.
 #   sass_dir: _scss
 include: ['_pages']
 
-exclude: ['assets',
-          '_src',
+exclude: ['_src',
           '_sass',
           'node_modules',
           'gulpfile.js',

@@ -1,0 +1,34 @@
+.technical-data-wrapper {
+  margin: 0 auto;
+}
+
+.technical-data:first-child {
+  padding-bottom: $padding;
+}
+
+.technical-list {
+  display: table;
+  margin-left: 2em;
+}
+
+.technical-items:before {
+  content: "\2500";
+  display: inline-block;
+  width: 2em;
+  color: $yellow;
+  margin-left: -2em;
+}
+
+
+@include mq(tablet) {
+  .technical-wrapper {
+    display: flex;
+  }
+
+  .technical-data {
+    display: flex;
+    width: 50%;
+  }
+}
+
+

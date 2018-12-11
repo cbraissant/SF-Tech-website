@@ -1,5 +1,5 @@
 ---
-layout: suit
+layout: heating
 lang: en
 permalink: /en/gloves
 categories: heating

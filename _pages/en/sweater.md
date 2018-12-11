@@ -1,5 +1,5 @@
 ---
-layout: suit
+layout: heating
 lang: en
 permalink: /en/sweater
 categories: clothes
@@ -26,13 +26,6 @@ highlights:
     sub: Fabric and thickness providing enough warmth for freezing cold temperatures
 
 specs:
-- name: Materials
-  id: materials
-  data:
-    - "Polartec<sup>&reg;</sup> Power Stretch<sup>&reg;</sup>"
-    - "Outer shell: 88% Polyester / 12% Elastan"
-    - "Inner lining: 100% Polyester"
-
 - name: Characteristics
   id: characteristics
   data:
@@ -41,12 +34,22 @@ specs:
     - Large wrist straps
     - Designed for SF Tech heating system
     - SF Tech logos on the chest and back
+    - Odor and bacteria resistant
+- name: Materials
+  id: materials
+  data:
+    - "Polartec<sup>&reg;</sup> Power Stretch<sup>&reg;</sup>"
+    - "Outer shell: 88% Polyester / 12% Elastan"
+    - "Inner lining: 100% Polyester"
 
 link-card:
   - pants
   - gloves
   - valve
   - batteries
+
+image:
+  - assets/img/suits/montage-sweater.png
 
 ---
 The SF Tech sweater is specially designed to offer the best possible experience in a dry suit. Polartec<sup>&reg;</sup> Power Stretch<sup>&reg;</sup> has the ability to retain warmth without restricting movement or agility during activities. Polartec<sup>&reg;</sup> is a breathable material that continuously evacuates water vapor while retaining heat. The layer in contact with the skin remains dry and comfortable.

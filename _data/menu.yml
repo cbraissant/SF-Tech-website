@@ -37,12 +37,8 @@ toc:
         url: /measure.html
       - page: User manuals
         url: /manuals.html
-      - page: Downloads
-        url: /downloads.html
       - page: materials
         url: /materials.html
-      - page: FAQ
-        url: /faq.html
   - title: About Us
     subfolderitems:
       - page: News and Events

@@ -22,7 +22,7 @@ highlights:
     sub: YKK Proseal<sup>&reg;</sup> is a strong and reliable watertight fastening solution
   - icon: assets/img/icons/eco-hands.svg
     title: Yamamoto Neoprene
-    sub: Instead of traditional oil-based neoprene, Yamamoto's neoprene is made of calcium carbonate from limestone 
+    sub: Instead of traditional oil-based neoprene, Yamamoto's neoprene is made of calcium carbonate from limestone
   - icon: assets/img/icons/pencil.svg
     title: "Only one size: YOURS"
     sub: To guarantee perfection, all SF Tech drysuit are made to measure with your choice of options and colors

@@ -1,0 +1,144 @@
+// // --------------------------------------------------------
+// // #SECTION
+// // --------------------------------------------------------
+// .customize-title {
+//   text-align: center;
+// }
+
+// .custom {
+//   @include mq(tablet) {
+//     display: flex;
+//   }
+//   position: relative;
+// }
+
+// .custom-title {
+//   width: 100%;
+//   text-align: center;
+//   padding: $padding;
+// }
+
+// .custom-image {
+//   margin: auto;
+//   position: relative;
+//   height: 75vh;
+//   width: 50%;
+//   background-position: center;
+//   background-size: cover;
+//   border: 1px solid red;
+// }
+
+// .custom-picture {
+//   display: block;
+//   margin: 0 auto;
+//   height: 100%;
+//   z-index: 1;
+// }
+
+// .custom-tile {
+//   z-index: -1;
+// }
+
+// .custom-options {
+//   margin-bottom: $padding;
+// }
+
+// .custom-details {
+//   padding: $padding;
+//   border: 1px solid $dark-gray;
+//   box-shadow: 0px 0px 1px 1px $dark-gray;
+//   width: 50%;
+
+//   @include mq(phoneonly) {
+//     display: none;
+//   }
+
+//   @include mq(laptop) {
+//     display: block;
+//     position: relative;
+//   }
+// }
+
+// .custom-details.is-open {
+//   @include mq(phoneonly) {
+//     display: block;
+//     position: fixed;
+//     top: 0;
+//     left: 0;
+//     right: 0;
+//     bottom: 0;
+//     z-index: 6;
+//   }
+//   background-color: rgba(0,0,0,0.9);
+// }
+
+// .custom-close {
+//   display: block;
+//   position: absolute;
+//   top: $padding;
+//   right: $padding;
+
+//   border: none;
+//   background: none;
+//   color: white;
+//   @include mq(tablet) {
+//     display: none;
+//   }
+// }
+
+// .custom-part {
+//   width: 100%;
+//   display: none;
+// }
+
+// .custom-part.is-active {
+//   display: block;
+//   margin: auto;
+// }
+
+
+// .opt-focus.is-active {
+//   color: $yellow; 
+// }
+
+// .opt-focus {
+//   color: $light-gray;
+//   font-size: 4vh;
+//   position: absolute;
+//   cursor: pointer;
+// }
+
+// .opt-focus:hover,
+// .opt-focus:active {
+//   color: $link-color;
+// }
+
+// .nkp-man{top: 45%;left: 77%;}
+// .nkp-inf{top: 21%;left: 47%;}
+// .nkp-purge{top: 23%;left: 73%;}
+// .nkp-col{top: 15%;left: 40%;}
+// .nkp-cag{top: 5%;left: 40%;}
+// .nkp-pvalve{top: 53%;left: 50%;}
+// .nkp-boots{top: 83%;left: 68%;}
+// .nkp-poches{top: 63%;left: 18%;}
+// .nkp-fe{top: 35%;left: 50%;}
+
+
+// .fiche {
+//   display: flex;
+//   background-color: $dark-gray;
+//   border: 1px solid $gray;
+//   margin-bottom: 5px;
+// }
+
+// .fiche-image {
+//   width: 150px;
+//   height: 100px;
+// }
+
+// .fiche-text {
+//   margin: auto 0;
+//   padding: 1em;
+//   color: red;
+//   text-align: left;
+// }

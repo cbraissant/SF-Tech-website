@@ -3,6 +3,44 @@ footer {
   padding-bottom: $spacing;
 }
 
+.footer-wrapper {
+  margin: 0 auto;
+  text-align: center;
+}
+
 .footer-copyright {
   text-align: center;
+}
+
+
+.social-wrapper {
+  display: block;
+	margin: 0 auto;
+	padding: $padding;
+  width: 200px;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+
+.social-image {
+  display: block;
+  height: 2rem;
+}
+
+.social-link {
+  padding: 5px;
+  border-radius: 10%;
+}
+
+.social-facebook:hover {
+  background-color: #3b5998;
+}
+
+.social-instagram:hover {
+  background: #d6249f;
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
 }

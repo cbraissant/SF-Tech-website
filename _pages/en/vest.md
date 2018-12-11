@@ -1,5 +1,5 @@
 ---
-layout: suit
+layout: heating
 lang: en
 permalink: /en/vest
 categories: clothes
@@ -26,13 +26,6 @@ highlights:
     sub: To keep the sleeve in place while gearing up
 
 specs:
-- name: Materials
-  id: materials
-  data:
-    - "Polartec<sup>&reg;</sup> Power Stretch<sup>&reg;</sup>"
-    - "Outer shell: 88% Polyester / 12% Elastan"
-    - "Inner lining: 100% Polyester"
-
 - name: Characteristics
   id: characteristics
   data:
@@ -40,6 +33,16 @@ specs:
     - Thumb loops
     - Designed for SF Tech heating system
     - SF Tech logo on the chest
+    - Odor and bacteria resistant
+- name: Materials
+  id: materials
+  data:
+    - "Polartec<sup>&reg;</sup> Power Stretch<sup>&reg;</sup>"
+    - "Outer shell: 88% Polyester / 12% Elastan"
+    - "Inner lining: 100% Polyester"
+
+image:
+  - assets/img/suits/montage-vest.png
 
 link-card:
   - pants

@@ -6,8 +6,8 @@ categories: drysuit
 
 title: Trilam Kevlar Pro
 subtitle: Durability without compromise
-hero-image: 
-hero-style:
+hero-image: assets/img/jpg/1920/tom-trilam-2.jpg
+hero-style: overlay
 
 cta:
   - link: "#highlights"
@@ -45,7 +45,7 @@ highlights:
     title: YKK metal zipper
     sub: YKK Proseal<sup>&reg;</sup> is a strong and reliable watertight fastening solution
   - icon: assets/img/icons/maximize.svg
-    title: Telescopique torso
+    title: Telescopic torso
     sub: The front entry zipper with a telescopic torso ease the donning and doffing process
   - icon: assets/img/icons/pencil.svg
     title: "Only one size: YOURS"

@@ -1,10 +1,11 @@
-<section class="highlights-section color-switch" id="highlights" data-aos="fade-up">
-
+<section class="color-switch highlights-section" id="highlights">
   <div class="wrapper highlights-wrapper" >
     {% for icons in page.highlights %}
 
-      <div class="highlights-group" data-aos="fade-up">
+      <div class="highlights-group">
+      		<div class="highlights-picture">
             <img class="highlights-image" src="{{ site.baseurl }}{{ icons.icon }}" alt="">
+					</div>
 
           <div class="highlights-text">
             <h4 class="highlights-title">{{ icons.title }}</h4>

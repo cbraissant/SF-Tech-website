@@ -1,11 +1,20 @@
 //  #TYPOGRAPHY
 // ==========================================================================
-@import url("https://fonts.googleapis.com/css?family=Roboto:100,200,400,500,700,900");
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,900");
 @import url("https://fonts.googleapis.com/css?family=Oswald:100,300,400,500,700,900");
 
 @mixin mainfont() {
-  font-family: 'Open Sans', sans-serif;
+ font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+ font-weight: 300;
+}
+
+@mixin strongfont() {
+ font-family: "HelveticaNeue-Regular", "Helvetica Neue Regular", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+ font-weight: 400;
+}
+
+@mixin boldfont() {
+ font-family: "HelveticaNeue-Bold", "Helvetica Neue Bold", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+ font-weight: 700;
 }
 
 @mixin titlefont() {
@@ -21,7 +30,6 @@ body {
 
   @include mainfont();
   color: $text-color;
-  font-weight: 200;
   line-height: 1.618;
 }
 
@@ -41,6 +49,7 @@ h1 {
 
 h2 {
   @include fluid-type(20rem, 75rem, 1.6rem, 3.2rem);
+  @include titlefont();
   color: $yellow;
   @include titlefont();
   text-shadow: 2px 2px #000;
@@ -50,8 +59,8 @@ h2 {
 
 h3 {
   @include fluid-type(20rem, 75rem, 1.2rem, 2.4rem);
-  color: $text-color;
   @include titlefont();
+  color: $text-color;
   font-weight: 200;
   text-transform: uppercase;
 }

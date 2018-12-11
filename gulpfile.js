@@ -92,7 +92,7 @@ const gutil = require('gulp-util');
 // #CONSTANTS
 // ************************************
 const siteRoot = '_site';
-const jekyllFiles = ['./_data/**', './_includes/**', './_layout/**', './_pages/**', 'posts/**']
+const jekyllFiles = ['./_data/**', './_includes/**', './_layouts/**', './_pages/**', 'posts/**']
 
 // Set the browser that you want to support
 var browserSupport = [
@@ -302,5 +302,5 @@ gulp.task('default', ['build','browser-sync'], function(){
     './_includes/**',
     './_layout/**',
     './_pages/**',
-    'posts/**'],['build-jekyll']);
+    './_posts/**'],['build-jekyll']);
 });

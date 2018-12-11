@@ -1,5 +1,5 @@
 ---
-layout: suit
+layout: heating
 lang: en
 permalink: /en/pads
 categories: clothes
@@ -11,18 +11,18 @@ hero-image: assets/img/jpg/1920/undersuit-logo-0630.jpg
 hero-style: overlay
 
 highlights:
-  - icon: assets/img/icons/polartec.svg
-    title: Polartec<sup>&reg;</sup> Power Stretch<sup>&reg;</sup>
-    sub: Flexible, breathable and heat retaining material
-  - icon: assets/img/icons/thermometer.svg
-    title: Heating ready
-    sub: Pockets and wire holes ready for the heating system
-  - icon: assets/img/icons/thermometer.svg
-    title: Wrist straps
-    sub: Large straps for a better fit under drygloves
-  - icon: assets/img/icons/pencil.svg
-    title: Thumb holes
-    sub: To keep the sleeve in place while gearing up
+  - icon: assets/img/icons/pads.svg
+    title: Modular system
+    sub: Allows to remove or replace a single pads by yourself
+  - icon: assets/img/icons/humidity.svg
+    title: Breathable material
+    sub: Allow the water humidity to go through the material keeping the skin dry and warm
+  - icon: assets/img/icons/heat.svg
+    title: Heating fabric
+    sub: Technology using a large heating surface for more uniformity
+  - icon: assets/img/icons/invisible.svg
+    title: Invisible wires
+    sub: Fully compatible with the SF Tech undergarments, all the wires for the heating pads are hidden inside the lining of the sweater
 
 specs:
 - name: Characteristics
@@ -43,6 +43,9 @@ specs:
     - "<strong>Output power max (4 pads):</strong> 40W @ 12.6V"
     - "<strong>Operating current max:</strong> 3.2A @ 12.6V"
     - "<strong>Approximate autonomy (23.8 Ah):</strong> 7h15"
+
+image:
+  - assets/img/suits/heating-pads.png
 
 link-card:
   - sweater

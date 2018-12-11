@@ -26,4 +26,5 @@ cards:
     style: grid-col2
   - type: trilam
   - type: kevlar-pro
+  - type: sweater
 ---

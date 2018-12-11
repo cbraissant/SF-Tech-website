@@ -6,8 +6,8 @@ categories: drysuit
 
 title: Trilam Classic Kevlar
 subtitle: Lightness and durability
-hero-image: assets/img/jpg/1920/tom-trilam-2.jpg
-hero-style:
+hero-image: assets/img/jpg/1920/sandra-3007a.jpg
+hero-style: overlay
 
 cta:
   - link: "#highlights"

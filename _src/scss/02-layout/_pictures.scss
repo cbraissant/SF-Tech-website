@@ -1,0 +1,22 @@
+.pictures-section {
+  padding: 0;
+}
+
+.pictures-container {
+  display: grid;
+	grid-auto-flow: column dense;
+  flex-wrap: wrap;
+}
+
+.pictures-inner {
+}
+
+// .pictures-inner:first-child {
+// 	grid-column: span 2;
+// 	grid-row: span 2;
+// }
+
+.pictures-image {
+  display: block;
+  width: 100%;
+}

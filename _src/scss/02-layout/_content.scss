@@ -1,12 +1,21 @@
 //  #CONTENT
 // ==========================================================================
+.content-section {
+  padding-top: $header-height;
+  z-index: 1;
+
+  // Background styles
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
 
 .content-wrapper {
     // Positioning and sizing
     @include mq(laptop) {
     display: flex;
     // Text styles
-    justify-content: center;
+    justify-content: space-between;
     // Background and borders
     background-position: center center;
     background-size: contain;
@@ -21,42 +30,20 @@
   max-width: 30rem;
   width: 100%;
   @include mq(laptop) {
-    margin-left: auto;
-    margin-right: $padding;
     width: 40%;
-  }
+    margin: auto $padding auto auto;
+  } 
   // Text styles
   text-align: justify;
 }
 
 .content-title {
   // Padding and margin
-  margin-bottom: $padding;
+  padding-bottom: $padding;
+  margin-bottom: 2rem;
   // borders
   border-bottom: 1px solid $yellow;
 }
-
-.content-data-title {
-  padding-top: $padding;
-}
-
-.content-data-list {
-  display: table;
-  margin-left: 2em;
-}
-
-.content-data-items:before {
-  content: "\2500";
-  display: inline-block;
-  width: 2em;
-  color: $yellow;
-  margin-left: -2em;
-}
-
-.content-data-items span {
-  margin-left: 100px;
-}
-
 
 //  #PICTURE SIDE
 // ==========================================================================
@@ -65,15 +52,19 @@
   width: 100%;
   max-width: 40rem;
   margin: 0 auto;
-  @include mq(laptop) {
+  text-align: center;
+  @include mq(tablet) {
     // Positioning and sizing
-    margin-left: 0;
+    margin-left: 4rem;
     margin-right: auto;
     width: 60%;
   }
+  display: block;
+  max-height: calc(85vh + 2rem);
+  // background-image: radial-gradient(#333 30%, black 70%);
 }
 
 .content-image {
-  max-height: 90vh;
+  max-height: 85vh;
   max-width: 100%;
 }

@@ -1,11 +1,10 @@
 // #SECTION
 // ==========================================================================
-
-
 .section-contact {
   @include mq(laptop) {
     display: flex;
   }
+  background-color: $yellow;
 }
 
 .contact-wrapper {
@@ -56,7 +55,8 @@
 }
 
 .form-btn {
-  padding-right: 2rem;
+  color: red;
+  padding: 20rem;
   padding-right: 2rem;
   padding-right: 2rem;
   padding-right: 2rem;

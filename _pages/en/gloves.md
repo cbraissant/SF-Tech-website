@@ -11,16 +11,16 @@ hero-image: assets/img/jpg/1920/gant-surface.jpg
 hero-style: overlay
 
 highlights:
-  - icon: assets/img/icons/thermometer.svg
+  - icon: thermometer.svg
     title: "Heat everywhere"
     sub: The unique design heats evenly the top of the hand and the fingers
-  - icon: assets/img/icons/lightning.svg
+  - icon: lightning.svg
     title: Power 36W
     sub: Great heating power to maintain warmth
-  - icon: assets/img/icons/cloth.svg
+  - icon: cloth.svg
     title: Very comfortable
     sub: Made of soft and flexible lycra
-  - icon: assets/img/icons/drop.svg
+  - icon: drop.svg
     title: Waterproof connector
     sub: Easy push lock connector with the heating valve
 

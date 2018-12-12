@@ -14,16 +14,16 @@ cta:
     text: Technical Data
 
 highlights:
-  - icon: assets/img/icons/shield.svg
+  - icon: shield.svg
     title: Full Kelvar
     sub: Kevlar<sup>&reg;</sup> reinforced fabric is used on the whole suit, making it incredibly resistant
-  - icon: assets/img/icons/zipper.svg
+  - icon: zipper.svg
     title: YKK metal zipper
     sub: YKK Proseal<sup>&reg;</sup> is a strong and reliable watertight fastening solution
-  - icon: assets/img/icons/eco-hands.svg
+  - icon: eco-hands.svg
     title: Yamamoto Neoprene
     sub: Instead of traditional oil-based neoprene, Yamamoto's neoprene is made of calcium carbonate from limestone 
-  - icon: assets/img/icons/pencil.svg
+  - icon: pencil.svg
     title: "Only one size: YOURS"
     sub: To guarantee perfection, all SF Tech drysuit are made to measure with your choice of options and colors
 

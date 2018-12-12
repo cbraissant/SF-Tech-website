@@ -1,4 +1,3 @@
-// #WORKFLOW
 // ************************************
 
 // DO NOT COPY ANY FILES IN _site/assets
@@ -120,7 +119,8 @@ gulp.task('browser-sync', function() {
 		server: {baseDir: "./_site"},
     port: 4000,
 		online: true,
-    delay: 1000
+    delay: 1000,
+    open: false
 	});
 });
 
@@ -300,7 +300,7 @@ gulp.task('default', ['build','browser-sync'], function(){
   gulp.watch([
     './_data/**',
     './_includes/**',
-    './_layout/**',
+    './_layouts/**',
     './_pages/**',
     './_posts/**'],['build-jekyll']);
 });

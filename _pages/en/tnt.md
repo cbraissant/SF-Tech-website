@@ -41,16 +41,16 @@ specs:
       - "<strong>Seams:</strong> 3-5 layers of urethane sealant"
 
 highlights:
-  - icon: assets/img/icons/patent.svg
+  - icon: patent.svg
     title: Revolutionary material
     sub: A new patent-pending material made of high density neoprene
-  - icon: assets/img/icons/stretch.svg
+  - icon: stretch.svg
     title: Incredible mobility
     sub: The TNT material offers unprecedent flexibility and suppleness
-  - icon: assets/img/icons/shield.svg
+  - icon: shield.svg
     title: Full Kelvar
     sub: Kevlar<sup>&reg;</sup> reinforced fabric is used on the whole suit, making it incredibly resistant
-  - icon: assets/img/icons/flame.svg
+  - icon: flame.svg
     title: Unequalled warmth
     sub: The multilayer material with added Titanium Alpha makes the TNT up to 2x warmer than a conventional trilam
 

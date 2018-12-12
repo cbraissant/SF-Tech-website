@@ -39,16 +39,16 @@ specs:
       - "<strong>Seams:</strong> 3-5 layers of urethane sealant"
 
 highlights:
-  - icon: assets/img/icons/feather.svg
+  - icon: feather.svg
     title: Lightweight
     sub: At only 3.5kg, the SF Tech Trilam Classic is a light holiday-friendly suit
-  - icon: assets/img/icons/zipper.svg
+  - icon: zipper.svg
     title: YKK metal zipper
     sub: YKK Proseal<sup>&reg;</sup> is a strong and reliable watertight fastening solution
-  - icon: assets/img/icons/maximize.svg
+  - icon: maximize.svg
     title: Telescopique torso
     sub: The front entry zipper with a telescopic torso ease the donning and doffing process
-  - icon: assets/img/icons/pencil.svg
+  - icon: pencil.svg
     title: "Only one size: YOURS"
     sub: To guarantee perfection, all SF Tech drysuit are made to measure with your choice of options and colors
 

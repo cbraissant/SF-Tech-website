@@ -12,16 +12,16 @@ hero-image: assets/img/jpg/1920/undersuit-logo-0630.jpg
 hero-style: overlay
 
 highlights:
-  - icon: assets/img/icons/polartec.svg
+  - icon: polartec.svg
     title: Polartec<sup>&reg;</sup> Power Stretch<sup>&reg;</sup>
     sub: Flexible, breathable and heat retaining material
-  - icon: assets/img/icons/flame.svg
+  - icon: flame.svg
     title: Heating ready
     sub: Pockets and wire holes ready for the SF Tech heating system
-  - icon: assets/img/icons/fist.svg
+  - icon: fist.svg
     title: Wrist straps & Thumb Holes
     sub: To keep the sleeve in place while gearing up and having  a better fit under drygloves
-  - icon: assets/img/icons/snow-flake.svg
+  - icon: snow-flake.svg
     title: Design for cold weather
     sub: Fabric and thickness providing enough warmth for freezing cold temperatures
 

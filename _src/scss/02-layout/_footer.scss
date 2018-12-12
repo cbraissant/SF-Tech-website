@@ -26,14 +26,15 @@ footer {
   text-align: center;
 }
 
-.social-image {
-  display: block;
-  height: 2rem;
-}
-
 .social-link {
+  display: block;
   padding: 5px;
-  border-radius: 10%;
+  border-radius: 10px;
+  svg {
+    display: block;
+    max-height: 4rem;
+    max-width: 4rem;
+  }
 }
 
 .social-facebook:hover {

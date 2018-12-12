@@ -1,70 +1,38 @@
 //  #CONTENT
 // ==========================================================================
+
 .content-section {
-  padding-top: $header-height;
-  z-index: 1;
-
-  // Background styles
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-
-.content-wrapper {
-    // Positioning and sizing
-    @include mq(laptop) {
-    display: flex;
-    // Text styles
-    justify-content: space-between;
-    // Background and borders
-    background-position: center center;
-    background-size: contain;
-    background-repeat: no-repeat;
-  } 
-}
-
-.content-text {
-  // Positioning and sizing
-  position: relative;
-  margin: 0 auto;
-  max-width: 30rem;
-  width: 100%;
+  padding: 0;
   @include mq(laptop) {
-    width: 40%;
-    margin: auto $padding auto auto;
-  } 
-  // Text styles
-  text-align: justify;
+    display: flex;
+    flex-direction: row-reverse;
+    height: 100%;
+  }
+}
+
+.content-half {
+  @include mq(laptop) {
+    width: 50%;
+    display: flex;
+    flex: 1;
+  }
+}
+
+.content-inner {
+  max-width: 35rem;
+  margin: auto;
+  padding: $spacing;
+}
+
+.content-picture {
+  min-height: 50vh;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
 }
 
 .content-title {
-  // Padding and margin
-  padding-bottom: $padding;
-  margin-bottom: 2rem;
-  // borders
   border-bottom: 1px solid $yellow;
-}
-
-//  #PICTURE SIDE
-// ==========================================================================
-.content-picture {
-  padding: $padding;
-  width: 100%;
-  max-width: 40rem;
-  margin: 0 auto;
-  text-align: center;
-  @include mq(tablet) {
-    // Positioning and sizing
-    margin-left: 4rem;
-    margin-right: auto;
-    width: 60%;
-  }
-  display: block;
-  max-height: calc(85vh + 2rem);
-  // background-image: radial-gradient(#333 30%, black 70%);
-}
-
-.content-image {
-  max-height: 85vh;
-  max-width: 100%;
+  padding-bottom: $padding;
+  margin-bottom: $padding;
 }

@@ -36,16 +36,16 @@ specs:
     - "<strong>Weight (cable included):</strong> 1510g / 1040g"
 
 highlights:
-  - icon: assets/img/icons/fiber.svg
+  - icon: fiber.svg
     title: Carbon fiber canister
     sub: Strong, lightweight and durable material
-  - icon: assets/img/icons/battery-full.svg
+  - icon: battery-full.svg
     title: 5 LEDs fuelgauge
     sub: The charge of the battery can be check directly on the battery pack
-  - icon: assets/img/icons/batteries.svg
+  - icon: batteries.svg
     title: Multiple configurations
     sub: Choose the best option for your need from 4 differents configurations available
-  - icon: assets/img/icons/finger-push.svg
+  - icon: finger-push.svg
     title: Simple locking mechanism
     sub: A spring loaded push pin locks the head to the canister
 

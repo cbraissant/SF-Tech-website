@@ -23,6 +23,11 @@
   font-weight: 700;
 }
 
-.highlights-image {
+.highlights-picture svg {
   max-height: 72px;
+  fill: $yellow;
+}
+
+.highlights-description {
+  padding: 0;
 }

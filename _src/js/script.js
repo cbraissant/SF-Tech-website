@@ -102,3 +102,24 @@ ScrollReveal().reveal('.jsReveal', {
   reset: true,
 });
 
+
+
+
+
+    
+
+// Smooth Scroll
+// -------------------------------------------------------
+// Ease the jump to a link in the same page
+let anchorlinks = document.querySelectorAll('a[href^="#"]')
+for (let item of anchorlinks) { // relitere 
+    item.addEventListener('click', (e)=> {
+        let hashval = item.getAttribute('href')
+        let target = document.querySelector(hashval)
+        target.scrollIntoView({
+            behavior: 'smooth'
+        })
+        history.pushState(null, null, hashval)
+        e.preventDefault()
+    })
+}

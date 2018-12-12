@@ -1,25 +1,18 @@
-<section class="content-section"
-         style="background-image: url('{{site.baseurl}}assets/img/suits/background.jpg')"
-         id="content">
-  <div class="wrapper-wide content-wrapper">
+<section class="content-section" id="content">
 
-    <div class="content-text">
-      <h3 class="content-title">{{page.title}}</h3>
-      
-      {{ content }}
- 
-    </div>
-    
-    <div class="content-picture">
-       {% for slide in page.image %}
-       <img class="content-image" src="{{ site.baseurl }}{{ slide }}">
-       {% endfor %}
-      </div>
-    </div>
-
+  <div class="content-half">
+       <div class="content-picture"
+            style="background-image: url('{{site.baseurl}}{{page.hero-image}}')">
+       </div>
   </div>
+
+  <div class="content-half">
+    <div class="content-inner">
+      <div class="content-data">
+        <h3 class="content-title">Specifications</h3>
+        {{ content }}
+       </div>
+     </div>
+  </div>
+
 </section>
-
-
-
-

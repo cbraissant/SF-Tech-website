@@ -1,7 +1,7 @@
 ---
 layout: suit
 lang: en
-permalink: /en/tnt
+permalink: /fr/tnt
 categories: drysuit
 
 title: "TNT: Titanium Neoprene Trilaminate"
@@ -38,16 +38,16 @@ specs:
       - "<strong>Étanchéité:</strong> 3-5 couches d'Aquasure"
 
 highlights:
-  - icon: assets/img/icons/shield.svg
+  - icon: shield.svg
     title: Entièrement en Kevlar
     sub: Incroyablement résistante
-  - icon: assets/img/icons/zipper.svg
+  - icon: zipper.svg
     title: Fermeture métal
     sub: YKK Proseal
-  - icon: assets/img/icons/maximize.svg
+  - icon: maximize.svg
     title: Torse télescopique
     sub: Aisance et facilité d'habillage
-  - icon: assets/img/icons/pencil.svg
+  - icon: pencil.svg
     title: Sur mesure
     sub: "Une seule taille disponible: la&nbsp;tienne"
 

@@ -14,16 +14,16 @@ cta:
     text: Product highlights
 
 highlights:
-  - icon:
+  - icon: polartec.svg
     title: Low profile
-    sub: 
-  - icon: assets/img/icons/maximize.svg
+    sub: blablabla
+  - icon: maximize.svg
     title: Reversible
     sub: The air intake can be swapped side for better hose routing
-  - icon:
+  - icon: polartec.svg
     title: Apeks compatible
     sub: The valve can be mounted on any Apeks pads
-  - icon: assets/img/icons/drop.svg
+  - icon: drop.svg
     title: Waterproof connector
     sub: The E/O cord is designed to be plugged and unplugged underwater
 

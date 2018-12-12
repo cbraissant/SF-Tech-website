@@ -12,16 +12,16 @@ hero-image: assets/img/jpg/1920/undersuit-logo-0630.jpg
 hero-style: overlay
 
 highlights:
-  - icon: assets/img/icons/polartec.svg
+  - icon: polartec.svg
     title: Polartec<sup>&reg;</sup> Power Stretch<sup>&reg;</sup>
     sub: Flexible, breathable and heat retaining material
-  - icon: assets/img/icons/bacteria.svg
+  - icon: bacteria.svg
     title: Odor and bacteria resistant
     sub: A silver salt (salt chloride) inhibits the growth of odor causing bacteria for the life of the garment
-  - icon: assets/img/icons/foot-strap.svg
+  - icon: foot-strap.svg
     title: Large foot strap
     sub: Keep the undergarment in place while donning the drysuit
-  - icon: assets/img/icons/humidity.svg
+  - icon: humidity.svg
     title: Breathable material
     sub: Allow the water humidity to go through the material keeping the skin dry and warm
 

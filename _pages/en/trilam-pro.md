@@ -38,16 +38,16 @@ specs:
       - "<strong>Seams:</strong> 3-5 layers of urethane sealant"
 
 highlights:
-  - icon: assets/img/icons/shield.svg
+  - icon: shield.svg
     title: Full Kelvar
     sub: Kevlar<sup>&reg;</sup> reinforced fabric is used on the whole suit, making it incredibly resistant
-  - icon: assets/img/icons/zipper.svg
+  - icon: zipper.svg
     title: YKK metal zipper
     sub: YKK Proseal<sup>&reg;</sup> is a strong and reliable watertight fastening solution
-  - icon: assets/img/icons/maximize.svg
+  - icon: maximize.svg
     title: Telescopic torso
     sub: The front entry zipper with a telescopic torso ease the donning and doffing process
-  - icon: assets/img/icons/pencil.svg
+  - icon: pencil.svg
     title: "Only one size: YOURS"
     sub: To guarantee perfection, all SF Tech drysuit are made to measure with your choice of options and colors
 

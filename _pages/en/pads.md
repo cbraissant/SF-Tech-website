@@ -11,16 +11,16 @@ hero-image: assets/img/jpg/1920/undersuit-logo-0630.jpg
 hero-style: overlay
 
 highlights:
-  - icon: assets/img/icons/pads.svg
+  - icon: pads.svg
     title: Modular system
     sub: Allows to remove or replace a single pads by yourself
-  - icon: assets/img/icons/humidity.svg
+  - icon: humidity.svg
     title: Breathable material
     sub: Allow the water humidity to go through the material keeping the skin dry and warm
-  - icon: assets/img/icons/heat.svg
+  - icon: heat.svg
     title: Heating fabric
     sub: Technology using a large heating surface for more uniformity
-  - icon: assets/img/icons/invisible.svg
+  - icon: invisible.svg
     title: Invisible wires
     sub: Fully compatible with the SF Tech undergarments, all the wires for the heating pads are hidden inside the lining of the sweater
 

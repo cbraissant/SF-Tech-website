@@ -12,16 +12,16 @@ hero-image: assets/img/jpg/1920/
 hero-style: overlay
 
 highlights:
-  - icon: assets/img/icons/polartec.svg
+  - icon: polartec.svg
     title: Polartec<sup>&reg;</sup> Power Stretch<sup>&reg;</sup>
     sub: Flexible, breathable and heat retaining material
-  - icon: assets/img/icons/thermometer.svg
+  - icon: thermometer.svg
     title: Heating ready
     sub: Pockets and wire holes ready for the heating system
-  - icon: assets/img/icons/vest.svg
+  - icon: vest.svg
     title: Large crotch strap
     sub: To maintain the undergarments in place when donning and doffing the drysuit
-  - icon: assets/img/icons/pencil.svg
+  - icon: pencil.svg
     title: Thumb holes
     sub: To keep the sleeve in place while gearing up
 

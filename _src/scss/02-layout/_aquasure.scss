@@ -1,9 +1,10 @@
 .aquasure-section {
   // Positioning and sizing
   display: flex;
-  height: 70vh;
+  min-height: 50vh;
+  max-height: 60vh;
   margin: auto;
-  padding: $padding;
+  padding: $spacing $padding;
 
   // Background and borders
   background-position: center 90%;

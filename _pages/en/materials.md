@@ -35,7 +35,7 @@ materials:
     <p>By combining the heat properties of the neoprene and the reflective layers of Titanium, TNT drysuit feels nearly twice as warm as a corresponding butyl trilaminate drysuit.</p>
     <p>As with our butyl trilaminate, state of the art textiles are used on our TNT. The Kevlar outer layer is exactly the same and consist of Kevlar reinforced Nylon and Polyester, whereas the inner layer is made of Nylon.</p>"
 
-  - title: Polartec <sup>®</sup>
+  - title: Polartec<sup>®</sup>
     style: color-switch
     data: "<p>Polartec® Power Stretch® has the ability to retain warmth without restricting movement or agility during activities. The outer surface has a low-friction finish that reduces irritation when worn with other fabrics and increases overall abrasion resistance. The next-to-skin layer stays dry, breathable and comfortable by continuously transferring moisture vapor for rapid evaporation. Reinforced elastic fibers ensure the fabric consistently rebounds after every stretch.</p>
     <p>This versatility provides flexible support and warmth for reliable comfort in any sport based activity. Polartec® wicks moisture like a base material, but can handle direct exposure to the elements when necessary.</p>

@@ -19,6 +19,8 @@
 
 @mixin titlefont() {
   font-family: 'Oswald', sans-serif;
+  font-family: "HelveticaNeue-CondensedBold", "Helvetica Neue Condensed Bold", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+  font-weight: 900;
 }
 
 
@@ -39,10 +41,10 @@ p {
 
 
 h1 {
-  @include fluid-type(20rem, 75rem, 2.4rem, 4.8rem);
-  color: $white;
+  @include fluid-type(20rem, 75rem, 2.4rem, 6rem);
   @include titlefont();
-  font-weight: 900;
+  color: $white;
+  line-height: 1em;  
   text-shadow: 2px 2px #000;
   text-transform: uppercase;
 }
@@ -51,7 +53,7 @@ h2 {
   @include fluid-type(20rem, 75rem, 1.6rem, 3.2rem);
   @include titlefont();
   color: $yellow;
-  @include titlefont();
+  line-height: 1em;
   text-shadow: 2px 2px #000;
   text-transform: uppercase;
 }
@@ -61,16 +63,15 @@ h3 {
   @include fluid-type(20rem, 75rem, 1.2rem, 2.4rem);
   @include titlefont();
   color: $text-color;
+  line-height: 1em;
   font-weight: 200;
-  text-transform: uppercase;
+  // text-transform: uppercase;
 }
 
 
 h4 {
-  @include fluid-type(20rem, 75rem, 1rem, 1.2rem);
-  @include titlefont();
-  font-weight: 200;
-  text-transform: uppercase;
+  @include fluid-type(20rem, 75rem, 1.2rem, 1.6rem);
+  @include boldfont();
 }
 
 

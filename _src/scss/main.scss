@@ -40,10 +40,13 @@
 @import "01-base/typography";
 
 // LAYOUT
-@import "02-layout/header";
 @import "02-layout/container";
-@import "02-layout/home";
+@import "02-layout/header";
 @import "02-layout/menu";
+
+@import "02-layout/home";
+
+@import "02-layout/product";
 @import "02-layout/hero";
 @import "02-layout/content";
 @import "02-layout/custom";
@@ -64,6 +67,7 @@
 
 // THEME
 @import "05-theme/color-switch";
+@import "05-theme/theme";
 
 // UTILITIES
 @import "06-utilities/utilities";

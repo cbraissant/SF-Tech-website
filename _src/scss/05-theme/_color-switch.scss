@@ -1,12 +1,10 @@
-//  #CONTENT
+//  #COLOR-SWITCH
 // ==========================================================================
 
-.color-switch h3 {
+// Switch the main and background colors
+.color-switch {
   color: $text-color-switch;
-}
-
-.color-switch .content-title {
-  border-bottom: 1px solid $text-color-switch;
+  background-color: $background-color-switch;
 }
 
 .color-switch button:hover,

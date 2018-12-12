@@ -1,7 +1,7 @@
 ---
 layout: suit
 lang: en
-permalink: /en/kevlar-pro
+permalink: /fr/kevlar-pro
 categories: drysuit
 
 title: Neoprene Kevlar Pro
@@ -14,16 +14,16 @@ cta:
     text: Product highlights
 
 highlights:
-  - icon: assets/img/icons/shield.svg
+  - icon: shield.svg
     title: Entièrement en Kevlar
     sub: Incroyablement résistante
-  - icon: assets/img/icons/zipper.svg
+  - icon: zipper.svg
     title: Fermeture métal
     sub: YKK Proseal
-  - icon: assets/img/icons/thermometer.svg
+  - icon: thermometer.svg
     title: Neoprène Yamamoto
     sub: Protection thermique et souplesse incomparable
-  - icon: assets/img/icons/pencil.svg
+  - icon: pencil.svg
     title: Sur mesure
     sub: "Une seule taille disponible: la&nbsp;tienne"
 

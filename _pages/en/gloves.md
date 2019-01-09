@@ -1,7 +1,10 @@
 ---
 layout: heating
+
 lang: en
-permalink: /en/gloves
+namespace: gloves
+permalink: /en/gloves/
+
 categories: heating
 
 title: Heating gloves
@@ -41,11 +44,13 @@ specs:
     - "<strong>Output power (max):</strong> 36W @ 12.6V"
     - "<strong>Operating current (max):</strong> 2.85A @ 12.6V"
     - "<strong>Approximate autonomy (23.8Ah):</strong> 8h00"
-
+image:
+  - assets/img/suits/heating-gloves.png
+  
 link-card:
   - pants
-  - gloves
-  - valves
+  - pads
+  - valve
   - batteries
 
 ---

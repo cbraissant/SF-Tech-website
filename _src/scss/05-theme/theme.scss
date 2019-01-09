@@ -49,8 +49,9 @@
 .lighttheme .btn:hover,
 .lighttheme .btn:focus,
 .lighttheme .btn:active, {
-  color: $button-text;
-  border-color: $button-border;
+  color: $light-button-text;
+  border: 2px solid $light-button-border;
+  @include boldfont();
 }
 
 .lighttheme button,

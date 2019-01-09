@@ -3,11 +3,11 @@
 
 .masthead {
   // Positioning and sizing
-  position: fixed;
   height: $header-height-phone;
+  position: fixed;
+  top: 0;
   width: 100%;
   z-index: 10;
-  top: 0;
 
 
   // Background and borders
@@ -28,16 +28,37 @@
   @include mq(laptop) {
     position: absolute;
     height: $header-height;
-    padding: 5px;
     left: 50%;
     transform: translateX(-50%);
   }
 }
 
-.menu-icon {
+.masthead-lang {
+  // Positioning and sizing
   position: absolute;
-  right: $padding;
-  top: 10px;
-  font-size: 30px;
-  line-height: 1em;
+  height: $header-height-phone;
+  padding: $header-height-phone/2;
+  right: 60px;
+  top: 0;
+  z-index: 100;
+
+  // Text styles
+  line-height: 0px;
+
+  @include mq(laptop) {
+    right: 0;
+    height: $header-height;
+    padding-top: $header-height/2;
+  }
+
+  .lang-selected {
+    @include boldfont;
+  }
+  
+  a,
+  a:visited,
+  a:active,
+  a:hover {
+    color: $text-color;
+  }
 }

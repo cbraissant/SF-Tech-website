@@ -1,4 +1,15 @@
+.related-section {
+  padding: 0;
+}
+
+.related-card {
+  width: 100%;
+  @include mq(tablet) {width: 50%;}
+  @include mq(desktop) {width: 25%;}
+}
+
 .related-grid {
-  @include grid(1,2,4);
-  grid-gap: $padding;
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
 }

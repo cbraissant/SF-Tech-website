@@ -1,0 +1,27 @@
+//  #OPTIONS
+// ==========================================================================
+
+.options-title {
+  border-bottom: 1px solid $yellow;
+  padding-bottom: $padding;
+  margin-bottom: $padding;
+}
+
+.option-wrapper {
+}
+
+.options-table {
+  margin: 0 auto;
+}
+
+.options-table td,
+.options-table th {
+  padding: 5px;
+  @include mq(laptop) {
+    padding: 10px 20px;
+  }
+}
+
+.options-table-data:nth-child(even) {
+  background: $dark-gray;
+}

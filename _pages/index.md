@@ -1,7 +1,9 @@
 ---
 layout: home
+
 lang: en
-permalink: /index.html
+namespace: home
+permalink: /
 
 title: SF Tech | Heavy duty drysuits
 subtitle: For recreational and technical divers
@@ -17,7 +19,7 @@ cards:
     style: grid-col2
   - type: valve
     style: grid-row2
-  - type: commando
+  - type: pads
   - type: batteries
     style: grid-row2
   - type: gloves
@@ -26,5 +28,8 @@ cards:
     style: grid-col2
   - type: trilam
   - type: kevlar-pro
+  - type: expertise
+    style: grid-col2
   - type: sweater
+  - type: commando
 ---

@@ -6,42 +6,42 @@ classic:
   sub: Performance Meets Efficiency
   img: cecile-surface
   type: jpg
-  link: /en/classic.html
+  link: /classic
 
 kevlar-pro:
   title: Neoprene Kevlar Pro
   sub: Most durable suit on the market
   img: walz
   type: jpg
-  link: /en/kevlar-pro.html
+  link: /kevlar-pro
 
 trilam:
   title: Trilam Classic Kelvar
   sub: Lightness and durability
-  img: tom-trilam-2
+  img: sandra-3007a
   type: jpg
-  link: /en/trilam.html
+  link: /trilam
 
 trilam-pro:
   title: Trilam Kevlar Pro
   sub: Durability without compromise
-  img: scooter-down
+  img: tom-trilam-2
   type: jpg
-  link: /en/trilam-pro.html
+  link: /trilam-pro
 
 tnt:
   title: Titanium Neoprene Trilaminate
   sub: The best of both world
   img: slawek-packo-v3
   type: jpg
-  link: /en/tnt.html
+  link: /tnt
 
 commando:
   title: Special Forces
   sub: Military grade drysuits
   img: commando-1632
   type: jpg
-  link: /en/special-forces.html
+  link: /special-forces
 
 
 
@@ -53,7 +53,21 @@ sweater:
   sub: High performance undergarments
   img: undersuit-logo-0630
   type: jpg
-  link: /en/sweater.html
+  link: /sweater
+
+pants:
+  title: Polartec Pants
+  sub: High performance undergarments
+  img: undersuit-logo-0630
+  type: jpg
+  link: /sweater
+
+vest:
+  title: Polartec Vest
+  sub: High performance undergarments
+  img: undersuit-logo-0630
+  type: jpg
+  link: /sweater
 
 
 
@@ -62,30 +76,30 @@ sweater:
 pads:
   title: Heating Pads
   sub: Modularity at its best
-  img: heating-valve-0201
+  img: rollup_heathing
   type: jpg
-  link: /en/pads.html
+  link: /pads
 
 valve:
   title: Heating valve
-  sub: Winter is coming
+  sub: The gate to the warmth
   img: heating-valve-0201
   type: jpg
-  link: /en/valves.html
+  link: /valve
 
 gloves:
   title: Heating gloves
   sub: Warm and comfortable
   img: gant-surface
   type: jpg
-  link: /en/gloves.html
+  link: /gloves
 
 batteries:
   title: Batteries
   sub: High Tech Energy
   img: batteries-0396
   type: jpg
-  link: /en/batteries.html
+  link: /batteries
 
 
 
@@ -96,14 +110,23 @@ contact:
   sub: Let's get in touch
   img: facade-1211
   type: jpg
-  link: /en/contact.html
+  link: /contact
 
 materials:
   title: Our materials
   sub: High quality only
   img: material-0527
   type: jpg
-  link: /en/materials.html
+  link: /materials
+
+expertise:
+  title: Area of expertise
+  sub: What we can do
+  img: UTP-Ice
+  type: jpg
+  link: /expertise
+
+
 
 
 

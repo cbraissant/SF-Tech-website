@@ -29,7 +29,7 @@ highlights:
 
 specs:
   - name: Characteristics
-    id: charcteristics
+    id: characteristics
     data: 
       - Fermeture frontale ou dorsale
       - Torse télescopique facilitant l’habillage

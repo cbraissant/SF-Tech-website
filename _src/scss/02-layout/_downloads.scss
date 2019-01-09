@@ -1,0 +1,49 @@
+//  #DOWNLOADS
+// ==========================================================================
+.downloads-section {
+  padding-top: $header-height-phone;
+  @include mq(laptop) {
+    padding-top: $header-height;
+  }
+}
+.downloads-file {
+  // Positioning and sizing
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  margin-bottom: $spacing;
+
+}
+
+.downloads-box {
+  // Positioning and sizing
+  position: relative;
+  padding: 10px;
+  width: 160px;
+  height: 200px;
+  margin: 5px;
+
+  // Background and borders
+  background-color: $dark-gray;
+
+  // Text styles
+  text-align: center;
+}
+
+.downloads-icon {
+  max-width: 140px;
+  max-height: 100px;
+}
+
+.downloads-title {
+  border-bottom: 1px solid $yellow;
+  padding-bottom: $padding;
+  margin-bottom: $spacing;
+}
+
+.downloads-links,
+.downloads-links:hover,
+.downloads-links:active,
+.downloads-links:visited {
+  color: $text-color;
+}

@@ -1,13 +1,16 @@
 ---
 layout: heating
+
 lang: en
-permalink: /en/pads
+namespace: pads
+permalink: /en/pads/
+
 categories: clothes
 
 title: Heating Pads
 subtitle: High Perfomance Undergarments
 
-hero-image: assets/img/jpg/1920/undersuit-logo-0630.jpg
+hero-image: assets/img/jpg/1920/rollup_heathing.jpg
 hero-style: overlay
 
 highlights:

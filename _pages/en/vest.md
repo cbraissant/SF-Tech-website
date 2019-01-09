@@ -1,14 +1,16 @@
 ---
 layout: heating
-lang: en
-permalink: /en/vest
-categories: clothes
 
+lang: en
+namespace: vest
+permalink: /en/vest/
+
+categories: clothes
 
 title: Polartec Vest
 subtitle: 
 
-hero-image: assets/img/jpg/1920/
+hero-image: assets/img/jpg/1920/undersuit-logo-0630.jpg
 hero-style: overlay
 
 highlights:
@@ -47,7 +49,7 @@ image:
 link-card:
   - pants
   - gloves
-  - valves
+  - valve
   - batteries
 
 ---

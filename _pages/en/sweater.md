@@ -1,9 +1,11 @@
 ---
 layout: heating
-lang: en
-permalink: /en/sweater
-categories: clothes
 
+lang: en
+namespace: sweater
+permalink: /en/sweater/
+
+categories: clothes
 
 title: Polartec Sweater
 subtitle: High Perfomance Undergarments

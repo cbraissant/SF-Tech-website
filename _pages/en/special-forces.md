@@ -1,7 +1,10 @@
 ---
 layout: suit
+
 lang: en
-permalink: /en/special-forces
+namespace: special-forces
+permalink: /en/special-forces/
+
 categories: drysuit
 
 title: Special Forces
@@ -9,9 +12,8 @@ subtitle: Bespoke drysuits for professionnals
 hero-image: assets/img/jpg/1920/commando-1632.jpg
 hero-style: overlay
 
-cta:
-  - link: "contact.html"
-    text: Contact us
+image:
+  - assets/img/suits/special-forces.png
 
 link-card:
   - kevlar-pro

@@ -1,0 +1,59 @@
+//  #generic
+// ==========================================================================
+.materials-section {
+  padding: 0;
+  margin: 0;
+}
+
+.row {
+  // Positioning and sizing
+  display: flex;
+  width: 100%;
+  padding: $spacing;
+}
+
+.col {
+  flex: 1;
+}
+
+.col-1-2-2 {
+  width: 100%;
+  @include mq(tablet) {
+    width: 50%;
+  }
+}
+
+.constrain {
+  max-width: 35rem;
+  margin: auto;
+  padding: $padding;
+}
+
+.align-right {
+  @include mq(laptop) {
+    margin-left: auto;
+    margin-right: 0;
+  }
+}
+
+.align-left {
+  @include mq(laptop) {
+    margin-left: 0;
+    margin-right: auto;
+  }
+}
+
+// underline
+.underline {
+  border-bottom: 1px solid $yellow;
+  padding-bottom: $padding;
+  margin-bottom: $padding;
+}
+
+.rtl.row {
+  flex-direction: row-reverse;
+}
+
+.materials-image {
+  width: 100%;
+}

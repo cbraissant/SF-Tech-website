@@ -1,0 +1,36 @@
+.warranty-content {
+  // Positioning and sizing
+  max-width: 1200px;
+  margin: 0 auto;
+
+  // Text styles
+  text-align: center;
+
+  // Background and borders
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.warranty-text {
+  // Positioning and sizing
+  padding: $padding;
+
+  // Text styles
+  color: white;
+  font-size: 250%;
+  font-weight: 900;
+  line-height: 1;
+}
+
+.warranty-logo {
+  // Positioning and sizing
+  margin: $padding;
+  max-width: 80px;
+}
+
+.warranty-writing {
+  // Positioning and sizing
+  padding: $padding;
+  max-width: 180px;
+}

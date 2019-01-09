@@ -1,7 +1,10 @@
 ---
 layout: heating
+
 lang: en
-permalink: /en/batteries
+namespace: batteries
+permalink: /en/batteries/
+
 categories: heating
 
 title: Batteries
@@ -12,7 +15,7 @@ hero-style: overlay
 
 specs:
   - name: Characteristics
-    id: charcteristics
+    id: characteristics
     data:
     - Two different sizes and capacities (23.8 Ah / 13.6 Ah)
     - Two heads versions (standard / sidemount)
@@ -34,6 +37,10 @@ specs:
     - "<strong>Length:</strong> 270mm / 185mm"
     - "<strong>Diameter:</strong> 61mm / 61mm"
     - "<strong>Weight (cable included):</strong> 1510g / 1040g"
+    - "<strong>Autonomy:</strong><br>
+        Pads only: 7h15 / 4h00<br>
+        Gloves only: 8h00 / 4h30<br>
+        Pads and gloves: 3h45 / 2h00"
 
 highlights:
   - icon: fiber.svg
@@ -56,7 +63,7 @@ link-card:
   - pads
   - sweater
   - gloves
-  - pants
+  - valve
   
 ---
 The SF Tech heating system is based on a modular principle that makes it easy to remove or replace heating elements. This system uses heated pads made of breathable fabric that are connected to each other through an electrical wiring. The modular system makes it possible to replace pads or wire, quickly and without having to change the undergarment.

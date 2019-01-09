@@ -105,14 +105,14 @@
   }
 
   .menu-dropdown {
-    flex: 1;
     border: none;
   }
 
   .menu-item {
     height: $header-height;
+    padding: 5px;
     padding-top: $header-height/2;
-    min-width: 8rem;
+    min-width: 120px;
     line-height: 0px;
   }
   
@@ -128,12 +128,12 @@
 
     // Background and borders
     border-radius: 0 0 15px 15px;
-    border: 1px solid $dark-gray;
+    border: 1px solid $black;
     background-color: $header-background;
   }
   // Add a space for the logo
   .menu-dropdown:nth-child(3) {
-    margin-right: 100px;
+    margin-right: $header-height + 30px;
   }
 
   .menu-dropdown:hover .menu-sublist,

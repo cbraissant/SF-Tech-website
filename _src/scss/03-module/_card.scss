@@ -11,8 +11,10 @@
   position: relative;
   min-height: 200px;
   height: 100%;
+
+  min-width: 300px;
   width: 100%;
-  
+
   // Text styles
   display: flex;
   flex-direction: column;
@@ -57,6 +59,7 @@
   // Positioning and sizing
   z-index: 2;
   margin: auto; // center verticaly and horizontally
+  padding: $padding;
   
   // Text styles
   @include titlefont();

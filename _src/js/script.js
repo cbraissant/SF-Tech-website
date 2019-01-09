@@ -84,7 +84,15 @@ $(window).on('scroll', function () {
     $("#masthead").addClass("is-scroll");
   }
   else {
-    $("#masthead").removeClass("is-scroll");   
+    $("#masthead").removeClass("is-scroll");
+  }
+});
+
+// hide the scroll wheel when the window is scrolled
+$(window).on('scroll', function () {
+  var scrollTop = $(window).scrollTop();
+  if (scrollTop > 50) {
+    $("#icon-scroll").addClass("is-scroll");
   }
 });
 
@@ -117,9 +125,11 @@ for (let item of anchorlinks) { // relitere
         let hashval = item.getAttribute('href')
         let target = document.querySelector(hashval)
         target.scrollIntoView({
-            behavior: 'smooth'
+            behavior: 'smooth',
+            block: "start"
         })
         history.pushState(null, null, hashval)
+        target.scrollTop += 100;
         e.preventDefault()
     })
 }

@@ -1,7 +1,9 @@
 ---
 layout: contact
+
 lang: en
-permalink: /en/contact
+namespace: contact
+permalink: /en/contact/
 
 title: Contact Us
 subtitle: Let's get in touch

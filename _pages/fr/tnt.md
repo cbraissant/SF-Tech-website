@@ -15,7 +15,7 @@ cta:
 
 specs:
   - name: Characteristics
-    id: charcteristics
+    id: characteristics
     data:
       - Matériel révolutionnaire à base de néoprene haute densité
       - Entièrement recouverte de kevlar®

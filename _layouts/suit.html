@@ -4,14 +4,27 @@ layout: default
 
 {% include product.html %}
 
-{% include highlights.html %}
+{% if page.highlights %}
+  {% include highlights.html %}
+{% endif %}
 
-{% include content.html %}
+{% include description.html %}
 
-{% include pictures.html %}
+{% if page.pictures %}
+  {% include pictures.html %}
+{% endif %}
 
-{% include technical.html %}
+{% if page.specs %}
+  {% include technical.html %}
+{% endif %}
+
+{% if page.options %}
+  {% include options.html %}
+{% endif %}
 
 {% include aquasure.html %}
 
+{% include warranty.html %}
+
 {% include related.html %}
+

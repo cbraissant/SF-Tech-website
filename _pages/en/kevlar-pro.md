@@ -1,7 +1,10 @@
 ---
 layout: suit
+
 lang: en
-permalink: /en/kevlar-pro
+namespace: kevlar-pro
+permalink: /en/kevlar-pro/
+
 categories: drysuit
 
 title: Neoprene Kevlar PRO
@@ -29,9 +32,8 @@ highlights:
 
 specs:
   - name: Characteristics
-    id: charcteristics
+    id: characteristics
     data:
-    - Hyper-compress 2mm close-cell neoprene foam
     - Kevlar<sup>&reg;</sup> reinforcements on critical areas
     - Front entry YKK metal zipper
     - Telescopic torso with crotch strap
@@ -43,7 +45,7 @@ specs:
   - name: Technical Data
     id: data
     data:
-      - "<strong>Waterproof layer:</strong> Hyper-compressed 2mm neoprene"
+      - "<strong>Waterproof layer:</strong> Hyper-compressed 2mm neoprene foam"
       - "<strong>External fabric (Kevlar):</strong> Kevlar, nylon, spandex"
       - "<strong>External fabric (SP):</strong> Polyester, nylon, spandex"
       - "<strong>Internal Fabric:</strong> Nylon (70 deniers)"

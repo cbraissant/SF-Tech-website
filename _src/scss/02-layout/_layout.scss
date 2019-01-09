@@ -1,0 +1,33 @@
+.padded {
+  padding: $spacing;
+}
+
+.center {
+  margin: 0 auto;
+}
+
+.row {
+  width: 100%;
+  display: flex;
+}
+
+.rtl {
+  flex-direction: row-reverse
+}
+
+.col-1-2-2 {
+  width: 100%;
+  @include mq(tablet) { width: 50%; }
+}
+
+.full-img {
+  width: 100%;
+  min-height: 400px;
+  height: 100%;
+}
+
+.cover {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}

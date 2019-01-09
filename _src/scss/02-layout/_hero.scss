@@ -5,16 +5,21 @@
   // Positioning and sizing
   position: relative;
   z-index: 1;
+
+  padding-top: $header-height-phone;
+  @include mq(laptop) {padding-top: $header-height;}
+
   min-height: 400px;
-  height: 100vh;
-  max-height: 100%;
-  @include mq(laptop) {max-height: 80vh;}
+  height: 80vh;
+
+  width: 100vw;
+  max-width: 100%;
+  @include mq(laptop) {max-height: 75vh;}
 
   // Background styles
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  background-attachment: fixed;
 }
 
 .hero-wrapper {
@@ -33,10 +38,10 @@
   margin: auto;
 }
 
-.hero-cta {
-  // Positioning and sizing
-  position: absolute;
+.hero-scroll {
+  position: relative;
   bottom: 0;
-  left: 50%;
-  transform: translateX(-50%);
+  width: 100%;
+  margin-top: $spacing;
+  text-align: center;
 }

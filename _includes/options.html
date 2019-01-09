@@ -1,0 +1,23 @@
+<section class="options-section">
+  <div class="wrapper options-wrapper">
+    <h3 class="options-title">Options</h3>
+    <table class="options-table">
+      <tr class="options-table-head">
+        <th></th>
+        <th>Standard</th>
+        <th>Option</th>
+      </tr>
+      {% for items in page.options %}
+      <tr class="options-table-data">
+        <td>{{ items.type}}</td>
+        <td>{{ items.standard}}</td>
+        <td>{{ items.option}}</td>
+      </tr>
+      {% endfor %}
+
+    </table>
+
+
+
+  </div>
+</section>

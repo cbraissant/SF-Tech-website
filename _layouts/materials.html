@@ -4,21 +4,22 @@ layout: default
 {% include hero.html %}
 
 {% for material in page.materials %}
-<section class="content-section" id="content">
 
-  <div class="content-half">
-       <div class="content-picture">
-       </div>
+<section class="materials-section {{material.style }}">
+  <div class="row">
+    <div class="col-1-2-2">
+      <div class="constrain align-right">
+        <h3 class="underline">{{material.title}}</h3>
+        {{ material.data }}
+      </div>
+    </div>
+  
+    <div class="col-1-2-2">
+      <div class="constrain align-left">
+        <img src="{{site.baseurl}}{{ material.img }}"
+            class="materials-image" alt="">
+      </div>
+    </div>
   </div>
-
-  <div class="content-half">
-    <div class="content-inner">
-      <div class="content-data">
-        <h3 class="content-title">{{material.title}}</h3>
-       {{ material.data }}
-       </div>
-     </div>
-  </div>
-
 </section>
 {% endfor %}

@@ -1,7 +1,10 @@
 ---
 layout: suit
+
 lang: en
-permalink: /en/trilam-pro
+namespace: trilam-pro
+permalink: /en/trilam-pro/
+
 categories: drysuit
 
 title: Trilam Kevlar Pro
@@ -9,13 +12,9 @@ subtitle: Durability without compromise
 hero-image: assets/img/jpg/1920/tom-trilam-2.jpg
 hero-style: overlay
 
-cta:
-  - link: "#highlights"
-    text: Product highlights
-
 specs:
   - name: Characteristics
-    id: charcteristics
+    id: characteristics
     data:
       - Fully made of Kevlar® reinforced fabric
       - Front entry YKK metal zipper

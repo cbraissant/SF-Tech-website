@@ -1,7 +1,7 @@
 <section class="product-section"
          style="background-image: url('{{site.baseurl}}assets/img/jpg/1920/background.jpg')"
          id="content">
-  <div class="wrapper-wide product-wrapper">
+  <div class="wrapper product-wrapper">
 
     <div class="product-half">
       <div class="product-inner">
@@ -11,8 +11,14 @@
         </div>
         
         <div class="product-cta">
-          <a href="#technical" class="product-btn">View Specs</a>
-          <a href="" class="product-btn">Find a dealer</a>
+          <a href="#description" class="product-btn">
+            {% if page.lang == 'en' %}Learn more{% endif %}
+            {% if page.lang == 'fr' %}En savoir plus{% endif %}
+          </a>
+          <a href="{{site.baseurl}}{{page.lang}}/contact" class="product-btn">
+            {% if page.lang == 'en' %}Contact us{% endif %}
+            {% if page.lang == 'fr' %}Contactez-nous{% endif %}
+          </a>
         </div>
       </div>
     </div>
@@ -24,6 +30,6 @@
          {% endfor %}
       </div>
     </div>
-
   </div>
+    
 </section>

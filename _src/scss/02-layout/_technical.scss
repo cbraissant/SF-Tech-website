@@ -2,8 +2,12 @@
 // ==========================================================================
 
 .technical-section {
-  padding-top: 2*$spacing;
-  padding-bottom: 2*$spacing;
+  padding-top: $spacing;
+  padding-bottom: $spacing;
+  @include mq(tablet) {
+    padding-top: 2*$spacing;
+    padding-bottom: 2*$spacing;
+  }
 }
 
 .technical-wrapper {
@@ -16,6 +20,7 @@
 
 .technical-half {
   @include mq(laptop) {
+    display: inline-block;
     width: 50%;
     display: flex;
     flex: 1;
@@ -27,6 +32,21 @@
   max-width: 35rem;
   margin: 0 auto;
 }
+
+
+@include mq(laptop) {
+  .technical-half:nth-child(odd) .technical-inner {
+    margin-left: 0;
+    margin-right: auto;
+  }
+  .technical-half:nth-child(even) .technical-inner {
+    margin-left: auto; 
+    margin-right: 0;
+  }
+}
+
+
+
 
 .technical-list {
   display: table;
@@ -52,4 +72,4 @@
   border-bottom: 1px solid $yellow;
   padding-bottom: $padding;
   margin-bottom: $padding;
-}
+} 

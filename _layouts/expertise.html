@@ -1,0 +1,28 @@
+---
+layout: default
+---
+{% include hero.html %}
+
+<section class="">
+  <div class="wrapper expertise-wrapper">
+    {% for category in page.categories %}
+      <a href="{{ category.link }}" class="btn">{{ category.text }}</a>
+    {% endfor %}
+  </div>
+</section>
+
+{% for data in page.datas %}
+<section class="expertise-section" id="{{ data.anchor}}">
+  <img class="expertise-image" src="{{site.baseurl}}{{data.image}}" alt="">
+
+  <div class="expertise-inner {{ data.style }}">
+   <div class="expertise-data">
+     <h3 class="expertise-title">{{ data.title }}</h3>
+     {{ data.description }}
+     {% if data.link %}
+     <p class="expertise-link"><a href="{{ data.link }}">Learn more</a></p>
+     {% endif %}
+   </div>
+  </div>
+</section>
+{% endfor %}

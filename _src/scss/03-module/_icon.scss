@@ -1,0 +1,51 @@
+$icon-width: 30px;
+$icon-height: 50px;
+$icon-translate: 30px;
+$icon-timer: 2s;
+
+
+.icon-scroll,
+.icon-scroll:before {
+  top: 90vh;
+  left: 50%;
+}
+
+.icon-scroll.is-scroll {
+   opacity: 0;
+   transition: opacity 1s ease-in;
+}
+
+.icon-scroll {
+  position: fixed;
+  bottom: 0;
+  width: $icon-width;
+  height: $icon-height;
+  margin-left: -0.5 * $icon-width;
+  margin-top: -0.5 * $icon-height;
+  box-shadow: inset 0 0 0 1px #fff;
+  border-radius: 25px;
+  background-color: black;
+}
+
+.icon-scroll:before {
+  position: absolute;
+  content: '';
+  width: 8px;
+  height: 8px;
+  background: #fff;
+  top: 8px;
+  border-radius: 4px;
+  animation-duration: $icon-timer;
+  animation-iteration-count: infinite;
+  animation-name: scroll;
+  margin-left: -4px;
+}
+@keyframes scroll {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+    transform: translateY($icon-translate);
+  }
+}

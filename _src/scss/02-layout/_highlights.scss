@@ -11,8 +11,6 @@
   width: 100%;
   @include mq(tablet) {width: 50%;}   
   @include mq(laptop) {width: 25%;}
-
-  // Padding and margins
   padding: $padding;
 
   // Text styles

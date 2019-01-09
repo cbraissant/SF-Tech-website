@@ -32,6 +32,14 @@ button,
   background-color: $button-background;
 }
 
+.btn-hero {
+  display: block;
+  min-width: 100px;
+  padding-left: $spacing;
+  padding-right: $spacing;
+  margin: 5px;
+}
+
 button:hover,
 button:focus,
 button:active,

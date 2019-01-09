@@ -1,11 +1,11 @@
 <section class="technical-section darktheme" id="technical">
 
-  <div class="wrapper-wide technical-wrapper">
+  <div class="wrapper technical-wrapper">
     {% for spec in page.specs %}
     <div class="technical-half">
       <div class="technical-inner">
        <div class="technical-data">
-         <h4 class="technical-title" id="{{spec.id}}">{{  spec.name }}</h4>
+         <h4 class="technical-title" id="{{spec.id}}">{{spec.name}}</h4>
          <ul class="technical-list">
            {% for datas in spec.data %}
            <li class="technical-items">{{ datas }}</li>

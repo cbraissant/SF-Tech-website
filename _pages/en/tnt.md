@@ -1,7 +1,10 @@
 ---
 layout: suit
+
 lang: en
-permalink: /en/tnt
+namespace: tnt
+permalink: /en/tnt/
+
 categories: drysuit
 
 title: "Titanium Neoprene Trilaminate"
@@ -9,13 +12,9 @@ subtitle: The best of both worlds
 hero-image: assets/img/jpg/1920/slawek-packo-v3.jpg
 hero-style: overlay
 
-cta:
-  - link: "#highlights"
-    text: Product highlights
-
 specs:
   - name: Characteristics
-    id: charcteristics
+    id: characteristics
     data:
       - Revolutionary <strong>Patent-Pending</strong> material
       - High density Neoprene Trilaminate

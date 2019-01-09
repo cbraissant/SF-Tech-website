@@ -40,27 +40,35 @@
 @import "01-base/typography";
 
 // LAYOUT
+@import "02-layout/layout";
+
 @import "02-layout/container";
 @import "02-layout/header";
 @import "02-layout/menu";
 
 @import "02-layout/home";
+@import "02-layout/contact";
+@import "02-layout/address";
 
-@import "02-layout/product";
 @import "02-layout/hero";
-@import "02-layout/content";
-@import "02-layout/custom";
+@import "02-layout/product";
+@import "02-layout/description";
+@import "02-layout/expertise";
+@import "02-layout/highlights";
 @import "02-layout/technical";
 @import "02-layout/pictures";
+@import "02-layout/options";
+@import "02-layout/materials";
 @import "02-layout/aquasure";
-@import "02-layout/highlights";
+@import "02-layout/warranty";
 @import "02-layout/related";
-@import "02-layout/contact";
+@import "02-layout/downloads";
 @import "02-layout/footer";
 
 // MODULE
 @import "03-module/button";
 @import "03-module/card";
+@import "03-module/icon";
 
 // STATES
 @import "04-states/states";

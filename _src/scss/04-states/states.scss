@@ -43,11 +43,16 @@ body.menu-is-open {
   .masthead.is-scroll{
     height: $header-height-scroll;
     transition: all 0.4s ease-in-out;
-    border-bottom: 1px solid $dark-gray;
   }
 
   .is-scroll .masthead-logo {
     height: $header-height-scroll;
+    transition: all 0.4s ease-in-out;
+  }
+
+  .is-scroll .masthead-lang {
+    height: $header-height-scroll;
+    padding-top: $header-height-scroll/2;
     transition: all 0.4s ease-in-out;
   }
 

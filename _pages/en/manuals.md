@@ -1,7 +1,10 @@
 ---
 layout: manuals
+
 lang: en
-permalink: /en/manuals
+namespace: manuals
+permalink: /en/manuals/
+
 categories: support
 
 title: "User manuals"

@@ -1,17 +1,16 @@
 ---
 layout: heating
+
 lang: en
-permalink: /en/valve
+namespace: valve
+permalink: /en/valve/
+
 categories: drysuit
 
 title: Heating valve
 subtitle: The gate to the warmth
 hero-image: assets/img/jpg/1920/heating-valve-0201.jpg
 hero-style: overlay
-
-cta:
-  - link: "#highlights"
-    text: Product highlights
 
 highlights:
   - icon: polartec.svg
@@ -29,16 +28,30 @@ highlights:
 
 specs:
   - name: Characteristics
-    id: charcteristics
+    id: characteristics
     data:
       - Low profile
-      - Machined in Delrin
+      - Ability to reverse the position of the air intake
+      - Compatible with Apeks inflators
+      - Waterproof E/O battery connector can be unplugged underwater
+      - Waterproof push lock connector for connection to the heating system
+      - Standard cable length of about 50cm
+  - name: Technical data
+    id: technical
+    data:
+      - Machined in POM (Delrin)
+      - Standard Apeks quick disconnect pin
+      - Ø5.8mm E/O cord
       - Ability to reverse the position of the air intake
       - Compatible with Apeks inflators
       - Waterproof E/O battery connector can be unplugged underwater
       - Waterproof push lock connector for connection to the heating system
       - Standard cable length of about 50cm
 
+
+image:
+  - assets/img/suits/heating-valve-0460.png
+  
 link-card:
   - pads
   - gloves

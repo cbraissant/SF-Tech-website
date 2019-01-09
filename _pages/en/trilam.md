@@ -1,7 +1,10 @@
 ---
 layout: suit
+
 lang: en
-permalink: /en/trilam
+namespace: trilam
+permalink: /en/trilam/
+
 categories: drysuit
 
 title: Trilam Classic Kevlar
@@ -9,13 +12,9 @@ subtitle: Lightness and durability
 hero-image: assets/img/jpg/1920/sandra-3007a.jpg
 hero-style: overlay
 
-cta:
-  - link: "#highlights"
-    text: Product highlights
-
 specs:
   - name: Characteristics
-    id: charcteristics
+    id: characteristics
     data:
       - Kevlar® reinforcements on critical areas
       - Front entry YKK metal zipper

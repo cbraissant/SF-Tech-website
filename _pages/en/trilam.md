@@ -9,7 +9,7 @@ categories: drysuit
 
 title: Trilam Classic Kevlar
 subtitle: Lightness and durability
-hero-image: assets/img/jpg/1920/sandra-3007a.jpg
+hero-image: /assets/img/jpg/1920/sandra-3007a.jpg
 hero-style: overlay
 
 specs:
@@ -49,7 +49,45 @@ highlights:
     sub: The front entry zipper with a telescopic torso ease the donning and doffing process
   - icon: pencil.svg
     title: "Only one size: YOURS"
-    sub: To guarantee perfection, all SF Tech drysuit are made to measure with your choice of options and colors
+    sub: To guarantee perfection, all SF Tech drysuits are made to measure with your choice of options and colors
+
+options:
+  - type: Hood
+    standard: Spearated 6mm Neoprene Hood
+    option: Attached 6mm Neoprene Hood
+  - type: Neck Seal
+    standard: Latex
+    option: Neoprene / SiTech Orusk
+  - type: Kevlar
+    standard: Upper body, arms, crouch
+    option: Buttcocks
+  - type: Color
+    standard: Black and/or Red
+    option:
+  - type: Zipper
+    standard: YKK Proseal® Metal
+    option:
+  - type: Protective Zipper
+    standard: Trilaminate with YKK Plastic zipper
+    option:
+  - type: Inflation valve
+    standard: Apeks
+    option: Si Tech
+  - type: Heating Valve
+    standard:
+    option: SF Tech / Si Tech Vega
+  - type: Pockets
+    standard:
+    option: 1 / 2 Cargo pocket
+  - type: Wrist Seal
+    standard: Latex
+    option: Silicone
+  - type: Drygloves
+    standard:
+    option: Rolock / Si Tech
+  - type: Boots
+    standard: Heavy duty 6mm Neoprene
+    option: Rockboots / Lightboots
 
 image:
   - assets/img/suits/montage-trilam.png
@@ -62,7 +100,7 @@ link-card:
 ---
 The SF Tech Trilam Classic Kevlar® is a versatile suit for recreational and technical divers, in both cold and tempered water. With its Kevlar® reinforcements, the Trilam Classic is suited for open water divers as well as cave or wreck divers.
 
-The trilaminate material is lightweight and flexible and the shape of the fitted cut of the drysuit provide excellent freedom of movement. The Front-zipper entry as well as the telescopic torso allow the diver to be self-sufficient in the donning and doffing process.
+The trilaminate material is lightweight and flexible, and the fitted cut provides excellent freedom of movement. The front-zipper entry as well as the telescopic torso allow the diver to be self-sufficient in the donning and doffing process.
 
 Kevlar® reinforcement are provided on arms, chest, back as well as the knees and crotch area. The rest of the suit is made of Nylon RipStop, a material commonly used for the manufacture of technical products with high stresses, such as paraglider or boat sails.
 

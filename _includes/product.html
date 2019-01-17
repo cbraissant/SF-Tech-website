@@ -1,5 +1,5 @@
 <section class="product-section"
-         style="background-image: url('{{site.baseurl}}assets/img/jpg/1920/background.jpg')"
+         style="background-image: url('{{site.url}}{{site.baseurl}}/assets/img/jpg/1920/background.jpg')"
          id="content">
   <div class="wrapper product-wrapper">
 
@@ -15,7 +15,7 @@
             {% if page.lang == 'en' %}Learn more{% endif %}
             {% if page.lang == 'fr' %}En savoir plus{% endif %}
           </a>
-          <a href="{{site.baseurl}}{{page.lang}}/contact" class="product-btn">
+          <a href="{{site.url}}{{site.baseurl}}/{{page.lang}}/contact" class="product-btn">
             {% if page.lang == 'en' %}Contact us{% endif %}
             {% if page.lang == 'fr' %}Contactez-nous{% endif %}
           </a>
@@ -26,7 +26,7 @@
     <div class="product-half">
       <div class="product-picture">
          {% for slide in page.image %}
-         <img class="product-image" src="{{ site.baseurl }}{{ slide }}">
+         <img class="product-image" src="{{site.url}}{{site.baseurl}}/{{slide}}" alt="{{ page.title }}">
          {% endfor %}
       </div>
     </div>

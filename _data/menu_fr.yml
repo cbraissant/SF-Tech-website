@@ -2,54 +2,54 @@ toc:
   - title: Combinaisons
     subfolderitems:
       - page: Neoprene Classic Kevlar
-        url: /classic/
+        url: /classic
       - page: Neoprene Kevlar Pro
-        url: /kevlar-pro/
+        url: /kevlar-pro
       - page: TNT - Titanium Neoprene Trilaminate
-        url: /tnt/
+        url: /tnt
       - page: Trilam Classic Kevlar
-        url: /trilam/
+        url: /trilam
       - page: Trilam Kevlar Pro
-        url: /trilam-pro/
+        url: /trilam-pro
       - page: Special Forces
-        url: /special-forces/
+        url: /special-forces
   - title: Habits
     subfolderitems:
       - page: Pull Polartec
-        url: /sweater/
+        url: /sweater
       - page: Pantalon Polartec
-        url: /pants/
+        url: /pants
       - page: Gilet Polartec
-        url: /vest/
+        url: /vest
   - title: Chauffage
     subfolderitems:
       - page: Pads chauffants
-        url: /pads/
+        url: /pads
       - page: Gants chauffants
-        url: /gloves/
+        url: /gloves
       - page: Inflateur
-        url: /valve/
+        url: /valve
       - page: Batteries
-        url: /batteries/
+        url: /batteries
   - title: Support
     subfolderitems:
       - page: Téléchargement
-        url: /telechargement/
+        url: /telechargement
       # - page: Measure Form
-      #   url: /measure/
+      #   url: /measure
       # - page: Mode d'emploi
-      #   url: /manuals/
+      #   url: /manuals
       - page: Matériaux
-        url: /materials/
+        url: /materials
   - title: A propos
     subfolderitems:
       # - page: News
-      #   url: /news/
+      #   url: /news
       - page: Domaines de compétence
-        url: /expertise/
+        url: /expertise
   - title: Contact
     subfolderitems:
       - page: Contactez-nous
-        url: /contact/
+        url: /contact
       # - page: Where to buy
-      #   url: /retailers/
+      #   url: /retailers

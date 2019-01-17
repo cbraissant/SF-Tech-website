@@ -6,7 +6,7 @@ categories: drysuit
 
 title: "TNT: Titanium Neoprene Trilaminate"
 subtitle: The best of both worlds
-hero-image: assets/img/jpg/1920/slawek-packo-v3.jpg
+hero-image: /assets/img/jpg/1920/slawek-packo-v3.jpg
 hero-style: overlay
 
 cta:

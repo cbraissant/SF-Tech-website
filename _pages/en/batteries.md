@@ -10,7 +10,7 @@ categories: heating
 title: Batteries
 subtitle: High Tech Energy
 
-hero-image: assets/img/jpg/1920/batteries-0396.jpg
+hero-image: /assets/img/jpg/1920/batteries-0396.jpg
 hero-style: overlay
 
 specs:
@@ -35,7 +35,7 @@ specs:
     - "<strong>Maximum operating depth:</strong> 200m"
     - "<strong>Operating temperature:</strong> -20°C to 60°C"
     - "<strong>Length:</strong> 270mm / 185mm"
-    - "<strong>Diameter:</strong> 61mm / 61mm"
+    - "<strong>Diameter:</strong> 61mm"
     - "<strong>Weight (cable included):</strong> 1510g / 1040g"
     - "<strong>Autonomy:</strong><br>
         Pads only: 7h15 / 4h00<br>
@@ -66,8 +66,10 @@ link-card:
   - valve
   
 ---
-The SF Tech heating system is based on a modular principle that makes it easy to remove or replace heating elements. This system uses heated pads made of breathable fabric that are connected to each other through an electrical wiring. The modular system makes it possible to replace pads or wire, quickly and without having to change the undergarment.
+Compact, high technology and best quality materials. The main body of the battery is realized in carbon fiber to reduce the volume and apparent weight of the battery.
 
-The heating elements have a physical dimension of 33x16cm (13"x6.3") and provide a maximum power of 10W each, or a total of 40W for the four elements. Each elements is designed to be fitted in an internal pouch of the SF Tech sweater or the SF Tech vest. The pads are held in place by a velcro fastener and can be easily removed in necessary. The main distribution cable goes through the lining of the undergarment.
+Two different battery sizes are available: the Standard having a capacity of 23.8 Ah and the Mini of 13.6 Ah. Each battery consists of three Lithium-Ion cells in series providing an output voltage of 11.1V (maximum 12.6V at full load). The maximum output powers are respectively 175W and 100W. On top of the battery pack itself, a 5 LEDs fuelgauge alows the user to check the charge of the battery.
 
-The pads are connected to the main distribution cable by small waterproof connectors. For maximum flexibility and strength, the insulation of the electrical wires is made of silicone and the cables are covered with a nylon braided protective sheath. The connection with the heating valve is made using a waterproof push lock connector, to facilitate connection while gearing up and ensuring a stable connection during the dive.
+The removable head in manufactured in Delrin, a strong and reliable material. The locking mechanism is realised with a spring-loaded pin on the side of the body, and watertightness is guarantee by two radial o-rings. The E/O cable is reinforced with a metal cable gland at the base. 
+
+The head is available is standard straight version or sidemount version. The sidemount version offers a 90° output to optimize the wiring of the E/O cable when the battery is mounted on the crotch strap.

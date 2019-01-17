@@ -1,11 +1,9 @@
 {% assign card = site.data.cards.[include.card_type] %}
 
-<a class="card" href="{{site.baseurl}}{{page.lang}}{{ card.link }}">
+<a class="card" href="{{site.url}}{{site.baseurl}}/{{page.lang}}{{ card.link }}">
   <img class="card-bg"
-      src="{{ site.baseurl }}assets/img/{{card.type}}/800/{{ card.img }}.{{card.type}}"
-      srcset="{{ site.baseurl }}assets/img/{{card.type}}/800/{{ card.img }}.{{card.type}} 1x"
-      srcset="{{ site.baseurl }}assets/img/{{card.type}}/1024/{{ card.img }}.{{card.type}} 2x"
-      srcset="{{ site.baseurl }}assets/img/{{card.type}}/1680/{{ card.img }}.{{card.type}} 3x"
+      srcset="{{site.url}}{{site.baseurl}}/assets/img/{{card.type}}/1024/{{card.img}}.{{card.type}} 1x, {{site.url}}{{site.baseurl}}/assets/img/{{card.type}}/1680/{{card.img}}.{{card.type}} 2x"
+      src="{{site.url}}{{site.baseurl}}/assets/img/{{card.type}}/1024/{{ card.img }}.{{card.type}}"
       alt="{{ card.title }}">
   <div class="card-inner">
     <div class="card-headline">{{ card.title }}</div>

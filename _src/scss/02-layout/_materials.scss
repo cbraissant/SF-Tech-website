@@ -17,6 +17,7 @@
 }
 
 .col-1-2-2 {
+  margin: 0 auto;
   width: 100%;
   @include mq(tablet) {
     width: 50%;

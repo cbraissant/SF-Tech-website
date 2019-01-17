@@ -3,7 +3,7 @@
 	<div class="pictures-container" > 
 		{% for picture in page.product-pictures %}
 		<div class="pictures-inner" > 
-			<img class="pictures-image" src="{{ site.baseurl }}{{ picture }}" alt="">
+			<img class="pictures-image" src="{{site.url}}{{site.baseurl}}{{picture}}" alt="">
 		</div>
 		{% endfor %}
 	</div>

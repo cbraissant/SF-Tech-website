@@ -9,17 +9,17 @@ categories: drysuit
 
 title: Heating valve
 subtitle: The gate to the warmth
-hero-image: assets/img/jpg/1920/heating-valve-0201.jpg
+hero-image: /assets/img/jpg/1920/heating-valve-0201.jpg
 hero-style: overlay
 
 highlights:
-  - icon: polartec.svg
+  - icon: low-profile.svg
     title: Low profile
-    sub: blablabla
+    sub: Small and streamline profile avoiding any extra bulk
   - icon: maximize.svg
     title: Reversible
     sub: The air intake can be swapped side for better hose routing
-  - icon: polartec.svg
+  - icon: valve.svg
     title: Apeks compatible
     sub: The valve can be mounted on any Apeks pads
   - icon: drop.svg

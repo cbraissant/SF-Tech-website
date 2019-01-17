@@ -2,54 +2,54 @@ toc:
   - title: Drysuits
     subfolderitems:
       - page: Neoprene Classic Kevlar
-        url: /classic/
+        url: /classic
       - page: Neoprene Kevlar Pro
-        url: /kevlar-pro/
+        url: /kevlar-pro
       - page: TNT - Titanium Neoprene Trilaminate
-        url: /tnt/
+        url: /tnt
       - page: Trilam Classic Kevlar
-        url: /trilam/
+        url: /trilam
       - page: Trilam Kevlar Pro
-        url: /trilam-pro/
+        url: /trilam-pro
       - page: Special Forces
-        url: /special-forces/
+        url: /special-forces
   - title: Clothes
     subfolderitems:
       - page: Polartec Sweater
-        url: /sweater/
+        url: /sweater
       - page: Polartec Pants
-        url: /pants/
+        url: /pants
       - page: Polartec Vest
-        url: /vest/
+        url: /vest
   - title: Heating
     subfolderitems:
       - page: Heating Pads
-        url: /pads/
+        url: /pads
       - page: Heating Gloves
-        url: /gloves/
+        url: /gloves
       - page: Heating Valve
-        url: /valve/
+        url: /valve
       - page: Batteries
-        url: /batteries/
+        url: /batteries
   - title: Support
     subfolderitems:
       - page: Downloads
         url: /downloads
       # - page: Measure Form
-      #   url: /measure/
+      #   url: /measure
       # - page: User manuals
-      #   url: /manuals/
+      #   url: /manuals
       - page: materials
-        url: /materials/
+        url: /materials
   - title: About Us
     subfolderitems:
       # - page: News and Events
-      #   url: /news/
+      #   url: /news
       - page: Area of Expertise
-        url: /expertise/
+        url: /expertise
   - title: Contact
     subfolderitems:
       - page: Contact us
-        url: /contact/
+        url: /contact
       # - page: Where to buy
-      #   url: /retailers/
+      #   url: /retailers

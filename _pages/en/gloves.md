@@ -10,7 +10,7 @@ categories: heating
 title: Heating gloves
 subtitle: Warm and comfortable
 
-hero-image: assets/img/jpg/1920/gant-surface.jpg
+hero-image: /assets/img/jpg/1920/gant-surface.jpg
 hero-style: overlay
 
 highlights:
@@ -60,8 +60,4 @@ Very comfortable gloves, made of Lyrca, an exceptionally soft and flexible mater
 
 The gloves are fully compatible with SF Tech undergarments, so all cables are passed through the lining of the sweater. Gloves can be used independently or in conjunction with the heating pads system via a Y-connector.
 
-Wiring between the heating valve and the two heated gloves. The connection between the gloves and the cable is made using rotating quick connectors allowing the user to position the cable in the desired position.
-
-The connection with the heating valve is made using a waterproof push lock connector, to facilitate connection while gearing up and ensuring a stable connection during the dive.
-
-To fit the cable inside the SF Tech underwears, the legnth of the cable is different between the two hands, which allows to provide the maximum length while avoiding any excess of cable in the undergarment.
+The connection between the gloves and the cable is made using a rotating quick connector, allowing the user to position the cable in the desired position. The connection with the heating valve is made using a waterproof push lock connector, to facilitate connection while gearing up and ensuring a stable connection during the dive.

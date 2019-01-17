@@ -9,7 +9,7 @@ categories: drysuit
 
 title: Neoprene Classic Kevlar
 subtitle: Performance meets efficiency
-hero-image: assets/img/jpg/1920/cecile-surface.jpg
+hero-image: /assets/img/jpg/1920/cecile-surface.jpg
 hero-style: overlay
 
 image:
@@ -18,7 +18,7 @@ image:
 highlights:
   - icon: thermometer.svg
     title: Heat and flexibility
-    sub: The 2mm hyper-compress neoprene guarantee warmth and strenght without loosing comfort
+    sub: The 2mm hyper-compress neoprene guarantees warmth and strenght without loosing comfort
   - icon: zipper.svg
     title: YKK metal zipper
     sub: YKK Proseal<sup>&reg;</sup> is a strong and reliable watertight fastening solution
@@ -27,7 +27,7 @@ highlights:
     sub: Instead of traditional oil-based neoprene, Yamamoto's neoprene is made of calcium carbonate from limestone
   - icon: pencil.svg
     title: "One size: yours!"
-    sub: To guarantee perfection, all SF Tech drysuit are made to measure with your choice of options and colors
+    sub: To guarantee perfection, all SF Tech drysuits are made to measure, with your choice of options and colors
 
 specs:
   - name: Characteristics
@@ -46,9 +46,9 @@ specs:
     data:
       - "<strong>Waterproof layer:</strong> Hyper-compress 2mm neoprene foam"
       - "<strong>External fabric (Kevlar):</strong> Kevlar, nylon, spandex"
-      - "<strong>External fabric (Kevlar):</strong> Polyester, nylon, spandex"
+      - "<strong>External fabric (Supratex):</strong> Polyester, nylon, spandex"
       - "<strong>Internal Fabric:</strong> Nylon (70 deniers)"
-      - "<strong>Stitching:</strong> Two threads blind stitch"
+      - "<strong>Stitching:</strong> Gluied with two threads blind stitch"
       - "<strong>Seams:</strong> 3-5 layers of urethane sealant"
 
 options:
@@ -62,7 +62,7 @@ options:
     standard: Upper body, arms, crouch
     option: Buttcocks
   - type: Color
-    standard: Black or Red
+    standard: Black and/or Red
     option:
   - type: Zipper
     standard: YKK Proseal® Metal
@@ -85,6 +85,9 @@ options:
   - type: Drygloves
     standard:
     option: Rolock / Si Tech
+  - type: Boots
+    standard: Heavy duty 6mm Neoprene
+    option: Rockboots / Lightboots
 
 link-card:
   - kevlar-pro

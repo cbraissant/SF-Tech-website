@@ -13,7 +13,7 @@ layout: default
 
 {% for data in page.datas %}
 <section class="expertise-section" id="{{ data.anchor}}">
-  <img class="expertise-image" src="{{site.baseurl}}{{data.image}}" alt="">
+  <img class="expertise-image" src="{{site.url}}{{site.baseurl}}{{data.image}}" alt="">
 
   <div class="expertise-inner {{ data.style }}">
    <div class="expertise-data">

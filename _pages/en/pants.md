@@ -11,7 +11,7 @@ categories: clothes
 title: Polartec Pants
 subtitle: High Perfomance Undergarments
 
-hero-image: assets/img/jpg/1920/undersuit-logo-0630.jpg
+hero-image: /assets/img/jpg/1920/undersuit-logo-0630.jpg
 hero-style: overlay
 
 highlights:
@@ -56,7 +56,7 @@ link-card:
   - batteries
 
 ---
-The SF Tech pants are specially designed to offer the best possible experience in a dry suit. Polartec<sup>&reg;</sup> Power Stretch<sup>&reg;</sup> has the ability to retain warmth without restricting movement or agility during activities. Polartec<sup>&reg;</sup> is a breathable material that continuously evacuates water vapor while retaining heat. The layer in contact with the skin remains dry and comfortable.
+The SF Tech pants are especially designed to offer the best possible experience in a drysuit. Polartec<sup>&reg;</sup> Power Stretch<sup>&reg;</sup> has the ability to retain warmth without restricting movement or agility during activities. Polartec<sup>&reg;</sup> is a breathable material that continuously evacuates water vapor while retaining heat. The layer in contact with the skin remains dry and comfortable.
 
 The trousers have two pockets that can be closed with zippers and a drawstring at the waist with a spring loaded stopper. To minimize the amount of unwanted air in the legs, the pants are cut close to the body and the lower leg is made of elastic material to reduce the volume at the ankles in the boots.
 

@@ -6,7 +6,7 @@ categories: drysuit
 
 title: Neoprene Kevlar Pro
 subtitle: Most durable suit on the market
-hero-image: assets/img/jpg/1920/walz.jpg
+hero-image: /assets/img/jpg/1920/walz.jpg
 hero-style: overlay
 
 cta:

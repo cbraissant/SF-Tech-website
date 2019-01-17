@@ -9,7 +9,7 @@ categories: drysuit
 
 title: Neoprene Classic Kevlar
 subtitle: Performance et efficacité
-hero-image: assets/img/jpg/1920/cecile-surface.jpg
+hero-image: /assets/img/jpg/1920/cecile-surface.jpg
 hero-style: overlay
 
 highlights:

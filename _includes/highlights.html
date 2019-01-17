@@ -1,7 +1,6 @@
 <section class="highlights-section color-switch" id="highlights">
   <div class="wrapper highlights-wrapper" >
     {% for icons in page.highlights %}
-
       <div class="highlights-group">
       		<div class="highlights-picture">
             {% include {{ icons.icon | prepend: 'svg/' }} %}
@@ -12,9 +11,6 @@
             <p class="highlights-description">{{ icons.sub }}</p>
         </div>
       </div>
-     
     {% endfor %}
-
     </div>
-  </div>
 </section>

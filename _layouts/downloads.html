@@ -9,7 +9,7 @@ layout: default
     {% for file in page.downloads %}
       <a href="{{ file.link }}" class="downloads-links">
         <div class="downloads-box">
-          <img src="{{ site.baseurl }}{{ file.icon }}"
+          <img src="{{site.url}}{{site.baseurl}}{{ file.icon }}"
                class="downloads-icon" alt="">
           <p>{{ file.title }}</p>
         </div>
@@ -20,9 +20,9 @@ layout: default
     <h3 class="downloads-title">Pictures</h3>
     <div class="downloads-file">
     {% for image in page.pictures %}
-      <a href="{{ site.baseurl }}{{ image.link }}" class="downloads-links">
+      <a href="{{site.url}}{{site.baseurl}}{{ image.link }}" class="downloads-links">
         <div class="downloads-box">
-          <img src="{{ site.baseurl }}{{ image.icon }}"
+          <img src="{{site.url}}{{site.baseurl}}{{ image.icon }}"
                class="downloads-icon" alt="">
           {% if image.credit %}     
             <p>Photo credit:<br>{{ image.credit }}</p>

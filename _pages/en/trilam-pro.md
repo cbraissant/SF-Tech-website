@@ -9,7 +9,7 @@ categories: drysuit
 
 title: Trilam Kevlar Pro
 subtitle: Durability without compromise
-hero-image: assets/img/jpg/1920/tom-trilam-2.jpg
+hero-image: /assets/img/jpg/1920/tom-trilam-2.jpg
 hero-style: overlay
 
 specs:
@@ -48,7 +48,45 @@ highlights:
     sub: The front entry zipper with a telescopic torso ease the donning and doffing process
   - icon: pencil.svg
     title: "Only one size: YOURS"
-    sub: To guarantee perfection, all SF Tech drysuit are made to measure with your choice of options and colors
+    sub: To guarantee perfection, all SF Tech drysuits are made to measure with your choice of options and colors
+
+options:
+  - type: Hood
+    standard: Spearated 6mm Neoprene Hood
+    option: Attached 6mm Neoprene Hood
+  - type: Neck Seal
+    standard: Latex
+    option: Neoprene / SiTech Orusk
+  - type: Kevlar
+    standard: Full body
+    option:
+  - type: Color
+    standard: Black and/or Red
+    option:
+  - type: Zipper
+    standard: YKK Proseal® Metal
+    option:
+  - type: Protective Zipper
+    standard: Trilaminate with YKK Plastic zipper
+    option:
+  - type: Inflation valve
+    standard: Apeks
+    option: Si Tech
+  - type: Heating Valve
+    standard:
+    option: SF Tech / Si Tech Vega
+  - type: Pockets
+    standard:
+    option: 1 / 2 Cargo pocket
+  - type: Wrist Seal
+    standard: Latex
+    option: Silicone
+  - type: Drygloves
+    standard:
+    option: Rolock / Si Tech
+  - type: Boots
+    standard: Heavy duty 6mm Neoprene
+    option: Rockboots / Lightboots
 
 image: 
   - assets/img/suits/montage-trilam-pro.png

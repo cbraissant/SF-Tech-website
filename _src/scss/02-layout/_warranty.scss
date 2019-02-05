@@ -17,9 +17,9 @@
   padding: $padding;
 
   // Text styles
+  @include boldfont();
   color: white;
   font-size: 250%;
-  font-weight: 900;
   line-height: 1;
 }
 

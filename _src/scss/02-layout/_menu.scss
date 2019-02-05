@@ -39,29 +39,29 @@
   display: none;
 }
 
-.menu-item {
-  padding: $padding;
-  text-align: center;
-  // Background and borders
-  border-top: 1px solid $dark-gray;
-}
-
-.menu-sublist {
-  display: none;
-}
-
 .menu-dropdown {
   // Positioning and sizing
   position: relative;
 
   // Text styles
   text-align: center;
+  border-top: 1px solid $dark-gray;
+  border-bottom: 1px solid $dark-gray;
+}
+
+.menu-item {
+  padding: $padding;
+  text-align: center;
 }
 
 .menu-item:after {
-  display: inline-block;
-  position: relative;
-  left: $padding;
+  position: absolute;
+  right: 0;
+  content: "\25bc";
+}
+
+.menu-sublist {
+  display: none;
 }
 
 .menu-link {
@@ -74,7 +74,7 @@
   padding-left: $padding+$padding;
   padding-right: $padding+$padding;
 
-  // Background and borders
+  // Text styles
   color: $text-color;
 }
 
@@ -116,11 +116,18 @@
     line-height: 0px;
   }
   
+  .menu-item:after {
+    content: "";
+  }
+
   .menu-sublist {
     // Positioning and sizing
     position: absolute;
-    top: $header-height;
-    left: 0;
+    top: 100px;
+    padding-left: $padding;
+    padding-right: $padding;
+    padding-bottom: $padding;
+    // left: 0;
 
     // Text styles
     text-align: left;
@@ -128,9 +135,9 @@
 
     // Background and borders
     border-radius: 0 0 15px 15px;
-    border: 1px solid $black;
-    background-color: $header-background;
+    background-color: $dark-gray;
   }
+
   // Add a space for the logo
   .menu-dropdown:nth-child(3) {
     margin-right: $header-height + 30px;

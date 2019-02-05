@@ -8,7 +8,7 @@ permalink: /en/valve/
 categories: drysuit
 
 title: Heating valve
-subtitle: The gate to the warmth
+subtitle: The gateway to warmth
 hero-image: /assets/img/jpg/1920/heating-valve-0201.jpg
 hero-style: overlay
 
@@ -35,17 +35,12 @@ specs:
       - Compatible with Apeks inflators
       - Waterproof E/O battery connector can be unplugged underwater
       - Waterproof push lock connector for connection to the heating system
-      - Standard cable length of about 50cm
   - name: Technical data
     id: technical
     data:
       - Machined in POM (Delrin)
       - Standard Apeks quick disconnect pin
       - Ø5.8mm E/O cord
-      - Ability to reverse the position of the air intake
-      - Compatible with Apeks inflators
-      - Waterproof E/O battery connector can be unplugged underwater
-      - Waterproof push lock connector for connection to the heating system
       - Standard cable length of about 50cm
 
 

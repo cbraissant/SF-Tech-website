@@ -1,0 +1,136 @@
+# OPTIONS
+# ==========================================================================
+boots-rockboots:
+  title: Rockboots
+  text: avec chaussettes en néoprène 2mm
+  icon: option-boots-rockboots.svg
+
+boots-std:
+  title: Bottillons standards
+  text: Très résistant en néoprène 6m
+  icon: option-boots-std.svg
+
+boots-teckna:
+  title: Bottillons légers
+  text: Flexsole néoprène 2mm
+  icon: option-boots-teckna.svg
+
+full-suit:
+  title: Full kevlar
+  text: Entièrement en Kevlar
+  icon: option-full-suit.svg
+
+gloves:
+  title: Gants étanches
+  text: Rolock
+  icon: option-glove.svg
+
+hood-att:
+  title: Cagoule attenante
+  text: cagoule 6mm attachée
+  icon: option-hood-att.svg
+
+hood-sep:
+  title: Cagoule amovible
+  text: cagoule 6mm séparée
+  icon: option-hood-sep.svg
+
+inf-apeks:
+  title: Inflateur Apeks
+  text: Inflateux Apeks avec swivel
+  icon: option-inf-apeks.svg
+
+inf-sitech:
+  title: Inflateur Si Tech
+  text: Inflateur Si Tech shell
+  icon: option-inf-sitech.svg
+
+knee-pads:
+  title: Pads de genoux
+  text: Renforcés en Kevlar
+  icon: option-knee-pads.svg
+
+neck-latex:
+  title: Collerette latex
+  text: Heavy duty latex
+  icon: option-neck-latex.svg
+
+neck-neo:
+  title: Collerette néoprène
+  text: néoprène lisse de 2mm
+  icon: option-neck-neo.svg
+
+neck-silicone:
+  title: Collerette silicone
+  text: Système Si Tech Quick Neck
+  icon: option-neck-silicone.svg
+
+p-valve:
+  title: Purge urinaire
+  text: SF Tech delrin p-valve
+  icon: option-p-valve.svg
+
+pocket-left:
+  title: Poche à gauche
+  text: Large poche cargo
+  icon: option-pocket-left.svg
+
+pocket-right:
+  title: Poche à droite
+  text: Large poche cargo
+  icon: option-pocket-right.svg
+
+renfort-cul:
+  title: Protection de cul
+  text: Renfort en Kevlar
+  icon: option-renfort-cul.svg
+
+rolock:
+  title: Gants Rolock
+  text: Système Rolock standard
+  icon: option-rolock.svg
+
+torse:
+  title: Torse en Kevlar
+  text: Renfort en Kevlar
+  icon: option-torse.svg
+
+valve-apeks-hp:
+  title: Purge Apeks HP
+  text: Apeks auto dump valve
+  icon: option-valve-apeks-hp.svg
+
+valve-apeks-lp:
+  title: Purge Apeks LP
+  text: Apeks low profile valve
+  icon: option-valve-apeks-lp.svg
+
+valve-heating:
+  title: Inflateur de chauffage
+  text: SF Tech delrin valve
+  icon: option-valve-heating.svg
+
+valve-sitech:
+  title: Purge SiTech
+  text: SiTech Argo
+  icon: option-valve-sitech.svg
+
+wrist-latex:
+  title: Manchons Latex
+  text: Heavy duty latex
+  icon: option-wrist-latex.svg
+
+wrist-silicone:
+  title: Manchons Silicone
+  text: Si Tech QCS
+  icon: option-wrist-silicone.svg
+
+zipper-prot:
+  title: Sur-fermeture de protection
+  text: Protection en Trilam
+  icon: option-zipper-prot.svg
+
+zipper:
+  title: Fermeture en métal
+  text: YKK Proseal
+  icon: option-zipper.svg

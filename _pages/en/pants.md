@@ -26,7 +26,7 @@ highlights:
     sub: Keep the undergarment in place while donning the drysuit
   - icon: humidity.svg
     title: Breathable material
-    sub: Allow the water humidity to go through the material keeping the skin dry and warm
+    sub: Allows the water humidity to go through the material keeping, the skin dry and warm
 
 specs:
 - name: Characteristics

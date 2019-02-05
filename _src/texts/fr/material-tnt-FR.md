@@ -1,6 +1,6 @@
 ## TNT: Titanium Neoprene Trilaminate
 
-Nouveau matériau inventé et développé dans les locaux de SF Tech, TNT est un matériau trilaminé utilisant une mousse de néoprène haute densité comme couche imperméable au lieu de caoutchouc butyle.
+Nouveau matériau révolutionnaire inventé et développé dans les locaux de SF Tech, TNT est un matériau trilaminé utilisant une mousse de néoprène haute densité comme couche imperméable au lieu de caoutchouc butyle.
 
 Le processus de fabrication initial du TNT est identique à celui d'un matériau en néoprène. Une couche de mousse de néoprène est laminée avec une couche intérieure et extérieure. Ensuite, le matériau complet subit une seconde phase de compression dans une chambre hyperbare. Ce processus crée un trilaminé de néoprène très fin, flexible et ultra dense. En utilisant le néoprène comme materiel imperméable au lieu du butyle, la flexibilité et la propriété de rétention de la chaleur sont considérablement améliorées, avec une augmentation de l'isolation thermique jusqu'à 40%.
 

@@ -19,8 +19,8 @@ layout: default
 
     <h3 class="downloads-title">Pictures</h3>
     <div class="downloads-file">
-    {% for image in page.pictures %}
-      <a href="{{site.url}}{{site.baseurl}}{{ image.link }}" class="downloads-links">
+    {% for image in site.data.pictures %} 
+      <a href="{{site.url}}{{site.baseurl}}{{image.link}}" class="downloads-links">
         <div class="downloads-box">
           <img src="{{site.url}}{{site.baseurl}}{{ image.icon }}"
                class="downloads-icon" alt="">

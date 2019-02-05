@@ -7,7 +7,7 @@
   @include mq(laptop) {
     padding-top: $header-height;
     height: 100vh;
-    max-height: 1000px;
+    // max-height: 1000px;
   }
   background-size: cover;
   background-position: right;
@@ -62,6 +62,8 @@
 }
 
 .product-subtitle {
+  text-transform: uppercase;
+  padding-top: 1em;
   padding-bottom: 4vw;
 }
 

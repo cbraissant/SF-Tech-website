@@ -22,10 +22,10 @@ highlights:
     sub: Pockets and wire holes ready for the SF Tech heating system
   - icon: fist.svg
     title: Wrist straps & Thumb Holes
-    sub: To keep the sleeve in place while gearing up and having  a better fit under drygloves
+    sub: To keep the sleeve in place while gearing up and having a better fit under drygloves
   - icon: snow-flake.svg
     title: Design for cold weather
-    sub: Fabric and thickness providing enough warmth for freezing cold temperatures
+    sub: Fabric and thickness providing enough warmth for freezing-cold waters
 
 specs:
 - name: Characteristics

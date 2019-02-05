@@ -1,33 +1,37 @@
 ---
 layout: suit
-lang: en
-permalink: /fr/tnt
+
+lang: fr
+namespace: tnt
+permalink: /fr/tnt/
+
 categories: drysuit
 
-title: "TNT: Titanium Neoprene Trilaminate"
-subtitle: The best of both worlds
+title: "Titanium Neoprene Trilaminate"
+subtitle: Le meilleur des deux mondes
 hero-image: /assets/img/jpg/1920/slawek-packo-v3.jpg
 hero-style: overlay
 
-cta:
-  - link: "#highlights"
-    text: Product highlights
+image:
+  - assets/img/suits/montage-tnt.png
 
 specs:
-  - name: Characteristics
+  - name: Caractéristiques
     id: characteristics
     data:
       - Matériel révolutionnaire à base de néoprene haute densité
-      - Entièrement recouverte de kevlar®
+      - Entièrement recouverte de kevlar<sup>&reg;</sup>
       - Fermeture frontale ou dorsale
       - Torse télescopique facilitant l’habillage
       - Fermeture éclair YKK en métal
       - Sur-fermeture de protection
-      - Renfort en Kevlar® aux endroits critiques
+      - Pads de genoux renforcés de Kevlar®
       - Larges bretelles internes ajustables
       - Coupe près du corps
       - Taille sur mesure
-  - name: Technical Data
+      - "Poids total: ~4.0kg"
+      - Certifiée CE
+  - name: Données techniques
     id: data
     data:
       - "<strong>Couche imperméable:</strong> Néoprène haute densité"
@@ -38,23 +42,72 @@ specs:
       - "<strong>Étanchéité:</strong> 3-5 couches d'Aquasure"
 
 highlights:
+  - icon: patent.svg
+    title: Matériau révolutionnaire
+    sub: Nouveau matériau breveté à fabriqué à base de néoprène haute densité
+  - icon: stretch.svg
+    title: Mobilité incroyable
+    sub: La matériau TNT offre une flexibilité et une souplesse sans précédent
   - icon: shield.svg
-    title: Entièrement en Kevlar
-    sub: Incroyablement résistante
-  - icon: zipper.svg
-    title: Fermeture métal
-    sub: YKK Proseal
-  - icon: maximize.svg
-    title: Torse télescopique
-    sub: Aisance et facilité d'habillage
-  - icon: pencil.svg
-    title: Sur mesure
-    sub: "Une seule taille disponible: la&nbsp;tienne"
+    title: Entièrement en kevlar
+    sub: Matériau renforcé par des fibre de Kevlar<sup>&reg;</sup> utilisé sur l'ensemble de la combinaison
+  - icon: flame.svg
+    title: Chaleur incroyable
+    sub: Le matériau multicouche à base de néoprène et de Titanium Alpha est jusqu'à deux fois plus chaud qu'un trilaminé classique
 
-image:
-  - assets/img/suits/tnt-rouge-0271.png
-  - assets/img/suits/tnt-rouge-0276.png
-  - assets/img/suits/tnt-rouge-0282.png
+option:
+  - type: full-suit
+    style: base
+  - type: knee-pads
+    style: base
+  - type: neck-latex
+    style: base
+  - type: neck-neo
+    style: option
+  - type: neck-silicone
+    style: option
+  - type: wrist-latex
+    style: base
+  - type: wrist-silicone
+    style: option
+  - type: gloves
+    style: option
+  - type: valve-apeks-hp
+    style: base
+  - type: valve-apeks-lp
+    style: option
+  - type: valve-sitech
+    style: option
+  - type: valve-heating
+    style: option
+  - type: inf-apeks
+    style: base
+  - type: inf-sitech
+    style: option
+  - type: p-valve
+    style: option
+  - type: boots-std
+    style: base
+  - type: boots-rockboots
+    style: option
+  - type: boots-teckna
+    style: option
+  - type: hood-sep
+    style: base
+  - type: hood-att
+    style: option
+  - type: pocket-left
+    style: base
+  - type: pocket-right
+    style: base
+  - type: zipper
+    style: base
+
+product-pictures:
+  - assets/img/temp/IMG_0398.JPG
+  - assets/img/temp/IMG_0399.JPG
+  - assets/img/temp/IMG_0400.JPG
+  - assets/img/temp/IMG_0401.JPG
 
 link-card:
   - classic
@@ -62,11 +115,12 @@ link-card:
   - trilam
   - trilam-pro
 ---
-The SF Tech TNT, is made of a revolutionary material: a high-density neoprene based trilaminate, with two extra layers of Titanium acting as heat-reflective panel. The overall material feels up to 2x warmer than a standard butyl trilaminate.
-The TNT offers all the advantages of trilaminate while being warmer and more flexible like a neoprene: <strong>The best of both worlds</strong>
+La SF Tech TNT est composée d’un matériau révolutionnaire: un trilaminé à base de néoprène haute densité, avec deux couches de titane supplémentaires agissant comme réflecteurs de chaleur. La chaleur ressentie dans une SF Tech TNT est jusqu'à deux plus grande que dans une trilaminée standard base de butyl.
 
-To guarantee strength and reliability, the overall suit is made of Kevlar® reinforced fabric. Only the best materials available on the market are used. The high-density neoprene is made by Yamamoto while the Kevlar® is made in Switzerland. 
+La SF Tech TNT offre tous les avantages d'une trilimanée tout en alliant la flexibilité et la chaleur du néoprène: <strong>Le meilleur des deux mondes!</strong>
 
-The SF Tech TNT is the perfect drysuit for demanding divers looking for a tailor made, top of the line dryuit with unprecedent freedom of movement, and unequalled robustness.
+Pour guarantir durabilité et fiabilité, est entièrement fabriquée de tissu renforcé de Kevlar<sup>&reg;</sup>. Uniquement les meilleurs matériaux disponible sur le marché sont utilisés: Le néoprène haute-densité est fabriqué au Japon et le Kevlar<sup>&reg;</sup> en Suisse.
 
-As standard, the SF Tech TNT comes equiped with 2 cargo pockets on the legs, front entry zipper and telescopic torso allowing the diver the to be self-sufficient in the donning and doffing process. The fold of the suit is held in place by a crotch strap.
+La SF Tech TNT est la combinsaion parfaite pour les plongeurs exigeant cherchant une combinaison haut de gamme sur-mesure avec une liberté de mouvement sans précédent et une durabilité inégalée.
+
+De base, la SF Tech TNT est équipée d'une fermeture frontale en métal avec torse télescopique pour faciliter l'habillage. Le plis de la combinaison est tenu en place par une sous-cutale elastique.

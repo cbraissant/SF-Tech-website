@@ -1,22 +1,21 @@
 //  #TYPOGRAPHY
 // ==========================================================================
 @mixin mainfont() {
- font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+ font-family: "Helvetica Neue LT Pro - Lt", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
  font-weight: 300;
 }
 
 @mixin strongfont() {
- font-family: "HelveticaNeue-Regular", "Helvetica Neue Regular", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+ font-family: "Helvetica Neue LT Pro - Md", "HelveticaNeue-Regular", "Helvetica Neue Regular", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
  font-weight: 400;
 }
-
 @mixin boldfont() {
- font-family: "HelveticaNeue-Bold", "Helvetica Neue Bold", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+ font-family: "Helvetica Neue LT Pro - Bd", "HelveticaNeue-Bold", "Helvetica Neue Bold", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
  font-weight: 700;
 }
 
 @mixin titlefont() {
-  font-family: "HelveticaNeue-CondensedBold", "Helvetica Neue Condensed Bold", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+  font-family: "Helvetica Neue LT Pro - Bd", "HelveticaNeue-CondensedBold", "Helvetica Neue Condensed Bold", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
   font-weight: 900;
 }
 
@@ -38,12 +37,14 @@ p {
 
 
 h1 {
-  @include fluid-type(20rem, 75rem, 2rem, 6rem);
-  @include titlefont();
+  @include fluid-type(20rem, 75rem, 3rem, 6rem);
+  @include boldfont();
   color: $white;
-  line-height: 1em;  
+  line-height: 0.8;  
   text-shadow: 2px 2px #000;
   text-transform: uppercase;
+  word-wrap:break-word;
+  white-space: normal;
 }
 
 h2 {

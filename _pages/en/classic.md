@@ -35,10 +35,12 @@ specs:
     data:
     - Kevlar<sup>&reg;</sup> reinforcements on critical areas
     - Front entry YKK metal zipper
+    - Neoprene protection for the zipper
     - Telescopic torso with crotch strap
     - Heavy duty Kevlar<sup>&reg;</sup> knee pads
     - Large adjustable suspenders
     - Neoprene insulated neck collar
+    - Made to measure
     - "Total weight: ~5.0kg"
     - CE certified
   - name: Technical Data
@@ -51,43 +53,57 @@ specs:
       - "<strong>Stitching:</strong> Gluied with two threads blind stitch"
       - "<strong>Seams:</strong> 3-5 layers of urethane sealant"
 
-options:
-  - type: Hood
-    standard: Spearated 6mm Neoprene Hood
-    option: Attached 6mm Neoprene Hood
-  - type: Neck Seal
-    standard: Latex
-    option: Neoprene / SiTech Orusk
-  - type: Kevlar
-    standard: Upper body, arms, crouch
-    option: Buttcocks
-  - type: Color
-    standard: Black and/or Red
-    option:
-  - type: Zipper
-    standard: YKK Proseal® Metal
-    option:
-  - type: Protective Zipper
-    standard: Neoprene 2mm
-    option: Trilaminate with YKK Plastic zipper
-  - type: Inflation valve
-    standard: Apeks
-    option: Si Tech
-  - type: Heating Valve
-    standard:
-    option: SF Tech / Si Tech Vega
-  - type: Pockets
-    standard:
-    option: 1 / 2 Cargo pocket
-  - type: Wrist Seal
-    standard: Latex
-    option: Silicone
-  - type: Drygloves
-    standard:
-    option: Rolock / Si Tech
-  - type: Boots
-    standard: Heavy duty 6mm Neoprene
-    option: Rockboots / Lightboots
+option:
+  - type: knee-pads
+    style: base
+  - type: renfort-cul
+    style: option
+  - type: torse
+    style: base
+  - type: neck-latex
+    style: base
+  - type: neck-neo
+    style: option
+  - type: neck-silicone
+    style: option
+  - type: wrist-latex
+    style: base
+  - type: wrist-silicone
+    style: option
+  - type: gloves
+    style: option
+  - type: valve-apeks-hp
+    style: base
+  - type: valve-apeks-lp
+    style: option
+  - type: valve-sitech
+    style: option
+  - type: valve-heating
+    style: option
+  - type: inf-apeks
+    style: base
+  - type: inf-sitech
+    style: option
+  - type: p-valve
+    style: option
+  - type: boots-std
+    style: base
+  - type: boots-rockboots
+    style: option
+  - type: boots-teckna
+    style: option
+  - type: hood-sep
+    style: base
+  - type: hood-att
+    style: option
+  - type: pocket-left
+    style: option
+  - type: pocket-right
+    style: option
+  - type: zipper
+    style: base
+  - type: zipper-prot
+    style: option
 
 link-card:
   - kevlar-pro

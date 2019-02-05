@@ -1,0 +1,136 @@
+# OPTIONS
+# ==========================================================================
+boots-rockboots:
+  title: Rockboots System
+  text: with 2mm neoprene socks
+  icon: option-boots-rockboots.svg
+
+boots-std:
+  title: Standard boots
+  text: Heavy duty 6mm neoprene
+  icon: option-boots-std.svg
+
+boots-teckna:
+  title: Light boots
+  text: Flexsole 2mm neoprene
+  icon: option-boots-teckna.svg
+
+full-suit:
+  title: Full kevlar
+  text: Kevlar reinforced fabric
+  icon: option-full-suit.svg
+
+gloves:
+  title: Drygloves system
+  text: Rolock
+  icon: option-glove.svg
+
+hood-att:
+  title: Hood attached
+  text: 6mm hood fixed
+  icon: option-hood-att.svg
+
+hood-sep:
+  title: Hood removable
+  text: 6mm hood separated
+  icon: option-hood-sep.svg
+
+inf-apeks:
+  title: Apeks inflation valve
+  text: Apeks swivel inflation valve
+  icon: option-inf-apeks.svg
+
+inf-sitech:
+  title: Si Tech inflation valve
+  text: Si Tech shell inflation valve
+  icon: option-inf-sitech.svg
+
+knee-pads:
+  title: Kevlar knee pads
+  text: Kevlar reinforced fabric
+  icon: option-knee-pads.svg
+
+neck-latex:
+  title: Latex neck seal
+  text: Heavy duty latex
+  icon: option-neck-latex.svg
+
+neck-neo:
+  title: Neoprene neck seal
+  text: 2mm smooth neoprene
+  icon: option-neck-neo.svg
+
+neck-silicone:
+  title: Silicone neck seal
+  text: Si Tech quick neck system
+  icon: option-neck-silicone.svg
+
+p-valve:
+  title: P-valve
+  text: SF Tech delrin p-valve
+  icon: option-p-valve.svg
+
+pocket-left:
+  title: Pocket on the left leg
+  text: Large cargo pocket
+  icon: option-pocket-left.svg
+
+pocket-right:
+  title: Pocket on the right leg
+  text: Large cargo pocket
+  icon: option-pocket-right.svg
+
+renfort-cul:
+  title: Kevlar butt protection
+  text: Kevlar reinforced fabric
+  icon: option-renfort-cul.svg
+
+rolock:
+  title: Rolock dryglove
+  text: Standard rolock system
+  icon: option-rolock.svg
+
+torse:
+  title: Kevlar upper body
+  text: Kevlar reinforced fabric
+  icon: option-torse.svg
+
+valve-apeks-hp:
+  title: Apeks valve
+  text: Apeks auto dump valve
+  icon: option-valve-apeks-hp.svg
+
+valve-apeks-lp:
+  title: Apeks valve
+  text: Apeks low profile valve
+  icon: option-valve-apeks-lp.svg
+
+valve-heating:
+  title: Heating inflation valve
+  text: SF Tech delrin valve
+  icon: option-valve-heating.svg
+
+valve-sitech:
+  title: SiTech dump valve
+  text: SiTech Argo exhaust valve
+  icon: option-valve-sitech.svg
+
+wrist-latex:
+  title: Latex wrist seal
+  text: Heavy duty latex
+  icon: option-wrist-latex.svg
+
+wrist-silicone:
+  title: Silicone wrist seal
+  text: Si Tech QCS System
+  icon: option-wrist-silicone.svg
+
+zipper-prot:
+  title: Protective zipper
+  text: Trilaminate protective sleeve
+  icon: option-zipper-prot.svg
+
+zipper:
+  title: Metal zipper
+  text: YKK Proseal metal zipper
+  icon: option-zipper.svg

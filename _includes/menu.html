@@ -1,11 +1,6 @@
  <div class="wrapper menu-wrapper">
   <ul class="menu-list">
-    {% case page.lang %}
-      {% when 'en' %}
-        {% assign menu-lang = site.data.menu_en.toc %}
-      {% when 'fr' %}
-        {% assign menu-lang = site.data.menu_fr.toc %}
-    {% endcase %} 
+    {% assign menu-lang = site.data.[page.lang].menu.toc %}
       {% for item in menu-lang %}
       <li class="menu-dropdown">
         <div class="menu-item">{{ item.title }}</div>

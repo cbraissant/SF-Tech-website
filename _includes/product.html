@@ -6,8 +6,11 @@
     <div class="product-half">
       <div class="product-inner">
         <div class="product-text">
-          <h1 class="product-title">{{page.title}}</h1>
-          <h4 class="product-subtitle">{{page.subtitle}}</h4>
+          {% assign words = {{page.title}} | split: ' ' %}
+          {% for word in words %}
+            <h1 class="product-title textfit">{{ word }}</h1>
+          {% endfor %}
+          <h4 class="product-subtitle textfit">{{page.subtitle}}</h4>
         </div>
         
         <div class="product-cta">

@@ -2,26 +2,88 @@
 // ==========================================================================
 
 .options-title {
+  text-align: center;
+  color: $text-color;
   border-bottom: 1px solid $yellow;
   padding-bottom: $padding;
-  margin-bottom: $padding;
+  margin-bottom: $spacing;
 }
 
-.option-wrapper {
+.options-icon {
+  height: 50px;
+  width: 50px;
+  margin: 10px;
 }
 
-.options-table {
+.options-icon svg{
+  height: 100%;
+  width: 100%;
+}
+
+.options-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.options-each {
+  display: flex;
+  width: 100%;
+  @include mq(tablet) { width: 50%; }
+  @include mq(laptop) { width: 33.33333%; }
+}
+
+
+.options-item {
+  display: flex;
+  width: 20rem;
   margin: 0 auto;
 }
 
-.options-table td,
-.options-table th {
-  padding: 5px;
-  @include mq(laptop) {
-    padding: 10px 20px;
-  }
+.options-text {
+  display: flex;
+  flex-direction: column;
+  margin: auto 0;
 }
 
-.options-table-data:nth-child(even) {
-  background: $dark-gray;
+.options-header {
+  @include titlefont();
+  text-transform: uppercase;
 }
+
+.options-legend {
+  flex-wrap: wrap;
+  margin: 0 auto;
+
+  @include mq(tablet) { display: flex; justify-content: center;}
+
+}
+
+.options-legend-item {
+  @include titlefont();
+  width: 20rem;
+  text-align: left;
+  display: flex;
+  margin: $padding auto;
+}
+
+.dot {
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 0 25px;
+}
+
+.dot-yellow { background-color: $yellow; }
+.dot-gray { background-color: $gray; }
+
+
+
+
+.base { color: $yellow; }
+.base .options-icon svg { fill: $yellow; }
+
+.option { color: $gray; }
+.options-icon svg { fill: $gray; }
+
+.hidden { display: none; }

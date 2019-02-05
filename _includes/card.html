@@ -6,7 +6,14 @@
       src="{{site.url}}{{site.baseurl}}/assets/img/{{card.type}}/1024/{{ card.img }}.{{card.type}}"
       alt="{{ card.title }}">
   <div class="card-inner">
-    <div class="card-headline">{{ card.title }}</div>
-    <div class='card-sub'>{{ card.sub }}</div>
+      {% if page.lang == 'en' %}
+        <div class="card-headline">{{ card.title_en }}</div>
+        <div class='card-sub'>{{ card.sub_en }}</div>
+      {% endif %}
+
+      {% if page.lang == 'fr' %}
+        <div class="card-headline">{{ card.title_fr }}</div>
+        <div class='card-sub'>{{ card.sub_fr }}</div>
+      {% endif %}
   </div>
 </a>

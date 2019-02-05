@@ -1,19 +1,19 @@
 <header class="masthead" id="masthead">
   
-  <a href="{{site.url}}{{site.baseurl}}">
+  <a href="{{site.url}}{{site.baseurl}}/{{page.lang}}/home">
     <img src="{{site.url}}{{site.baseurl}}/assets/img/svg/sftech-logo.svg" alt="" class="masthead-logo">
   </a>
 
   {% include menu.html %} 
 
 
-<!--   <div class="masthead-lang">
+  <div class="masthead-lang">
     <a href="{{site.url}}/en/{{page.namespace}}"
        {% if page.lang == 'en' %}class="lang-selected"{% endif %}>EN</a>
     <span> / </span>
     <a href="{{site.url}}/fr/{{page.namespace}}"
        {% if page.lang == 'fr' %}class="lang-selected"{% endif %}>FR</a>
-  </div> -->
+  </div>
 
 
   <!-- TOGGLE ICON --> 

@@ -13,6 +13,9 @@ subtitle: High Tech Energy
 hero-image: /assets/img/jpg/1920/batteries-0396.jpg
 hero-style: overlay
 
+image:
+  - assets/img/suits/batteries-montage.png
+
 specs:
   - name: Characteristics
     id: characteristics
@@ -37,7 +40,7 @@ specs:
     - "<strong>Length:</strong> 270mm / 185mm"
     - "<strong>Diameter:</strong> 61mm"
     - "<strong>Weight (cable included):</strong> 1510g / 1040g"
-    - "<strong>Autonomy:</strong><br>
+    - "<strong>Autonomy (may:</strong><br>
         Pads only: 7h15 / 4h00<br>
         Gloves only: 8h00 / 4h30<br>
         Pads and gloves: 3h45 / 2h00"
@@ -55,9 +58,6 @@ highlights:
   - icon: finger-push.svg
     title: Simple locking mechanism
     sub: A spring loaded push pin locks the head to the canister
-
-image:
-  - assets/img/suits/batteries-akkutank.png
 
 link-card:
   - pads

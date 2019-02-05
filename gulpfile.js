@@ -1,7 +1,5 @@
 // ************************************
 
-// DO NOT COPY ANY FILES IN _site/assets
-// The folder is suppose to be kept, but we never know...
 
 // JEKYLL
 // - Create the HTML files only

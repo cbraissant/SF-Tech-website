@@ -2,43 +2,61 @@
 # ==========================================================================
 
 classic:
-  title: Neoprene Classic Kevlar
-  sub: Performance Meets Efficiency
+  title_en: Neoprene Classic Kevlar
+  sub_en: Performance Meets Efficiency
+  
+  title_fr: Neoprene Classic Kevlar
+  sub_fr: Performance et efficacité
   img: cecile-surface
   type: jpg
   link: /classic
 
 kevlar-pro:
-  title: Neoprene Kevlar Pro
-  sub: Heavy duty by definition
+  title_en: Neoprene Kevlar Pro
+  sub_en: Heavy duty by definition
+  
+  title_fr: Neoprene Kevlar Pro
+  sub_fr: La résistance par définition
   img: walz
   type: jpg
   link: /kevlar-pro
 
 trilam:
-  title: Trilam Classic Kelvar
-  sub: Lightness and durability
+  title_en: Trilam Classic Kelvar
+  sub_en: Lightness and durability
+  
+  title_fr: Trilam Classic Kelvar
+  sub_fr: Légéreté et durabilité
   img: sandra-3007a
   type: jpg
   link: /trilam
 
-trilam-pro:
-  title: Trilam Kevlar Pro
-  sub: Durability without compromise
+trilam-pro: 
+  title_en: Trilam Kevlar Pro
+  sub_en: Durability without compromise
+  
+  title_fr: Trilam Kevlar Pro
+  sub_fr: Durabilité sans compromis
   img: tom-trilam-2
   type: jpg
   link: /trilam-pro
 
 tnt:
-  title: Titanium Neoprene Trilaminate
-  sub: The best of both world
+  title_en: Titanium Neoprene Trilaminate
+  sub_en: The best of both world
+  
+  title_fr: Titanium Neoprene Trilaminate
+  sub_fr: Le meilleur des deux mondes
   img: slawek-packo-v3
   type: jpg
   link: /tnt
 
 commando:
-  title: Special Forces
-  sub: Military grade drysuits
+  title_en: Special Forces
+  sub_en: Military grade drysuits
+  
+  title_fr: Special Forces
+  sub_fr: Combinaison de qualité militaires
   img: commando-1632
   type: jpg
   link: /special-forces
@@ -49,22 +67,31 @@ commando:
 # ==========================================================================
 
 sweater:
-  title: Polartec Sweater
-  sub: High performance undergarments
+  title_en: Polartec Sweater
+  sub_en: High performance undergarments
+  
+  title_fr: Pull Polartec
+  sub_fr: Vêtements haute performance
   img: undersuit-logo-0630
   type: jpg
   link: /sweater
 
 pants:
-  title: Polartec Pants
-  sub: High performance undergarments
+  title_en: Polartec Pants
+  sub_en: High performance undergarments
+  
+  title_fr: Pantalon Polartec
+  sub_fr: Vêtements haute performance
   img: undersuit-logo-0630
   type: jpg
   link: /sweater
 
 vest:
-  title: Polartec Vest
-  sub: High performance undergarments
+  title_en: Polartec Vest
+  sub_en: High performance undergarments
+  
+  title_fr: Gilet Polartec
+  sub_fr: Vêtements haute performance
   img: undersuit-logo-0630
   type: jpg
   link: /sweater
@@ -74,29 +101,41 @@ vest:
 # HEATING
 # ==========================================================================
 pads:
-  title: Heating Pads
-  sub: Modularity at its best
+  title_en: Heating Pads
+  sub_en: Modularity at its best
+  
+  title_fr: Pads chauffants
+  sub_fr: Modularité par excellence
   img: rollup_heathing
   type: jpg
   link: /pads
 
 valve:
-  title: Heating valve
-  sub: The gate to the warmth
+  title_en: Heating valve
+  sub_en: The gateway to warmth
+  
+  title_fr: Inflateur
+  sub_fr: The gateway to warmth
   img: heating-valve-0201
   type: jpg
   link: /valve
 
 gloves:
-  title: Heating gloves
-  sub: Warm and comfortable
+  title_en: Heating gloves
+  sub_en: Warm and comfortable
+  
+  title_fr: Gants chauffants
+  sub_fr: Chauds et confortable
   img: gant-surface
   type: jpg
   link: /gloves
 
 batteries:
-  title: Batteries
-  sub: High Tech Energy
+  title_en: Batteries
+  sub_en: High Tech Energy
+  
+  title_fr: Batteris
+  sub_fr: Energie high-tech
   img: batteries-0396
   type: jpg
   link: /batteries
@@ -106,22 +145,31 @@ batteries:
 # OTHER
 # ==========================================================================
 contact:
-  title: Contact us
-  sub: Let's get in touch
+  title_en: Contact us
+  sub_en: Let's get in touch
+  
+  title_fr: Contactez-nous
+  sub_fr: Ecrivez-nous un message
   img: facade-1211
   type: jpg
   link: /contact
 
 materials:
-  title: Our materials
-  sub: High quality only
+  title_en: Our materials
+  sub_en: High quality only
+  
+  title_fr: Nos matériaux
+  sub_fr: Haute qualité uniquement
   img: material-0527
   type: jpg
   link: /materials
 
 expertise:
-  title: Area of expertise
-  sub: What we can do
+  title_en: Area of expertise
+  sub_en: What we can do
+  
+  title_fr: Domaine d'expertise
+  sub_fr: Ce que l'on sait faire
   img: UTP-Ice
   type: jpg
   link: /expertise

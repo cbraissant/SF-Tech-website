@@ -12,20 +12,22 @@ subtitle: Performance et efficacité
 hero-image: /assets/img/jpg/1920/cecile-surface.jpg
 hero-style: overlay
 
+image:
+  - assets/img/suits/montage-classic.png
+
 highlights:
   - icon: thermometer.svg
     title: Chaleur et flexibilité
     sub: Le néoprène 2mm hyper-compressé offre une excellente isolation thermique tout en garantissant un comfort hors-norme
   - icon: zipper.svg
     title: Fermeture éclair YKK en métal
-    sub: "YKK Proseal<sup>&reg;</sup> est la fermeture étanche la plus résistance
-    du marché"
+    sub: "YKK Proseal<sup>&reg;</sup> est la fermeture étanche la plus résistante du marché"
   - icon: eco-hands.svg
     title: Neoprène Yamamoto
     sub: Contrairement aux néoprènes à base de pétrole, le néoprène Yamamoto est fabriqué à 99.7% de roche de calcaire
   - icon: pencil.svg
     title: "Une taille: La Tienne!"
-    sub: To guarantee perfection, all SF Tech drysuit are made to measure with your choice of options and colors
+    sub: Pour garantir une qualité irréprochable, tout les combinaisons SF Tech sont faites sur mesures, avec ton choix d'options et de couleurs.
 
 specs:
   - name: Caractéristiques
@@ -33,10 +35,13 @@ specs:
     data:
       - Renfort en Kevlar<sup>&reg;</sup> aux endroits critiques
       - Fermeture frontrale YKK en métal
+      - Protection de fermeture en néoprène
       - Torse télescopique avec sous-cutale
       - Pads de genoux en Kevlar<sup>&reg;</sup>
       - Larges bretelles internes ajustables
       - Sur-col de protection en néoprène
+      - Coupe près du corps
+      - Taille sur mesure
       - "Poids total: ~5.0kg"
       - Certifiée CE
   - name: Données Techniques
@@ -49,8 +54,57 @@ specs:
       - "<strong>Couture:</strong> Chainette non-traversante à 2 fils"
       - "<strong>Étanchéité:</strong> 3-5 couches de colle uréthane"
 
-image:
-  - assets/img/suits/montage-classic.png
+option:
+  - type: knee-pads
+    style: base
+  - type: renfort-cul
+    style: option
+  - type: torse
+    style: base
+  - type: neck-latex
+    style: base
+  - type: neck-neo
+    style: option
+  - type: neck-silicone
+    style: option
+  - type: wrist-latex
+    style: base
+  - type: wrist-silicone
+    style: option
+  - type: gloves
+    style: option
+  - type: valve-apeks-hp
+    style: base
+  - type: valve-apeks-lp
+    style: option
+  - type: valve-sitech
+    style: option
+  - type: valve-heating
+    style: option
+  - type: inf-apeks
+    style: base
+  - type: inf-sitech
+    style: option
+  - type: p-valve
+    style: option
+  - type: boots-std
+    style: base
+  - type: boots-rockboots
+    style: option
+  - type: boots-teckna
+    style: option
+  - type: hood-sep
+    style: base
+  - type: hood-att
+    style: option
+  - type: pocket-left
+    style: option
+  - type: pocket-right
+    style: option
+  - type: zipper
+    style: base
+  - type: zipper-prot
+    style: option
 
 link-card:
   - classic
@@ -60,6 +114,6 @@ link-card:
 ---
 La SF Tech Neoprene Classic Kevlar est la combinaison étanche parfaite pour les plongeurs recréatifs ou techniques recherchant chaleur en haut froide, sans compromis de mobilité. Fabriqué à l'aide du meilleur néoprène, cette combinaison est chaude, extrêmement flexible et garanti une grande aisance de mouvement.
 
-La couche isolante est composée de néoprène Yamamoto hyper-compressé de 2mm, une mousse de néoprène à cellule fermée gardant sa densité même à grande profondeur. Les bras, le torse, le dos ainsi que les genoux et l'entre-jambe sont renforcés à l'aide de fibre de Kevlar<sup>&reg;</sup>. Les reste de la combinaison est fabriqué à l'aide de Supratex<sup>&reg;</sup>, un matériau très résistant à base de nylon et de polyester.
+La couche isolante est composée de néoprène Yamamoto hyper-compressé de 2mm, une mousse de néoprène à cellule fermée gardant sa densité même à grande profondeur. Les bras, le torse, le dos ainsi que les genoux et l'entre-jambe sont recouvert de tissu renforcé de fibre de Kevlar<sup>&reg;</sup>. Les reste de la combinaison est fabriqué à l'aide de Supratex<sup>&reg;</sup>, un matériau très résistant à base de nylon et de polyester.
 
 Utilisée dans les eaux froides d'Antarctique aussi bien que dans les grottes de Floride, la SF Tech Neoprene Classic Kevlar est extrêmement versatile. L'isolation thermique fournie par la couche de néoprène permet au plongeur de diminuer les couches de sous-combinaison nécessaires pour une plongée.

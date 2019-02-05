@@ -8,7 +8,7 @@ permalink: /en/vest/
 categories: clothes
 
 title: Polartec Vest
-subtitle: 
+subtitle: High Perfomance Undergarments
 
 hero-image: /assets/img/jpg/1920/undersuit-logo-0630.jpg
 hero-style: overlay
@@ -17,22 +17,21 @@ highlights:
   - icon: polartec.svg
     title: Polartec<sup>&reg;</sup> Power Stretch<sup>&reg;</sup>
     sub: Flexible, breathable and heat retaining material
-  - icon: thermometer.svg
+  - icon: flame.svg
     title: Heating ready
     sub: Pockets and wire holes ready for the heating system
   - icon: vest.svg
     title: Large crotch strap
     sub: To maintain the undergarments in place when donning and doffing the drysuit
-  - icon: pencil.svg
-    title: Thumb holes
-    sub: To keep the sleeve in place while gearing up
+  - icon: snow-flake.svg
+    title: Design for cold weather
+    sub: Fabric and thickness providing enough warmth for freezing-cold waters
 
 specs:
 - name: Characteristics
   id: characteristics
   data:
     - Large crotch strap
-    - Thumb loops
     - Designed for SF Tech heating system
     - SF Tech logo on the chest
     - Odor and bacteria resistant

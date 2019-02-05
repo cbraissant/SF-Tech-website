@@ -1,6 +1,6 @@
 # Chauffage
 
-Le système de chauffage SF Tech est basé sur un principe modulaire permettant de retirer ou de remplacer très facilement les éléments chauffants. Ce système est réalisé à l’aide de pads chauffants à base de tissus réspirants qui sont connectés entre-eux grâce à une gaine électrique. Le système modulaire permet de remplacer un pad ou une gaine, rapidement et sans avoir à changer le sous-vêtement.
+Le système de chauffage SF Tech est basé sur un principe modulaire permettant de retirer ou de remplacer très facilement les éléments chauffants. Ce système est réalisé à l’aide de pads chauffants à base de tissus réspirants qui sont connectés entre-eux par une gaine électrique. Le système modulaire permet de remplacer un pad ou une gaine, rapidement et sans avoir à changer le sous-vêtement.
 
 Les gants chauffants SF Tech peuvent être utilisés soit indépendamment ou en conjonction avec le système de pads chauffants par l’intermédiaire d’un raccord en Y. Le pull SF Tech est spécialement conçu pour accueillir le système de chauffage grâce à des poches prévues pour les pads, ainsi que des ouvertures pour le passage des câbles des gants. La puissance totale du chauffage est de 76W, les pads fournissant un maximum de 40W (10W par pad) et les gants 36W. 
 

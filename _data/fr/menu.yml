@@ -1,0 +1,55 @@
+toc:
+  - title: Combinaisons
+    subfolderitems:
+      - page: Neoprene Classic Kevlar
+        url: /classic
+      - page: Neoprene Kevlar Pro
+        url: /kevlar-pro
+      - page: TNT - Titanium Neoprene Trilaminate
+        url: /tnt
+      - page: Trilam Classic Kevlar
+        url: /trilam
+      - page: Trilam Kevlar Pro
+        url: /trilam-pro
+      - page: Special Forces
+        url: /special-forces
+  - title: Habits
+    subfolderitems:
+      - page: Pull Polartec
+        url: /sweater
+      - page: Pantalon Polartec
+        url: /pants
+      - page: Gilet Polartec
+        url: /vest
+  - title: Chauffage
+    subfolderitems:
+      - page: Pads chauffants
+        url: /pads
+      - page: Gants chauffants
+        url: /gloves
+      - page: Inflateur
+        url: /valve
+      - page: Batteries
+        url: /batteries
+  - title: Support
+    subfolderitems:
+      - page: Téléchargement
+        url: /telechargement
+      # - page: Measure Form
+      #   url: /measure
+      # - page: Mode d'emploi
+      #   url: /manuals
+      - page: Matériaux
+        url: /materials
+  - title: A propos
+    subfolderitems:
+      # - page: News
+      #   url: /news
+      - page: Domaine de compétences
+        url: /expertise
+  - title: Contact
+    subfolderitems:
+      - page: Contactez-nous
+        url: /contact
+      # - page: Where to buy
+      #   url: /retailers

@@ -8,7 +8,7 @@ permalink: /en/pads/
 categories: clothes
 
 title: Heating Pads
-subtitle: High Perfomance Undergarments
+subtitle: Modularity at its best
 
 hero-image: /assets/img/jpg/1920/rollup_heathing.jpg
 hero-style: overlay

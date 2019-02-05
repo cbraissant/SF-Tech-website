@@ -12,6 +12,9 @@ subtitle: The best of both worlds
 hero-image: /assets/img/jpg/1920/slawek-packo-v3.jpg
 hero-style: overlay
 
+image:
+  - assets/img/suits/montage-tnt.png
+
 specs:
   - name: Characteristics
     id: characteristics
@@ -23,12 +26,12 @@ specs:
       - Front entry YKK metal zipper
       - Protective zipper cover
       - Telescopic torso with crotch strap
-      - Heavy duty Kevlar® knee pads
+      - Heavy duty Kevlar<sup>&reg;</sup> knee pads
       - Large adjustable suspenders
       - Neoprene insulated neck collar
-      - Fabric available in black and red
       - Fitted cut
       - Made to measure
+      - "Total weight: ~4.0kg"
       - CE certified
   - name: Technical Data
     id: data
@@ -53,46 +56,53 @@ highlights:
     title: Unequalled warmth
     sub: The multilayer material with added Titanium Alpha makes the TNT up to 2x warmer than a conventional trilam
 
-options:
-  - type: Hood
-    standard: Spearated 6mm Neoprene Hood
-    option: Attached 6mm Neoprene Hood
-  - type: Neck Seal
-    standard: Latex
-    option: Neoprene / SiTech Orusk
-  - type: Kevlar
-    standard: Full body
-    option:
-  - type: Color
-    standard: Black and/or Red
-    option:
-  - type: Zipper
-    standard: YKK Proseal® Metal
-    option:
-  - type: Protective Zipper
-    standard: Trilaminate with YKK Plastic zipper
-    option:
-  - type: Inflation valve
-    standard: Apeks
-    option: Si Tech
-  - type: Heating Valve
-    standard:
-    option: SF Tech / Si Tech Vega
-  - type: Pockets
-    standard: 2 Cargo pockets
-    option:
-  - type: Wrist Seal
-    standard: Latex
-    option: Silicone
-  - type: Drygloves
-    standard:
-    option: Rolock / Si Tech
-  - type: Boots
-    standard: Heavy duty 6mm Neoprene
-    option: Rockboots / Lightboots
-
-image:
-  - assets/img/suits/montage-tnt.png
+option:
+  - type: full-suit
+    style: base
+  - type: knee-pads
+    style: base
+  - type: neck-latex
+    style: base
+  - type: neck-neo
+    style: option
+  - type: neck-silicone
+    style: option
+  - type: wrist-latex
+    style: base
+  - type: wrist-silicone
+    style: option
+  - type: gloves
+    style: option
+  - type: valve-apeks-hp
+    style: base
+  - type: valve-apeks-lp
+    style: option
+  - type: valve-sitech
+    style: option
+  - type: valve-heating
+    style: option
+  - type: inf-apeks
+    style: base
+  - type: inf-sitech
+    style: option
+  - type: p-valve
+    style: option
+  - type: boots-std
+    style: base
+  - type: boots-rockboots
+    style: option
+  - type: boots-teckna
+    style: option
+  - type: hood-sep
+    style: base
+  - type: hood-att
+    style: option
+  - type: pocket-left
+    style: base
+  - type: pocket-right
+    style: base
+  - type: zipper
+    style: base
 
 product-pictures:
   - assets/img/temp/IMG_0398.JPG
@@ -106,11 +116,11 @@ link-card:
   - trilam
   - trilam-pro
 ---
-The SF Tech TNT, is made of a revolutionary <strong>Patent-Pending</strong> material: a high density neoprene based trilaminate, with two extra layers of Titanium acting as heat-reflective panel. The overall material feels up to 2x warmer than a standard butyl trilaminate.
-The TNT offers all the advantages of trilaminate while being warmer and more flexible like a neoprene: <strong>The best of both worlds</strong>
+The SF Tech TNT is made of a revolutionary <strong>Patent-Pending</strong> material: a high density neoprene based trilaminate, with two extra layers of Titanium acting as heat-reflective panel. The overall material feels up to 2x warmer than a standard butyl trilaminate.
+The TNT offers all the advantages of trilaminate while being more flexible and warmer like a neoprene: <strong>The best of both worlds</strong>
 
 To guarantee strength and reliability, the overall suit is made of Kevlar® reinforced fabric. Only the best materials available on the market are used. The high-density neoprene is made by Yamamoto while the Kevlar® is made in Switzerland. 
 
 The SF Tech TNT is the perfect drysuit for demanding divers looking for a tailor made, top of the line drysuit with unprecedent freedom of movement, and unequalled robustness.
 
-As standard, the SF Tech TNT comes equiped with 2 cargo pockets on the legs, front entry zipper and telescopic torso allowing the diver the to be self-sufficient in the donning and doffing process. The fold of the suit is held in place by a crotch strap.
+As standard, the SF Tech TNT comes with a front entry zipper and telescopic torso allowing the diver the to be self-sufficient in the donning and doffing process. The fold of the suit is held in place by a crotch strap.

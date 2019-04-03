@@ -7,10 +7,13 @@ permalink: /fr/valve/
 
 categories: drysuit
 
-title: Inflateur de chauffage
+title: Inflateur passage combinaison
 subtitle: Porte ouverte à la chaleur
+
 hero-image: /assets/img/jpg/1920/heating-valve-0201.jpg
 hero-style: overlay
+
+image: assets/img/suits/heating-valve-0460.png
 
 highlights:
   - icon: low-profile.svg
@@ -42,9 +45,6 @@ specs:
       - Connecteur rapide Apeks
       - Câble E/O Ø5.8mm
       - Longeur de câble d'environ 50cm
-
-image:
-  - assets/img/suits/heating-valve-0460.png
   
 link-card:
   - pads

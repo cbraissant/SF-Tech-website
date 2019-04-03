@@ -12,8 +12,7 @@ subtitle: The best of both worlds
 hero-image: /assets/img/jpg/1920/slawek-packo-v3.jpg
 hero-style: overlay
 
-image:
-  - assets/img/suits/montage-tnt.png
+image: assets/img/suits/montage-tnt.png
 
 specs:
   - name: Characteristics
@@ -37,8 +36,8 @@ specs:
     id: data
     data:
       - "<strong>Waterproof layer:</strong> High density neoprene"
-      - "<strong>External fabric (Kevlar):</strong> Kevlar, nylon, polyester"
-      - "<strong>Internal Fabric:</strong> Polyester"
+      - "<strong>External fabric (Kevlar):</strong> 25% Kevlar / 75% Nylon"
+      - "<strong>Internal Fabric:</strong> 100% Polyester"
       - "<strong>Assembly:</strong> Triple stitched lapped seam"
       - "<strong>Seams:</strong> 3-5 layers of urethane sealant"
 

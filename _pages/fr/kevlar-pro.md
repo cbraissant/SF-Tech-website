@@ -9,11 +9,11 @@ categories: drysuit
 
 title: Neoprene Kevlar Pro
 subtitle: La résistance par définition
+
 hero-image: /assets/img/jpg/1920/walz.jpg
 hero-style: overlay
 
-image:
-  - assets/img/suits/kevlar.png
+image: assets/img/suits/kevlar.png
 
 highlights:
   - icon: shield.svg
@@ -136,4 +136,4 @@ Fabriquée entièrement en néoprène hyper-compressé de 2mm, renforcée de fib
 
 La couche isolante est composée de néoprène Yamamoto hyper-compressé de 2mm, une mousse de néoprène à cellule fermée gardant sa densité même à grande profondeur. L'ensemble de la combinaison est recouvert de tissu renforcé de fibre de Kevlar<sup>&reg;</sup> et une couche de protection supplémentaire est ajoutée sur les genoux.
 
-De base, la SF Tech Neoprene Kevlar Pro est équipée d'une fermeture frontale en métal avec torse télescopique pour faciliter l'habillage. Le plis de la combinaison est tenu en place par une sous-cutale elastique.
+De base, la SF Tech Neoprene Kevlar Pro est équipée d'une fermeture frontale en métal avec torse télescopique pour faciliter l'habillage. Le pli de la combinaison est tenu en place par une sous-cutale elastique.

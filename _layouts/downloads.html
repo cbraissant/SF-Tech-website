@@ -4,10 +4,10 @@ layout: default
 <section class="downloads-section">
   <div class="wrapper downloads-wrapper">
 
-    <h3 class="downloads-title">Dowloads</h3>
+    <h3 class="downloads-title">Downloads</h3>
     <div class="downloads-file">
     {% for file in page.downloads %}
-      <a href="{{ file.link }}" class="downloads-links">
+      <a href="{{ file.link }}" class="downloads-links" download="">
         <div class="downloads-box">
           <img src="{{site.url}}{{site.baseurl}}{{ file.icon }}"
                class="downloads-icon" alt="">

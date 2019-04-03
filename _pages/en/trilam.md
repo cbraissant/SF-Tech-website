@@ -9,8 +9,11 @@ categories: drysuit
 
 title: Trilam Classic Kevlar
 subtitle: Lightness and durability
+
 hero-image: /assets/img/jpg/1920/sandra-3007a.jpg
 hero-style: overlay
+
+image: assets/img/suits/montage-trilam.png
 
 specs:
   - name: Characteristics
@@ -31,9 +34,9 @@ specs:
     id: data
     data:
       - "<strong>Waterproof layer:</strong> Butyl rubber"
-      - "<strong>External fabric (Kevlar):</strong> Kevlar, nylon, polyester"
-      - "<strong>External fabric (RipStop):</strong> Nylon"
-      - "<strong>Internal Fabric:</strong> Polyester"
+      - "<strong>External fabric (Kevlar):</strong> 25% Kevlar / 75% Nylon"
+      - "<strong>External fabric (RipStop):</strong> 100% Nylon"
+      - "<strong>Internal Fabric:</strong> 100% Polyester"
       - "<strong>Assembly:</strong> Triple stitched lapped seam"
       - "<strong>Seams:</strong> 3-5 layers of urethane sealant"
 
@@ -102,9 +105,6 @@ option:
     style: option
   - type: zipper
     style: base
-
-image:
-  - assets/img/suits/montage-trilam.png
 
 link-card:
   - classic

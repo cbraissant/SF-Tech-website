@@ -21,15 +21,13 @@
 }
 
 .options-list {
-  display: flex;
-  flex-wrap: wrap;
+  @include mq(tablet){ column-count: 2;}
+  @include mq(laptop){ column-count: 3;}
 }
 
 .options-each {
-  display: flex;
+  display: inline-block;
   width: 100%;
-  @include mq(tablet) { width: 50%; }
-  @include mq(laptop) { width: 33.33333%; }
 }
 
 

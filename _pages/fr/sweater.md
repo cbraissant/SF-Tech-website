@@ -13,6 +13,8 @@ subtitle: Sous-vêtement haute performance
 hero-image: /assets/img/jpg/1920/undersuit-logo-0630.jpg
 hero-style: overlay
 
+image: assets/img/suits/montage-sweater.png
+
 highlights:
   - icon: polartec.svg
     title: Polartec<sup>&reg;</sup> Power Stretch<sup>&reg;</sup>
@@ -49,9 +51,6 @@ link-card:
   - gloves
   - valve
   - batteries
-
-image:
-  - assets/img/suits/montage-sweater.png
 
 ---
 Le pull SF Tech est spécialement conçu afin d’offrir la meilleure expérience possible en combinaison étanche. Polartec<sup>&reg;</sup> Power Stretch<sup>&reg;</sup> a la capacité de conserver la chaleur sans restreindre les mouvements ou l'agilité pendant les activités. Polartec<sup>&reg;</sup> est un matériau réspirant permettant d’évacuer continuellement la vapeur d’eau tout en retenant la chaleur. Le couche en contact avec la peau reste sèche et confortable.

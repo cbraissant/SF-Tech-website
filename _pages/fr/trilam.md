@@ -9,8 +9,11 @@ categories: drysuit
 
 title: Trilam Classic Kevlar
 subtitle: Légèreté et durabilité
+
 hero-image: /assets/img/jpg/1920/sandra-3007a.jpg
 hero-style: overlay
+
+image: assets/img/suits/montage-trilam.png
 
 specs:
   - name: Caractéristiques
@@ -32,9 +35,9 @@ specs:
     id: data
     data:
       - "<strong>Couche imperméable:</strong> Caoutchouc de butyle"
-      - "<strong>Tissus extérieur (Kevlar):</strong> Kevlar, nylon, polyester"
-      - "<strong>Tissus extérieur (RipStop):</strong> Nylon"
-      - "<strong>Tissus intérieur:</strong> Polyester"
+      - "<strong>Tissus extérieur (Kevlar):</strong> 25% Kevlar / 75% Nylon"
+      - "<strong>Tissus extérieur (RipStop):</strong> 100% Nylon"
+      - "<strong>Tissus intérieur:</strong> 100% Polyester"
       - "<strong>Assemblage:</strong> Couture rabattue à double surpiqure"
       - "<strong>Étanchéité:</strong> 3-5 couches d'Aquasure"
 
@@ -103,9 +106,6 @@ option:
     style: option
   - type: zipper
     style: base
-
-image:
-  - assets/img/suits/montage-trilam.png
 
 link-card:
   - classic

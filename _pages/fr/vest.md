@@ -13,6 +13,8 @@ subtitle: Sous-vêtement haute performance
 hero-image: /assets/img/jpg/1920/undersuit-logo-0630.jpg
 hero-style: overlay
 
+image: assets/img/suits/montage-vest.png
+
 highlights:
   - icon: polartec.svg
     title: Polartec<sup>&reg;</sup> Power Stretch<sup>&reg;</sup>
@@ -41,9 +43,6 @@ specs:
     - "Polartec<sup>&reg;</sup> Power Stretch<sup>&reg;</sup>"
     - "Outer shell: 88% Polyester / 12% Elastan"
     - "Inner lining: 100% Polyester"
-
-image:
-  - assets/img/suits/montage-vest.png
 
 link-card:
   - pants

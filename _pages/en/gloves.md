@@ -13,6 +13,8 @@ subtitle: Warm and comfortable
 hero-image: /assets/img/jpg/1920/gant-surface.jpg
 hero-style: overlay
 
+image: assets/img/suits/heating-gloves.png
+
 highlights:
   - icon: thermometer.svg
     title: "Heat everywhere"
@@ -44,8 +46,6 @@ specs:
     - "<strong>Output power (max):</strong> 36W @ 12.6V"
     - "<strong>Operating current (max):</strong> 2.85A @ 12.6V"
     - "<strong>Approximate autonomy (23.8Ah):</strong> 8h00"
-image:
-  - assets/img/suits/heating-gloves.png
   
 link-card:
   - pants

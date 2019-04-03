@@ -12,9 +12,8 @@ subtitle: Performance meets efficiency
 hero-image: /assets/img/jpg/1920/cecile-surface.jpg
 hero-style: overlay
 
-image:
-  - assets/img/suits/montage-classic.png
- 
+image: assets/img/suits/montage-classic.png
+
 highlights:
   - icon: thermometer.svg
     title: Heat and flexibility

@@ -7,12 +7,13 @@ permalink: /en/pants/
 
 categories: clothes
 
-
 title: Polartec Pants
 subtitle: High Perfomance Undergarments
 
 hero-image: /assets/img/jpg/1920/undersuit-logo-0630.jpg
 hero-style: overlay
+
+image: assets/img/suits/montage-pants.png
 
 highlights:
   - icon: polartec.svg
@@ -45,9 +46,6 @@ specs:
     - "Polartec<sup>&reg;</sup> Power Stretch<sup>&reg;</sup>"
     - "Outer shell: 88% Polyester / 12% Elastan"
     - "Inner lining: 100% Polyester"
-
-image:
-  - assets/img/suits/montage-pants.png
 
 link-card:
   - sweater

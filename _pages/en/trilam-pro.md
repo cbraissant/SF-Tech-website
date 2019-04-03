@@ -9,8 +9,12 @@ categories: drysuit
 
 title: Trilam Kevlar Pro
 subtitle: Durability without compromise
+
 hero-image: /assets/img/jpg/1920/tom-trilam-2.jpg
 hero-style: overlay
+
+image: 
+  - assets/img/suits/montage-trilam-pro.png
 
 specs:
   - name: Characteristics
@@ -31,8 +35,8 @@ specs:
     id: data
     data:
       - "<strong>Waterproof layer:</strong> Butyl rubber"
-      - "<strong>External fabric (Kevlar):</strong> Kevlar, nylon, polyester"
-      - "<strong>Internal Fabric:</strong> Polyester"
+      - "<strong>External fabric (Kevlar):</strong> 25% Kevlar / 75% Nylon"
+      - "<strong>Internal Fabric:</strong> 100% Polyester"
       - "<strong>Assembly:</strong> Triple stitched lapped seam"
       - "<strong>Seams:</strong> 3-5 layers of urethane sealant"
 
@@ -97,9 +101,6 @@ option:
     style: option
   - type: zipper
     style: base
-
-image: 
-  - assets/img/suits/montage-trilam-pro.png
 
 link-card:
   - classic

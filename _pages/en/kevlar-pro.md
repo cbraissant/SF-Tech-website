@@ -12,8 +12,7 @@ subtitle: Heavy duty by definition
 hero-image: /assets/img/jpg/1920/walz.jpg
 hero-style: overlay
 
-image:
-  - assets/img/suits/kevlar.png
+image: assets/img/suits/kevlar.png
 
 highlights:
   - icon: shield.svg

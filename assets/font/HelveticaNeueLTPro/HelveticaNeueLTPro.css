@@ -1,6 +1,7 @@
 /* Bold */
 @font-face {
     font-family: 'Helvetica Neue LT Pro - Bd';
+    font-display: auto;
     src: url('HelveticaNeueLTProBd.eot');
     src: url('HelveticaNeueLTProBd.eot') format('embedded-opentype'),
          url('HelveticaNeueLTProBd.woff2') format('woff2'),
@@ -12,6 +13,7 @@
 /* Light */
 @font-face {
     font-family: 'Helvetica Neue LT Pro - Lt';
+    font-display: auto;
     src: url('HelveticaNeueLTProLt.eot');
     src: url('HelveticaNeueLTProLt.eot') format('embedded-opentype'),
          url('HelveticaNeueLTProLt.woff2') format('woff2'),
@@ -23,6 +25,7 @@
 /* Medium */
 @font-face {
     font-family: 'Helvetica Neue LT Pro - Md';
+    font-display: auto;
     src: url('HelveticaNeueLTProMd.eot');
     src: url('HelveticaNeueLTProMd.eot') format('embedded-opentype'),
          url('HelveticaNeueLTProMd.woff2') format('woff2'),
@@ -34,6 +37,7 @@
 /* Thin */
 @font-face {
     font-family: 'Helvetica Neue LT Pro - Th';
+    font-display: auto;
     src: url('HelveticaNeueLTProTh.eot');
     src: url('HelveticaNeueLTProTh.eot') format('embedded-opentype'),
          url('HelveticaNeueLTProTh.woff2') format('woff2'),
@@ -45,6 +49,7 @@
 /* Ultra light */
 @font-face {
     font-family: 'Helvetica Neue LT Pro - Ult';
+    font-display: auto;
     src: url('HelveticaNeueLTProUltLt.eot');
     src: url('HelveticaNeueLTProUltLt.eot') format('embedded-opentype'),
          url('HelveticaNeueLTProUltLt.woff2') format('woff2'),

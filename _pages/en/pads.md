@@ -13,6 +13,8 @@ subtitle: Modularity at its best
 hero-image: /assets/img/jpg/1920/rollup_heathing.jpg
 hero-style: overlay
 
+image: assets/img/suits/heating-pads.png
+
 highlights:
   - icon: pads.svg
     title: Modular system
@@ -46,9 +48,6 @@ specs:
     - "<strong>Output power max (4 pads):</strong> 40W @ 12.6V"
     - "<strong>Operating current max:</strong> 3.2A @ 12.6V"
     - "<strong>Approximate autonomy (23.8 Ah):</strong> 7h15"
-
-image:
-  - assets/img/suits/heating-pads.png
 
 link-card:
   - sweater

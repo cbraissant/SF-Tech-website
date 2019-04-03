@@ -1,6 +1,9 @@
 <section class="options-section">
   <div class="wrapper options-wrapper">
-    <h2 class="options-title">Make it the way you want</h2>
+    <h2 class="options-title">
+      {% if page.lang == 'en' %}Make it the way you want{% endif %}
+      {% if page.lang == 'fr' %}Personnalise ta combinaison{% endif %}
+    </h2>
 
     <div class="options-inner">
 

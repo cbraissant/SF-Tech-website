@@ -9,11 +9,11 @@ categories: drysuit
 
 title: Forces Spéciales
 subtitle: Combinaisons étanches sur mesure pour professionnels
+
 hero-image: /assets/img/jpg/1920/commando-1632.jpg
 hero-style: overlay
 
-image:
-  - assets/img/suits/special-forces.png
+image: assets/img/suits/special-forces.png
 
 link-card:
   - kevlar-pro

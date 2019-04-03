@@ -1,20 +1,18 @@
 //  #PRODUCT
 // ==========================================================================
 
+// Local variable:
+$product-height: 85vh;
+
 .product-section {
   padding: 0;
   padding-top: $header-height-phone;
   @include mq(laptop) {
     padding-top: $header-height;
-    height: 100vh;
-    // max-height: 1000px;
+    height: $product-height;
   }
   background-size: cover;
   background-position: right;
-}
-
-.product-title {
-  color: $text-highlight;
 }
 
 .product-wrapper {
@@ -33,15 +31,29 @@
   padding: $padding;
 }
 
-.product-text {
-  margin: 0 auto;
-  max-width: 35rem;
-}
-
 .product-picture {
   margin: auto;
   text-align: center;
+  height: 100%;
+}
+
+.product-image {
+  height: 100%;
+  width: 35rem;
+  max-width: 100%;
+  object-fit: contain;
+}
+
+
+.product-title {
+  color: $text-highlight;
+}
+
+
+.product-text {
+  margin: 0 auto;
   max-width: 35rem;
+  padding-top: 1rem;
 }
 
 .product-inner {
@@ -54,11 +66,6 @@
     margin-bottom: auto;
     padding-bottom: $header-height;
   }
-}
-
-.product-image {
-  max-width: 100%;
-  max-height: 85vh;
 }
 
 .product-subtitle {

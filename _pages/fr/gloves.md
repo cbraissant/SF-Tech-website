@@ -1,9 +1,9 @@
 ---
 layout: heating
 
-lang: en
-namespace: glvoes
-permalink: /fr/gants/
+lang: fr
+namespace: gloves
+permalink: /fr/gloves/
 
 categories: heating
 
@@ -12,6 +12,8 @@ subtitle: Chaud et comfortables
 
 hero-image: /assets/img/jpg/1920/gant-surface.jpg
 hero-style: overlay
+
+image: assets/img/suits/heating-gloves.png
 
 highlights:
   - icon: thermometer.svg
@@ -44,8 +46,6 @@ specs:
     - "<strong>Puissance maximum (pair):</strong> 36W @ 12.6V"
     - "<strong>Courant d'utilisation maximum:</strong> 2.85A @ 12.6V"
     - "<strong>Autonomie approximative (23.8Ah):</strong> 8h00"
-image:
-  - assets/img/suits/heating-gloves.png
   
 link-card:
   - pants

@@ -28,9 +28,7 @@
 
     <div class="product-half">
       <div class="product-picture">
-         {% for slide in page.image %}
-         <img class="product-image" src="{{site.url}}{{site.baseurl}}/{{slide}}" alt="{{ page.title }}">
-         {% endfor %}
+         <img class="product-image" src="{{site.url}}{{site.baseurl}}/{{page.image}}" alt="{{ page.title }}">
       </div>
     </div>
   </div>

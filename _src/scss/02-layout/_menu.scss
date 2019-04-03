@@ -124,17 +124,14 @@
     // Positioning and sizing
     position: absolute;
     top: 100px;
-    padding-left: $padding;
-    padding-right: $padding;
-    padding-bottom: $padding;
-    // left: 0;
+    padding: $padding;
 
     // Text styles
     text-align: left;
     white-space: nowrap;
 
     // Background and borders
-    border-radius: 0 0 15px 15px;
+    // border-radius: 0 0 15px 15px;
     background-color: $dark-gray;
   }
 
@@ -148,4 +145,8 @@
     display: block;
   }
 
+  .menu-dropdown:hover,
+  .menu-dropdown:active {
+    background-color: $dark-gray;
+  }
 }

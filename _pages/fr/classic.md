@@ -9,11 +9,11 @@ categories: drysuit
 
 title: Neoprene Classic Kevlar
 subtitle: Performance et efficacité
+
 hero-image: /assets/img/jpg/1920/cecile-surface.jpg
 hero-style: overlay
 
-image:
-  - assets/img/suits/montage-classic.png
+image: assets/img/suits/montage-classic.png
 
 highlights:
   - icon: thermometer.svg
@@ -69,7 +69,7 @@ option:
     style: option
   - type: wrist-latex
     style: base
-  - type: wrist-silicone
+  - type: wrist-silicone  
     style: option
   - type: gloves
     style: option
@@ -111,6 +111,15 @@ link-card:
   - tnt
   - trilam
   - trilam-pro
+
+showcase:
+  - neoprene-01.png
+  - neoprene-02.png
+  - neoprene-03.png
+  - neoprene-04.png
+  - neoprene-05.png
+  - neoprene-10.png
+
 ---
 La SF Tech Neoprene Classic Kevlar est la combinaison étanche parfaite pour les plongeurs recréatifs ou techniques recherchant chaleur en haut froide, sans compromis de mobilité. Fabriqué à l'aide du meilleur néoprène, cette combinaison est chaude, extrêmement flexible et garanti une grande aisance de mouvement.
 

@@ -1,0 +1,35 @@
+//  #SHOWCASE
+// ==========================================================================
+.showcase-section {
+  background-image: radial-gradient($dark-gray 10%, $dark-gray, black 70%);
+}
+
+.showcase-title {
+  text-align: center;
+  color: $text-color;
+  border-bottom: 1px solid $yellow;
+  padding-bottom: $padding;
+  margin-bottom: $spacing;
+}
+
+
+.showcase-inner {
+  // Positioning and sizing
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.showcase-group {
+  // Positioning and sizing
+  width: 100%;
+  @include mq(tablet) {width: 50%;}   
+  @include mq(laptop) {width: 33.33%;}
+  padding: $padding;
+
+  // Text styles
+  text-align: center;
+}
+
+.showcase-picture {
+  max-height: 300px;
+}

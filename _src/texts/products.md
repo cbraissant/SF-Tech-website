@@ -2,22 +2,22 @@
 
 ## Neoprene Classic Kevlar
 
-SF Tech Classic Kevlar® model is intended for all exigent sport divers and is particularly appreciated by tech divers for its robustness.  Made of hyper-compressed 2mm neoprene foam to provide heat insulation and keep the diver warm even in ice cold water. The design and flexibility of the material allows a great freedom of movement while still having a close-fitting garment. The outer linning is made of Supratex, a strong nylon fabric, while the upper part of the body and critical areas are reinforced with Kevlar®, the strongest material available for drysuit manufacturing.
+SF Tech Classic Kevlar<sup>&reg;</sup> model is intended for all exigent sport divers and is particularly appreciated by tech divers for its robustness.  Made of hyper-compressed 2mm neoprene foam to provide heat insulation and keep the diver warm even in ice cold water. The design and flexibility of the material allows a great freedom of movement while still having a close-fitting garment. The outer linning is made of Supratex, a strong nylon fabric, while the upper part of the body and critical areas are reinforced with Kevlar®, the strongest material available for drysuit manufacturing.
 
 ------
 
-## Neoprene Kevlar pro
+## Neoprene Kevlar<sup>&reg;</sup> pro
 
 SF Tech Kevlar® PRO is extremely resistant and is intended for professionals and for tech divers who are used to dive into aggressive environment. Particularly adapted to commercial diving and cave diving,  
 
 ------
 
-## Trilam Classic Kevlar
+## Trilam Classic Kevlar<sup>&reg;</sup>
 The SF Tech Classic Trilam Kevlar® model is light and resistant and is intended for all sport and tech divers who wants a light drysuit with beyond reproach quality.
 
 ------
 
-## Trilam Kevlar pro
+## Trilam Kevlar<sup>&reg;</sup>pro
 
 The SF Tech Trilam Kevlar® PRO model is extremely resistant and is intended for all sport and tech divers who wants a light drysuit with beyond reproach quality.
 

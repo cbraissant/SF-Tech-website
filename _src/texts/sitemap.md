@@ -6,12 +6,12 @@ homepage
 │   ├── product comparator
 │   │
 │   ├── neoprene
-│   │   ├── neoprene classic kevlar   
-│   │   └── neoprene kevlar pro
+│   │   ├── neoprene classic Kevlar<sup>&reg;</sup>  
+│   │   └── neoprene Kevlar<sup>&reg;</sup>pro
 │   ├── trilam
 │   │   ├── tnt titanium neoprene trilaminate
-│   │   ├── trilam classic kevlar
-│   │   └── trilam kevlar pro
+│   │   ├── trilam classic Kevlar<sup>&reg;</sup>
+│   │   └── trilam Kevlar<sup>&reg;</sup>pro
 │   ├── pro
 │   │   ├── ncw contaminated water
 │   │   ├── commercial
@@ -32,7 +32,7 @@ homepage
 │       ├── neoprene
 │       ├── trilam
 │       ├── tnt
-│       ├── kevlar
+│       ├── Kevlar
 │       ├── polartec
 │       ├── latex
 │       └── aquasure

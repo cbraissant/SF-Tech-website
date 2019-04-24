@@ -7,7 +7,7 @@ permalink: /en/classic/
 
 categories: drysuit
 
-title: Neoprene Classic Kevlar
+title: Neoprene Classic Kevlar&reg;
 subtitle: Performance meets efficiency
 hero-image: /assets/img/jpg/1920/cecile-surface.jpg
 hero-style: overlay
@@ -46,7 +46,7 @@ specs:
     id: data
     data:
       - "<strong>Waterproof layer:</strong> Hyper-compress 2mm neoprene foam"
-      - "<strong>External fabric (Kevlar):</strong> Kevlar, nylon, spandex"
+      - "<strong>External fabric (Kevlar):</strong> Kevlar<sup>&reg;</sup>, nylon, spandex"
       - "<strong>External fabric (Supratex):</strong> Polyester, nylon, spandex"
       - "<strong>Internal Fabric:</strong> Nylon (70 deniers)"
       - "<strong>Stitching:</strong> Gluied with two threads blind stitch"
@@ -105,17 +105,17 @@ option:
     style: option
 
 link-card:
-  - kevlar-pro
+  - Kevlar-pro
   - tnt
   - trilam-pro
   - trilam
 ---
-The SF Tech Neoprene Classic Kevlar is the perfect drysuit for recreational or technical divers seeking warmth in cold water, without compromising mobility. Made of the best neoprene on the market, the suit is warm, extremely flexible and grants excellent freedom of movement.
+The SF Tech Neoprene Classic Kevlar<sup>&reg;</sup> is the perfect drysuit for recreational or technical divers seeking warmth in cold water, without compromising mobility. Made of the best neoprene on the market, the suit is warm, extremely flexible and grants excellent freedom of movement.
 
 The core of the material is made of 2mm hyper-compress Yamamoto neoprene, a dense closed-cell foam keeping it's density even at great depth. Kevlar<sup>&reg;</sup> reinforcements are provided on arms, chest, back as well as the knees and crotch area. The rest of the suit is made of Supratex<sup>&reg;</sup>, a strong nylon and polyester fabric.
 
-Used in cold water of Antartica or caves in Flordia, the SF Tech Neoprene Classic Kevlar is an extremely versatile drysuit. The warmth provided by the layer of neoprene allows the diver the reduce the undergarments necessary for a dive.
+Used in cold water of Antartica or caves in Flordia, the SF Tech Neoprene Classic Kevlar<sup>&reg;</sup> is an extremely versatile drysuit. The warmth provided by the layer of neoprene allows the diver the reduce the undergarments necessary for a dive.
 
-As standard, the SF Tech Neoprene Classic Kevlar comes with a front entry zipper and telescopic torso allowing the diver the to be self-sufficient in the donning and doffing process. The fold of the suit is held in place by a crotch strap.
+As standard, the SF Tech Neoprene Classic Kevlar<sup>&reg;</sup> comes with a front entry zipper and telescopic torso allowing the diver the to be self-sufficient in the donning and doffing process. The fold of the suit is held in place by a crotch strap.
 
 

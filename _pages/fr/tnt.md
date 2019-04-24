@@ -20,7 +20,7 @@ specs:
     id: characteristics
     data:
       - Matériel révolutionnaire à base de néoprene haute densité
-      - Entièrement recouverte de kevlar<sup>&reg;</sup>
+      - Entièrement recouverte de Kevlar<sup>&reg;</sup>
       - Fermeture frontale ou dorsale
       - Torse télescopique facilitant l’habillage
       - Fermeture éclair YKK en métal
@@ -35,7 +35,7 @@ specs:
     id: data
     data:
       - "<strong>Couche imperméable:</strong> Néoprène haute densité"
-      - "<strong>Tissus extérieur (Kevlar):</strong> 25% Kevlar / 75% Nylon"
+      - "<strong>Tissus extérieur (Kevlar):</strong> 25% Kevlar<sup>&reg;</sup> / 75% Nylon"
       - "<strong>Tissus intérieur:</strong> 100% Polyester"
       - "<strong>Assemblage:</strong> Couture rabattue à double surpiqure"
       - "<strong>Étanchéité:</strong> 3-5 couches d'Aquasure"
@@ -48,7 +48,7 @@ highlights:
     title: Mobilité incroyable
     sub: La matériau TNT offre une flexibilité et une souplesse sans précédent
   - icon: shield.svg
-    title: Entièrement en kevlar
+    title: Entièrement en Kevlar<sup>&reg;</sup>
     sub: Matériau renforcé par des fibre de Kevlar<sup>&reg;</sup> utilisé sur l'ensemble de la combinaison
   - icon: flame.svg
     title: Chaleur incroyable
@@ -110,7 +110,7 @@ product-pictures:
 
 link-card:
   - classic
-  - kevlar-pro
+  - Kevlar-pro
   - trilam
   - trilam-pro
 ---

@@ -36,7 +36,7 @@ specs:
     id: data
     data:
       - "<strong>Waterproof layer:</strong> High density neoprene"
-      - "<strong>External fabric (Kevlar):</strong> 25% Kevlar / 75% Nylon"
+      - "<strong>External fabric (Kevlar):</strong> 25% Kevlar<sup>&reg;</sup> / 75% Nylon"
       - "<strong>Internal Fabric:</strong> 100% Polyester"
       - "<strong>Assembly:</strong> Triple stitched lapped seam"
       - "<strong>Seams:</strong> 3-5 layers of urethane sealant"
@@ -49,7 +49,7 @@ highlights:
     title: Incredible mobility
     sub: The TNT material offers unprecedent flexibility and suppleness
   - icon: shield.svg
-    title: Full Kelvar
+    title: Full Kelvar<sup>&reg;</sup>
     sub: Kevlar<sup>&reg;</sup> reinforced fabric is used on the whole suit, making it incredibly resistant
   - icon: flame.svg
     title: Unequalled warmth
@@ -111,7 +111,7 @@ product-pictures:
 
 link-card:
   - classic
-  - kevlar-pro
+  - Kevlar-pro
   - trilam
   - trilam-pro
 ---

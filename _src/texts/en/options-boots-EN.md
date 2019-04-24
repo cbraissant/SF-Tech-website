@@ -2,7 +2,7 @@
 
 ### Standard
 
-6mm neoprene, reinforced ankle straps, extra strong vulcanized rubber soles, kevlar reinforcement on the front, heavy duty vulcanized rubber on the sides and lighter reinforcement on the ankle area to give a perfect mobility for the frog kick.
+6mm neoprene, reinforced ankle straps, extra strong vulcanized rubber soles, Kevlar reinforcement on the front, heavy duty vulcanized rubber on the sides and lighter reinforcement on the ankle area to give a perfect mobility for the frog kick.
 
 ### Neoprene socks
 

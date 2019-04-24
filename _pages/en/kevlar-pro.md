@@ -2,12 +2,12 @@
 layout: suit
 
 lang: en
-namespace: kevlar-pro
+namespace: Kevlar-pro
 permalink: /en/kevlar-pro/
 
 categories: drysuit
 
-title: Neoprene Kevlar PRO
+title: Neoprene Kevlar&reg; PRO
 subtitle: Heavy duty by definition
 hero-image: /assets/img/jpg/1920/walz.jpg
 hero-style: overlay
@@ -16,7 +16,7 @@ image: assets/img/suits/kevlar.png
 
 highlights:
   - icon: shield.svg
-    title: Full Kelvar
+    title: Full Kelvar<sup>&reg;</sup>
     sub: Kevlar<sup>&reg;</sup> reinforced fabric is used on the whole suit, making it incredibly resistant
   - icon: zipper.svg
     title: YKK metal zipper
@@ -46,7 +46,7 @@ specs:
     id: data
     data:
       - "<strong>Waterproof layer:</strong> Hyper-compressed 2mm neoprene foam"
-      - "<strong>External fabric (Kevlar):</strong> Kevlar, nylon, spandex"
+      - "<strong>External fabric (Kevlar):</strong> Kevlar<sup>&reg;</sup>, nylon, spandex"
       - "<strong>Internal Fabric:</strong> Nylon (70 deniers)"
       - "<strong>Stitching:</strong> Two threads blind stitch"
       - "<strong>Seams:</strong> 3-5 layers of urethane sealant"
@@ -108,8 +108,8 @@ link-card:
   - trilam
   - trilam-pro
 ---
-Made entirely of 2mm hyper-compressed neoprene with Kevlar<sup>&reg;</sup> reinforced fabric, The SF Tech Neoprene Kevlar Pro is design to last. Developped for demanding divers in rough environments, it is the perfect tool for technical or commercial divers, but is also suited for recreational divers wanting the best!
+Made entirely of 2mm hyper-compressed neoprene with Kevlar<sup>&reg;</sup> reinforced fabric, The SF Tech Neoprene Kevlar<sup>&reg;</sup> PRO is design to last. Developped for demanding divers in rough environments, it is the perfect tool for technical or commercial divers, but is also suited for recreational divers wanting the best!
 
 The core of the material is made of 2mm hyper-compress Yamamoto neoprene, a dense closed-cell foam keeping it's density even at great depth. Kevlar<sup>&reg;</sup> reinforced fabric covers the whole suit and an extra protective layer is added on the knees pads.
 
-As standard, the SF Tech Kevlar PRO comes with a front entry zipper and telescopic torso allowing the diver the to be self-sufficient in the donning and doffing process. The fold of the suit is held in place by a crotch strap.
+As standard, the SF Tech Kevlar<sup>&reg;</sup> PRO comes with a front entry zipper and telescopic torso allowing the diver the to be self-sufficient in the donning and doffing process. The fold of the suit is held in place by a crotch strap.

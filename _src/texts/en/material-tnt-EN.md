@@ -8,7 +8,7 @@ To further improve the thermal isolation of the material, a coating of solid Tit
 
 By combining the heat properties of the neoprene and the reflective layers of Titanium, TNT drysuit feels nearly twice as warm as a corresponding butyl trilaminate drysuit.
 
-As with our butyl trilaminate, state of the art textiles are used on our TNT. The Kevlar outer layer is exactly the same and consist of Kevlar reinforced Nylon and Polyester, whereas the inner layer is made of Nylon.
+As with our butyl trilaminate, state of the art textiles are used on our TNT. The Kevlar<sup>&reg;</sup> outer layer is exactly the same and consist of Kevlar<sup>&reg;</sup> reinforced Nylon and Polyester, whereas the inner layer is made of Nylon.
 
 ### TNT with Kevlar® protection
 

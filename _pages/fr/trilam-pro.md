@@ -19,7 +19,7 @@ specs:
   - name: Caractéristiques
     id: characteristics
     data:
-      - Entièrement recouverte de kevlar<sup>&reg;</sup>
+      - Entièrement recouverte de Kevlar<sup>&reg;</sup>
       - Fermeture frontale ou dorsale
       - Torse télescopique facilitant l’habillage
       - Fermeture éclair YKK en métal
@@ -35,14 +35,14 @@ specs:
     id: data
     data:
       - "<strong>Couche imperméable:</strong> Caoutchouc de butyle"
-      - "<strong>Tissus extérieur (Kevlar):</strong> 25% Kevlar / 75% Nylon"
+      - "<strong>Tissus extérieur (Kevlar):</strong> 25% Kevlar<sup>&reg;</sup> / 75% Nylon"
       - "<strong>Tissus intérieur:</strong> 100% Polyester"
       - "<strong>Assemblage:</strong> Couture rabattue à double surpiqure"
       - "<strong>Étanchéité:</strong> 3-5 couches d'Aquasure"
 
 highlights:
   - icon: shield.svg
-    title: Entièrement en kevlar
+    title: Entièrement en Kevlar<sup>&reg;</sup>
     sub: Matériau renforcé par des fibre de Kevlar<sup>&reg;</sup> utilisé sur l'ensemble de la combinaison
   - icon: zipper.svg
     title: Fermeture éclair YKK en métal
@@ -104,7 +104,7 @@ option:
 
 link-card:
   - classic
-  - kevlar-pro
+  - Kevlar-pro
   - tnt
   - trilam
 ---
@@ -112,4 +112,4 @@ La SF Tech Trilam PRO est une combinaison robuste parfaitement adaptée aux plon
 
 Le trilaminé est un matériau léger et flexible et la coupe près du corps garantie une excellente liberté de mouvement. La fermeture frontale avec torse télescopique facilite l'habillage et permet au plongeur d'être indépendant.
 
-Entièrement recouverte de Kevalar<sup>&reg;</sup>, la SF Tech Trilam Kevlar PRO est extrêmement résistante à l'abrasion et aux coupures, faisant d'elle la combinaison de prédilection pour les plongeurs professionnels, spéléo ou sur épaves.
+Entièrement recouverte de Kevalar<sup>&reg;</sup>, la SF Tech Trilam Kevlar<sup>&reg;</sup> PRO est extrêmement résistante à l'abrasion et aux coupures, faisant d'elle la combinaison de prédilection pour les plongeurs professionnels, spéléo ou sur épaves.

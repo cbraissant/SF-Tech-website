@@ -16,8 +16,8 @@ boots-teckna:
   icon: option-boots-teckna.svg
 
 full-suit:
-  title: Full kevlar
-  text: Entièrement en Kevlar
+  title: Full Kevlar<sup>&reg;</sup>
+  text: Entièrement en Kevlar<sup>&reg;</sup>
   icon: option-full-suit.svg
 
 gloves:
@@ -47,7 +47,7 @@ inf-sitech:
 
 knee-pads:
   title: Pads de genoux
-  text: Renforcés en Kevlar
+  text: Renforcés en Kevlar<sup>&reg;</sup>
   icon: option-knee-pads.svg
 
 neck-latex:
@@ -82,7 +82,7 @@ pocket-right:
 
 renfort-cul:
   title: Protection de cul
-  text: Renfort en Kevlar
+  text: Renfort en Kevlar<sup>&reg;</sup>
   icon: option-renfort-cul.svg
 
 rolock:
@@ -91,8 +91,8 @@ rolock:
   icon: option-rolock.svg
 
 torse:
-  title: Torse en Kevlar
-  text: Renfort en Kevlar
+  title: Torse en Kevlar<sup>&reg;</sup>
+  text: Renfort en Kevlar<sup>&reg;</sup>
   icon: option-torse.svg
 
 valve-apeks-hp:

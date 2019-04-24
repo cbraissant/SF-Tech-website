@@ -7,7 +7,7 @@ permalink: /fr/trilam/
 
 categories: drysuit
 
-title: Trilam Classic Kevlar
+title: Trilam Classic Kevlar<sup>&reg;</sup>
 subtitle: Légèreté et durabilité
 
 hero-image: /assets/img/jpg/1920/sandra-3007a.jpg
@@ -35,7 +35,7 @@ specs:
     id: data
     data:
       - "<strong>Couche imperméable:</strong> Caoutchouc de butyle"
-      - "<strong>Tissus extérieur (Kevlar):</strong> 25% Kevlar / 75% Nylon"
+      - "<strong>Tissus extérieur (Kevlar):</strong> 25% Kevlar<sup>&reg;</sup> / 75% Nylon"
       - "<strong>Tissus extérieur (RipStop):</strong> 100% Nylon"
       - "<strong>Tissus intérieur:</strong> 100% Polyester"
       - "<strong>Assemblage:</strong> Couture rabattue à double surpiqure"
@@ -109,11 +109,11 @@ option:
 
 link-card:
   - classic
-  - kevlar-pro
+  - Kevlar-pro
   - tnt
   - trilam-pro
 ---
-La SF Tech Trilam Classique Kevlar est une combinaison versatile, pour plongeurs recréatifs ou techniques, en eaux froides ou tempérées. Avec ses renforts en Kevlar<sup>&reg;</sup>, la Trilam Classic est parfaite pour les plongées en pleines eau, mais aussi adaptées à la plongée sous-plafond ou en épave.
+La SF Tech Trilam Classic Kevlar<sup>&reg;</sup> est une combinaison versatile, pour plongeurs recréatifs ou techniques, en eaux froides ou tempérées. Avec ses renforts en Kevlar<sup>&reg;</sup>, la Trilam Classic est parfaite pour les plongées en pleines eau, mais aussi adaptées à la plongée sous-plafond ou en épave.
 
 Le trilaminé est un matériau léger et flexible et la coupe près du corps garantie une excellente liberté de mouvement. La fermeture frontale avec torse télescopique facilite l'habillage et permet au plongeur d'être indépendant.
 

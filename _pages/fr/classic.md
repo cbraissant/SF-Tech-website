@@ -7,7 +7,7 @@ permalink: /fr/classic/
 
 categories: drysuit
 
-title: Neoprene Classic Kevlar
+title: Neoprene Classic Kevlar<sup>&reg;</sup>
 subtitle: Performance et efficacité
 
 hero-image: /assets/img/jpg/1920/cecile-surface.jpg
@@ -48,7 +48,7 @@ specs:
     id: data
     data:
       - "<strong>Couche étanche:</strong> Mousse de néoprène hyper-compressée de 2mm"
-      - "<strong>Matériau externe (Kevlar):</strong> Kevlar, nylon, spandex"
+      - "<strong>Matériau externe (Kevlar):</strong> Kevlar<sup>&reg;</sup>, nylon, spandex"
       - "<strong>Matériau externe (SP):</strong> Polyester, nylon, spandex"
       - "<strong>Matériau interne:</strong> Nylon (70 deniers)"
       - "<strong>Couture:</strong> Chainette non-traversante à 2 fils"
@@ -121,8 +121,8 @@ showcase:
   - neoprene-10.png
 
 ---
-La SF Tech Neoprene Classic Kevlar est la combinaison étanche parfaite pour les plongeurs recréatifs ou techniques recherchant chaleur en haut froide, sans compromis de mobilité. Fabriqué à l'aide du meilleur néoprène, cette combinaison est chaude, extrêmement flexible et garanti une grande aisance de mouvement.
+La SF Tech Neoprene Classic Kevlar<sup>&reg;</sup> est la combinaison étanche parfaite pour les plongeurs recréatifs ou techniques recherchant chaleur en haut froide, sans compromis de mobilité. Fabriqué à l'aide du meilleur néoprène, cette combinaison est chaude, extrêmement flexible et garanti une grande aisance de mouvement.
 
 La couche isolante est composée de néoprène Yamamoto hyper-compressé de 2mm, une mousse de néoprène à cellule fermée gardant sa densité même à grande profondeur. Les bras, le torse, le dos ainsi que les genoux et l'entre-jambe sont recouvert de tissu renforcé de fibre de Kevlar<sup>&reg;</sup>. Les reste de la combinaison est fabriqué à l'aide de Supratex<sup>&reg;</sup>, un matériau très résistant à base de nylon et de polyester.
 
-Utilisée dans les eaux froides d'Antarctique aussi bien que dans les grottes de Floride, la SF Tech Neoprene Classic Kevlar est extrêmement versatile. L'isolation thermique fournie par la couche de néoprène permet au plongeur de diminuer les couches de sous-combinaison nécessaires pour une plongée.
+Utilisée dans les eaux froides d'Antarctique aussi bien que dans les grottes de Floride, la SF Tech Neoprene Classic Kevlar<sup>&reg;</sup> est extrêmement versatile. L'isolation thermique fournie par la couche de néoprène permet au plongeur de diminuer les couches de sous-combinaison nécessaires pour une plongée.

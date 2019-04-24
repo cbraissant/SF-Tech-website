@@ -1,7 +1,7 @@
 ## Trilam
 
 Le terme trilaminate désigne un matériau multicouche composé de trois couches de matériaux superposés, laminés ensemble. Une doublure interne et externe assure la résistance et la durabilité, tandis que la couche intermédiaire assure l'étanchéité du matériau.
-Le matériau imperméable est du caoutchouc de butyle et ne fait que quelques dixièmes de millimètres d’épaisseur. Pour éviter une déchirure, un tissu de protection externe est nécessaire. Habituellement, un matériau tissé résistant et non élastique (nylon, polyester, kevlar, ...)
+Le matériau imperméable est du caoutchouc de butyle et ne fait que quelques dixièmes de millimètres d’épaisseur. Pour éviter une déchirure, un tissu de protection externe est nécessaire. Habituellement, un matériau tissé résistant et non élastique (nylon, polyester, Kevlar, ...)
 
 En raison de son épaisseur minimale, le trilam ne fournit aucune isolation thermique. Par conséquent, le plongeur doit utiliser un sous-vêtement approprié, généralement plus épais qu'avec une combinaison étanche en néoprène. Cependant, la flottabilité du matériau est réduite et le matériau sèche plus rapidement.
 

@@ -16,7 +16,7 @@ hero-style: overlay
 image: assets/img/suits/special-forces.png
 
 link-card:
-  - kevlar-pro
+  - Kevlar-pro
   - tnt
   - trilam-pro
   - trilam

@@ -75,14 +75,12 @@ const imageResize = require('gulp-image-resize');
 const imagemin = require('gulp-imagemin');
 const imageminMozjpeg = require('imagemin-mozjpeg');
 
-
-
 // For Jekyll
 const child = require('child_process');
 const gutil = require('gulp-util');
 
-
-
+// For Clean
+const del = require('del');
 
 
 // ************************************
@@ -263,15 +261,21 @@ gulp.task('build-js', ['copy-js'])
 
 
 // ************************************
-// #WATCH
+// #CLEAN TASK
 // ************************************
-gulp.task('watch-files', function() {
-  gulp.watch('./_src/js/**',['copy-js']);
-  gulp.watch('./_src/scss/**',['sass']);
-  gulp.watch('./_src/scss/*.*',['sass']);
-  gulp.watch('./_src/css/**',['copy-css']);
-  gulp.watch('./**/*.{html, sthml, md, yml}',['build-jekyll']);
+gulp.task('clean-html', function(){
+     return del('_site/**/*.html', {force:true});
 });
+
+gulp.task('clean-css', function(){
+     return del('_site/**/*.css', {force:true});
+});
+
+gulp.task('clean', [
+    'clean-css',
+    'clean-html'
+   ]);
+
 
 
 
@@ -285,6 +289,21 @@ gulp.task('build', [
     'build-css',
     'build-js'
   ]);
+
+
+
+
+
+// ************************************
+// #WATCH
+// ************************************
+gulp.task('watch-files', function() {
+  gulp.watch('./_src/js/**',['copy-js']);
+  gulp.watch('./_src/scss/**',['sass']);
+  gulp.watch('./_src/scss/*.*',['sass']);
+  gulp.watch('./_src/css/**',['copy-css']);
+  gulp.watch('./**/*.{html, sthml, md, yml}',['build-jekyll']);
+});
 
 
 

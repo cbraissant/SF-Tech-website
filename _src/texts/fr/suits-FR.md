@@ -34,9 +34,9 @@
 
 ### Description
 
-Modèle dédié aux plongées en eaux froides, la valeur isolante d'une combinaison SF Tech Classic Kevlar équivaut à elle seule à un Polartec Power stretch. Le néoprène utilisé est extrêmement flexible et profère une excellente liberté de mouvement. La fermeture frontale et le système télescopique permettent un habillage facile et sans assistance. 
+Modèle dédié aux plongées en eaux froides, la valeur isolante d'une combinaison SF Tech Classic Kevlar<sup>&reg;</sup> équivaut à elle seule à un Polartec Power stretch. Le néoprène utilisé est extrêmement flexible et profère une excellente liberté de mouvement. La fermeture frontale et le système télescopique permettent un habillage facile et sans assistance. 
 Des renforts en Kevlar® sont prévus aux bras, au dos, au torse, à l'entre-jambes et aux genoux. Le reste de la combinaison est protégée par un tissus qui est couramment utilisé par les fabricants de combinaisons humides pour fabriquer des renforts aux genoux.
-La SF Tech Classic Kevlar conviendra autant à un plongeur loisir qu'à un plongeur tech et/ou souterrain. 
+La SF Tech Classic Kevlar<sup>&reg;</sup> conviendra autant à un plongeur loisir qu'à un plongeur tech et/ou souterrain. 
 
 ### Caractéristiques
 
@@ -60,12 +60,12 @@ La SF Tech Classic Kevlar conviendra autant à un plongeur loisir qu'à un plong
 
 
 
-## Néoprène Kevlar Pro
+## Néoprène Kevlar<sup>&reg;</sup> Pro
 
 ### Description
 
-Modèle dédié aux plongées en  eaux froides, la valeur isolante d'une combinaison SF Tech Kevlar PRO équivaut à elle seule à un Polartec Power stretch. Le néoprène utilisé est extrêmement flexible et profère une excellente liberté de mouvement. La fermeture frontale et les système télescopique permettent un habillage facile et sans assistance. 
-Entièrement recouverte de Kevlar® , La SF Tech Kevlar PRO est extrêmement résistante à l'abrasion et aux coupures ce qui en fait un des modèles favori des scaphandriers, des plongeurs souterrains et des plongeurs épaves.
+Modèle dédié aux plongées en  eaux froides, la valeur isolante d'une combinaison SF Tech Kevlar<sup>&reg;</sup> PRO équivaut à elle seule à un Polartec Power stretch. Le néoprène utilisé est extrêmement flexible et profère une excellente liberté de mouvement. La fermeture frontale et les système télescopique permettent un habillage facile et sans assistance. 
+Entièrement recouverte de Kevlar® , La SF Tech Kevlar<sup>&reg;</sup> PRO est extrêmement résistante à l'abrasion et aux coupures ce qui en fait un des modèles favori des scaphandriers, des plongeurs souterrains et des plongeurs épaves.
 
 ### Données techniques 
 | Caractéristique    | Valeur                                |
@@ -87,7 +87,7 @@ Entièrement recouverte de Kevlar® , La SF Tech Kevlar PRO est extrêmement ré
 Modèle dédié aux plongées techniques comme aux plongées loisir la SF Tech Classic Trila Kevlar®  convient aussi bien à la plongée en eaux froides qu'aux eaux tempérées.
 La toile trilaminée utilisé est flexible et légère, la coupe ajustée profère une excellente liberté de mouvement. La fermeture frontale et les système télescopique permettent un habillage facile et sans assistance. 
 Des renforts en Kevlar® sont prévus aux bras, au dos, au torse, à l'entre-jambes et aux genoux. Le reste de la combinaison est recouvert de nylon RipStop, un matériau courrament utilisé pour la confection de produits techniques à haute contraintes, comme les voiles de parapante ou de bateau.
-La SF Tech Classic Trilam Kevlar conviendra autant à un plongeur loisir qu'à un plongeur tech et/ou souterrain.
+La SF Tech Classic Trilam Kevlar<sup>&reg;</sup> conviendra autant à un plongeur loisir qu'à un plongeur tech et/ou souterrain.
 
 ### Données techniques
 
@@ -104,12 +104,12 @@ La SF Tech Classic Trilam Kevlar conviendra autant à un plongeur loisir qu'à u
 
 
 
-## Trilam Kevlar Pro
+## Trilam Kevlar<sup>&reg;</sup> Pro
 
 ### Description
 
 Modèle dédié aux plongées techniques ou professionnelles aussi bien en eaux froides qu'en eaux tempérées. La toile trilaminée utilisé est flexible et légère, la coupe ajustée profère une excellente liberté de mouvement.
-La fermeture frontale et les système télescopique permettent un habillage facile et sans assistance. Entièrement recouverte de Kevlar® , La SF Tech Trilam Kevlar PRO est extrêmement résistante à l'abrasion et aux coupures ce qui en fait un des modèles favori des scaphandriers, des plongeurs souterrains et des plongeurs épaves.
+La fermeture frontale et les système télescopique permettent un habillage facile et sans assistance. Entièrement recouverte de Kevlar® , La SF Tech Trilam Kevlar<sup>&reg;</sup> PRO est extrêmement résistante à l'abrasion et aux coupures ce qui en fait un des modèles favori des scaphandriers, des plongeurs souterrains et des plongeurs épaves.
 
 ### Données techniques
 

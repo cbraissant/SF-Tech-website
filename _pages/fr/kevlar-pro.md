@@ -2,7 +2,7 @@
 layout: suit
 
 lang: fr
-namespace: kevlar-pro
+namespace: Kevlar-pro
 permalink: /fr/kevlar-pro/
 
 categories: drysuit
@@ -17,7 +17,7 @@ image: assets/img/suits/kevlar.png
 
 highlights:
   - icon: shield.svg
-    title: Entièrement en Kevlar
+    title: Entièrement en Kevlar<sup>&reg;</sup>
     sub: Matériau renforcé par des fibre de Kevlar<sup>&reg;</sup> utilisé sur l'ensemble de la combinaison
   - icon: zipper.svg
     title: Fermeture métal
@@ -46,7 +46,7 @@ specs:
     id: data
     data:
       - "<strong>Couche étanche:</strong> Mousse de néoprène hyper-compressée de 2mm"
-      - "<strong>Matériau externe (Kevlar):</strong> Kevlar, nylon, spandex"
+      - "<strong>Matériau externe (Kevlar):</strong> Kevlar<sup>&reg;</sup>, nylon, spandex"
       - "<strong>Matériau externe (SP):</strong> Polyester, nylon, spandex"
       - "<strong>Matériau interne:</strong> Nylon (70 deniers)"
       - "<strong>Couture:</strong> Chainette non-traversante à 2 fils"
@@ -68,7 +68,7 @@ specs:
     id: data
     data:
       - "<strong>Couche étanche:</strong> Mousse de néoprène hyper-compressée de 2mm"
-      - "<strong>Matériau externe (Kevlar):</strong> Kevlar, nylon, spandex"
+      - "<strong>Matériau externe (Kevlar):</strong> Kevlar<sup>&reg;</sup>, nylon, spandex"
       - "<strong>Matériau externe (SP):</strong> Polyester, nylon, spandex"
       - "<strong>Matériau interne:</strong> Nylon (70 deniers)"
       - "<strong>Couture:</strong> Chainette non-traversante à 2 fils"
@@ -132,8 +132,8 @@ link-card:
   - trilam
   - trilam-pro
 ---
-Fabriquée entièrement en néoprène hyper-compressé de 2mm, renforcée de fibre de Kevlar<sup>&reg;</sup>, la SF Tech Néoprène Kevlar Pro est faite pour durer. Conçue pour des plongeurs exigeants en environements hostile, elle est l'outil ideal pour les plongeurs techniques ou commerciaux, mais est aussi adaptées au plongeurs recréatifs désirant le top du top.
+Fabriquée entièrement en néoprène hyper-compressé de 2mm, renforcée de fibre de Kevlar<sup>&reg;</sup>, la SF Tech Neoprene Kevlar<sup>&reg;</sup> Pro est faite pour durer. Conçue pour des plongeurs exigeants en environements hostile, elle est l'outil ideal pour les plongeurs techniques ou commerciaux, mais est aussi adaptées au plongeurs recréatifs désirant le top du top.
 
 La couche isolante est composée de néoprène Yamamoto hyper-compressé de 2mm, une mousse de néoprène à cellule fermée gardant sa densité même à grande profondeur. L'ensemble de la combinaison est recouvert de tissu renforcé de fibre de Kevlar<sup>&reg;</sup> et une couche de protection supplémentaire est ajoutée sur les genoux.
 
-De base, la SF Tech Neoprene Kevlar Pro est équipée d'une fermeture frontale en métal avec torse télescopique pour faciliter l'habillage. Le pli de la combinaison est tenu en place par une sous-cutale elastique.
+De base, la SF Tech Neoprene Kevlar<sup>&reg;</sup> Pro est équipée d'une fermeture frontale en métal avec torse télescopique pour faciliter l'habillage. Le pli de la combinaison est tenu en place par une sous-cutale elastique.

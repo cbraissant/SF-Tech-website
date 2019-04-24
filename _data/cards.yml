@@ -2,20 +2,20 @@
 # ==========================================================================
 
 classic:
-  title_en: Neoprene Classic Kevlar
+  title_en: Neoprene Classic Kevlar<sup>&reg;</sup>
   sub_en: Performance Meets Efficiency
   
-  title_fr: Neoprene Classic Kevlar
+  title_fr: Neoprene Classic Kevlar<sup>&reg;</sup>
   sub_fr: Performance et efficacité
   img: cecile-surface
   type: jpg
   link: /classic
 
-kevlar-pro:
-  title_en: Neoprene Kevlar Pro
+Kevlar-pro:
+  title_en: Neoprene Kevlar<sup>&reg;</sup> Pro
   sub_en: Heavy duty by definition
   
-  title_fr: Neoprene Kevlar Pro
+  title_fr: Neoprene Kevlar<sup>&reg;</sup> Pro
   sub_fr: La résistance par définition
   img: walz
   type: jpg
@@ -32,10 +32,10 @@ trilam:
   link: /trilam
 
 trilam-pro: 
-  title_en: Trilam Kevlar Pro
+  title_en: Trilam Kevlar<sup>&reg;</sup> Pro
   sub_en: Durability without compromise
   
-  title_fr: Trilam Kevlar Pro
+  title_fr: Trilam Kevlar<sup>&reg;</sup> Pro
   sub_fr: Durabilité sans compromis
   img: tom-trilam-2
   type: jpg

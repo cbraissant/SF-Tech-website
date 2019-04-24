@@ -2,11 +2,11 @@
 
 ### Description
 
-The SF Tech Classic Kevlar is the perfect drysuit for recreational or technical divers seeking warmth in cold water, without compromising mobility. Made of the best neoprene on the market, the suit is warm, extremely flexible and grants excellent freedom of movement.
+The SF Tech Classic Kevlar<sup>&reg;</sup> is the perfect drysuit for recreational or technical divers seeking warmth in cold water, without compromising mobility. Made of the best neoprene on the market, the suit is warm, extremely flexible and grants excellent freedom of movement.
 
 The core of the material is made of 2mm hyper-compress Yamamoto neoprene, a dense closed-cell foam keeping it's density even at great depth. Kevlar® reinforcements are provided on arms, chest, back as well as the knees and crotch area. The rest of the suit is made of a strong nylon and polyester fabric.
 
-Used in cold water of Antartica or caves in Flordia, the SF Tech Classic Kevlar is an extremely versatile drysuit. The warmth provided by the layer of neoprene allows the diver the reduce the undergarments necessary for a dive.
+Used in cold water of Antartica or caves in Flordia, the SF Tech Classic Kevlar<sup>&reg;</sup> is an extremely versatile drysuit. The warmth provided by the layer of neoprene allows the diver the reduce the undergarments necessary for a dive.
 
 As standard, the drysuit comes with a front entry zipper and telescopic torso allowing the diver the to be self-sufficient in the donning and doffing process. The fold of the suit is held in place by a crotch strap.
 
@@ -41,7 +41,7 @@ Caractéristiques communes pour toutes les combinaisons
 - Souplesse
 - Coupe près du corps
 
-## Neoprene Kevlar Pro
+## Neoprene Kevlar<sup>&reg;</sup>Pro
 - Chaleur
 - Résistance et durabilité (Kevlar)
 
@@ -56,7 +56,7 @@ Caractéristiques communes pour toutes les combinaisons
 - Rapidité de séchage
 - Poids plume / légerté
 
-## Trilam Kevlar Pro
+## Trilam Kevlar<sup>&reg;</sup>Pro
 - Rapidité de séchage
 - Résistance et durabilité (Kevlar)
 - Poids plume / légerté

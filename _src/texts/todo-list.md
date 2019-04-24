@@ -13,7 +13,7 @@ Caractéristiques communes pour toutes les combinaisons
 - Souplesse
 - Coupe près du corps
 
-## Neoprene Kevlar Pro
+## Neoprene Kevlar<sup>&reg;</sup>Pro
 - Chaleur
 - Résistance et durabilité (Kevlar)
 
@@ -28,7 +28,7 @@ Caractéristiques communes pour toutes les combinaisons
 - Rapidité de séchage
 - Poids plume / légerté
 
-## Trilam Kevlar Pro
+## Trilam Kevlar<sup>&reg;</sup>Pro
 - Rapidité de séchage
 - Résistance et durabilité (Kevlar)
 - Poids plume / légerté

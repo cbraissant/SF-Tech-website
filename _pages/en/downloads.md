@@ -40,8 +40,8 @@ pictures:
     credit: Cécile Francey
   - link: assets/img/jpg/hd/heating-valve-0201.jpg
     icon: /assets/img/jpg/400/heating-valve-0201.jpg
-  - link: assets/img/jpg/hd/hero-kevlar-pro.jpg
-    icon: /assets/img/jpg/400/hero-kevlar-pro.jpg
+  - link: assets/img/jpg/hd/hero-neoprene-pro.jpg
+    icon: /assets/img/jpg/400/hero-neoprene-pro.jpg
     credit: Darragh Norton
   - link: assets/img/jpg/hd/marie-machine-coudre.jpg
     icon: /assets/img/jpg/400/marie-machine-coudre.jpg

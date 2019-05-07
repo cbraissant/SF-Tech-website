@@ -7,7 +7,7 @@ permalink: /en/classic/
 
 categories: drysuit
 
-title: Neoprene Classic Kevlar&reg;
+title: Neoprene -Classic-
 subtitle: Performance meets efficiency
 hero-image: /assets/img/jpg/1920/cecile-surface.jpg
 hero-style: overlay

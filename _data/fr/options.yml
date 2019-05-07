@@ -16,8 +16,8 @@ boots-teckna:
   icon: option-boots-teckna.svg
 
 full-suit:
-  title: Full Kevlar<sup>&reg;</sup>
-  text: Entièrement en Kevlar<sup>&reg;</sup>
+  title: Entièrement renforcée
+  text: à base de fibre d'aramide
   icon: option-full-suit.svg
 
 gloves:
@@ -37,7 +37,7 @@ hood-sep:
 
 inf-apeks:
   title: Inflateur Apeks
-  text: Inflateux Apeks avec swivel
+  text: avec tourelle pivotante
   icon: option-inf-apeks.svg
 
 inf-sitech:
@@ -46,8 +46,8 @@ inf-sitech:
   icon: option-inf-sitech.svg
 
 knee-pads:
-  title: Pads de genoux
-  text: Renforcés en Kevlar<sup>&reg;</sup>
+  title: Pads de genoux renforcés
+  text: à base de fibre d'aramide
   icon: option-knee-pads.svg
 
 neck-latex:
@@ -81,8 +81,8 @@ pocket-right:
   icon: option-pocket-right.svg
 
 renfort-cul:
-  title: Protection de cul
-  text: Renfort en Kevlar<sup>&reg;</sup>
+  title: Protection de fesses renforcée
+  text: à base de fibre d'aramide
   icon: option-renfort-cul.svg
 
 rolock:
@@ -91,8 +91,8 @@ rolock:
   icon: option-rolock.svg
 
 torse:
-  title: Torse en Kevlar<sup>&reg;</sup>
-  text: Renfort en Kevlar<sup>&reg;</sup>
+  title: Torse renforcé
+  text: à base de fibre d'aramide
   icon: option-torse.svg
 
 valve-apeks-hp:

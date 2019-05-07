@@ -49,7 +49,7 @@ highlights:
     title: Incredible mobility
     sub: The TNT material offers unprecedent flexibility and suppleness
   - icon: shield.svg
-    title: Full Kelvar<sup>&reg;</sup>
+    title: Full Kevlar<sup>&reg;</sup>
     sub: Kevlar<sup>&reg;</sup> reinforced fabric is used on the whole suit, making it incredibly resistant
   - icon: flame.svg
     title: Unequalled warmth

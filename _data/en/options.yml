@@ -16,8 +16,8 @@ boots-teckna:
   icon: option-boots-teckna.svg
 
 full-suit:
-  title: Full Kevlar<sup>&reg;</sup>
-  text: Kevlar<sup>&reg;</sup> reinforced fabric
+  title: Fully reinforced
+  text: Aramid fiber reinforced fabric
   icon: option-full-suit.svg
 
 gloves:
@@ -46,8 +46,8 @@ inf-sitech:
   icon: option-inf-sitech.svg
 
 knee-pads:
-  title: Kevlar<sup>&reg;</sup> knee pads
-  text: Kevlar<sup>&reg;</sup> reinforced fabric
+  title: Reinforced knee pads
+  text: Aramid fiber reinforced fabric
   icon: option-knee-pads.svg
 
 neck-latex:
@@ -81,8 +81,8 @@ pocket-right:
   icon: option-pocket-right.svg
 
 renfort-cul:
-  title: Kevlar<sup>&reg;</sup> butt protection
-  text: Kevlar<sup>&reg;</sup> reinforced fabric
+  title: Reinforced butt protection
+  text: Aramid fiber reinforced fabric
   icon: option-renfort-cul.svg
 
 rolock:
@@ -91,8 +91,8 @@ rolock:
   icon: option-rolock.svg
 
 torse:
-  title: Kevlar<sup>&reg;</sup> upper body
-  text: Kevlar<sup>&reg;</sup> reinforced fabric
+  title: Reinforced upper body
+  text: Aramid fiber reinforced fabric
   icon: option-torse.svg
 
 valve-apeks-hp:

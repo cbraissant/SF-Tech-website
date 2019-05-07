@@ -16,7 +16,7 @@ image: assets/img/suits/kevlar.png
 
 highlights:
   - icon: shield.svg
-    title: Full Kelvar<sup>&reg;</sup>
+    title: Full Kevlar<sup>&reg;</sup>
     sub: Kevlar<sup>&reg;</sup> reinforced fabric is used on the whole suit, making it incredibly resistant
   - icon: zipper.svg
     title: YKK metal zipper

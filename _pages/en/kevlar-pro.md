@@ -2,8 +2,8 @@
 layout: suit
 
 lang: en
-namespace: Kevlar-pro
-permalink: /en/kevlar-pro/
+namespace: neoprene-pro
+permalink: /en/neoprene-pro/
 
 categories: drysuit
 
@@ -104,9 +104,9 @@ option:
 
 link-card:
   - classic
+  - sweater
   - tnt
-  - trilam
-  - trilam-pro
+  - valve
 ---
 Made entirely of 2mm hyper-compressed neoprene with Kevlar<sup>&reg;</sup> reinforced fabric, The SF Tech Neoprene Kevlar<sup>&reg;</sup> PRO is design to last. Developped for demanding divers in rough environments, it is the perfect tool for technical or commercial divers, but is also suited for recreational divers wanting the best!
 

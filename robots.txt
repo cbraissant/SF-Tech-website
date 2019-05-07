@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /en/
 Allow: /en/classic
-Allow: /en/kevlar-pro
+Allow: /en/neoprene-pro
 Allow: /en/tnt
 Allow: /en/trilam
 Allow: /en/trilam-pro

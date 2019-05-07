@@ -102,17 +102,11 @@ option:
   - type: zipper
     style: base
 
-product-pictures:
-  - assets/img/temp/IMG_0398.JPG
-  - assets/img/temp/IMG_0399.JPG
-  - assets/img/temp/IMG_0400.JPG
-  - assets/img/temp/IMG_0401.JPG
-
 link-card:
   - classic
-  - Kevlar-pro
-  - trilam
-  - trilam-pro
+  - gloves
+  - neoprene-pro
+  - tnt-classic
 ---
 La SF Tech TNT est composée d’un matériau révolutionnaire: un trilaminé à base de néoprène haute densité, avec deux couches de titanium supplémentaires agissant comme réflecteurs de chaleur. La chaleur ressentie dans une SF Tech TNT est jusqu'à deux fois plus importante que dans une trilam standard à base de butyle.
 

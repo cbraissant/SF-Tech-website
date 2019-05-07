@@ -4,13 +4,17 @@ toc:
       - page: Neoprene Classic Kevlar<sup>&reg;</sup>
         url: /classic
       - page: Neoprene Kevlar<sup>&reg;</sup> Pro
-        url: /kevlar-pro
-      - page: TNT - Titanium Neoprene Trilaminate
+        url: /neoprene-pro
+      - page: TNT Classic
+        url: /tnt-classic
+      - page: TNT Pro
         url: /tnt
-      - page: Trilam Classic Kevlar<sup>&reg;</sup>
-        url: /trilam
-      - page: Trilam Kevlar<sup>&reg;</sup> Pro
-        url: /trilam-pro
+      # - page: TNT - Titanium Neoprene Trilaminate
+      #   url: /tnt
+      # - page: Trilam Classic Kevlar<sup>&reg;</sup>
+      #   url: /trilam
+      # - page: Trilam Kevlar<sup>&reg;</sup> Pro
+      #   url: /trilam-pro
       - page: Special Forces
         url: /special-forces
   - title: Habits

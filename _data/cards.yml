@@ -11,7 +11,7 @@ classic:
   type: jpg
   link: /classic
 
-Kevlar-pro:
+neoprene-pro:
   title_en: Neoprene Kevlar<sup>&reg;</sup> Pro
   sub_en: Heavy duty by definition
   
@@ -19,27 +19,37 @@ Kevlar-pro:
   sub_fr: La résistance par définition
   img: walz
   type: jpg
-  link: /kevlar-pro
+  link: /neoprene-pro
 
-trilam:
-  title_en: Trilam Classic Kelvar
-  sub_en: Lightness and durability
+# trilam:
+#   title_en: Trilam Classic Kelvar
+#   sub_en: Lightness and durability
   
-  title_fr: Trilam Classic Kelvar
-  sub_fr: Légèreté et durabilité
+#   title_fr: Trilam Classic Kelvar
+#   sub_fr: Légèreté et durabilité
+#   img: sandra-3007a
+#   type: jpg
+#   link: /trilam
+
+tnt-classic:
+  title_en: TNT Classic
+  sub_en: The new hybrid
+  
+  title_fr: TNT Classic
+  sub_fr: La nouvelle hybride
   img: sandra-3007a
   type: jpg
-  link: /trilam
+  link: /tnt-classic
 
-trilam-pro: 
-  title_en: Trilam Kevlar<sup>&reg;</sup> Pro
-  sub_en: Durability without compromise
+# trilam-pro: 
+#   title_en: Trilam Kevlar<sup>&reg;</sup> Pro
+#   sub_en: Durability without compromise
   
-  title_fr: Trilam Kevlar<sup>&reg;</sup> Pro
-  sub_fr: Durabilité sans compromis
-  img: tom-trilam-2
-  type: jpg
-  link: /trilam-pro
+#   title_fr: Trilam Kevlar<sup>&reg;</sup> Pro
+#   sub_fr: Durabilité sans compromis
+#   img: tom-trilam-2
+#   type: jpg
+#   link: /trilam-pro
 
 tnt:
   title_en: Titanium Neoprene Trilaminate

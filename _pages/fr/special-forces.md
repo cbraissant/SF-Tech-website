@@ -16,10 +16,10 @@ hero-style: overlay
 image: assets/img/suits/special-forces.png
 
 link-card:
-  - Kevlar-pro
-  - tnt
-  - trilam-pro
-  - trilam
+  - classic
+  - neoprene-pro
+  - tnt-classic
+  - tnt-pro
 ---
 Combinaisons étanches sur mesure pour les Forces Spéciales, la Police, les Pompiers et les Militaires. Toutes les combinaisons de notre assortiment peuvent être utilisées comme base et adaptées aux besoins de votre équipe.
 

@@ -103,17 +103,11 @@ option:
   - type: zipper
     style: base
 
-product-pictures:
-  - assets/img/temp/IMG_0398.JPG
-  - assets/img/temp/IMG_0399.JPG
-  - assets/img/temp/IMG_0400.JPG
-  - assets/img/temp/IMG_0401.JPG
-
 link-card:
   - classic
-  - Kevlar-pro
-  - trilam
-  - trilam-pro
+  - gloves
+  - neoprene-pro
+  - tnt-classic
 ---
 The SF Tech TNT is made of a revolutionary <strong>Patent-Pending</strong> material: a high density neoprene based trilaminate, with two extra layers of Titanium acting as heat-reflective panel. The overall material feels up to 2x warmer than a standard butyl trilaminate.
 The TNT offers all the advantages of trilaminate while being more flexible and warmer like a neoprene: <strong>The best of both worlds</strong>

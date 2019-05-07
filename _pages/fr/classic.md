@@ -107,10 +107,10 @@ option:
     style: option
 
 link-card:
-  - classic
-  - tnt
-  - trilam
-  - trilam-pro
+  - neoprene-pro
+  - sweater
+  - tnt-classic
+  - pads
 
 showcase:
   - neoprene-01.png

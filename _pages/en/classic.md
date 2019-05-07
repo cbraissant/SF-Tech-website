@@ -105,10 +105,10 @@ option:
     style: option
 
 link-card:
-  - Kevlar-pro
-  - tnt
-  - trilam-pro
-  - trilam
+  - neoprene-pro
+  - sweater
+  - tnt-classic
+  - pads
 ---
 The SF Tech Neoprene Classic Kevlar<sup>&reg;</sup> is the perfect drysuit for recreational or technical divers seeking warmth in cold water, without compromising mobility. Made of the best neoprene on the market, the suit is warm, extremely flexible and grants excellent freedom of movement.
 

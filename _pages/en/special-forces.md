@@ -15,10 +15,10 @@ hero-style: overlay
 image: assets/img/suits/special-forces.png
 
 link-card:
-  - Kevlar-pro
+  - classic
+  - neoprene-pro
+  - tnt-classic
   - tnt
-  - trilam-pro
-  - trilam
 ---
 Bespoke drysuit for Special Forces, Police, Firefighters and Military. Any suits from our range of product can be use as a base and adapted to the needs of your team.
 

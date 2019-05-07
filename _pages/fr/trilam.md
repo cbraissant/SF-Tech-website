@@ -109,7 +109,7 @@ option:
 
 link-card:
   - classic
-  - Kevlar-pro
+  - neoprene-pro
   - tnt
   - trilam-pro
 ---

@@ -7,13 +7,13 @@ permalink: /en/tnt-classic/
 
 categories: drysuit
 
-title: TNT Classic
+title: TNT<br>Classic<br>Serie
 subtitle: The new hybrid
 
 hero-image: /assets/img/jpg/1920/sandra-3007a.jpg
 hero-style: overlay
 
-image: assets/img/suits/montage-trilam.png
+image: assets/img/suits/montage-tnt-classic.png
 
 specs:
   - name: Characteristics
@@ -22,7 +22,7 @@ specs:
       - Revolutionary <strong>Patent-Pending</strong> material
       - High density Neoprene Trilaminate
       - Titanium heat-reflective layers
-      - Kevlar® reinforcements on critical areas
+      - Kevlar<sup>&reg;</sup> reinforcements on critical areas
       - Front entry YKK metal zipper
       - Protective zipper cover
       - Telescopic torso with crotch strap
@@ -52,9 +52,9 @@ highlights:
   - icon: stretch.svg
     title: Incredible mobility
     sub: The TNT material offers unprecedent flexibility and suppleness
-  - icon: maximize.svg
-    title: Telescopique torso
-    sub: The front entry zipper with a telescopic torso ease the donning and doffing process
+  - icon: zipper.svg
+    title: YKK metal zipper
+    sub: YKK Proseal<sup>&reg;</sup> is a strong and reliable watertight fastening solution
   - icon: pencil.svg
     title: "Only one size: YOURS"
     sub: To guarantee perfection, all SF Tech drysuits are made to measure with your choice of options and colors
@@ -117,9 +117,9 @@ link-card:
   - pads
   - tnt
 ---
-The SF Tech TNT Classic is an hybrid suit made of our revolutionary TNT material and a high quality Nylon RipStop trilaminate. A versatile suit for recreational and technical divers, in both cold and tempered water. With its Kevlar® reinforcements, the TNT Classic is suited for open water divers as well as cave or wreck divers.
+The SF Tech TNT Classic is an hybrid suit made of our revolutionary TNT material and a high quality Nylon RipStop trilaminate. A versatile suit for recreational and technical divers, in both cold and tempered water. With its Kevlar<sup>&reg;</sup> reinforcements, the TNT Classic is suited for open water divers as well as cave or wreck divers.
 
 The TNT and trilaminate material are lightweight and flexible, and the fitted cut provides excellent freedom of movement. The front-zipper entry as well as the telescopic torso allow the diver to be self-sufficient in the donning and doffing process.
 
-Kevlar® reinforcement are provided on arms, chest, back as well as the knees and crotch area. The rest of the suit is made of Nylon RipStop, a material commonly used for the manufacture of technical products with high stresses, such as paraglider or boat sails.
+Kevlar<sup>&reg;</sup> reinforcement are provided on arms, chest, back as well as the knees and crotch area. The rest of the suit is made of Nylon RipStop, a material commonly used for the manufacture of technical products with high stresses, such as paraglider or boat sails.
 

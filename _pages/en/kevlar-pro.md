@@ -7,7 +7,7 @@ permalink: /en/neoprene-pro/
 
 categories: drysuit
 
-title: Neoprene Kevlar&reg; PRO
+title: Neoprene<br>Kevlar®<br>Pro
 subtitle: Heavy duty by definition
 hero-image: /assets/img/jpg/1920/walz.jpg
 hero-style: overlay

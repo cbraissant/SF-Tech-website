@@ -20,11 +20,11 @@ specs:
   - name: Characteristics
     id: characteristics
     data:
-      - Fully made of Kevlar® reinforced fabric
+      - Fully made of Kevlar<sup>&reg;</sup> reinforced fabric
       - Front entry YKK metal zipper
       - Protective zipper cover
       - Telescopic torso with crotch strap
-      - Heavy duty Kevlar® knee pads
+      - Heavy duty Kevlar<sup>&reg;</sup> knee pads
       - Large adjustable suspenders
       - Neoprene insulated neck collar
       - Fabric available in black and red
@@ -108,8 +108,8 @@ link-card:
   - tnt
   - trilam
 ---
-The SF Tech Trilam PRO is a strong drysuit best suited for technical or commercial divers diving in rough environments. Fully made of Kevlar® reinforced fabric, the suit is design to last. The suit is versatile and can be used in cold or warm water, in wreck, cave or open water, by both recreational, technical and commercial divers.
+The SF Tech Trilam PRO is a strong drysuit best suited for technical or commercial divers diving in rough environments. Fully made of Kevlar<sup>&reg;</sup> reinforced fabric, the suit is design to last. The suit is versatile and can be used in cold or warm water, in wreck, cave or open water, by both recreational, technical and commercial divers.
 
 The trilaminate material is lightweight and flexible and the shape of the fitted cut of the drysuit provide excellent freedom of movement. The Front-zipper entry as well as the telescopic torso allow the diver to be self-sufficient in the donning and doffing process.
 
-Fully covered with reinforced Kevlar® fabric, SF Tech Trilam Kevlar<sup>&reg;</sup> PRO is extremely abrasion and cut resistant making it a favorite among commercial divers, cave divers and wreck divers.
+Fully covered with reinforced Kevlar<sup>&reg;</sup> fabric, SF Tech Trilam Kevlar<sup>&reg;</sup> PRO is extremely abrasion and cut resistant making it a favorite among commercial divers, cave divers and wreck divers.

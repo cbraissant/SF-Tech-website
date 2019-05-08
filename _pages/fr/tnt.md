@@ -7,8 +7,9 @@ permalink: /fr/tnt/
 
 categories: drysuit
 
-title: "Titanium Neoprene Trilaminate"
+title: TNT Pro
 subtitle: Le meilleur des deux mondes
+background: background6
 
 hero-image: /assets/img/jpg/1920/slawek-packo-v3.jpg
 hero-style: overlay
@@ -19,13 +20,15 @@ specs:
   - name: Caractéristiques
     id: characteristics
     data:
-      - Matériel révolutionnaire à base de néoprene haute densité
+      - Matériel <strong>breveté</strong> révolutionnaire
+      - Trilaminté à base de néoprène haute densité
+      - Couche réfléchissante de Titanium 
       - Entièrement recouverte de Kevlar<sup>&reg;</sup>
       - Fermeture frontale ou dorsale
       - Torse télescopique facilitant l’habillage
       - Fermeture éclair YKK en métal
       - Sur-fermeture de protection
-      - Pads de genoux renforcés de Kevlar®
+      - Pads de genoux renforcés de Kevlar<sup>&reg;</sup>
       - Larges bretelles internes ajustables
       - Coupe près du corps
       - Taille sur mesure

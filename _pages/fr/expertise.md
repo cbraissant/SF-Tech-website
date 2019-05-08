@@ -28,7 +28,7 @@ datas:
     <p>Notre équipe plonge toute l'année en Suisse et notre équipement est crée dans le but de tenir chaud. Spécialisés dans les plongées en eaux froides, nos clients pratiquent différentes activités: plongée sous-glace, travaux sous-marins, expéditions extrêmes aux Pôles, etc... Récemment, plusieurs équipe d'expolarateurs et de scientifiques se sont aventurés dans les eaux glaciales d'Antarctique et du Groenland avec nos produits.</p>
     <p>SF Tech à travaillé avec plusieurs équipe, notamment <a href='https://www.underthepole.com/'>Under The Pole</a>, Laurent Ballesta avec <a href='https://www.blancpain-ocean-commitment.com/gombessa-iii'>l'expédition Gombessa III</a>, le <a href='http://www.cnrs.fr/'>CNRS</a> et pleins d'autres.</p>"
     link:
-  - title: Cave and Technical diving
+  - title: Plongée spéléo et technique
     anchor: cave
     style: expertise-tl
     image: /assets/img/jpg/1920/sandra-0774.jpg

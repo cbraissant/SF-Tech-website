@@ -7,8 +7,8 @@ permalink: /fr/special-forces/
 
 categories: drysuit
 
-title: Forces Spéciales
-subtitle: Combinaisons étanches sur mesure pour professionnels
+title: Forces Speciales
+subtitle: Du sur-mesure pour professionnels
 
 hero-image: /assets/img/jpg/1920/commando-1632.jpg
 hero-style: overlay

@@ -8,6 +8,14 @@
     padding-top: 2*$spacing;
     padding-bottom: 2*$spacing;
   }
+  
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  // parallax background for laptop only
+  @include mq(laptop) {
+    background-attachment: fixed;
+  }
 }
 
 .technical-wrapper {

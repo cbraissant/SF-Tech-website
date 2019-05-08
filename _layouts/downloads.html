@@ -7,28 +7,29 @@ layout: default
     <h3 class="downloads-title">Downloads</h3>
     <div class="downloads-file">
     {% for file in page.downloads %}
-      <a href="{{ file.link }}" class="downloads-links" download="">
-        <div class="downloads-box">
+      <div class="downloads-box">
+        <a href="{{ file.link }}" class="downloads-links" download="">
           <img src="{{site.url}}{{site.baseurl}}{{ file.icon }}"
                class="downloads-icon" alt="">
-          <p>{{ file.title }}</p>
-        </div>
-      </a>
+        </a>
+        <p>{{ file.title }}</p>
+      </div>
+      
     {% endfor %}
     </div>
 
     <h3 class="downloads-title">Pictures</h3>
     <div class="downloads-file">
-    {% for image in site.data.pictures %} 
-      <a href="{{site.url}}{{site.baseurl}}{{image.link}}" class="downloads-links">
-        <div class="downloads-box">
+    {% for image in site.data.pictures %}
+      <div class="downloads-box"> 
+        <a href="{{site.url}}{{site.baseurl}}{{image.link}}" class="downloads-links">
           <img src="{{site.url}}{{site.baseurl}}{{ image.icon }}"
-               class="downloads-icon" alt="">
-          {% if image.credit %}     
-            <p>Photo credit:<br>{{ image.credit }}</p>
-          {% endif %}
+             class="downloads-icon" alt="">
+        </a>
+        {% if image.credit %}     
+          <p>Photo credit:<br>{{ image.credit }}</p>
+        {% endif %}
         </div>
-      </a>
     {% endfor %}
     </div>
 

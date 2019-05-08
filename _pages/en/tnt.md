@@ -7,7 +7,7 @@ permalink: /en/tnt/
 
 categories: drysuit
 
-title: Titanium<br>Neoprene<br>Trilaminate<br>
+title: TNT Pro
 subtitle: The best of both worlds
 hero-image: /assets/img/jpg/1920/slawek-packo-v3.jpg
 hero-style: overlay

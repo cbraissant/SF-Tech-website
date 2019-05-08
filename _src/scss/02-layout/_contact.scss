@@ -3,9 +3,9 @@
 .section-contact {
   @include mq(laptop) {
     display: flex;
-    padding: 0;
   }
   background-color: $yellow;
+  padding: 0;
 }
 
 .contact-wrapper {

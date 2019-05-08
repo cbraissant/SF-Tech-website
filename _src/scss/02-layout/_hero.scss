@@ -6,15 +6,11 @@
   position: relative;
   z-index: 1;
 
-  margin-top: $header-height-phone;
-  @include mq(laptop) {margin-top: $header-height;}
-
   min-height: 400px;
-  height: 80vh;
+  height: 75vh;
 
   width: 100vw;
   max-width: 100%;
-  @include mq(laptop) {max-height: 70vh;}
 
   // Background styles
   background-position: center;

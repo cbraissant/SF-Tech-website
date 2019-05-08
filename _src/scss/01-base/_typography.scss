@@ -37,7 +37,7 @@ p {
 
 
 h1 {
-  @include fluid-type(20rem, 75rem, 3rem, 4.5rem);
+  @include fluid-type(20rem, 75rem, 2rem, 4.5rem);
   @include boldfont();
   color: $white;
   line-height: 0.8;  

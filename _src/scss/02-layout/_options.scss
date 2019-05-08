@@ -52,7 +52,7 @@
   flex-wrap: wrap;
   margin: 0 auto;
 
-  @include mq(tablet) { display: flex; justify-content: center;}
+  @include mq(laptop) { display: flex; justify-content: center;}
 
 }
 

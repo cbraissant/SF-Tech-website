@@ -14,7 +14,7 @@ hero-image: /assets/img/jpg/1920/material-0527.jpg
 hero-style:
 
 downloads:
-  - title: Drysuit user manual (en/fr/de)
+  - title: Drysuit user manual (en / fr / de)
     link: /assets/files/Manual_v3_book.pdf
     icon: /assets/img/icons/icon-pdf.png
   - title: Drysuit measure form

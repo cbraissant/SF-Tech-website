@@ -7,7 +7,7 @@ permalink: /en/tnt-classic/
 
 categories: drysuit
 
-title: TNT<br>Classic<br>Serie
+title: TNT Classic
 subtitle: The new hybrid
 
 hero-image: /assets/img/jpg/1920/sandra-3007a.jpg

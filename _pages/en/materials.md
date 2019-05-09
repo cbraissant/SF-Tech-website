@@ -15,6 +15,7 @@ hero-style:
 
 materials:
   - title: Neoprene
+    anchor: neoprene
     style:  
     bg: "https://www.polartec.com/assets/img/bg-imgs/home_hero.png"
     data: "<p>A synthetic rubber made by polymerization of chloroprene. Neoprene exhibits good chemical stability and maintains flexibility over a wide range of temperature. Neoprene foam is produced in either closed-cell or open-cell form. The closed-cell version is waterproof and used for wetsuits and drysuits. The foam is formed by injecting the neoprene with nitrogen gas, creating gas cells inside the material thus increasing its insulation properties.</p>
@@ -24,6 +25,7 @@ materials:
     <p><strong>YAMAMOTO: Limestone Based Neoprene</strong> In an effort to provide the perfect material to its customer, SF Tech is using the best neoprene available on the market. A Japanese neoprene foam made at 99.7% of Limestone, (calcium carbonate) making it more environment-friendly than petroleum-based products. We use only #88 neoprene, a high-density hyper-compressed neoprene foam with excellent thermal insulation, exceptional durability and can withstand high pressure without loosing its properties.</p>"
 
   - title: Trilaminate
+    anchor: trilam
     style: color-switch rtl
     bg: "https://www.polartec.com/assets/img/bg-imgs/hero-partners.jpg"
     data: "<p>The term trilaminate means a multi-layered material composed of three layers of overlapping materials, laminated together. An inner and outer linings provide the strength and durability whereas the middle layer ensure the watertightness of the material.</p>
@@ -32,7 +34,8 @@ materials:
     <p>Despite the many technological advances and material improvements, the name Trilam stayed and now encompass various materials made from 2 (bi-laminate) up to 8 (octo-laminate) layers.</p>
     <p>Technically speaking, as describe above, neoprene is a trilaminate material where the middle liner is made of neoprene. But to avoid confusion, both technical terms, Neoprene and Trialm, are used to describe the categories of products.</p>"
 
-  - title: "TNT: <br>Titanium Neoprene Trilaminate"
+  - title: "TNT"
+    anchor: tnt
     img:
     style: 
     bg: "https://www.polartec.com/assets/img/bg-imgs/home_hero.png"
@@ -43,6 +46,7 @@ materials:
     <p>As with our butyl trilaminate, state of the art textiles are used on our TNT. The Kevlar<sup>&reg;</sup> outer layer is exactly the same and consist of Kevlar<sup>&reg;</sup> reinforced Nylon and Polyester, whereas the inner layer is made of Nylon.</p>"
 
   - title: Polartec
+    anchor: polartec
     img:
     style: color-switch rtl
     bg: "https://www.polartec.com/assets/img/bg-imgs/hero-partners.jpg"
@@ -53,8 +57,5 @@ materials:
     <p><strong>Hardface</strong>: Dramatically increases abrasion resistance, reduces surface friction against other layers  and adds durable water repellency</p>
     <p><strong>Recycled with repreve<sup>&reg;</sup></strong>: Fabric contains a minimum of 50% Repreve<sup>&reg;</sup> recycled fibers that conserve energy and reduce CO2 emissions</p>
     <p><strong>Easy care</strong>: Polartec<sup>&reg;</sup> fabrics are known for their easy care and lasting durability. Most Polartec<sup>&reg;</sup> fabric can be washed in warm water and tumbled dry on low and in most cases this will deliver the best post-wash feel and performance</p>"
-
-
-
 ---
 

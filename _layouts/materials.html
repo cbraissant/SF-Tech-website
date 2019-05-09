@@ -3,9 +3,16 @@ layout: default
 ---
 {% include hero.html %}
 
-{% for material in page.materials %}
+<section class="">
+  <div class="wrapper expertise-wrapper">
+    {% for material in page.materials %}
+      <a href="#{{ material.anchor }}" class="btn">{{ material.title }}</a>
+    {% endfor %}
+  </div>
+</section>
 
-<section class="materials-section {{material.style }}">
+{% for material in page.materials %}
+<section class="materials-section {{material.style }}" id="{{ material.anchor}}">
   <div class="row">
     <div class="col-1-2-2">
       <div class="constrain">

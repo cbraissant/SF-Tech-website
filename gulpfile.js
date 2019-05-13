@@ -54,7 +54,7 @@
 
 
 
-
+// ************************************ DECLARATIONS ************************************
 
 // ************************************
 // #REQUIRED PACKAGES
@@ -72,8 +72,6 @@ const minify = require('gulp-minify');
 
 // Image processing
 const imageResize = require('gulp-image-resize');
-const imagemin = require('gulp-imagemin');
-const imageminMozjpeg = require('imagemin-mozjpeg');
 
 // For Jekyll
 const child = require('child_process');
@@ -105,85 +103,12 @@ var browserSupport = [
 
 
 
-// ************************************
-// #BROWSER-SYNC
-// ************************************
-// Check for any change in the site folder
-gulp.task('browser-sync', function() {
-	// initializes browserSync
-	browserSync.init('./_site/**', {
-		server: {baseDir: "./_site"},
-    port: 4000,
-		online: true,
-    delay: 1000,
-    open: false
-	});
-});
-
-
-
-
-// ************************************
-// #IMAGEMIN
-// ************************************
-gulp.task('imagemin', () =>
-    gulp.src('./src/img/**')
-        .pipe(imagemin([
-          imagemin.gifsicle({interlaced: true}),
-          imagemin.jpegtran({
-            progressive: true,
-            quality: 80
-          }),
-          imagemin.optipng({optimizationLevel: 5}),
-          imagemin.svgo({
-            plugins: [
-                {removeViewBox: true},
-                {cleanupIDs: false}
-            ]
-          })
-        ]))
-        .pipe(gulp.dest('./src/img/'))
-);
-
-gulp.task('mozjpeg', () =>
-    gulp.src('./src/img/jpg/**')
-    .pipe(imagemin([
-      imageminMozjpeg({
-        quality: 85
-      })
-    ]))
-    .pipe(gulp.dest('./src/img/jpg'))
-);
-
-
-
-var resizeImageTasks = [];
-[400,800,1024,1680,1920].forEach(function(size) {
-  var resizeImageTask = 'resize_' + size;
-  gulp.task(resizeImageTask, function() {
-    return gulp.src('./_src/img/jpg/toCompress/*.{JPG,jpg,png,tiff}')
-      .pipe(imageResize({
-         width:  size,
-         height: size,
-         upscale: false
-       }))
-      // .pipe(pipes.image.optimize())
-      .pipe(gulp.dest('./_src/img/jpg/' + size + '/'))
-      // .pipe(imageminWebp({quality: 75})())
-      // .pipe(gulp.dest('images/derivative/' + size + '/'))
-  });
-  resizeImageTasks.push(resizeImageTask);
-});
-
-gulp.task('resize_images', resizeImageTasks);
-
-
-
-
+// ************************************ MAIN TASKS ************************************
 
 // ************************************
 // #JEKYLL
 // ************************************
+// Build the html files
 gulp.task('build-jekyll', () => {
   const jekyll = child.spawn('jekyll', [
     'build',
@@ -201,16 +126,14 @@ gulp.task('build-jekyll', () => {
 });
 
 
+
+
 // ************************************
 // #CSS
 // ************************************
-// Copy the css files
-gulp.task('copy-css', function () {
-    gulp.src('./_src/css/**')
-        .pipe(gulp.dest('./_site/assets/css'));
-});
-
-
+// SASS:      Compile Sass to CSS
+// COPY-CSS:  Copy css files to asset folder
+// BUILD-CSS: Perform all the tasks
 
 // Preprocess Sass files to a compiled CSS
 gulp.task('sass', function (){
@@ -227,10 +150,15 @@ gulp.task('sass', function (){
     .pipe(gulp.dest('./_site/assets/css'));
 });
 
+// Copy the css files
+gulp.task('copy-css', function () {
+    gulp.src('./_src/css/**')
+        .pipe(gulp.dest('./_site/assets/css'));
+});
+
 
 // Subtask calling all css tasks
-gulp.task('build-css', ['copy-css','sass']);
-
+gulp.task('build-css', ['sass','copy-css']);
 
 
 
@@ -238,45 +166,17 @@ gulp.task('build-css', ['copy-css','sass']);
 // ************************************
 // #JAVASCRIPT
 // ************************************
+// JS:        Compile JS to asset folder
+// BUILD-JS:  Perform all the tasks
+
 // Copy the vendor files
 gulp.task('copy-js', function () {
     gulp.src('./_src/js/**/*')
         .pipe(gulp.dest('./_site/assets/js'));
 });
 
-
-// // Minify JS
-// gulp.task('js-minify', function() {
-//   gulp.src(['./_src/js/*.js'])
-//     .pipe(minify())
-//     .pipe(gulp.dest('./_site/assets/js'))
-// });
-
-
 // Subtask calling all javascript tasks
 gulp.task('build-js', ['copy-js'])
-
-
-
-
-
-// ************************************
-// #CLEAN TASK
-// ************************************
-gulp.task('clean-html', function(){
-     return del('_site/**/*.html', {force:true});
-});
-
-gulp.task('clean-css', function(){
-     return del('_site/**/*.css', {force:true});
-});
-
-gulp.task('clean', [
-    'clean-css',
-    'clean-html'
-   ]);
-
-
 
 
 
@@ -293,18 +193,68 @@ gulp.task('build', [
 
 
 
+// ************************************ SIDE TASKS ************************************
 
 // ************************************
-// #WATCH
+// #CLEAN TASK
 // ************************************
-gulp.task('watch-files', function() {
-  gulp.watch('./_src/js/**',['copy-js']);
-  gulp.watch('./_src/scss/**',['sass']);
-  gulp.watch('./_src/scss/*.*',['sass']);
-  gulp.watch('./_src/css/**',['copy-css']);
-  gulp.watch('./**/*.{html, sthml, md, yml}',['build-jekyll']);
+// CLEAN-HTML:  Delete all compiled html files
+// CLEAN-CSS:   Delete all compiled css files
+// CLEAN:       Perform all the tasks
+
+gulp.task('clean-html', function(){
+     return del('_site/**/*.html', {force:true});
 });
 
+gulp.task('clean-css', function(){
+     return del('_site/**/*.css', {force:true});
+});
+
+gulp.task('clean', [
+    'clean-html',
+    'clean-css'
+   ]);
+
+
+
+
+// ************************************
+// #RESIZE IMAGE
+// ************************************
+var resizeImageTasks = [];
+[400,800,1024,1680,1920].forEach(function(size) {
+  var resizeImageTask = 'resize_' + size;
+  gulp.task(resizeImageTask, function() {
+    return gulp.src('./_src/img/jpg/toCompress/*.{JPG,jpg,png,tiff}')
+      .pipe(imageResize({
+         width:  size,
+         height: size,
+         upscale: false
+       }))
+      .pipe(gulp.dest('./_src/img/jpg/' + size + '/'))
+  });
+  resizeImageTasks.push(resizeImageTask);
+});
+
+gulp.task('resize_images', resizeImageTasks);
+
+
+
+
+// ************************************
+// #BROWSER-SYNC
+// ************************************
+// Check for any change in the site folder
+gulp.task('browser-sync', function() {
+  // initializes browserSync
+  browserSync.init('./_site/**', {
+    server: {baseDir: "./_site"},
+    port: 4000,
+    online: true,
+    delay: 1000,
+    open: false
+  });
+});
 
 
 
@@ -316,11 +266,12 @@ gulp.task('watch-files', function() {
 gulp.task('default', ['build','browser-sync'], function(){
   gulp.watch('./_src/js/**',['copy-js']);
   gulp.watch('./_src/scss/**',['sass']);
-  gulp.watch('./_src/css/vendor/**',['copy-css']);
+  gulp.watch('./_src/scss/*.*',['sass']);
+  gulp.watch('./_src/css/**',['copy-css']);
   gulp.watch([
     './_data/**',
-    './_includes/*.html',
-    './_layouts/*.html',
+    './_includes/**',
+    './_layouts/**',
     './_pages/**',
     './_posts/**'],['build-jekyll']);
 });

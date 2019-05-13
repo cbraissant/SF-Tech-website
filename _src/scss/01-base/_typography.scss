@@ -73,6 +73,14 @@ h4 {
 }
 
 
+h5 {
+  font-size: 1.6rem;
+  @include strong: ;font();
+  color: $yellow;
+  line-height: 1;
+}
+
+
 header {
   font-size: 125%;
   color: $text-color;
@@ -81,6 +89,7 @@ header {
     font-size: 87.5%;
   }
 }
+
 
 strong {
   @include boldfont();

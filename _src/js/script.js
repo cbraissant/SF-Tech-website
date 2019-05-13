@@ -20,53 +20,6 @@ $(document).ready(function(){
         }
     });
 
-    
-
-
-  // Custom Options
-  // -------------------------------------------------------
-
-  // The list of focus and the list of parts should be in the 
-  // same order for the process to work.
-  // It all works with the index of element in the DOM
-
-  var object = $("#custom");
-
-  // When a icon element is clicked
-  object.find('.js-custom-image').on('click','i', function(){
-    // Disable scroll on the background
-    $("body").addClass("modal-open");
-
-    // Remove the 'is-active' class from all siblings elements'
-    object.find('.is-active').removeClass('is-active');
-
-    // Display the popup
-    object.find('.js-custom').addClass('is-open');
-
-    // Add class 'is-active' to the element
-    $(this).addClass('is-active');
-
-    // Get the index of the element clicked
-    var n = $(this).index('.js-focus');
-
-    // Add class to the corresponding element of the part section
-    object.find('.js-part').eq(n).addClass("is-active");
-  });
-
-
-
-
-  // Close the popup window
-  // -------------------------------------------------------
-  object.find('.js-custom-close').click(function(){
-    // Close the popup
-    object.find('.js-custom').removeClass('is-open');
-    // Enable scroll on the background
-    $("body").removeClass("modal-open");
-  });
-  
-});
-
 
 
 

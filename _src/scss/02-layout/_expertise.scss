@@ -4,7 +4,7 @@
 .expertise-section {
   position: relative;
   padding: 0;
-  min-height: 80vh;
+  min-height: 70vh;
   @include mq(laptop) {
     display: flex;
   }
@@ -30,6 +30,7 @@
   display: flex;
   padding: $spacing;
   max-width: 40rem;
+  margin: 0 auto;
 }
 
 .expertise-link {
@@ -39,14 +40,9 @@
 .expertise-data {
   padding: $padding;
   @include mq(laptop) {
-    background-color: rgba(33,33,33,0.8);
+    // background-color: rgba(33,33,33,0.8);
   }
 }
-
-// .expertise-bl {margin-top: auto; margin-right: auto;}
-// .expertise-tl {margin-bottom: auto; margin-right: auto;}
-// .expertise-br {margin-top: auto; margin-left: auto;}
-// .expertise-tr {margin-bottom: auto; margin-left: auto;}
 
 .expertise-bl {bottom: $spacing; left: $spacing;}
 .expertise-tl {top: $spacing; left: $spacing;}
@@ -57,10 +53,39 @@
   max-height: 80vh;
   width: 100%;
   object-fit: cover;
+  padding: 0;
+  margin: 0;
 }
 
 .expertise-title {
   border-bottom: 1px solid $yellow;
   padding-bottom: $padding;
   margin-bottom: $padding;
+}
+
+.expertise-container {
+  position: relative;
+  line-height: 0;
+}
+
+.expertise-overlay {
+  margin: 0;
+}
+
+@include mq(laptop) {
+  .expertise-overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+  }
+
+  .expertise-ltr {
+    background-image: linear-gradient(to right, rgba(0,0,0,0),rgba(0,0,0,0.1), rgba(0,0,0,0.7), rgba(0,0,0,1));
+  }
+
+  .expertise-rtl {
+    background-image: linear-gradient(to left, rgba(0,0,0,0),rgba(0,0,0,0.1), rgba(0,0,0,0.7), rgba(0,0,0,1));
+  }
 }

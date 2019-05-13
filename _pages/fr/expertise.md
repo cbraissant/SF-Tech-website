@@ -23,6 +23,7 @@ datas:
   - title: Plongée en eaux froides
     anchor: coldwater
     style: expertise-br
+    overlay: expertise-ltr
     image: /assets/img/jpg/1920/UTP-074.jpg
     description: "
     <p>Notre équipe plonge toute l'année en Suisse et notre équipement est crée dans le but de tenir chaud. Spécialisés dans les plongées en eaux froides, nos clients pratiquent différentes activités: plongée sous-glace, travaux sous-marins, expéditions extrêmes aux Pôles, etc... Récemment, plusieurs équipe d'expolarateurs et de scientifiques se sont aventurés dans les eaux glaciales d'Antarctique et du Groenland avec nos produits.</p>
@@ -31,6 +32,7 @@ datas:
   - title: Plongée spéléo et technique
     anchor: cave
     style: expertise-tl
+    overlay: expertise-rtl
     image: /assets/img/jpg/1920/sandra-0774.jpg
     description: "
     <p>Toutes not combinaison sont réalisées dans le but d'être solide et durable. Dès le départ, l'objectif était de créer une combinaison pouvant endurer les contraintes de la plongée technique, et particulièrement la plongée sous plafond. Avec des forts abus durant les plongées, mais encore plus à terre, dans des passages étroits sur des rochers assérés, les plongées multi-siphons sont les plus contraignantes. Et les combinaisons SF Tech sont plus que qualifiées pour ce genre de tâches.</p>

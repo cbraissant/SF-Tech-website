@@ -13,8 +13,15 @@ layout: default
 
 {% for data in page.datas %}
 <section class="expertise-section" id="{{ data.anchor}}">
-  <img class="expertise-image" src="{{site.url}}{{site.baseurl}}{{data.image}}" alt="">
+  
+  <!-- image -->
+  <div class="expertise-container">
+    <img class="expertise-image" src="{{site.url}}{{site.baseurl}}{{data.image}}" alt="">
+    <div class="expertise-overlay {{ data.overlay }}"></div>
+  </div>
 
+  
+  <!-- text -->
   <div class="expertise-inner {{ data.style }}">
    <div class="expertise-data">
      <h3 class="expertise-title">{{ data.title }}</h3>

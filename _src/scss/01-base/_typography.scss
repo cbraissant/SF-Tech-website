@@ -75,7 +75,7 @@ h4 {
 
 h5 {
   font-size: 1.6rem;
-  @include strong: ;font();
+  @include strongfont();
   color: $yellow;
   line-height: 1;
 }

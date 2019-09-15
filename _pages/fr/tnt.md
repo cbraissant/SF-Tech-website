@@ -99,9 +99,9 @@ option:
   - type: hood-att
     style: option
   - type: pocket-left
-    style: base
+    style: option
   - type: pocket-right
-    style: base
+    style: option
   - type: zipper
     style: base
 

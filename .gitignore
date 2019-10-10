@@ -5,3 +5,4 @@ _site
 _src/img/original
 _src/img/psd
 node_modules
+.vscode

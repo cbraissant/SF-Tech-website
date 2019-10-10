@@ -17,7 +17,7 @@ image: assets/img/suits/montage-vest.png
 
 highlights:
   - icon: polartec.svg
-    title: Polartec<sup>&reg;</sup> Power Stretch<sup>&reg;</sup>
+    title: Polartec® Power Stretch®
     sub: Flexible, breathable and heat retaining material
   - icon: flame.svg
     title: Heating ready
@@ -40,7 +40,7 @@ specs:
 - name: Materials
   id: materials
   data:
-    - "Polartec<sup>&reg;</sup> Power Stretch<sup>&reg;</sup>"
+    - "Polartec® Power Stretch®"
     - "Outer shell: 88% Polyester / 12% Elastan"
     - "Inner lining: 100% Polyester"
 
@@ -51,7 +51,7 @@ link-card:
   - batteries
 
 ---
-The SF Tech vest is specially designed to offer the best possible experience in a dry suit. Polartec<sup>&reg;</sup> Power Stretch<sup>&reg;</sup> has the ability to retain warmth without restricting movement or agility during activities. Polartec<sup>&reg;</sup> is a breathable material that continuously evacuates water vapor while retaining heat. The layer in contact with the skin remains dry and comfortable.
+The SF Tech vest is specially designed to offer the best possible experience in a dry suit. Polartec® Power Stretch® has the ability to retain warmth without restricting movement or agility during activities. Polartec® is a breathable material that continuously evacuates water vapor while retaining heat. The layer in contact with the skin remains dry and comfortable.
 
 The sleeveless SF Tech vest covers the upper part of the body and is used in conjunction with other undergarments. To ensure effective heating, the vest should be worn close to the body, between the skin and the undersuit. A wide elastic crotch strap holds the clothes in place when dressing or diving.
 

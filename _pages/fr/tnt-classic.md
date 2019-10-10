@@ -22,11 +22,11 @@ specs:
       - Matériel <strong>breveté</strong> révolutionnaire
       - Trilaminté à base de néoprène haute densité
       - Couche réfléchissante de Titanium 
-      - Renfort en Kevlar<sup>&reg;</sup> aux endroits critiques
+      - Renforts aux endroits critiques
       - Fermeture éclair YKK en métal
       - Sur-fermeture de protection
       - Torse télescopique facilitant l’habillage
-      - Pads de genoux renforcés de Kevlar<sup>&reg;</sup>
+      - Pads de genoux renforcés
       - Larges bretelles internes ajustables
       - Sur-col de protection en néoprène
       - Coupe près du corps
@@ -37,7 +37,7 @@ specs:
     id: data
     data:
       - "<strong>Couche imperméable (TNT):</strong>  High density neoprene"
-      - "<strong>Tissu extérieur (TNT):</strong> 25% Kevlar<sup>&reg;</sup> / 75% Nylon"
+      - "<strong>Tissu extérieur (TNT):</strong> 25% DuPont™ Kevlar® / 75% Nylon"
       - "<strong>Tissu intérieur (TNT):</strong> Nylon (70 deniers)"
       - "<strong>Couche imperméable (Trilam):</strong> Butyl rubber"
       - "<strong>Tissu extérieur (Trilam):</strong> 100% Nylon"
@@ -54,7 +54,7 @@ highlights:
     sub: La matériau TNT offre une flexibilité et une souplesse sans précédent
   - icon: zipper.svg
     title: Fermeture éclair YKK en métal
-    sub: "YKK Proseal<sup>&reg;</sup> est la fermeture étanche la plus résistante du marché"
+    sub: "YKK Proseal® est la fermeture étanche la plus résistante du marché"
   - icon: pencil.svg
     title: "Une taille: La Tienne!"
     sub: Pour garantir une qualité irréprochable, tout les combinaisons SF Tech sont faites sur mesures, avec ton choix d'options et de couleurs.
@@ -117,8 +117,8 @@ link-card:
   - pads
   - tnt
 ---
-La SF Tech TNT Classic est une combinaison hybride fabriquée avec notre matériau TNT révolutionnaire et un trilaminé Nylon RipStop haut de gamme. Une combinaison versatile, pour plongeurs recréatifs ou techniques, en eaux froides ou tempérées. Avec ses renforts en Kevlar<sup>&reg;</sup>, la TNT Classic est parfaite pour les plongées en pleines eau, mais aussi adaptées à la plongée sous-plafond ou en épave.
+La SF Tech TNT Classic est une combinaison hybride fabriquée avec notre matériau TNT révolutionnaire et un trilaminé Nylon RipStop haut de gamme. Une combinaison versatile, pour plongeurs recréatifs ou techniques, en eaux froides ou tempérées. Avec ses renforts en fibres d'aramide, la TNT Classic est parfaite pour les plongées en pleines eau, mais aussi adaptées à la plongée sous-plafond ou en épave.
 
 Le TNT et le Trilam sont des matériaux légers et flexibles et la coupe près du corps garantie une excellente liberté de mouvement. La fermeture frontale avec torse télescopique facilite l'habillage et permet au plongeur d'être indépendant.
 
-Des renforts Kevlar<sup>&reg;</sup> sont prévus sur les bras, le torse et le dos, ainsi que le genoux et l'entre-jambe. Le reste de la combinaison est réalisé en Nylon RipStop, un matériau souvent utilisé pour la création de produits techniques à fortes contraintes, comme les ailes de parapentes ou des voiles de bateaux.
+Des renforts sont prévus sur les bras, le torse et le dos, ainsi que le genoux et l'entre-jambe. Le reste de la combinaison est réalisé en Nylon RipStop, un matériau souvent utilisé pour la création de produits techniques à fortes contraintes, comme les ailes de parapentes ou des voiles de bateaux.

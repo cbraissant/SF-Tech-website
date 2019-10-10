@@ -7,7 +7,7 @@ permalink: /fr/trilam/
 
 categories: drysuit
 
-title: Trilam Classic Kevlar<sup>&reg;</sup>
+title: Trilam Classic
 subtitle: Légèreté et durabilité
 
 hero-image: /assets/img/jpg/1920/sandra-3007a.jpg
@@ -19,12 +19,12 @@ specs:
   - name: Caractéristiques
     id: characteristics
     data:
-      - Renfort en Kevlar<sup>&reg;</sup> aux endroits critiques
+      - Renfort en fibres d'aramide aux endroits critiques
       - Fermeture frontale ou dorsale
       - Torse télescopique facilitant l’habillage
       - Fermeture éclair YKK en métal
       - Sur-fermeture de protection
-      - Pads de genoux renforcés de Kevlar<sup>&reg;</sup>
+      - Pads de genoux renforcés
       - Larges bretelles internes ajustables
       - Sur-col de protection en néoprène
       - Coupe près du corps
@@ -35,7 +35,7 @@ specs:
     id: data
     data:
       - "<strong>Couche imperméable:</strong> Caoutchouc de butyle"
-      - "<strong>Tissus extérieur (Kevlar):</strong> 25% Kevlar<sup>&reg;</sup> / 75% Nylon"
+      - "<strong>Tissus extérieur (Aramide):</strong> 25% DuPont™ Kevlar® / 75% Nylon"
       - "<strong>Tissus extérieur (RipStop):</strong> 100% Nylon"
       - "<strong>Tissus intérieur:</strong> 100% Polyester"
       - "<strong>Assemblage:</strong> Couture rabattue à double surpiqure"
@@ -47,7 +47,7 @@ highlights:
     sub: A seulement 3.5Kg, la SF Tech Trilam Classic est idéale pour les vacances
   - icon: zipper.svg
     title: Fermeture éclair YKK en métal
-    sub: "YKK Proseal<sup>&reg;</sup> est la fermeture étanche la plus résistante du marché"
+    sub: "YKK Proseal® est la fermeture étanche la plus résistante du marché"
   - icon: maximize.svg
     title: Torse télescopique
     sub: La fermeture frontale avec torse télescopique facilite le processus d'habillage 
@@ -113,8 +113,8 @@ link-card:
   - tnt
   - trilam-pro
 ---
-La SF Tech Trilam Classic Kevlar<sup>&reg;</sup> est une combinaison versatile, pour plongeurs recréatifs ou techniques, en eaux froides ou tempérées. Avec ses renforts en Kevlar<sup>&reg;</sup>, la Trilam Classic est parfaite pour les plongées en pleines eau, mais aussi adaptées à la plongée sous-plafond ou en épave.
+La SF Tech Trilam Classic est une combinaison versatile, pour plongeurs recréatifs ou techniques, en eaux froides ou tempérées. Avec ses renforts en fibres d'aramide, la Trilam Classic est parfaite pour les plongées en pleines eau, mais aussi adaptées à la plongée sous-plafond ou en épave.
 
 Le trilaminé est un matériau léger et flexible et la coupe près du corps garantie une excellente liberté de mouvement. La fermeture frontale avec torse télescopique facilite l'habillage et permet au plongeur d'être indépendant.
 
-Des renforts Kevlar<sup>&reg;</sup> sont prévus sur les bras, le torse et le dos, ainsi que le genoux et l'entre-jambe. Le reste de la combinaison est réalisé en Nylon RipStop, un matériau souvent utilisé pour la création de produits techniques à fortes contraintes, comme les ailes de parapentes ou des voiles de bateaux.
+Des renforts sont prévus sur les bras, le torse et le dos, ainsi que le genoux et l'entre-jambe. Le reste de la combinaison est réalisé en Nylon RipStop, un matériau souvent utilisé pour la création de produits techniques à fortes contraintes, comme les ailes de parapentes ou des voiles de bateaux.

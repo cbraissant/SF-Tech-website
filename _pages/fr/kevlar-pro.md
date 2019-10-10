@@ -7,7 +7,7 @@ permalink: /fr/neoprene-pro/
 
 categories: drysuit
 
-title: Neoprene<br>Kevlar®<br>Pro
+title: Neoprene Pro
 subtitle: La résistance par définition
 
 hero-image: /assets/img/jpg/1920/walz.jpg
@@ -17,11 +17,11 @@ image: assets/img/suits/kevlar.png
 
 highlights:
   - icon: shield.svg
-    title: Entièrement en Kevlar<sup>&reg;</sup>
-    sub: Matériau renforcé par des fibre de Kevlar<sup>&reg;</sup> utilisé sur l'ensemble de la combinaison
+    title: Entièrement en renforcée
+    sub: Matériau renforcé par des fibres d'aramide utilisé sur l'ensemble de la combinaison
   - icon: zipper.svg
     title: Fermeture métal
-    sub: YKK Proseal<sup>&reg;</sup> est une fermeture étanche solide et efficace
+    sub: YKK Proseal® est une fermeture étanche solide et efficace
   - icon: eco-hands.svg
     title: Neoprène Yamamoto
     sub: Contrairement aux néoprènes à base de pétrole, le néoprène Yamamoto est fabriqué à 99.7% de roche de calcaire
@@ -34,9 +34,8 @@ specs:
     id: characteristics
     data: 
       - Fermeture frontrale YKK en métal
-      - Protection de fermeture en néoprène
       - Torse télescopique avec sous-cutale
-      - Pads de genoux renforcés de Kevlar<sup>&reg;</sup>
+      - Pads de genoux renforcés
       - Larges bretelles internes ajustables
       - Sur-col de protection en néoprène
       - Taille sur mesure
@@ -46,34 +45,10 @@ specs:
     id: data
     data:
       - "<strong>Couche étanche:</strong> Mousse de néoprène hyper-compressée de 2mm"
-      - "<strong>Matériau externe (Kevlar):</strong> Kevlar<sup>&reg;</sup>, nylon, spandex"
-      - "<strong>Matériau externe (SP):</strong> Polyester, nylon, spandex"
+      - "<strong>Matériau externe (Aramide):</strong> DuPont™ Kevlar®, nylon, spandex"
       - "<strong>Matériau interne:</strong> Nylon (70 deniers)"
       - "<strong>Couture:</strong> Chainette non-traversante à 2 fils"
       - "<strong>Étanchéité:</strong> 3-5 couches de colle uréthane"
-
-specs:
-  - name: Caractéristiques
-    id: characteristics
-    data:
-      - Fermeture frontrale YKK en métal
-      - Torse télescopique avec sous-cutale
-      - Pads de genoux en Kevlar<sup>&reg;</sup>
-      - Larges bretelles internes ajustables
-      - Sur-col de protection en néoprène
-      - Taille sur mesure
-      - "Poids total: ~5.0kg"
-      - Certifiée CE
-  - name: Données Techniques
-    id: data
-    data:
-      - "<strong>Couche étanche:</strong> Mousse de néoprène hyper-compressée de 2mm"
-      - "<strong>Matériau externe (Kevlar):</strong> Kevlar<sup>&reg;</sup>, nylon, spandex"
-      - "<strong>Matériau externe (SP):</strong> Polyester, nylon, spandex"
-      - "<strong>Matériau interne:</strong> Nylon (70 deniers)"
-      - "<strong>Couture:</strong> Chainette non-traversante à 2 fils"
-      - "<strong>Étanchéité:</strong> 3-5 couches de colle uréthane"
-
 
 option:
   - type: full-suit
@@ -132,8 +107,8 @@ link-card:
   - tnt
   - valve
 ---
-Fabriquée entièrement en néoprène hyper-compressé de 2mm, renforcée de fibre de Kevlar<sup>&reg;</sup>, la SF Tech Neoprene Kevlar<sup>&reg;</sup> Pro est faite pour durer. Conçue pour des plongeurs exigeants en environements hostile, elle est l'outil ideal pour les plongeurs techniques ou commerciaux, mais est aussi adaptées au plongeurs recréatifs désirant le top du top.
+Fabriquée entièrement en néoprène hyper-compressé de 2mm, renforcée de fibres d'aramide, la SF Tech Neoprene Pro est faite pour durer. Conçue pour des plongeurs exigeants en environements hostile, elle est l'outil ideal pour les plongeurs techniques ou commerciaux, mais est aussi adaptées au plongeurs recréatifs désirant le top du top.
 
-La couche isolante est composée de néoprène Yamamoto hyper-compressé de 2mm, une mousse de néoprène à cellule fermée gardant sa densité même à grande profondeur. L'ensemble de la combinaison est recouvert de tissu renforcé de fibre de Kevlar<sup>&reg;</sup> et une couche de protection supplémentaire est ajoutée sur les genoux.
+La couche isolante est composée de néoprène Yamamoto hyper-compressé de 2mm, une mousse de néoprène à cellule fermée gardant sa densité même à grande profondeur. L'ensemble de la combinaison est recouvert de tissu renforcé de fibres d'aramide et une couche de protection supplémentaire est ajoutée sur les genoux.
 
-De base, la SF Tech Neoprene Kevlar<sup>&reg;</sup> Pro est équipée d'une fermeture frontale en métal avec torse télescopique pour faciliter l'habillage. Le pli de la combinaison est tenu en place par une sous-cutale elastique.
+De base, la SF Tech Neoprene Pro est équipée d'une fermeture frontale en métal avec torse télescopique pour faciliter l'habillage. Le pli de la combinaison est tenu en place par une sous-cutale elastique.

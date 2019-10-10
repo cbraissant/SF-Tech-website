@@ -17,7 +17,7 @@ image: assets/img/suits/montage-vest.png
 
 highlights:
   - icon: polartec.svg
-    title: Polartec<sup>&reg;</sup> Power Stretch<sup>&reg;</sup>
+    title: Polartec® Power Stretch®
     sub: Matériau flexible, réspirant et chaud
   - icon: flame.svg
     title: Prêt pour le chauffage
@@ -40,7 +40,7 @@ specs:
 - name: Materials
   id: materials
   data:
-    - "Polartec<sup>&reg;</sup> Power Stretch<sup>&reg;</sup>"
+    - "Polartec® Power Stretch®"
     - "Outer shell: 88% Polyester / 12% Elastan"
     - "Inner lining: 100% Polyester"
 
@@ -51,7 +51,7 @@ link-card:
   - batteries
 
 ---
-Le gilet SF Tech est spécialement conçu afin d’offrir la meilleure expérience possible en combinaison étanche. Polartec<sup>&reg;</sup> Power Stretch<sup>&reg;</sup> a la capacité de conserver la chaleur sans restreindre les mouvements ou l'agilité pendant les activités. Polartec<sup>&reg;</sup> est un matériau réspirant permettant d’évacuer continuellement la vapeur d’eau tout en retenant la chaleur. Le couche en contact avec la peau reste sèche et confortable.
+Le gilet SF Tech est spécialement conçu afin d’offrir la meilleure expérience possible en combinaison étanche. Polartec® Power Stretch® a la capacité de conserver la chaleur sans restreindre les mouvements ou l'agilité pendant les activités. Polartec® est un matériau réspirant permettant d’évacuer continuellement la vapeur d’eau tout en retenant la chaleur. Le couche en contact avec la peau reste sèche et confortable.
 
 Le gilet SF Tech sans manche couvre la partie haute du coprs et s'utilise en conjonction avec un autre sous-vétements. Afin de garantir l'efficacité du chauffage, le gilet doit se porter au plus proche du corps, entre la peau est la sous-combinaison. Une large sous-cutale élastique permet de garder le vêtements en place lors de l'habillage ou en plongée. 
 

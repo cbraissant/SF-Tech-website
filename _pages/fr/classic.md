@@ -7,7 +7,7 @@ permalink: /fr/classic/
 
 categories: drysuit
 
-title: Neoprene Classic Kevlar®
+title: Neoprene Classic
 subtitle: Performance et efficacité
 
 hero-image: /assets/img/jpg/1920/cecile-surface.jpg
@@ -21,7 +21,7 @@ highlights:
     sub: Le néoprène 2mm hyper-compressé offre une excellente isolation thermique tout en garantissant un comfort hors-norme
   - icon: zipper.svg
     title: Fermeture éclair YKK en métal
-    sub: "YKK Proseal<sup>&reg;</sup> est la fermeture étanche la plus résistante du marché"
+    sub: "YKK Proseal® est la fermeture étanche la plus résistante du marché"
   - icon: eco-hands.svg
     title: Neoprène Yamamoto
     sub: Contrairement aux néoprènes à base de pétrole, le néoprène Yamamoto est fabriqué à 99.7% de roche de calcaire
@@ -33,11 +33,11 @@ specs:
   - name: Caractéristiques
     id: characteristics
     data:
-      - Renfort en Kevlar<sup>&reg;</sup> aux endroits critiques
+      - Renfort en fibres d'aramid aux endroits critiques
       - Fermeture frontrale YKK en métal
       - Protection de fermeture en néoprène
       - Torse télescopique avec sous-cutale
-      - Pads de genoux en Kevlar<sup>&reg;</sup>
+      - Pads de genoux renforcés
       - Larges bretelles internes ajustables
       - Sur-col de protection en néoprène
       - Coupe près du corps
@@ -48,8 +48,8 @@ specs:
     id: data
     data:
       - "<strong>Couche étanche:</strong> Mousse de néoprène hyper-compressée de 2mm"
-      - "<strong>Matériau externe (Kevlar):</strong> Kevlar<sup>&reg;</sup>, nylon, spandex"
-      - "<strong>Matériau externe (SP):</strong> Polyester, nylon, spandex"
+      - "<strong>Matériau externe (Aramide):</strong> DuPont™ Kevlar®, nylon, spandex"
+      - "<strong>Matériau externe (Supratex):</strong> Polyester, nylon, spandex"
       - "<strong>Matériau interne:</strong> Nylon (70 deniers)"
       - "<strong>Couture:</strong> Chainette non-traversante à 2 fils"
       - "<strong>Étanchéité:</strong> 3-5 couches de colle uréthane"
@@ -121,8 +121,8 @@ showcase:
   - neoprene-10.png
 
 ---
-La SF Tech Neoprene Classic Kevlar<sup>&reg;</sup> est la combinaison étanche parfaite pour les plongeurs recréatifs ou techniques recherchant chaleur en haut froide, sans compromis de mobilité. Fabriqué à l'aide du meilleur néoprène, cette combinaison est chaude, extrêmement flexible et garanti une grande aisance de mouvement.
+La SF Tech Neoprene Classic est la combinaison étanche parfaite pour les plongeurs recréatifs ou techniques recherchant chaleur en haut froide, sans compromis de mobilité. Fabriqué à l'aide du meilleur néoprène, cette combinaison est chaude, extrêmement flexible et garanti une grande aisance de mouvement.
 
-La couche isolante est composée de néoprène Yamamoto hyper-compressé de 2mm, une mousse de néoprène à cellule fermée gardant sa densité même à grande profondeur. Les bras, le torse, le dos ainsi que les genoux et l'entre-jambe sont recouvert de tissu renforcé de fibre de Kevlar<sup>&reg;</sup>. Les reste de la combinaison est fabriqué à l'aide de Supratex<sup>&reg;</sup>, un matériau très résistant à base de nylon et de polyester.
+La couche isolante est composée de néoprène Yamamoto hyper-compressé de 2mm, une mousse de néoprène à cellule fermée gardant sa densité même à grande profondeur. Les bras, le torse, le dos ainsi que les genoux et l'entre-jambe sont recouvert de tissu renforcé de fibre d'aramide (DuPont™ Kevlar®). Les reste de la combinaison est fabriqué à l'aide de Supratex, un matériau très résistant à base de nylon et de polyester.
 
-Utilisée dans les eaux froides d'Antarctique aussi bien que dans les grottes de Floride, la SF Tech Neoprene Classic Kevlar<sup>&reg;</sup> est extrêmement versatile. L'isolation thermique fournie par la couche de néoprène permet au plongeur de diminuer les couches de sous-combinaison nécessaires pour une plongée.
+Utilisée dans les eaux froides d'Antarctique aussi bien que dans les grottes de Floride, la SF Tech Neoprene Classic est extrêmement versatile. L'isolation thermique fournie par la couche de néoprène permet au plongeur de diminuer les couches de sous-combinaison nécessaires pour une plongée.

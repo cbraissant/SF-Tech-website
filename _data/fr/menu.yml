@@ -1,9 +1,9 @@
 toc:
   - title: Combinaisons
     subfolderitems:
-      - page: Neoprene Classic Kevlar<sup>&reg;</sup>
+      - page: Neoprene Classic
         url: /classic
-      - page: Neoprene Kevlar<sup>&reg;</sup> Pro
+      - page: Neoprene Pro
         url: /neoprene-pro
       - page: TNT Classic
         url: /tnt-classic
@@ -11,9 +11,9 @@ toc:
         url: /tnt
       # - page: TNT - Titanium Neoprene Trilaminate
       #   url: /tnt
-      # - page: Trilam Classic Kevlar<sup>&reg;</sup>
+      # - page: Trilam Classic
       #   url: /trilam
-      # - page: Trilam Kevlar<sup>&reg;</sup> Pro
+      # - page: Trilam Pro
       #   url: /trilam-pro
       - page: Special Forces
         url: /special-forces

@@ -23,12 +23,12 @@ specs:
       - Matériel <strong>breveté</strong> révolutionnaire
       - Trilaminté à base de néoprène haute densité
       - Couche réfléchissante de Titanium 
-      - Entièrement recouverte de Kevlar<sup>&reg;</sup>
+      - Entièrement recouverte de fibres d'aramide
       - Fermeture frontale ou dorsale
       - Torse télescopique facilitant l’habillage
       - Fermeture éclair YKK en métal
       - Sur-fermeture de protection
-      - Pads de genoux renforcés de Kevlar<sup>&reg;</sup>
+      - Pads de genoux renforcés
       - Larges bretelles internes ajustables
       - Coupe près du corps
       - Taille sur mesure
@@ -38,7 +38,7 @@ specs:
     id: data
     data:
       - "<strong>Couche imperméable:</strong> Néoprène haute densité"
-      - "<strong>Tissus extérieur (Kevlar):</strong> 25% Kevlar<sup>&reg;</sup> / 75% Nylon"
+      - "<strong>Tissus extérieur (Aramide):</strong> 25% DuPont™ Kevlar® / 75% Nylon"
       - "<strong>Tissus intérieur:</strong> 100% Polyester"
       - "<strong>Assemblage:</strong> Couture rabattue à double surpiqure"
       - "<strong>Étanchéité:</strong> 3-5 couches d'Aquasure"
@@ -51,8 +51,8 @@ highlights:
     title: Mobilité incroyable
     sub: La matériau TNT offre une flexibilité et une souplesse sans précédent
   - icon: shield.svg
-    title: Entièrement en Kevlar<sup>&reg;</sup>
-    sub: Matériau renforcé par des fibre de Kevlar<sup>&reg;</sup> utilisé sur l'ensemble de la combinaison
+    title: Entièrement renforcées
+    sub: Matériau renforcé par des fibres d'aramide utilisé sur l'ensemble de la combinaison
   - icon: flame.svg
     title: Chaleur incroyable
     sub: Le matériau multicouche à base de néoprène et de Titanium Alpha est jusqu'à deux fois plus chaud qu'un trilaminé classique
@@ -115,7 +115,7 @@ La SF Tech TNT est composée d’un matériau révolutionnaire: un trilaminé à
 
 La SF Tech TNT offre tous les avantages d'une trilimanée tout en alliant la flexibilité et la chaleur du néoprène: <strong>Le meilleur des deux mondes!</strong>
 
-Pour guarantir durabilité et fiabilité, la TNT est entièrement recouverte de tissu renforcé de Kevlar<sup>&reg;</sup>. Uniquement les meilleurs matériaux disponibles sur le marché sont utilisés: Le Kevlar<sup>&reg;</sup> est produit en Suisse, laminé de néoprène haute-densité au Japon et retravaillé dans nos ateliers en Suisse.
+Pour guarantir durabilité et fiabilité, la TNT est entièrement recouverte de tissu renforcé de fibres d'aramide. Uniquement les meilleurs matériaux disponibles sur le marché sont utilisés: Le tissus à base d'aramide DuPont™ Kevlar® est produit en Suisse, laminé de néoprène haute-densité au Japon et retravaillé dans nos ateliers en Suisse.
 
 La SF Tech TNT est la combinsaion parfaite pour les plongeurs exigeants cherchant une combinaison haut de gamme sur-mesure avec une liberté de mouvement sans précédent et une durabilité inégalée.
 

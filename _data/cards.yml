@@ -2,20 +2,20 @@
 # ==========================================================================
 
 classic:
-  title_en: Neoprene Classic Kevlar<sup>&reg;</sup>
+  title_en: Neoprene Classic
   sub_en: Performance Meets Efficiency
-  
-  title_fr: Neoprene Classic Kevlar<sup>&reg;</sup>
+
+  title_fr: Neoprene Classic
   sub_fr: Performance et efficacité
   img: cecile-surface
   type: jpg
   link: /classic
 
 neoprene-pro:
-  title_en: Neoprene Kevlar<sup>&reg;</sup> Pro
+  title_en: Neoprene Pro
   sub_en: Heavy duty by definition
-  
-  title_fr: Neoprene Kevlar<sup>&reg;</sup> Pro
+
+  title_fr: Neoprene Pro
   sub_fr: La résistance par définition
   img: walz
   type: jpg
@@ -24,7 +24,7 @@ neoprene-pro:
 # trilam:
 #   title_en: Trilam Classic Kelvar
 #   sub_en: Lightness and durability
-  
+
 #   title_fr: Trilam Classic Kelvar
 #   sub_fr: Légèreté et durabilité
 #   img: sandra-3007a
@@ -34,18 +34,18 @@ neoprene-pro:
 tnt-classic:
   title_en: TNT Classic
   sub_en: The new hybrid
-  
+
   title_fr: TNT Classic
   sub_fr: La nouvelle hybride
   img: sandra-3007a
   type: jpg
   link: /tnt-classic
 
-# trilam-pro: 
-#   title_en: Trilam Kevlar<sup>&reg;</sup> Pro
+# trilam-pro:
+#   title_en: Trilam Pro
 #   sub_en: Durability without compromise
-  
-#   title_fr: Trilam Kevlar<sup>&reg;</sup> Pro
+
+#   title_fr: Trilam Pro
 #   sub_fr: Durabilité sans compromis
 #   img: tom-trilam-2
 #   type: jpg
@@ -54,7 +54,7 @@ tnt-classic:
 tnt:
   title_en: Titanium Neoprene Trilaminate
   sub_en: The best of both world
-  
+
   title_fr: Titanium Neoprene Trilaminate
   sub_fr: Le meilleur des deux mondes
   img: slawek-packo-v3
@@ -64,14 +64,12 @@ tnt:
 commando:
   title_en: Special Forces
   sub_en: Military grade drysuits
-  
+
   title_fr: Special Forces
   sub_fr: Combinaisons de qualité militaire
   img: commando-1632
   type: jpg
   link: /special-forces
-
-
 
 # CLOTHES
 # ==========================================================================
@@ -79,7 +77,7 @@ commando:
 sweater:
   title_en: Polartec Sweater
   sub_en: High performance undergarments
-  
+
   title_fr: Pull Polartec
   sub_fr: Vêtements haute performance
   img: undersuit-logo-0630
@@ -89,7 +87,7 @@ sweater:
 pants:
   title_en: Polartec Pants
   sub_en: High performance undergarments
-  
+
   title_fr: Pantalon Polartec
   sub_fr: Vêtements haute performance
   img: undersuit-logo-0630
@@ -99,21 +97,19 @@ pants:
 vest:
   title_en: Polartec Vest
   sub_en: High performance undergarments
-  
+
   title_fr: Gilet Polartec
   sub_fr: Vêtements haute performance
   img: undersuit-logo-0630
   type: jpg
   link: /sweater
 
-
-
 # HEATING
 # ==========================================================================
 pads:
   title_en: Heating Pads
   sub_en: Modularity at its best
-  
+
   title_fr: Pads chauffants
   sub_fr: Modularité par excellence
   img: rollup_heathing
@@ -123,7 +119,7 @@ pads:
 valve:
   title_en: Heating valve
   sub_en: The gateway to warmth
-  
+
   title_fr: Inflateur
   sub_fr: The gateway to warmth
   img: heating-valve-0201
@@ -133,7 +129,7 @@ valve:
 gloves:
   title_en: Heating gloves
   sub_en: Warm and comfortable
-  
+
   title_fr: Gants chauffants
   sub_fr: Chauds et confortable
   img: gant-surface
@@ -143,21 +139,19 @@ gloves:
 batteries:
   title_en: Batteries
   sub_en: High Tech Energy
-  
+
   title_fr: Batteris
   sub_fr: Energie high-tech
   img: batteries-0396
   type: jpg
   link: /batteries
 
-
-
 # OTHER
 # ==========================================================================
 contact:
   title_en: Contact us
   sub_en: Let's get in touch
-  
+
   title_fr: Contactez-nous
   sub_fr: Ecrivez-nous un message
   img: facade-1211
@@ -167,7 +161,7 @@ contact:
 materials:
   title_en: Our materials
   sub_en: High quality only
-  
+
   title_fr: Nos matériaux
   sub_fr: Haute qualité uniquement
   img: material-0527
@@ -177,15 +171,9 @@ materials:
 expertise:
   title_en: Area of expertise
   sub_en: What we can do
-  
+
   title_fr: Domaine d'expertise
   sub_fr: Ce que l'on sait faire
   img: UTP-Ice
   type: jpg
   link: /expertise
-
-
-
-
-
-

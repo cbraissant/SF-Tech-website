@@ -1,7 +1,7 @@
 ---
 layout: expertise
 
-lang: en
+lang: fr
 namespace: expertise
 permalink: /fr/expertise/
 

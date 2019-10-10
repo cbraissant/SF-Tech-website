@@ -7,7 +7,7 @@ permalink: /en/trilam/
 
 categories: drysuit
 
-title: Trilam Classic Kevlar&reg;
+title: Trilam Classic;
 subtitle: Lightness and durability
 
 hero-image: /assets/img/jpg/1920/sandra-3007a.jpg
@@ -19,11 +19,11 @@ specs:
   - name: Characteristics
     id: characteristics
     data:
-      - Kevlar<sup>&reg;</sup> reinforcements on critical areas
+      - Aramid fiber reinforcements on critical areas
       - Front entry YKK metal zipper
       - Protective zipper cover
       - Telescopic torso with crotch strap
-      - Heavy duty Kevlar<sup>&reg;</sup> knee pads
+      - Heavy duty knee pads
       - Large adjustable suspenders
       - Neoprene insulated neck collar
       - Fabric available in black and red
@@ -34,7 +34,7 @@ specs:
     id: data
     data:
       - "<strong>Waterproof layer:</strong> Butyl rubber"
-      - "<strong>External fabric (Kevlar):</strong> 25% Kevlar<sup>&reg;</sup> / 75% Nylon"
+      - "<strong>External fabric (Aramid):</strong> 25% DuPont™ Kevlar® / 75% Nylon"
       - "<strong>External fabric (RipStop):</strong> 100% Nylon"
       - "<strong>Internal Fabric:</strong> 100% Polyester"
       - "<strong>Assembly:</strong> Triple stitched lapped seam"
@@ -46,7 +46,7 @@ highlights:
     sub: At only 3.5kg, the SF Tech Trilam Classic is a light holiday-friendly suit
   - icon: zipper.svg
     title: YKK metal zipper
-    sub: YKK Proseal<sup>&reg;</sup> is a strong and reliable watertight fastening solution
+    sub: YKK Proseal® is a strong and reliable watertight fastening solution
   - icon: maximize.svg
     title: Telescopique torso
     sub: The front entry zipper with a telescopic torso ease the donning and doffing process
@@ -112,9 +112,9 @@ link-card:
   - tnt
   - trilam-pro
 ---
-The SF Tech Trilam Classic Kevlar<sup>&reg;</sup> is a versatile suit for recreational and technical divers, in both cold and tempered water. With its Kevlar<sup>&reg;</sup> reinforcements, the Trilam Classic is suited for open water divers as well as cave or wreck divers.
+The SF Tech Trilam Classic is a versatile suit for recreational and technical divers, in both cold and tempered water. With its aramid fiber reinforcements, the Trilam Classic is suited for open water divers as well as cave or wreck divers.
 
 The trilaminate material is lightweight and flexible, and the fitted cut provides excellent freedom of movement. The front-zipper entry as well as the telescopic torso allow the diver to be self-sufficient in the donning and doffing process.
 
-Kevlar<sup>&reg;</sup> reinforcement are provided on arms, chest, back as well as the knees and crotch area. The rest of the suit is made of Nylon RipStop, a material commonly used for the manufacture of technical products with high stresses, such as paraglider or boat sails.
+Reinforcement are provided on arms, chest, back as well as the knees and crotch area. The rest of the suit is made of Nylon RipStop, a material commonly used for the manufacture of technical products with high stresses, such as paraglider or boat sails.
 

@@ -17,7 +17,7 @@ image: assets/img/suits/montage-sweater.png
 
 highlights:
   - icon: polartec.svg
-    title: Polartec<sup>&reg;</sup> Power Stretch<sup>&reg;</sup>
+    title: Polartec® Power Stretch®
     sub: Flexible, breathable and heat retaining material
   - icon: flame.svg
     title: Heating ready
@@ -42,7 +42,7 @@ specs:
 - name: Materials
   id: materials
   data:
-    - "Polartec<sup>&reg;</sup> Power Stretch<sup>&reg;</sup>"
+    - "Polartec® Power Stretch®"
     - "Outer shell: 88% Polyester / 12% Elastan"
     - "Inner lining: 100% Polyester"
 
@@ -53,7 +53,7 @@ link-card:
   - batteries
 
 ---
-The SF Tech sweater is specially designed to offer the best possible experience in a dry suit. Polartec<sup>&reg;</sup> Power Stretch<sup>&reg;</sup> has the ability to retain warmth without restricting movement or agility during activities. Polartec<sup>&reg;</sup> is a breathable material that continuously evacuates water vapor while retaining heat. The layer in contact with the skin remains dry and comfortable.
+The SF Tech sweater is specially designed to offer the best possible experience in a dry suit. Polartec® Power Stretch® has the ability to retain warmth without restricting movement or agility during activities. Polartec® is a breathable material that continuously evacuates water vapor while retaining heat. The layer in contact with the skin remains dry and comfortable.
 
 The shape is studied to facilitate the dressing and to keep the clothes in place during the dive. The longer dorsal part covers the lower back even when moving forward, and the thumb holes hold the sleeves in place when donning the drysuit.
 

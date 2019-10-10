@@ -7,7 +7,7 @@ permalink: /fr/trilam-pro/
 
 categories: drysuit
 
-title: Trilam Kevlar Pro
+title: Trilam Pro
 subtitle: Durabilité sans compromis
 
 hero-image: /assets/img/jpg/1920/tom-trilam-2.jpg
@@ -19,12 +19,12 @@ specs:
   - name: Caractéristiques
     id: characteristics
     data:
-      - Entièrement recouverte de Kevlar<sup>&reg;</sup>
+      - Entièrement recouverte de fibres d'aramide
       - Fermeture frontale ou dorsale
       - Torse télescopique facilitant l’habillage
       - Fermeture éclair YKK en métal
       - Sur-fermeture de protection
-      - Pads de genoux renforcés de Kevlar<sup>&reg;</sup>
+      - Pads de genoux renforcés
       - Larges bretelles internes ajustables
       - Sur-col de protection en néoprène
       - Coupe près du corps
@@ -35,18 +35,18 @@ specs:
     id: data
     data:
       - "<strong>Couche imperméable:</strong> Caoutchouc de butyle"
-      - "<strong>Tissus extérieur (Kevlar):</strong> 25% Kevlar<sup>&reg;</sup> / 75% Nylon"
+      - "<strong>Tissus extérieur (Aramide):</strong> 25% DuPont™ Kevlar® / 75% Nylon"
       - "<strong>Tissus intérieur:</strong> 100% Polyester"
       - "<strong>Assemblage:</strong> Couture rabattue à double surpiqure"
       - "<strong>Étanchéité:</strong> 3-5 couches d'Aquasure"
 
 highlights:
   - icon: shield.svg
-    title: Entièrement en Kevlar<sup>&reg;</sup>
-    sub: Matériau renforcé par des fibre de Kevlar<sup>&reg;</sup> utilisé sur l'ensemble de la combinaison
+    title: Entièrement en renforcé
+    sub: Matériau renforcé par des fibres d'aramide utilisé sur l'ensemble de la combinaison
   - icon: zipper.svg
     title: Fermeture éclair YKK en métal
-    sub: "YKK Proseal<sup>&reg;</sup> est la fermeture étanche la plus résistante du marché"
+    sub: "YKK Proseal® est la fermeture étanche la plus résistante du marché"
   - icon: maximize.svg
     title: Torse télescopique
     sub: La fermeture frontale avec torse télescopique facilite le processus d'habillage 
@@ -108,8 +108,8 @@ link-card:
   - tnt
   - trilam
 ---
-La SF Tech Trilam PRO est une combinaison robuste parfaitement adaptée aux plongeur technique ou commerciaux plongeant dans des environnements hostiles. Entièrement renforcée de fibre de Kevlar<sup>&reg;</sup>, elle est faite pour durer. Elle est versatile et peut être utilisée en eaux froides ou chaude, en épave, en grottes ou en pleine eau, par des plongeurs récréatifs, techniques ou commerciaux.
+La SF Tech Trilam PRO est une combinaison robuste parfaitement adaptée aux plongeur technique ou commerciaux plongeant dans des environnements hostiles. Entièrement renforcée de fibres d'aramide, elle est faite pour durer. Elle est versatile et peut être utilisée en eaux froides ou chaude, en épave, en grottes ou en pleine eau, par des plongeurs récréatifs, techniques ou commerciaux.
 
 Le trilaminé est un matériau léger et flexible et la coupe près du corps garantie une excellente liberté de mouvement. La fermeture frontale avec torse télescopique facilite l'habillage et permet au plongeur d'être indépendant.
 
-Entièrement recouverte de Kevalar<sup>&reg;</sup>, la SF Tech Trilam Kevlar<sup>&reg;</sup> PRO est extrêmement résistante à l'abrasion et aux coupures, faisant d'elle la combinaison de prédilection pour les plongeurs professionnels, spéléo ou sur épaves.
+Entièrement recouverte de fibres d'aramide, la SF Tech Trilam PRO est extrêmement résistante à l'abrasion et aux coupures, faisant d'elle la combinaison de prédilection pour les plongeurs professionnels, spéléo ou sur épaves.

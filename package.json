@@ -9,17 +9,17 @@
   "author": "Chris Braissant",
   "license": "MIT",
   "devDependencies": {
-    "browser-sync": "^2.26.5",
+    "browser-sync": "^2.26.7",
+    "del": "^4.1.0",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^6.0.0",
     "gulp-changed": "^3.2.0",
-    "gulp-image-resize": "^0.13.0",
+    "gulp-image-resize": "^0.13.1",
     "gulp-minify": "^3.1.0",
     "gulp-sass": "^4.0.1",
-    "gulp-util": "^3.0.8",
-    "del": "^4.1.0"
+    "gulp-util": "^3.0.8"
   },
   "dependencies": {
-    "npm": "^6.9.0"
+    "npm": "^6.11.3"
   }
 }

@@ -17,16 +17,15 @@ title: SF Tech Drysuits
 email: chris@sftech.ch
 description: >- # this means to ignore newlines until "baseurl:"
   Heavy duty drysuits for recreational, technical and commercial divers, made in Switzerland
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.sftech.ch" # the base hostname & protocol for your site, e.g. http://example.com
-# url: "http://localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
-# url: "http://192.168.1.55:4000" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '' # the subpath of your site, e.g. /blog
+# url: 'https://www.sftech.ch' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'http://localhost:4000' # the base hostname & protocol for your site, e.g. http://example.com
+# url: 'http://192.168.1.40:4000' # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
-
 # Languages
-languages: ["en", "fr"]
+languages: ['en', 'fr']
 defaultLang: en
 languageNames:
   en: English
@@ -41,16 +40,19 @@ languageNames:
 #   sass_dir: _scss
 include: ['_pages']
 
-exclude: ['_src',
-          '_sass',
-          'node_modules',
-          'gulpfile.js',
-          'feed.xml',
-          'Gemfile',
-          'Gemfile.lock',
-          'package-lock.json',
-          'package.json',
-          'redirects.json']
+exclude:
+  [
+    '_src',
+    '_sass',
+    'node_modules',
+    'gulpfile.js',
+    'feed.xml',
+    'Gemfile',
+    'Gemfile.lock',
+    'package-lock.json',
+    'package.json',
+    'redirects.json',
+  ]
 
 keep_files: [assets]
 
@@ -59,7 +61,6 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

@@ -1,1 +1,0 @@
-SF Tech is a scuba diving equipment manufacturer based is Puidoux, Switzerland. The company is specialized in high quality heavy duty diving drysuits. Originally created for cave and commercial divers, SF Tech drysuits are made to last and to endure rough environments. To guarantee a beyond reproach quality, all of our suits are hand-made in our workshop in Switzerland.

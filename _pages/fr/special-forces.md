@@ -19,7 +19,7 @@ link-card:
   - classic
   - neoprene-pro
   - tnt-classic
-  - tnt-pro
+  - tnt
 ---
 Combinaisons étanches sur mesure pour les Forces Spéciales, la Police, les Pompiers et les Militaires. Toutes les combinaisons de notre assortiment peuvent être utilisées comme base et adaptées aux besoins de votre équipe.
 

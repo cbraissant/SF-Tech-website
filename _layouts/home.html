@@ -4,8 +4,8 @@ layout: default
 title: SF Tech | Heavy duty drysuits
 subtitle: For recreational and technical divers
 
-hero-image: /assets/img/jpg/1920/montage-poing-wide.jpg
-hero-style: 
+heroImage: /assets/img/jpg/1920/montage-poing-wide.jpg
+heroStyle:
 
 cards:
   - type: tnt-classic
@@ -28,38 +28,41 @@ cards:
     style: grid-col2
   - type: commando
 ---
-<section class="hero-section {{ layout.hero-style }}"
-         style="background-image: url('{{site.url}}{{site.baseurl}}{{layout.hero-image}}')"
-         id="hero">
 
-    <div class="wrapper hero-wrapper">
-
-      <div class="hero-inner">
-        <div class="home-suptitle">
-          <span>3 lamps,</span>
-          <span>2 computers,</span>
-          <span>2 masks,</span>
-          <span>4 tanks</span>
-        </div>
-        <h1 class="home-title">one drysuit!</h1>
-        <h2 class="home-subtitle">make the right choice</h2>
-      </div>      
-
-      {% for cta in page.cta %}
-      <div class="hero-cta">
-        <a class="btn" href="{{ cta.link }}">{{ cta.text }}</a>
+<section
+  class="hero-section {{ 'layout.heroStyle' }}"
+  style="background-image: url('{{ site.url }}{{ site.baseurl }}{{
+    layout.heroImage
+  }}')"
+  id="hero"
+>
+  <div class="wrapper hero-wrapper">
+    <div class="hero-inner">
+      <div class="home-suptitle">
+        <span>3 lights,</span>
+        <span>2 computers,</span>
+        <span>2 masks,</span>
+        <span>4 tanks</span>
       </div>
-      {% endfor %}
+      <h1 class="home-title">one drysuit!</h1>
+      <h2 class="home-subtitle">make the right choice</h2>
     </div>
+
+    {% for cta in page.cta %}
+    <div class="hero-cta">
+      <a class="btn" draggable="false" href="{{ cta.link }}">{{ cta.text }}</a>
+    </div>
+    {% endfor %}
+  </div>
 </section>
 
 <section class="home-section">
   <div class="wrapper">
     <div class="home-grid">
       {% for homecard in layout.cards %}
-        <div class="{{ homecard.style }} jsReveal">
-          {% include card.html card_type=homecard.type %}
-        </div> 
+      <div class="{{ homecard.style }} jsReveal">
+        {% include card.html card_type=homecard.type %}
+      </div>
       {% endfor %}
     </div>
   </div>

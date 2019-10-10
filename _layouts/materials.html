@@ -1,27 +1,33 @@
 ---
 layout: default
 ---
+
 {% include hero.html %}
 
 <section class="">
   <div class="wrapper expertise-wrapper">
     {% for material in page.materials %}
-      <a href="#{{ material.anchor }}" class="btn">{{ material.title }}</a>
+    <a href="#{{ material.anchor }}" draggable="false" class="btn">{{
+      material.title
+    }}</a>
     {% endfor %}
   </div>
 </section>
 
 {% for material in page.materials %}
-<section class="materials-section {{material.style }}" id="{{ material.anchor}}">
+<section
+  class="materials-section {{ material.style }}"
+  id="{{ material.anchor }}"
+>
   <div class="row">
     <div class="col-1-2-2">
       <div class="constrain">
-        <h3 class="underline">{{material.title}}</h3>
+        <h3 class="underline">{{ material.title }}</h3>
         {{ material.data }}
       </div>
     </div>
-  
-<!--     <div class="col-1-2-2">
+
+    <!--     <div class="col-1-2-2">
       <div class="constrain align-left">
         <img src="{{site.baseurl}}{{ material.img }}"
             class="materials-image" alt="">

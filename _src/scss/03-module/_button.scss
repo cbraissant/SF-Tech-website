@@ -7,7 +7,7 @@ button,
   // Positioning and sizing
   display: inline-block;
   min-width: 200px;
-  
+
   // Padding and margins
   padding-top: 1rem;
   padding-bottom: 1rem;
@@ -15,18 +15,18 @@ button,
   padding-right: 3vw;
   margin-left: auto;
   margin-right: auto;
-  
+
   // Text styles
   color: $button-text;
   text-decoration: none;
   font-size: 1rem;
   text-transform: uppercase;
   font-weight: 400;
-  
+
   // Border styles
   border: 1px solid $button-border;
   border-radius: 5px;
-  
+
   // Background styles
   background: none;
   background-color: $button-background;
@@ -41,15 +41,13 @@ button,
 }
 
 button:hover,
-button:focus,
 button:active,
 .btn:hover,
-.btn:focus,
-.btn:active, {
+.btn:active {
   color: $button-text-active;
   border-color: $button-border-active;
   background-color: $button-background-active;
 
   transition: all 0.2s ease-in-out;
   transform: translateY(2px);
-} 
+}

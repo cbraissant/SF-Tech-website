@@ -46,9 +46,9 @@ specs:
     id: data
     data:
       - "<strong>Waterproof layer:</strong> Hyper-compress 2mm neoprene foam"
-      - "<strong>External fabric (Aramid):</strong> DuPont™ Kevlar®, nylon, spandex"
-      - "<strong>External fabric (Supratex):</strong> Polyester, nylon, spandex"
-      - "<strong>Internal Fabric:</strong> Nylon (70 deniers)"
+      - "<strong>External fabric (Aramid):</strong> DuPont™ Kevlar®, Nylon, Spandex"
+      - "<strong>External fabric (Supratex):</strong> Polyester, Nylon, Spandex"
+      - "<strong>Internal Fabric:</strong> 100% Nylon (70 deniers)"
       - "<strong>Stitching:</strong> Gluied with two threads blind stitch"
       - "<strong>Seams:</strong> 3-5 layers of urethane sealant"
 

@@ -38,7 +38,7 @@ specs:
     data:
       - "<strong>Couche imperméable (TNT):</strong>  High density neoprene"
       - "<strong>Tissu extérieur (TNT):</strong> 25% DuPont™ Kevlar® / 75% Nylon"
-      - "<strong>Tissu intérieur (TNT):</strong> Nylon (70 deniers)"
+      - "<strong>Tissu intérieur (TNT):</strong> 100% Nylon (70 deniers)"
       - "<strong>Couche imperméable (Trilam):</strong> Butyl rubber"
       - "<strong>Tissu extérieur (Trilam):</strong> 100% Nylon"
       - "<strong>Tissu intérieur (Trilam):</strong> 100% Polyester"

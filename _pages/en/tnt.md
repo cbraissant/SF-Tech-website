@@ -36,7 +36,7 @@ specs:
     id: data
     data:
       - "<strong>Waterproof layer:</strong> High density neoprene"
-      - "<strong>External fabric:</strong> 25% DuPont™ Kevlar®® / 75% Nylon"
+      - "<strong>External fabric:</strong> 25% DuPont™ Kevlar® / 75% Nylon"
       - "<strong>Internal Fabric:</strong> 100% Polyester"
       - "<strong>Assembly:</strong> Triple stitched lapped seam"
       - "<strong>Seams:</strong> 3-5 layers of urethane sealant"

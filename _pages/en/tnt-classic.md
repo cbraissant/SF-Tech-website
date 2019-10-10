@@ -38,7 +38,7 @@ specs:
     data:
       - "<strong>Waterproof layer (TNT):</strong>  High density neoprene"
       - "<strong>External fabric (TNT):</strong> 25% DuPont™ Kevlar® / 75% Nylon"
-      - "<strong>Internal Fabric (TNT):</strong> Nylon (70 deniers)"
+      - "<strong>Internal Fabric (TNT):</strong> 100% Nylon (70 deniers)"
       - "<strong>Waterproof layer (Trilam):</strong> Butyl rubber"
       - "<strong>External fabric (Trilam):</strong> 100% Nylon"
       - "<strong>Internal Fabric (Trilam):</strong> 100% Polyester"

@@ -45,8 +45,8 @@ specs:
     id: data
     data:
       - "<strong>Couche étanche:</strong> Mousse de néoprène hyper-compressée de 2mm"
-      - "<strong>Matériau externe (Aramide):</strong> DuPont™ Kevlar®, nylon, spandex"
-      - "<strong>Matériau interne:</strong> Nylon (70 deniers)"
+      - "<strong>Matériau externe (Aramide):</strong> DuPont™ Kevlar®, Nylon, Spandex"
+      - "<strong>Matériau interne:</strong> 100% Nylon (70 deniers)"
       - "<strong>Couture:</strong> Chainette non-traversante à 2 fils"
       - "<strong>Étanchéité:</strong> 3-5 couches de colle uréthane"
 

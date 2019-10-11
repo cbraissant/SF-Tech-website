@@ -13,7 +13,9 @@ $product-height: 80vh;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  height: $product-height;
+  @include mq(laptop) {
+    height: $product-height;
+  }
 }
 
 .product-wrapper {
@@ -46,11 +48,9 @@ $product-height: 80vh;
   object-fit: contain;
 }
 
-
 .product-title {
   color: $text-highlight;
 }
-
 
 .product-text {
   margin: 0 auto;
@@ -106,4 +106,6 @@ $product-height: 80vh;
   padding: $padding;
 }
 
-.product-btn:visited {color: $text-highlight;}
+.product-btn:visited {
+  color: $text-highlight;
+}

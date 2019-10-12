@@ -20,7 +20,7 @@ specs:
   - name: Characteristics
     id: characteristics
     data:
-      - Fully made of aramid fiber reinforced fabric
+      - Fully made of aramid fiber (DuPont™ Kevlar®) reinforced fabric
       - Front entry YKK metal zipper
       - Protective zipper cover
       - Telescopic torso with crotch strap
@@ -42,8 +42,8 @@ specs:
 
 highlights:
   - icon: shield.svg
-    title: Full Kelvar®
-    sub: Aramid fiber reinforced fabric is used on the whole suit, making it incredibly resistant
+    title: Fully protected
+    sub: Aramid fiber (DuPont™ Kevlar®)  reinforced fabric is used on the whole suit, making it incredibly resistant
   - icon: zipper.svg
     title: YKK metal zipper
     sub: YKK Proseal® is a strong and reliable watertight fastening solution

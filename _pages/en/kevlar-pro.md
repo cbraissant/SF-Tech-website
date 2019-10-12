@@ -3,7 +3,7 @@ layout: suit
 
 lang: en
 namespace: neoprene-pro
-permalink: /en/neoprene-pro/
+permalink: /en/neoprene-pro/   
 
 categories: drysuit
 
@@ -16,8 +16,8 @@ image: assets/img/suits/kevlar.png
 
 highlights:
   - icon: shield.svg
-    title: Full Kelvar®
-    sub: Aramid fiber reinforced fabric is used on the whole suit, making it incredibly resistant
+    title: Fully protected
+    sub: Aramid fiber (DuPont™ Kevlar®) reinforced fabric is used on the whole suit, making it incredibly resistant
   - icon: zipper.svg
     title: YKK metal zipper
     sub: YKK Proseal® is a strong and reliable watertight fastening solution
@@ -108,8 +108,9 @@ link-card:
   - tnt
   - valve
 ---
-Made entirely of 2mm hyper-compressed neoprene with aramid fiber reinforced fabric, The SF Tech Neoprene PRO is design to last. Developped for demanding divers in rough environments, it is the perfect tool for technical or commercial divers, but is also suited for recreational divers wanting the best!
 
-The core of the material is made of 2mm hyper-compress Yamamoto neoprene, a dense closed-cell foam keeping it's density even at great depth. Aramid fiber reinforced fabric covers the whole suit and an extra protective layer is added on the knees pads.
+Made entirely of 2mm hyper-compressed neoprene with aramid fiber (DuPont™ Kevlar®) reinforced fabric, The SF Tech Neoprene PRO is design to last. Developped for demanding divers in rough environments, it is the perfect tool for technical or commercial divers, but is also suited for recreational divers wanting the best!
+
+The core of the material is made of 2mm hyper-compress Yamamoto neoprene, a dense closed-cell foam keeping it's density even at great depth. Aramid fiber (DuPont™ Kevlar®) reinforced fabric covers the whole suit and an extra protective layer is added on the knees pads.
 
 As standard, the SF Tech Neoprene PRO comes with a front entry zipper and telescopic torso allowing the diver the to be self-sufficient in the donning and doffing process. The fold of the suit is held in place by a crotch strap.

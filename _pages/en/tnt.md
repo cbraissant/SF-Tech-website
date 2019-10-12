@@ -21,7 +21,7 @@ specs:
       - Revolutionary <strong>Patent-Pending</strong> material
       - High density Neoprene Trilaminate
       - Titanium heat-reflective layers
-      - Fully made of aramid fiber reinforced fabric
+      - Fully made of aramid fiber (DuPont™ Kevlar®) reinforced fabric
       - Front entry YKK metal zipper
       - Protective zipper cover
       - Telescopic torso with crotch strap
@@ -49,8 +49,8 @@ highlights:
     title: Incredible mobility
     sub: The TNT material offers unprecedent flexibility and suppleness
   - icon: shield.svg
-    title: Full Kelvar®
-    sub: Aramid fiber reinforced fabric is used on the whole suit, making it incredibly resistant
+    title: Fully protected
+    sub: Aramid fiber (DuPont™ Kevlar®) reinforced fabric is used on the whole suit, making it incredibly resistant
   - icon: flame.svg
     title: Unequalled warmth
     sub: The multilayer material with added Titanium Alpha makes the TNT up to 2x warmer than a conventional trilam

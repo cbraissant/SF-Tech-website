@@ -30,16 +30,16 @@ specs:
       - Neoprene insulated neck collar
       - Fitted cut
       - Made to measure
-      - "Total weight: ~4.0kg"
+      - 'Total weight: ~4.0kg'
       - CE certified
   - name: Technical Data
     id: data
     data:
-      - "<strong>Waterproof layer:</strong> High density neoprene"
-      - "<strong>External fabric:</strong> 25% DuPont™ Kevlar® / 75% Nylon"
-      - "<strong>Internal Fabric:</strong> 100% Polyester"
-      - "<strong>Assembly:</strong> Triple stitched lapped seam"
-      - "<strong>Seams:</strong> 3-5 layers of urethane sealant"
+      - '<strong>Waterproof layer:</strong> High density neoprene'
+      - '<strong>External fabric:</strong> 25% DuPont™ Kevlar® / 75% Nylon'
+      - '<strong>Internal Fabric:</strong> 100% Polyester'
+      - '<strong>Assembly:</strong> Triple stitched lapped seam'
+      - '<strong>Seams:</strong> 3-5 layers of urethane sealant'
 
 highlights:
   - icon: patent.svg
@@ -47,7 +47,7 @@ highlights:
     sub: A new patent-pending material made of high density neoprene
   - icon: stretch.svg
     title: Incredible mobility
-    sub: The TNT material offers unprecedent flexibility and suppleness
+    sub: The TNT material offers unprecedented flexibility and suppleness
   - icon: shield.svg
     title: Fully protected
     sub: Aramid fiber (DuPont™ Kevlar®) reinforced fabric is used on the whole suit, making it incredibly resistant
@@ -109,11 +109,12 @@ link-card:
   - neoprene-pro
   - tnt-classic
 ---
+
 The SF Tech TNT is made of a revolutionary <strong>Patent-Pending</strong> material: a high density neoprene based trilaminate, with two extra layers of Titanium acting as heat-reflective panel. The overall material feels up to 2x warmer than a standard butyl trilaminate.
 The TNT offers all the advantages of trilaminate while being more flexible and warmer like a neoprene: <strong>The best of both worlds</strong>
 
-To guarantee strength and reliability, the overall suit is made of aramid fiber (DuPont™ Kevlar®) reinforced fabric. Only the best materials available on the market are used. The high-density neoprene is made by Yamamoto while the DuPont™ Kevlar® is made in Switzerland. 
+To guarantee strength and reliability, the overall suit is made of aramid fiber (DuPont™ Kevlar®) reinforced fabric. Only the best materials available on the market are used. The high-density neoprene is made by Yamamoto while the DuPont™ Kevlar® is made in Switzerland.
 
-The SF Tech TNT is the perfect drysuit for demanding divers looking for a tailor made, top of the line drysuit with unprecedent freedom of movement, and unequalled robustness.
+The SF Tech TNT is the perfect drysuit for demanding divers looking for a tailor made, top of the line drysuit with unprecedented freedom of movement, and unequalled robustness.
 
 As standard, the SF Tech TNT comes with a front entry zipper and telescopic torso allowing the diver the to be self-sufficient in the donning and doffing process. The fold of the suit is held in place by a crotch strap.

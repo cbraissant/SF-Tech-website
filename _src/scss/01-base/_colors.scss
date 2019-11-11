@@ -2,19 +2,18 @@
 // ==========================================================================
 
 // Colors palette
-$yellow:      #fe0;
-$black:       #000;
+$yellow: #f7d917;
+$black: #000;
 $light-black: #111;
-$dark-gray:   #222;
-$gray:        #777;
-$light-gray:  #ccc;
-$white:       #fff;
-$light-blue:  #1af;
-$trans-blue:  rgba(18, 170, 255, 0.7);
-$purple:      rgba(147, 112, 219, 0.8);
-$shadow:      rgba(0,0,0,0.4);
-$overlay:     rgba(0,0,0,0.8);
-
+$dark-gray: #222;
+$gray: #777;
+$light-gray: #ccc;
+$white: #fff;
+$light-blue: #1af;
+$trans-blue: rgba(18, 170, 255, 0.7);
+$purple: rgba(147, 112, 219, 0.8);
+$shadow: rgba(0, 0, 0, 0.4);
+$overlay: rgba(0, 0, 0, 0.8);
 
 // Links
 $link-color: $light-blue;
@@ -47,7 +46,6 @@ $light-button-text: $black;
 $button-background-active: transparent;
 $button-border-active: $yellow;
 $button-text-active: $yellow;
-
 
 // Cards
 $card-title: $yellow;

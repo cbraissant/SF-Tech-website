@@ -31,19 +31,19 @@ specs:
       - Neoprene insulated neck collar
       - Fitted cut
       - Made to measure
-      - "Total weight: ~4.0kg"
+      - 'Total weight: ~4.0kg'
       - CE certified
   - name: Technical Data
     id: data
     data:
-      - "<strong>Waterproof layer (TNT):</strong>  High density neoprene"
-      - "<strong>External fabric (TNT):</strong> 25% DuPont™ Kevlar® / 75% Nylon"
-      - "<strong>Internal Fabric (TNT):</strong> 100% Nylon (70 deniers)"
-      - "<strong>Waterproof layer (Trilam):</strong> Butyl rubber"
-      - "<strong>External fabric (Trilam):</strong> 100% Nylon"
-      - "<strong>Internal Fabric (Trilam):</strong> 100% Polyester"
-      - "<strong>Assembly:</strong> Triple stitched lapped seam"
-      - "<strong>Seams:</strong> 3-5 layers of urethane sealant"
+      - '<strong>Waterproof layer (TNT):</strong>  High density neoprene'
+      - '<strong>External fabric (TNT):</strong> 25% DuPont™ Kevlar® / 75% Nylon'
+      - '<strong>Internal Fabric (TNT):</strong> 100% Nylon (70 deniers)'
+      - '<strong>Waterproof layer (Trilam):</strong> Butyl rubber'
+      - '<strong>External fabric (Trilam):</strong> 100% Nylon'
+      - '<strong>Internal Fabric (Trilam):</strong> 100% Polyester'
+      - '<strong>Assembly:</strong> Triple stitched lapped seam'
+      - '<strong>Seams:</strong> 3-5 layers of urethane sealant'
 
 highlights:
   - icon: patent.svg
@@ -51,12 +51,12 @@ highlights:
     sub: A new patent-pending material made of high density neoprene
   - icon: stretch.svg
     title: Incredible mobility
-    sub: The TNT material offers unprecedent flexibility and suppleness
+    sub: The TNT material offers unprecedented flexibility and suppleness
   - icon: zipper.svg
     title: YKK metal zipper
     sub: YKK Proseal® is a strong and reliable watertight fastening solution
   - icon: pencil.svg
-    title: "Only one size: YOURS"
+    title: 'Only one size: YOURS'
     sub: To guarantee perfection, all SF Tech drysuits are made to measure with your choice of options and colors
 
 option:
@@ -117,9 +117,9 @@ link-card:
   - pads
   - tnt
 ---
+
 The SF Tech TNT Classic is an hybrid suit made of our revolutionary TNT material and a high quality Nylon RipStop trilaminate. A versatile suit for recreational and technical divers, in both cold and tempered water. With its heavy duty reinforcements, the TNT Classic is suited for open water divers as well as cave or wreck divers.
 
 The TNT and trilaminate material are lightweight and flexible, and the fitted cut provides excellent freedom of movement. The front-zipper entry as well as the telescopic torso allow the diver to be self-sufficient in the donning and doffing process.
 
 Aramid fiber reinforcement are provided on arms, chest, back as well as the knees and crotch area. The rest of the suit is made of Nylon RipStop, a material commonly used for the manufacture of technical products with high stresses, such as paraglider or boat sails.
-

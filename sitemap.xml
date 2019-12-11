@@ -23,14 +23,19 @@
     <loc>https://www.sftech.ch/en/tnt/</loc>
     <priority>0.80</priority>
   </url>
+  </url>
   <url>
+    <loc>https://www.sftech.ch/en/tnt-classic/</loc>
+    <priority>0.80</priority>
+  </url>
+  <!-- <url>
     <loc>https://www.sftech.ch/en/trilam/</loc>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://www.sftech.ch/en/trilam-pro/</loc>
     <priority>0.80</priority>
-  </url>
+  </url> -->
   <url>
     <loc>https://www.sftech.ch/en/special-forces/</loc>
     <priority>0.80</priority>

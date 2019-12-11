@@ -98,7 +98,6 @@ option:
     style: option
   - type: zipper
     style: base
-    style: base
   - type: zipper-prot
     style: option
 

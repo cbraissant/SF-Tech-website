@@ -102,13 +102,13 @@ option:
     style: base
   - type: hood-att
     style: option
-  - type: zipper-prot
-    style: option
   - type: pocket-left
     style: option
   - type: pocket-right
     style: option
   - type: zipper
+    style: base
+  - type: zipper-prot
     style: base
 
 link-card:

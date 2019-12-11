@@ -102,6 +102,8 @@ option:
     style: option
   - type: zipper
     style: base
+  - type: zipper-prot
+    style: base
 
 link-card:
   - classic

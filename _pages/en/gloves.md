@@ -34,7 +34,6 @@ specs:
   id: characteristics
   data:
     - Heats all fingers and the top of the hand
-    - Maximum heating power of 36W (pair)
     - Neoprene cuff on the wrist
     - Compatible with SF Tech undergarments
     - Rotating quick connectors
@@ -42,9 +41,9 @@ specs:
 - name: Technical Data
   id: technical
   data:
-    - "<strong>Supply voltage (max):</strong> 12.6V"
-    - "<strong>Output power (max):</strong> 36W @ 12.6V"
-    - "<strong>Operating current (max):</strong> 2.85A @ 12.6V"
+    - "<strong>Supply voltage (max):</strong> 12V"
+    - "<strong>Output power (max):</strong> 36W @ 12V"
+    - "<strong>Operating current (max):</strong> 3.0A @ 12.6V"
     - "<strong>Approximate autonomy (23.8Ah):</strong> 8h00"
   
 link-card:

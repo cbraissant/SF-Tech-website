@@ -6,3 +6,4 @@ _src/img/original
 _src/img/psd
 node_modules
 .vscode
+.jekyll-cache

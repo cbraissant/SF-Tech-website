@@ -43,10 +43,10 @@ specs:
   id: data
   data:
     - "<strong>Dimensions (per pad):</strong> 33x16cm"
-    - "<strong>Supply voltage max:</strong> 12.6V"
-    - "<strong>Output power max (per pad):</strong> 10W @ 12.6V"
-    - "<strong>Output power max (4 pads):</strong> 40W @ 12.6V"
-    - "<strong>Operating current max:</strong> 3.2A @ 12.6V"
+    - "<strong>Supply voltage max:</strong> 12V"
+    - "<strong>Output power max (per pad):</strong> 10W @ 12V"
+    - "<strong>Output power max (4 pads):</strong> 40W @ 12V"
+    - "<strong>Operating current max:</strong> 3.3A @ 12V"
     - "<strong>Approximate autonomy (23.8 Ah):</strong> 7h15"
 
 link-card:

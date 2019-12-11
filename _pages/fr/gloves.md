@@ -38,13 +38,12 @@ specs:
     - Compatible avec les sous-vétements SF Tech
     - Connecteurs rapides rotatifs
     - Connecteur étanche rapide à verrouillage avec le passage combinaison
-    - Tailles disponibles: XS, S, M, L, XL, 2XL, 3XL
 - name: Données techniques
   id: technical
   data:
-    - "<strong>Tension d'alimentation maximum:</strong> 12.6V"
-    - "<strong>Puissance maximum (pair):</strong> 36W @ 12.6V"
-    - "<strong>Courant d'utilisation maximum:</strong> 2.85A @ 12.6V"
+    - "<strong>Tension d'alimentation maximum:</strong> 12V"
+    - "<strong>Puissance maximum (pair):</strong> 36W @ 12V"
+    - "<strong>Courant d'utilisation maximum:</strong> 3.0A @ 12V"
     - "<strong>Autonomie approximative (23.8Ah):</strong> 8h00"
   
 link-card:
@@ -54,12 +53,10 @@ link-card:
   - batteries
 
 ---
-Le système de gants chauffants SF Tech est conçu afin de fournir le maximum de chaleur possible aux endroits nécessaire. Un corps de chauffe couvre l'ensemble des doigts, à l'intérieur, au bout et sur le dessus de ceux-ci, ainsi que le dessus de la main. Avec une puissance maximale de chauffge de 36W, le système garantit un confort en température sans précédent.
+Le système de gants chauffants SF Tech est conçu afin de fournir le maximum de chaleur possible aux endroits nécessaire. Un corps de chauffe couvre l'ensemble des doigts, à l'intérieur, au bout et sur le dessus de ceux-ci, ainsi que le dessus de la main. Avec une puissance maximale de chauffe de 36W, le système garantit un confort en température sans précédent.
 
-Gants très confortables, fabriqués en Lyrca, un matériaux exceptionnellement doux et souple. Proche de la main, ils sont compatbiles avec la majeure partie des systèmes de gants étanches. Un manchon en néoprène permet de serrer le poignet et de maintenir la connection électrique.
+Gants très confortables, fabriqués en Lyrca, un matériaux exceptionnellement doux et souple. Proche de la main, ils sont compatibles avec la majeure partie des systèmes de gants étanches. Un manchon en néoprène permet de serrer le poignet et de maintenir la connexion électrique.
 
-Les gants sont entièrement compatibles avec les sous-vétements SF Tech, ainsi l'ensemble des câbles passe dans la sous-combinaison. Ils peuvent être utilisé indépendamment ou en conjonction avec le système de pads chauffants par l'intermédiaire d'un raccord en Y.
-
-The connection between the gloves and the cable is made using a rotating quick connector, allowing the user to position the cable in the desired position. The connection with the heating valve is made using a waterproof push lock connector, to facilitate connection while gearing up and ensuring a stable connection during the dive.
+Les gants sont entièrement compatibles avec les sous-vêtements SF Tech, ainsi l'ensemble des câbles passe dans la sous-combinaison. Ils peuvent être utilisé indépendamment ou en conjonction avec le système de pads chauffants par l'intermédiaire d'un raccord en Y.
 
 La connexion entre les gants et le câble est réalisée à l'aide de connecteurs rapides rotatifs permettant à l'utilisateur de positionner la câble dans la position désirée. Le raccord avec le passage combinaison est  réalisé à l'aide d'un connecteur étanche à verrouillage rapide, afin de faciliter le branchement en s'équipant tout en garantissant une connexion stable durant la plongée.

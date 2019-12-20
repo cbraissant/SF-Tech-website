@@ -3,7 +3,7 @@ layout: suit
 
 lang: de
 namespace: neoprene-pro
-permalink: /en/neoprene-pro/   
+permalink: /de/neoprene-pro/   
 
 categories: drysuit
 

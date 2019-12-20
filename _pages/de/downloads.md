@@ -1,9 +1,9 @@
 ---
 layout: downloads
 
-lang: en
+lang: de
 namespace: downloads
-permalink: /en/downloads/
+permalink: /de/downloads/
 
 categories: support
 

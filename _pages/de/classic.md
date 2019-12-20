@@ -3,7 +3,7 @@ layout: suit
 
 lang: de
 namespace: classic
-permalink: /en/classic/
+permalink: /de/classic/
 
 categories: drysuit
 

@@ -1,9 +1,9 @@
 ---
 layout: heating
 
-lang: en
+lang: de
 namespace: pads
-permalink: /en/pads/
+permalink: /de/pads/
 
 categories: clothes
 

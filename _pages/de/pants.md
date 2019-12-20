@@ -1,9 +1,9 @@
 ---
 layout: heating
 
-lang: en
+lang: de
 namespace: pants
-permalink: /en/pants/
+permalink: /de/pants/
 
 categories: clothing
 

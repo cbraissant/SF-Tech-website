@@ -2,9 +2,9 @@
 
 layout: heating
 
-lang: en
+lang: de
 namespace: sweater
-permalink: /en/sweater/
+permalink: /de/sweater/
 
 categories: clothing
 

@@ -2,9 +2,9 @@
 
 layout: heating
 
-lang: en
+lang: de
 namespace: vest
-permalink: /en/vest/
+permalink: /de/vest/
 
 categories: clothing
 

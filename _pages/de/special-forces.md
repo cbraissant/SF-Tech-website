@@ -1,9 +1,9 @@
 ---
 layout: suit
 
-lang: en
+lang: de
 namespace: special-forces
-permalink: /en/special-forces/
+permalink: /de/special-forces/
 
 categories: drysuit
 

@@ -1,9 +1,9 @@
 ---
 layout: heating
 
-lang: en
+lang: de
 namespace: valve
-permalink: /en/valve/
+permalink: /de/valve/
 
 categories: drysuit
 

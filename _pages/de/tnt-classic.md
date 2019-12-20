@@ -1,9 +1,9 @@
 ---
 layout: suit
 
-lang: en
+lang: de
 namespace: tnt-classic
-permalink: /en/tnt-classic/
+permalink: /de/tnt-classic/
 
 categories: drysuit
 

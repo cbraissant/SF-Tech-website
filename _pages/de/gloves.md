@@ -1,9 +1,9 @@
 ---
 layout: heating
 
-lang: en
+lang: de
 namespace: gloves
-permalink: /en/gloves/
+permalink: /de/gloves/
 
 categories: heating
 

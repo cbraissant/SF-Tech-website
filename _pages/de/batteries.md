@@ -1,9 +1,9 @@
 ---
 layout: heating
 
-lang: en
+lang: de
 namespace: batteries
-permalink: /en/batteries/
+permalink: /de/batteries/
 
 categories: heating
 

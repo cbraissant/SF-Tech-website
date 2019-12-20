@@ -20,7 +20,7 @@ highlights:
     title: Polartec® Power Stretch®
     sub: Flexibles, atmungsaktives und wärmespeicherndes Material
   - icon: bacteria.svg
-    title: Odor and bacteria resistant
+    title: Geruchs- und barterienresistent
     sub: Eine Silberchloridbehandlung verhindert die Entstehung geruchsverursachender Bakterien während der gesamten Lebensdauer des Kleidungsstücks
   - icon: foot-strap.svg
     title: Breite Fussgummibänder

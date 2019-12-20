@@ -24,7 +24,7 @@ specs:
     - Carbon case
     - Delrin machined head
     - Spring loaded lock pin
-    - Fuelgauge indicator on the battery pack
+    - Fuel gauge indicator on the battery pack
     - CE certified
   - name: Technical Data
     id: data
@@ -39,7 +39,7 @@ specs:
     - "<strong>Length:</strong> 270mm / 185mm"
     - "<strong>Diameter:</strong> 61mm"
     - "<strong>Weight (cable included):</strong> 1510g / 1040g"
-    - "<strong>Autonomy (may:</strong><br>
+    - "<strong>Autonomy (max):</strong><br>
         Pads only: 7h15 / 4h00<br>
         Gloves only: 8h00 / 4h30<br>
         Pads and gloves: 3h45 / 2h00"
@@ -49,11 +49,11 @@ highlights:
     title: Carbon fiber canister
     sub: Strong, lightweight and durable material
   - icon: battery-full.svg
-    title: 5 LEDs fuelgauge
-    sub: The charge of the battery can be check directly on the battery pack
+    title: 5 LEDs fuel gauge
+    sub: The charge of the battery can be checked directly on the battery pack
   - icon: batteries.svg
     title: Multiple configurations
-    sub: Choose the best option for your need from 4 differents configurations available
+    sub: Choose the best option for your need from 4 different configurations available
   - icon: finger-push.svg
     title: Simple locking mechanism
     sub: A spring loaded push pin locks the head to the canister
@@ -67,8 +67,8 @@ link-card:
 ---
 Compact, high technology and best quality materials. The main body of the battery is realized in carbon fiber to reduce the volume and apparent weight of the battery.
 
-Two different battery sizes are available: the Standard having a capacity of 23.8 Ah and the Mini of 13.6 Ah. Each battery consists of three Lithium-Ion cells in series providing an output voltage of 11.1V (maximum 12.6V at full load). The maximum output powers are respectively 175W and 100W. On top of the battery pack itself, a 5 LEDs fuelgauge alows the user to check the charge of the battery.
+Two different battery sizes are available: the Standard having a capacity of 23.8 Ah and the Mini of 13.6 Ah. Each battery consists of three Lithium-Ion cells in series providing an output voltage of 11.1V (maximum 12.6V at full load). The maximum output powers are respectively 175W and 100W. On top of the battery pack itself, a 5 LEDs fuel gauge allows the user to check the charge of the battery.
 
-The removable head in manufactured in Delrin, a strong and reliable material. The locking mechanism is realised with a spring-loaded pin on the side of the body, and watertightness is guarantee by two radial o-rings. The E/O cable is reinforced with a metal cable gland at the base. 
+The removable head in manufactured in Delrin, a strong and reliable material. The locking mechanism is realised with a spring-loaded pin on the side of the body, and watertightness is guaranteed by two radial O-rings. The E/O cable is reinforced with a metal cable gland at the base. 
 
 The head is available is standard straight version or sidemount version. The sidemount version offers a 90° output to optimize the wiring of the E/O cable when the battery is mounted on the crotch strap.

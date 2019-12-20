@@ -21,7 +21,7 @@ highlights:
     sub: Flexible, breathable and heat retaining material
   - icon: bacteria.svg
     title: Odor and bacteria resistant
-    sub: A silver salt (salt chloride) inhibits the growth of odor causing bacteria for the life of the garment
+    sub: A silver chloride treatment inhibits the growth of odor causing bacteria for the life of the garment
   - icon: foot-strap.svg
     title: Large foot strap
     sub: Keep the undergarment in place while donning the drysuit

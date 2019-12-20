@@ -42,8 +42,8 @@ specs:
       - "<strong>Couche imperméable (Trilam):</strong> Butyl rubber"
       - "<strong>Tissu extérieur (Trilam):</strong> 100% Nylon"
       - "<strong>Tissu intérieur (Trilam):</strong> 100% Polyester"
-      - "<strong>Assemblage:</strong> Triple stitched lapped seam"
-      - "<strong>Étanchéité:</strong> 3-5 layers of urethane sealant"
+      - "<strong>Assemblage:</strong> Couture rabattue à double surpiqure"
+      - "<strong>Étanchéité:</strong> 3-5 couches d'Aquasure"
 
 highlights:
   - icon: patent.svg

@@ -42,7 +42,7 @@ specs:
       - '<strong>Waterproof layer (Trilam):</strong> Butyl rubber'
       - '<strong>External fabric (Trilam):</strong> 100% Nylon'
       - '<strong>Internal Fabric (Trilam):</strong> 100% Polyester'
-      - '<strong>Assembly:</strong> Triple stitched lapped seam'
+      - '<strong>Assembly:</strong> Felled seam with double topstitch'
       - '<strong>Seams:</strong> 3-5 layers of urethane sealant'
 
 highlights:
@@ -118,8 +118,8 @@ link-card:
   - tnt
 ---
 
-The SF Tech TNT Classic is an hybrid suit made of our revolutionary TNT material and a high quality Nylon RipStop trilaminate. A versatile suit for recreational and technical divers, in both cold and tempered water. With its heavy duty reinforcements, the TNT Classic is suited for open water divers as well as cave or wreck divers.
+The SF Tech TNT Classic is a hybrid suit made of our revolutionary TNT material and a high quality Nylon RipStop trilaminate. A versatile suit for recreational and technical divers, in both cold and tempered water. With its heavy duty reinforcements, the TNT Classic is suited for open water divers as well as cave or wreck divers.
 
-The TNT and trilaminate material are lightweight and flexible, and the fitted cut provides excellent freedom of movement. The front-zipper entry as well as the telescopic torso allow the diver to be self-sufficient in the donning and doffing process.
+The TNT and trilaminate material are lightweight and flexible, and the fitted cut provides excellent freedom of movement. The front-zipper entry as well as the telescopic torso allows the diver to be self-sufficient in the donning and doffing process.
 
-Aramid fiber reinforcement are provided on arms, chest, back as well as the knees and crotch area. The rest of the suit is made of Nylon RipStop, a material commonly used for the manufacture of technical products with high stresses, such as paraglider or boat sails.
+Aramid fiber reinforcements are provided on arms, chest and back as well as the knees and crotch area. The rest of the suit is made of Nylon RipStop, a material commonly used for the manufacture of technical products with high stresses, such as paraglider or sail boats.

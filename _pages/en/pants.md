@@ -44,7 +44,7 @@ specs:
     id: materials
     data:
       - 'Polartec® Power Stretch®'
-      - 'Outer shell: 88% Polyester / 12% Elastan'
+      - 'Outer shell: 88% Polyester / 12% Elastane'
       - 'Inner lining: 100% Polyester'
 
 link-card:

@@ -1,0 +1,136 @@
+# OPTIONS
+# ==========================================================================
+boots-rockboots:
+  title: Trockentauchschuh-System
+  text: mit 2 mm Neoprensocken
+  icon: option-boots-rockboots.svg
+
+boots-std:
+  title: Standard Stiefel
+  text: 6 mm hochleistungs-Neopren
+  icon: option-boots-std.svg
+
+boots-teckna:
+  title: Leichte Schuhe
+  text: Flexsole aus 2 mm Neopren
+  icon: option-boots-teckna.svg
+
+full-suit:
+  title: Komplet verstärkt
+  text: Aramid-Faser am ganzen Anzug
+  icon: option-full-suit.svg
+
+gloves:
+  title: Trockenhandschuhe
+  text: Rolock
+  icon: option-glove.svg
+
+hood-att:
+  title: Angesetzte Kopfhaube
+  text: verbundene 6 mm Kopfhaube
+  icon: option-hood-att.svg
+
+hood-sep:
+  title: Separate Kopfhaube
+  text: Separate 6 mm Kopfhaube
+  icon: option-hood-sep.svg
+
+inf-apeks:
+  title: Apeks Einlassventil
+  text: Drehbares Einlassventil von Apeks
+  icon: option-inf-apeks.svg
+
+inf-sitech:
+  title: Si Tech Einlassventil
+  text: Si Tech Shell Einlassventil
+  icon: option-inf-sitech.svg
+
+knee-pads:
+  title: Verstärkte Kniepads
+  text: Eine extra Schicht Aramid
+  icon: option-knee-pads.svg
+
+neck-latex:
+  title: Latex Halsmanschette
+  text: Hochleistungs-Latex
+  icon: option-neck-latex.svg
+
+neck-neo:
+  title: Neopren Halsmanschette
+  text: 2 mm Glattneopren
+  icon: option-neck-neo.svg
+
+neck-silicone:
+  title: Silikon Halsmanschette
+  text: Si Tech Quick Neck System
+  icon: option-neck-silicone.svg
+
+p-valve:
+  title: Pinkelventil
+  text: SF Tech Delrin Pinkelventil
+  icon: option-p-valve.svg
+
+pocket-left:
+  title: Tasche am linken Bein
+  text: Grosse Cargotasche
+  icon: option-pocket-left.svg
+
+pocket-right:
+  title: Tasche am rechten Bein
+  text: Grosse Cargotasche
+  icon: option-pocket-right.svg
+
+renfort-cul:
+  title: Verstärkte Sitzfläche
+  text: Widerstandfähiger Aramid-verstärkter Stoff
+  icon: option-renfort-cul.svg
+
+rolock:
+  title: Rolock dryglove
+  text: Standard rolock system
+  icon: option-rolock.svg
+
+torse:
+  title: Verstärkter Torso
+  text: Widerstandfähiger Aramid verstärkter Stoff
+  icon: option-torse.svg
+
+valve-apeks-hp:
+  title: Apeks Auslassventil
+  text: Automatisches Schnellablassventil
+  icon: option-valve-apeks-hp.svg
+
+valve-apeks-lp:
+  title: Apeks Auslassventil
+  text: Auslassventil mit flachem Profil
+  icon: option-valve-apeks-lp.svg
+
+valve-heating:
+  title: Einlassventil für Heizsystem
+  text: SF Tech delrin Valve
+  icon: option-valve-heating.svg
+
+valve-sitech:
+  title: Si Tech Schnellablassventil
+  text: Si Tech Auslassventil Argo
+  icon: option-valve-sitech.svg
+
+wrist-latex:
+  title: Latex Handgelenkmanschetten
+  text: Hochleistungs-Latex
+  icon: option-wrist-latex.svg
+
+wrist-silicone:
+  title: Silikon Handgelenkmanschetten
+  text: Si Tech QCS System
+  icon: option-wrist-silicone.svg
+
+zipper-prot:
+  title: Zusatz-Schutzreissverschluss
+  text: Trilaminat-Schutz
+  icon: option-zipper-prot.svg
+
+zipper:
+  title: Metallreissverschluss
+  text: YKK Proseal Metallreissverschluss
+  icon: option-zipper.svg

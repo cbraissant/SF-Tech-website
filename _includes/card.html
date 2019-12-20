@@ -15,5 +15,10 @@
         <div class="card-headline">{{ card.title_fr }}</div>
         <div class='card-sub'>{{ card.sub_fr }}</div>
       {% endif %}
+
+      {% if page.lang == 'de' %}
+        <div class="card-headline">{{ card.title_de }}</div>
+        <div class='card-sub'>{{ card.sub_de }}</div>
+      {% endif %}
   </div>
 </a>

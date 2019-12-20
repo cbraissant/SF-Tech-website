@@ -1,5 +1,5 @@
 toc:
-  - title: Drysuits
+  - title: Trockentauchanzüge
     subfolderitems:
       - page: Neoprene Classic
         url: /classic
@@ -15,25 +15,25 @@ toc:
       #   url: /trilam
       # - page: Trilam Pro
       #   url: /trilam-pro
-      - page: Special Forces
+      - page: Spezialeinheiten
         url: /special-forces
-  - title: Clothing
+  - title: Unterzieher
     subfolderitems:
-      - page: Polartec Sweater
+      - page: Polartec Pullover
         url: /sweater
-      - page: Polartec Pants
+      - page: Polartec Hose
         url: /pants
-      - page: Polartec Vest
+      - page: Polartec Weste
         url: /vest
-  - title: Heating
+  - title: Heizung
     subfolderitems:
-      - page: Heating Pads
+      - page: Heiz-Pads
         url: /pads
-      - page: Heating Gloves
+      - page: Beheizte Handschuhe
         url: /gloves
-      - page: Heating Valve
+      - page: Heizeinlassventil
         url: /valve
-      - page: Batteries
+      - page: Akkus
         url: /batteries
   - title: Support
     subfolderitems:
@@ -43,17 +43,17 @@ toc:
       #   url: /measure
       # - page: User manuals
       #   url: /manuals
-      - page: Materials
+      - page: Materialien
         url: /materials
-  - title: About Us
+  - title: Über uns
     subfolderitems:
       # - page: News and Events
       #   url: /news
-      - page: Area of Expertise
+      - page: Fachgebiete
         url: /expertise
-  - title: Contact
+  - title: Kontakt
     subfolderitems:
-      - page: Contact us
+      - page: Kontaktieren Sie uns
         url: /contact
       # - page: Where to buy
       #   url: /retailers

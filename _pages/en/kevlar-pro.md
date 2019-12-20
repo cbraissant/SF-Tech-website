@@ -108,7 +108,7 @@ link-card:
   - valve
 ---
 
-Made entirely of 2mm hyper-compressed neoprene with aramid fiber (DuPont™ Kevlar®) reinforced fabric, The SF Tech Neoprene PRO is design to last. Developped for demanding divers in rough environments, it is the perfect tool for technical or commercial divers, but is also suited for recreational divers wanting the best!
+Made entirely of 2mm hyper-compressed neoprene with aramid fiber (DuPont™ Kevlar®) reinforced fabric, The SF Tech Neoprene PRO is design to last. Developed for demanding divers in rough environments, it is the perfect tool for technical or professional divers, but is also suited for recreational divers wanting the best!
 
 The core of the material is made of 2mm hyper-compress Yamamoto neoprene, a dense closed-cell foam keeping it's density even at great depth. Aramid fiber (DuPont™ Kevlar®) reinforced fabric covers the whole suit and an extra protective layer is added on the knees pads.
 

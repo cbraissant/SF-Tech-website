@@ -28,7 +28,3 @@ La gamme d'options disponible inclus toutes les options standards, ainsi que les
 Diverses options personnalisée peuvent être réalisées: fermeture frontale ou dorsale, combinaison de surface, cagoule néoprène pour masque facial, support ou poche pour bouteille de gonflage, système de chauffage, pochette pour couteau, etc...
 
 Pour plus d'informations sur les produits disponible ou pour avoir un devis <a href="{{site.url}}{{site.baseurl}}/{{page.lang}}/contact">contactez-nous</a>
-
-Many more custom options can be realised: front or back zipper on all models, surface suit, neoprene hood for facial mask, suit inflation tank straps or pocket, heating valve, knife pouch, and so on.
-
-For more information about the range of products and options available and to get a quote, <a href="{{site.url}}{{site.baseurl}}/{{page.lang}}/contact">contact us</a>

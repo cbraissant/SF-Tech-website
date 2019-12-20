@@ -17,7 +17,7 @@ image: assets/img/suits/montage-classic.png
 highlights:
   - icon: thermometer.svg
     title: Heat and flexibility
-    sub: The 2mm hyper-compress neoprene guarantees warmth and strenght without loosing comfort
+    sub: The 2mm hyper-compress neoprene guarantees warmth and strenght without losing comfort
   - icon: zipper.svg
     title: YKK metal zipper
     sub: YKK Proseal® is a strong and reliable watertight fastening solution
@@ -49,7 +49,7 @@ specs:
       - "<strong>External fabric (Aramid):</strong> DuPont™ Kevlar®, Nylon, Spandex"
       - "<strong>External fabric (Supratex):</strong> Polyester, Nylon, Spandex"
       - "<strong>Internal Fabric:</strong> 100% Nylon (70 deniers)"
-      - "<strong>Stitching:</strong> Gluied with two threads blind stitch"
+      - "<strong>Stitching:</strong> Glued with two threads blind stitch"
       - "<strong>Seams:</strong> 3-5 layers of urethane sealant"
 
 option:
@@ -112,10 +112,10 @@ link-card:
 ---
 The SF Tech Neoprene Classic is the perfect drysuit for recreational or technical divers seeking warmth in cold water, without compromising mobility. Made of the best neoprene on the market, the suit is warm, extremely flexible and grants excellent freedom of movement.
 
-The core of the material is made of 2mm hyper-compress Yamamoto neoprene, a dense closed-cell foam keeping it's density even at great depth. Aramid fiber reinforcements are provided on arms, chest, back as well as the knees and crotch area. The rest of the suit is made of Supratex®, a strong nylon and polyester fabric.
+The core of the material is made of 2mm hyper-compress Yamamoto neoprene, a dense closed-cell foam keeping its density even at great depth. Aramid fiber reinforcements are provided on arms, chest, back as well as the knees and crotch area. The rest of the suit is made of Supratex®, a strong nylon and polyester fabric.
 
-Used in cold water of Antartica or caves in Flordia, the SF Tech Neoprene Classic is an extremely versatile drysuit. The warmth provided by the layer of neoprene allows the diver the reduce the undergarments necessary for a dive.
+Used in cold water of Antartica or caves in Flordia, the SF Tech Neoprene Classic is an extremely versatile drysuit. The warmth provided by the layer of neoprene allows the diver to reduce the undergarments necessary for a dive.
 
-As standard, the SF Tech Neoprene Classic comes with a front entry zipper and telescopic torso allowing the diver the to be self-sufficient in the donning and doffing process. The fold of the suit is held in place by a crotch strap.
+As standard, the SF Tech Neoprene Classic comes with a front entry zipper and telescopic torso allowing the diver to be self-sufficient in the donning and doffing process. The fold of the suit is held in place by a crotch strap.
 
 

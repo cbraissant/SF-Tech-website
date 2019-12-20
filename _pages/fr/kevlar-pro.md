@@ -106,7 +106,7 @@ link-card:
   - tnt
   - valve
 ---
-Fabriquée entièrement en néoprène hyper-compressé de 2mm, renforcée de fibres d'aramide, la SF Tech Neoprene Pro est faite pour durer. Conçue pour des plongeurs exigeants en environements hostile, elle est l'outil ideal pour les plongeurs techniques ou commerciaux, mais est aussi adaptées au plongeurs recréatifs désirant le top du top.
+Fabriquée entièrement en néoprène hyper-compressé de 2mm, renforcée de fibres d'aramide, la SF Tech Neoprene Pro est faite pour durer. Conçue pour des plongeurs exigeants en environements hostiles, elle est l'outil ideal pour les plongeurs techniques ou commerciaux, mais est aussi adaptées au plongeurs recréatifs désirant le top du top.
 
 La couche isolante est composée de néoprène Yamamoto hyper-compressé de 2mm, une mousse de néoprène à cellule fermée gardant sa densité même à grande profondeur. L'ensemble de la combinaison est recouvert de tissu renforcé de fibres d'aramide et une couche de protection supplémentaire est ajoutée sur les genoux.
 

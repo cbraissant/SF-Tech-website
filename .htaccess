@@ -26,3 +26,6 @@
 # 
 # RewriteCond %{HTTP:Accept-Language} (en) [NC]
 # RewriteRule .* www.sftech.ch/en [L]
+# 
+# RewriteCond %{HTTP:Accept-Language} (de) [NC]
+# RewriteRule .* www.sftech.ch/de [L]

@@ -30,15 +30,15 @@ downloads:
     link: /assets/files/manual-valve.pdf
     icon: /assets/img/jpg/400/manual-valve.jpg
 
-  - title: Drysuit measure form
+  - title: Drysuit measure form (en)
     link: /assets/files/measurement-form-en.pdf
     icon: /assets/img/jpg/400/measurement-form-en.jpg
 
-  - title: Formulaire de prise de mesure
+  - title: Formulaire de prise de mesure (fr)
     link: /assets/files/measurement-form-fr.pdf
     icon: /assets/img/jpg/400/measurement-form-fr.jpg
 
-  - title: Trockentauchanzug Vermassungs-formular
+  - title: Trockentauchanzug Vermassungs-formular (de)
     link: /assets/files/measurement-form-de.pdf
     icon: /assets/img/jpg/400/measurement-form-de.jpg
 

@@ -28,24 +28,23 @@
 // ==========================================================================
 
 .home-suptitle {
-  @include fluid-type(15rem, 65rem, 0.5rem, 2.5rem);
+  @include fluid-type(15rem, 65rem, 0.5rem, 2rem);
   @include titlefont();
   text-transform: uppercase;
   text-shadow: 2px 2px #000;
-  line-height: 2em;
   color: $text-highlight;
+  line-height: 1em;
 }
 
 .home-title {
   @include fluid-type(15rem, 75rem, 1.5rem, 9rem);
   @include titlefont();
-  line-height: 1;
   color: $text-highlight;
+  margin: 10px 0;
 }
 
 .home-subtitle {
-  @include fluid-type(15rem, 65rem, 0.7rem, 4rem);
+  @include fluid-type(15rem, 65rem, 0.7rem, 3rem);
   @include titlefont();
-  line-height: 1;
   color: $text-highlight;
 }

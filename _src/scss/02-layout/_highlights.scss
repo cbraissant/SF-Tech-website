@@ -9,16 +9,16 @@
 .highlights-group {
   // Positioning and sizing
   width: 100%;
-  @include mq(tablet) {width: 50%;}   
-  @include mq(laptop) {width: 25%;}
+  @include mq(tablet) {
+    width: 50%;
+  }
+  @include mq(laptop) {
+    width: 25%;
+  }
   padding: $padding;
 
   // Text styles
   text-align: center;
-}
-
-.highlights-title {
-  font-weight: 700;
 }
 
 .highlights-picture svg {

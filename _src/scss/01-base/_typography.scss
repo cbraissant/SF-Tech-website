@@ -1,30 +1,44 @@
 //  #TYPOGRAPHY
 // ==========================================================================
 @mixin mainfont() {
- font-family: "Helvetica Neue LT Pro - Lt", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
- font-weight: 300;
+  // font-family: 'Helvetica Neue LT Pro - Lt', 'HelveticaNeue-Light',
+  //   'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande',
+  //   sans-serif;
+  font-family: 'Helvetica Neue', Roboto, Arial, 'Open Sans', sans-serif;
+  font-weight: 300;
 }
 
 @mixin strongfont() {
- font-family: "Helvetica Neue LT Pro - Md", "HelveticaNeue-Regular", "Helvetica Neue Regular", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
- font-weight: 400;
+  // font-family: 'Helvetica Neue LT Pro - Md', 'HelveticaNeue-Regular',
+  //   'Helvetica Neue Regular', 'Helvetica Neue', Helvetica, Arial,
+  //   'Lucida Grande', sans-serif;
+  font-family: 'Helvetica Neue', Roboto, Arial, 'Open Sans', sans-serif;
+  font-weight: 400;
 }
 @mixin boldfont() {
- font-family: "Helvetica Neue LT Pro - Bd", "HelveticaNeue-Bold", "Helvetica Neue Bold", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
- font-weight: 700;
+  // font-family: 'Helvetica Neue LT Pro - Bd', 'HelveticaNeue-Bold',
+  //   'Helvetica Neue Bold', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande',
+  //   sans-serif;
+  font-family: 'Helvetica Neue', Roboto, Arial, 'Open Sans', sans-serif;
+  font-weight: 700;
 }
 
 @mixin titlefont() {
-  font-family: "Helvetica Neue LT Pro - Bd", "HelveticaNeue-CondensedBold", "Helvetica Neue Condensed Bold", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+  // font-family: 'Helvetica Neue LT Pro - Bd', 'HelveticaNeue-CondensedBold',
+  //   'Helvetica Neue Condensed Bold', 'Helvetica Neue', Helvetica, Arial,
+  //   'Lucida Grande', sans-serif;
+  font-family: 'Helvetica Neue', Roboto, Arial, 'Open Sans', sans-serif;
   font-weight: 900;
 }
 
-
-
 body {
   font-size: 87.5%;
-  @include mq(tablet) {font-size: 87.5%;}
-  @include mq(laptop) {font-size: 100%;}
+  @include mq(tablet) {
+    font-size: 87.5%;
+  }
+  @include mq(laptop) {
+    font-size: 100%;
+  }
 
   @include mainfont();
   color: $text-color;
@@ -35,15 +49,14 @@ p {
   padding-bottom: $padding;
 }
 
-
 h1 {
   @include fluid-type(20rem, 75rem, 2rem, 4.5rem);
   @include boldfont();
   color: $white;
-  line-height: 0.8;  
+  line-height: 0.8;
   text-shadow: 2px 2px #000;
   text-transform: uppercase;
-  word-wrap:break-word;
+  word-wrap: break-word;
   white-space: normal;
 }
 
@@ -56,22 +69,19 @@ h2 {
   text-transform: uppercase;
 }
 
-
 h3 {
   @include fluid-type(20rem, 75rem, 1.2rem, 2.4rem);
   @include titlefont();
   color: $text-color;
   line-height: 1em;
-  font-weight: 200;
   // text-transform: uppercase;
 }
-
 
 h4 {
   @include fluid-type(20rem, 75rem, 1.2rem, 1.6rem);
   line-height: 1;
+  font-weight: 400;
 }
-
 
 h5 {
   font-size: 1.6rem;
@@ -79,7 +89,6 @@ h5 {
   color: $yellow;
   line-height: 1;
 }
-
 
 header {
   font-size: 125%;
@@ -89,7 +98,6 @@ header {
     font-size: 87.5%;
   }
 }
-
 
 strong {
   @include boldfont();

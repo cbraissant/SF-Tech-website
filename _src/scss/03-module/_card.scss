@@ -3,7 +3,6 @@
 // --------------------------------------------------------
 // Element used to display a large text with a background image
 
-
 // MAIN CARD ELEMENT
 // --------------------------------------------------------
 .card {
@@ -50,7 +49,6 @@
   object-fit: cover; /* 2 */
 }
 
-
 // INNER
 // --------------------------------------------------------
 // Style the inside of the card
@@ -60,7 +58,7 @@
   z-index: 2;
   margin: auto; // center verticaly and horizontally
   padding: $padding;
-  
+
   // Text styles
   @include titlefont();
   font-weight: 500;

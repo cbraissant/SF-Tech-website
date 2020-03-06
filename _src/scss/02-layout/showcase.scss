@@ -12,7 +12,6 @@
   margin-bottom: $spacing;
 }
 
-
 .showcase-inner {
   // Positioning and sizing
   display: flex;
@@ -22,8 +21,12 @@
 .showcase-group {
   // Positioning and sizing
   width: 100%;
-  @include mq(tablet) {width: 50%;}   
-  @include mq(laptop) {width: 33.33%;}
+  @include mq(tablet) {
+    width: 50%;
+  }
+  @include mq(laptop) {
+    width: 33.33%;
+  }
   padding: $padding;
 
   // Text styles

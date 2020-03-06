@@ -4,8 +4,12 @@
 
 .related-card {
   width: 100%;
-  @include mq(tablet) {width: 50%;}
-  @include mq(desktop) {width: 25%;}
+  @include mq(tablet) {
+    width: 50%;
+  }
+  @include mq(desktop) {
+    width: 25%;
+  }
 }
 
 .related-grid {

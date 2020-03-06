@@ -12,12 +12,14 @@
 }
 
 .rtl {
-  flex-direction: row-reverse
+  flex-direction: row-reverse;
 }
 
 .col-1-2-2 {
   width: 100%;
-  @include mq(tablet) { width: 50%; }
+  @include mq(tablet) {
+    width: 50%;
+  }
 }
 
 .full-img {

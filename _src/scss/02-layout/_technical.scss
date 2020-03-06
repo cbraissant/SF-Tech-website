@@ -5,10 +5,10 @@
   padding-top: $spacing;
   padding-bottom: $spacing;
   @include mq(tablet) {
-    padding-top: 2*$spacing;
-    padding-bottom: 2*$spacing;
+    padding-top: 2 * $spacing;
+    padding-bottom: 2 * $spacing;
   }
-  
+
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -35,12 +35,10 @@
   }
 }
 
-
 .technical-inner {
   max-width: 35rem;
   margin: 0 auto;
 }
-
 
 @include mq(laptop) {
   .technical-half:nth-child(odd) .technical-inner {
@@ -48,13 +46,10 @@
     margin-right: auto;
   }
   .technical-half:nth-child(even) .technical-inner {
-    margin-left: auto; 
+    margin-left: auto;
     margin-right: 0;
   }
 }
-
-
-
 
 .technical-list {
   display: table;
@@ -69,7 +64,7 @@
 }
 
 .technical-items:before {
-  content: "\2500";
+  content: '\2500';
   display: inline-block;
   width: 2em;
   color: $yellow;
@@ -80,4 +75,4 @@
   border-bottom: 1px solid $yellow;
   padding-bottom: $padding;
   margin-bottom: $padding;
-} 
+}

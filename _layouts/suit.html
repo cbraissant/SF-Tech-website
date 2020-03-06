@@ -2,25 +2,10 @@
 layout: default
 ---
 
-{% include product.html %}
-
-{% if page.highlights %}
-  {% include highlights.html %}
-{% endif %}
-
-{% include description.html %}
-
-{% if page.pictures %}
-  {% include pictures.html %}
-{% endif %}
-
-{% if page.specs %}
-  {% include technical.html %}
-{% endif %}
-
-{% if page.option %}
-  {% include options.html %}
-{% endif %}
+{% include product.html %} {% if page.highlights %} {% include highlights.html
+%} {% endif %} {% include description.html %} {% if page.pictures %} {% include
+pictures.html %} {% endif %} {% if page.specs %} {% include technical.html %} {%
+endif %} {% if page.option %} {% include options.html %} {% endif %}
 
 <!-- 
 {% if page.showcase %}
@@ -28,9 +13,5 @@ layout: default
 {% endif %}
  -->
 
-{% include aquasure.html %}
-
-{% include warranty.html %}
-
-{% include related.html %}
-
+{% include aquasure.html %} {% include warranty.html %} {% include related.html
+%}

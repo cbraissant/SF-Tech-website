@@ -12,7 +12,7 @@
 }
 
 .aquasure-heading {
-	@include boldfont();
+  @include boldfont();
 }
 
 .aquasure-wrapper {
@@ -26,7 +26,7 @@
   font-size: 125%;
   line-height: 1.2;
   text-align: center;
-  
+
   @include mq(laptop) {
     text-align: left;
   }
@@ -39,5 +39,5 @@
 
   @include mq(laptop) {
     margin-left: 0;
-  } 
+  }
 }

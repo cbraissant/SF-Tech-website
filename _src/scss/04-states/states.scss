@@ -10,13 +10,13 @@ body.menu-is-open {
   overflow: scroll;
 }
 
-.menu-is-open .menu-wrapper{
+.menu-is-open .menu-wrapper {
   display: block;
 }
 
 .menu-is-open .menu-icon:before {
- transform: translateY(11px) rotate(135deg);
-  }
+  transform: translateY(11px) rotate(135deg);
+}
 
 .menu-is-open .menu-icon:after {
   transform: translateY(-11px) rotate(-135deg);
@@ -26,7 +26,6 @@ body.menu-is-open {
   transform: scale(0);
 }
 
-
 .is-active .menu-sublist {
   @media screen and (max-width: $laptop) {
     display: block;
@@ -35,12 +34,12 @@ body.menu-is-open {
 
 .is-active .menu-item {
   color: $text-highlight;
-} 
+}
 
 //  #MENU ON SCROLL
 // ==========================================================================
 @include mq(laptop) {
-  .masthead.is-scroll{
+  .masthead.is-scroll {
     height: $header-height-scroll;
     transition: all 0.4s ease-in-out;
   }

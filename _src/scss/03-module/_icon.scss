@@ -3,7 +3,6 @@ $icon-height: 50px;
 $icon-translate: 30px;
 $icon-timer: 2s;
 
-
 .icon-scroll,
 .icon-scroll:before {
   top: 90vh;
@@ -11,8 +10,8 @@ $icon-timer: 2s;
 }
 
 .icon-scroll.is-scroll {
-   opacity: 0;
-   transition: opacity 1s ease-in;
+  opacity: 0;
+  transition: opacity 1s ease-in;
 }
 
 .icon-scroll {

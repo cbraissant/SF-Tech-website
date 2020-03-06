@@ -7,9 +7,9 @@ layout: default
 <section class="">
   <div class="wrapper expertise-wrapper">
     {% for category in page.categories %}
-    <a href="{{ category.link }}" class="btn" draggable="false">{{
-      category.text
-    }}</a>
+    <a href="{{ category.link }}" class="btn" draggable="false"
+      >{{ category.text }}</a
+    >
     {% endfor %}
   </div>
 </section>
@@ -30,8 +30,7 @@ layout: default
   <div class="expertise-inner {{ data.style }}">
     <div class="expertise-data">
       <h3 class="expertise-title">{{ data.title }}</h3>
-      {{ data.description }}
-      {% if data.link %}
+      {{ data.description }} {% if data.link %}
       <p class="expertise-link"><a href="{{ data.link }}">Learn more</a></p>
       {% endif %}
     </div>

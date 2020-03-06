@@ -1,37 +1,45 @@
 ---
 layout: default
 ---
+
 <section class="downloads-section">
   <div class="wrapper downloads-wrapper">
-
     <h3 class="downloads-title">Downloads</h3>
     <div class="downloads-file">
-    {% for file in page.downloads %}
+      {% for file in page.downloads %}
       <div class="downloads-box">
         <a href="{{ file.link }}" class="downloads-links" download="">
-          <img src="{{site.url}}{{site.baseurl}}{{ file.icon }}"
-               class="downloads-icon" alt="">
+          <img
+            src="{{site.url}}{{site.baseurl}}{{ file.icon }}"
+            class="downloads-icon"
+            alt=""
+          />
         </a>
         <p>{{ file.title }}</p>
       </div>
-      
-    {% endfor %}
+
+      {% endfor %}
     </div>
 
     <h3 class="downloads-title">Pictures</h3>
     <div class="downloads-file">
-    {% for image in site.data.pictures %}
-      <div class="downloads-box"> 
-        <a href="{{site.url}}{{site.baseurl}}{{image.link}}" class="downloads-links">
-          <img src="{{site.url}}{{site.baseurl}}{{ image.icon }}"
-             class="downloads-icon" alt="">
+      {% for image in site.data.pictures %}
+      <div class="downloads-box">
+        <a
+          href="{{site.url}}{{site.baseurl}}{{image.link}}"
+          class="downloads-links"
+        >
+          <img
+            src="{{site.url}}{{site.baseurl}}{{ image.icon }}"
+            class="downloads-icon"
+            alt=""
+          />
         </a>
-        {% if image.credit %}     
-          <p>Photo credit:<br>{{ image.credit }}</p>
+        {% if image.credit %}
+        <p>Photo credit:<br />{{ image.credit }}</p>
         {% endif %}
-        </div>
-    {% endfor %}
+      </div>
+      {% endfor %}
     </div>
-
   </div>
 </section>

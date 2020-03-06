@@ -1,10 +1,13 @@
 <section class="pictures-section" id="product-pictures">
-
-	<div class="pictures-container" > 
-		{% for picture in page.product-pictures %}
-		<div class="pictures-inner" > 
-			<img class="pictures-image" src="{{site.url}}{{site.baseurl}}{{picture}}" alt="">
-		</div>
-		{% endfor %}
-	</div>
+  <div class="pictures-container">
+    {% for picture in page.product-pictures %}
+    <div class="pictures-inner">
+      <img
+        class="pictures-image"
+        src="{{site.url}}{{site.baseurl}}{{picture}}"
+        alt=""
+      />
+    </div>
+    {% endfor %}
+  </div>
 </section>

@@ -44,10 +44,22 @@
   }
 }
 
-.expertise-bl {bottom: $spacing; left: $spacing;}
-.expertise-tl {top: $spacing; left: $spacing;}
-.expertise-br {bottom: $spacing; right: $spacing;}
-.expertise-tr {top: $spacing; right: $spacing;}
+.expertise-bl {
+  bottom: $spacing;
+  left: $spacing;
+}
+.expertise-tl {
+  top: $spacing;
+  left: $spacing;
+}
+.expertise-br {
+  bottom: $spacing;
+  right: $spacing;
+}
+.expertise-tr {
+  top: $spacing;
+  right: $spacing;
+}
 
 .expertise-image {
   max-height: 80vh;
@@ -82,10 +94,22 @@
   }
 
   .expertise-ltr {
-    background-image: linear-gradient(to right, rgba(0,0,0,0),rgba(0,0,0,0.1), rgba(0,0,0,0.7), rgba(0,0,0,1));
+    background-image: linear-gradient(
+      to right,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.1),
+      rgba(0, 0, 0, 0.7),
+      rgba(0, 0, 0, 1)
+    );
   }
 
   .expertise-rtl {
-    background-image: linear-gradient(to left, rgba(0,0,0,0),rgba(0,0,0,0.1), rgba(0,0,0,0.7), rgba(0,0,0,1));
+    background-image: linear-gradient(
+      to left,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.1),
+      rgba(0, 0, 0, 0.7),
+      rgba(0, 0, 0, 1)
+    );
   }
 }

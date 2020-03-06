@@ -1,13 +1,12 @@
 <section class="options-section">
   <div class="wrapper options-wrapper">
     <h2 class="options-title">
-      {% if page.lang == 'en' %}Make it the way you want{% endif %}
-      {% if page.lang == 'fr' %}Personnalise ta combinaison{% endif %}
-      {% if page.lang == 'de' %}Personalisiere deinen Anzug{% endif %}
+      {% if page.lang == 'en' %}Make it the way you want{% endif %} {% if
+      page.lang == 'fr' %}Personnalise ta combinaison{% endif %} {% if page.lang
+      == 'de' %}Personalisiere deinen Anzug{% endif %}
     </h2>
 
     <div class="options-inner">
-
       <div class="options-legend">
         <div class="options-legend-item">
           <span class="dot dot-yellow"></span>
@@ -18,29 +17,26 @@
           <span>Option</span>
         </div>
       </div>
-      
+
       <div class="options-list">
         {% for items in page.option %}
         <div class="options-each {{ items.style }}">
           <div class="options-item">
             <div class="options-icon">
-
-              {% capture temp %}{{ site.data.[page.lang].options.[items.type].icon }}{% endcapture %}
-
+              {% capture temp %}{{
+              site.data.[page.lang].options.[items.type].icon }}{% endcapture %}
               {% include {{ temp | prepend: 'svg/' }} %}
-
             </div>
             <div class="options-text">
-              <div class="options-header">{{ site.data.[page.lang].options.[items.type].title }}</div>
+              <div class="options-header">
+                {{ site.data.[page.lang].options.[items.type].title }}
+              </div>
               <div>{{ site.data.[page.lang].options.[items.type].text }}</div>
             </div>
           </div>
         </div>
         {% endfor %}
       </div>
-
     </div>
   </div>
 </section>
-
-

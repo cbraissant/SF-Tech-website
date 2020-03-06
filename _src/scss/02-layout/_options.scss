@@ -15,21 +15,24 @@
   margin: 10px;
 }
 
-.options-icon svg{
+.options-icon svg {
   height: 100%;
   width: 100%;
 }
 
 .options-list {
-  @include mq(tablet){ column-count: 2;}
-  @include mq(laptop){ column-count: 3;}
+  @include mq(tablet) {
+    column-count: 2;
+  }
+  @include mq(laptop) {
+    column-count: 3;
+  }
 }
 
 .options-each {
   display: inline-block;
   width: 100%;
 }
-
 
 .options-item {
   display: flex;
@@ -52,8 +55,10 @@
   flex-wrap: wrap;
   margin: 0 auto;
 
-  @include mq(laptop) { display: flex; justify-content: center;}
-
+  @include mq(laptop) {
+    display: flex;
+    justify-content: center;
+  }
 }
 
 .options-legend-item {
@@ -72,16 +77,27 @@
   margin: 0 25px;
 }
 
-.dot-yellow { background-color: $yellow; }
-.dot-gray { background-color: $gray; }
+.dot-yellow {
+  background-color: $yellow;
+}
+.dot-gray {
+  background-color: $gray;
+}
 
+.base {
+  color: $yellow;
+}
+.base .options-icon svg {
+  fill: $yellow;
+}
 
+.option {
+  color: $gray;
+}
+.options-icon svg {
+  fill: $gray;
+}
 
-
-.base { color: $yellow; }
-.base .options-icon svg { fill: $yellow; }
-
-.option { color: $gray; }
-.options-icon svg { fill: $gray; }
-
-.hidden { display: none; }
+.hidden {
+  display: none;
+}

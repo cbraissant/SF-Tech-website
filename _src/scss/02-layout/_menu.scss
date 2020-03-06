@@ -19,8 +19,8 @@
   margin: 8px 0;
 }
 
-.menu-icon:after, 
-.menu-icon:before, 
+.menu-icon:after,
+.menu-icon:before,
 .menu-icon div {
   background-color: #fff;
   content: '';
@@ -31,11 +31,9 @@
   // transition: all 0.2s ease-in-out;
 }
 
-
-
 //  FIRST LIST (BEFORE DROPDOWN)
 // ==========================================================================
-.menu-wrapper{
+.menu-wrapper {
   display: none;
 }
 
@@ -57,7 +55,7 @@
 .menu-item:after {
   position: absolute;
   right: 0;
-  content: "\25bc";
+  content: '\25bc';
 }
 
 .menu-sublist {
@@ -71,34 +69,33 @@
   // Padding and margin
   padding-top: $padding;
   padding-bottom: $padding;
-  padding-left: $padding+$padding;
-  padding-right: $padding+$padding;
+  padding-left: $padding + $padding;
+  padding-right: $padding + $padding;
 
   // Text styles
   color: $text-color;
 }
 
-.menu-link, .menu-link:visited {
+.menu-link,
+.menu-link:visited {
   color: $text-color;
 }
 
 .menu-link:hover,
 .menu-link:active,
-.menu-item:hover, 
+.menu-item:hover,
 .menu-item:active {
   color: $text-highlight;
 }
-
 
 //  #MENU LAPTOP + DESKTOP
 // ==========================================================================
 
 @include mq(laptop) {
-
-  .menu-wrapper{
+  .menu-wrapper {
     display: block;
   }
-  
+
   .menu-list {
     display: flex;
     justify-content: center;
@@ -115,9 +112,9 @@
     min-width: 120px;
     line-height: 0px;
   }
-  
+
   .menu-item:after {
-    content: "";
+    content: '';
   }
 
   .menu-sublist {

@@ -1,20 +1,20 @@
 <section class="showcase-section">
   <div class="wrapper showcase-wrapper">
-
     <h2 class="showcase-title">
-      {% if page.lang == 'en' %}Multiple choice of colors{% endif %}
-      {% if page.lang == 'fr' %}Plusieurs coloris à choix{% endif %}
+      {% if page.lang == 'en' %}Multiple choice of colors{% endif %} {% if
+      page.lang == 'fr' %}Plusieurs coloris à choix{% endif %}
     </h2>
-    
 
     <div class="showcase-inner">
-    {% for item in page.showcase %}
+      {% for item in page.showcase %}
       <div class="showcase-group">
-
-        <img class="showcase-picture" src="{{site.url}}{{site.baseurl}}/assets/img/suits/{{item}}" alt="">
+        <img
+          class="showcase-picture"
+          src="{{site.url}}{{site.baseurl}}/assets/img/suits/{{item}}"
+          alt=""
+        />
       </div>
-    {% endfor %}
+      {% endfor %}
     </div>
-
   </div>
 </section>

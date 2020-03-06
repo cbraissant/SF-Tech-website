@@ -1,16 +1,17 @@
-<section class="product-section"
-         style="background-image: url('{{site.url}}{{site.baseurl}}/assets/img/jpg/1920/background.jpg')"
-         id="content">
+<section
+  class="product-section"
+  style="background-image: url('{{site.url}}{{site.baseurl}}/assets/img/jpg/1920/background.jpg')"
+  id="content"
+>
   <div class="wrapper product-wrapper">
-
     <div class="product-half">
       <div class="product-inner">
         <div class="product-text">
           <h1 class="product-title">{{ page.title }}</h1>
           <h4 class="product-subtitle">{{page.subtitle}}</h4>
         </div>
-        
-<!--         <div class="product-cta">
+
+        <!--         <div class="product-cta">
           <a href="#description" class="product-btn">
             {% if page.lang == 'en' %}Learn more{% endif %}
             {% if page.lang == 'fr' %}En savoir plus{% endif %}
@@ -25,9 +26,12 @@
 
     <div class="product-half">
       <div class="product-picture">
-         <img class="product-image" src="{{site.url}}{{site.baseurl}}/{{page.image}}" alt="{{ page.title }}">
+        <img
+          class="product-image"
+          src="{{site.url}}{{site.baseurl}}/{{page.image}}"
+          alt="{{ page.title }}"
+        />
       </div>
     </div>
   </div>
-    
 </section>

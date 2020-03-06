@@ -9,7 +9,6 @@
   width: 100%;
   z-index: 10;
 
-
   // Background and borders
   background-color: $background-color;
   @include mq(laptop) {
@@ -24,7 +23,7 @@
   height: $header-height-phone;
   z-index: 10;
   padding: 5px;
-  
+
   @include mq(laptop) {
     position: absolute;
     height: $header-height;
@@ -54,7 +53,7 @@
   .lang-selected {
     @include boldfont;
   }
-  
+
   a,
   a:visited,
   a:active,

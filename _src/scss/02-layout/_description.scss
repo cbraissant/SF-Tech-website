@@ -22,7 +22,7 @@
   @include mq(laptop) {
     margin-left: auto;
     width: 100%;
-    max-width: 0.5*$max-width;
+    max-width: 0.5 * $max-width;
   }
 }
 

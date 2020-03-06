@@ -16,7 +16,7 @@
 .darktheme button:active,
 .darktheme .btn:hover,
 .darktheme .btn:focus,
-.darktheme .btn:active, {
+.darktheme .btn:active {
   color: $button-text;
   border-color: $button-border;
 }
@@ -28,10 +28,6 @@
   border: 1px solid $black;
 }
 
-
-
-
-
 .lighttheme {
   color: $text-lighttheme;
   background-color: $background-lighttheme;
@@ -42,13 +38,12 @@
   border-color: $text-lighttheme;
 }
 
-
 .lighttheme button:hover,
 .lighttheme button:focus,
 .lighttheme button:active,
 .lighttheme .btn:hover,
 .lighttheme .btn:focus,
-.lighttheme .btn:active, {
+.lighttheme .btn:active {
   color: $light-button-text;
   border: 2px solid $light-button-border;
   @include boldfont();

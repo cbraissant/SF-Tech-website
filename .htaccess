@@ -20,7 +20,12 @@
 
 # Language redirection
 # ------------------------------------------------------------------------------
-# RewriteEngine on
+RewriteEngine on
+RewriteCond %{HTTPS} off
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ https://www.sftech.ch/$1 [R,L]
+#RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
 # RewriteCond %{HTTP:Accept-Language} (fr) [NC]
 # RewriteRule .* www.sftech.ch/fr [L]
 # 

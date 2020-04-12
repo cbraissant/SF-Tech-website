@@ -7,3 +7,4 @@ _src/img/psd
 node_modules
 .vscode
 .jekyll-cache
+.env

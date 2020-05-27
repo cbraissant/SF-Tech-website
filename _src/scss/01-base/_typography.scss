@@ -1,32 +1,20 @@
-//  #TYPOGRAPHY
 // ==========================================================================
+//  #TYPOGRAPHY
 @mixin mainfont() {
-  // font-family: 'Helvetica Neue LT Pro - Lt', 'HelveticaNeue-Light',
-  //   'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande',
-  //   sans-serif;
   font-family: 'Helvetica Neue', Roboto, Arial, 'Open Sans', sans-serif;
   font-weight: 300;
 }
 
 @mixin strongfont() {
-  // font-family: 'Helvetica Neue LT Pro - Md', 'HelveticaNeue-Regular',
-  //   'Helvetica Neue Regular', 'Helvetica Neue', Helvetica, Arial,
-  //   'Lucida Grande', sans-serif;
   font-family: 'Helvetica Neue', Roboto, Arial, 'Open Sans', sans-serif;
   font-weight: 400;
 }
 @mixin boldfont() {
-  // font-family: 'Helvetica Neue LT Pro - Bd', 'HelveticaNeue-Bold',
-  //   'Helvetica Neue Bold', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande',
-  //   sans-serif;
   font-family: 'Helvetica Neue', Roboto, Arial, 'Open Sans', sans-serif;
   font-weight: 700;
 }
 
 @mixin titlefont() {
-  // font-family: 'Helvetica Neue LT Pro - Bd', 'HelveticaNeue-CondensedBold',
-  //   'Helvetica Neue Condensed Bold', 'Helvetica Neue', Helvetica, Arial,
-  //   'Lucida Grande', sans-serif;
   font-family: 'Helvetica Neue', Roboto, Arial, 'Open Sans', sans-serif;
   font-weight: 900;
 }
@@ -74,7 +62,6 @@ h3 {
   @include titlefont();
   color: $text-color;
   line-height: 1em;
-  // text-transform: uppercase;
 }
 
 h4 {

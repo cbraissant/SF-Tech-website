@@ -8,17 +8,17 @@
 // Select all the dropdown menus
 const menu = document.querySelectorAll('.menu-dropdown');
 // Fonction to select only the siblings
-const getSiblings = n => [...n.parentElement.children].filter(c => c != n);
+const getSiblings = (n) => [...n.parentElement.children].filter((c) => c != n);
 // Loop through each menu
-menu.forEach(item => {
+menu.forEach((item) => {
   // Add a click event
-  item.addEventListener('click', e => {
+  item.addEventListener('click', (e) => {
     // Toggle the active element
     e.currentTarget.classList.toggle('is-active');
     // Get the siblings elements
     const siblings = getSiblings(e.currentTarget);
     // Loop through the siblings and remove the active class
-    siblings.forEach(sib => sib.classList.remove('is-active'));
+    siblings.forEach((sib) => sib.classList.remove('is-active'));
   });
 });
 
@@ -30,7 +30,7 @@ document.querySelector('.menu-icon').addEventListener('click', () => {
 
 // Disable enter key to submit form
 // **************************************************
-document.addEventListener('keydown', e => {
+document.addEventListener('keydown', (e) => {
   e.keyCode == 13 && e.target == document.querySelector('form input')
     ? e.preventDefault()
     : null;
@@ -42,7 +42,7 @@ window.onresize = () => {
   document.querySelector('body').classList.remove('menu-is-open');
   document
     .querySelectorAll('.is-active')
-    .forEach(item => item.classList.remove('is-active'));
+    .forEach((item) => item.classList.remove('is-active'));
 };
 
 // Change the size of the header when the window is scrolled
@@ -121,7 +121,7 @@ window.addEventListener('scroll', () => {
 
 // CSS animation on scroll
 AOS.init({
-  duration: 800
+  duration: 800,
 });
 
 // ScrollReveal - Reveal items on scroll
@@ -129,7 +129,7 @@ ScrollReveal().reveal('.jsReveal', {
   delay: 0,
   duration: 300,
   scale: 0.0,
-  reset: true
+  reset: true,
 });
 
 // Disable the drag and drop of the button class
@@ -147,7 +147,7 @@ let headerOffset = document.querySelector('header').offsetHeight;
 let anchorlinks = document.querySelectorAll('a[href^="#"]');
 
 for (let item of anchorlinks) {
-  item.addEventListener('click', e => {
+  item.addEventListener('click', (e) => {
     let hashval = item.getAttribute('href');
     let target = document.querySelector(hashval);
     let elementPosition = target.getBoundingClientRect().top;
@@ -158,35 +158,8 @@ for (let item of anchorlinks) {
     console.log('offset to scroll: ' + offsetPosition);
     window.scrollTo({
       top: offsetPosition,
-      behavior: 'smooth'
+      behavior: 'smooth',
     });
     e.preventDefault();
   });
 }
-
-//  JQuery animate as replacement
-// -------------------------------------------------------
-// For each link with an anchor (#) as destination
-// $('a[href^="#"]').each(function(index, value) {
-//   // When the link is clicked
-//   $(this).click(function() {
-//     // Get the destination of the link (the anchor value)
-//     var hashval = $(this).attr('href');
-//     // Set the target to the anchor
-//     var target = $(hashval);
-//     // Get the Y position of the target
-//     var targetPosition = target.offset().top;
-//     var headerHeight = 60;
-//     // Offset the value by the header
-//     var offsetPosition = targetPosition - headerHeight;
-//     // Scroll smoothly to the destination
-//     $('html, body').animate(
-//       {
-//         scrollTop: offsetPosition
-//       },
-//       {
-//         duration: 600
-//       }
-//     );
-//   });
-// });

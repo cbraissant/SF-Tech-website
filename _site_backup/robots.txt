@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /en/
+Allow: /en/classic
+Allow: /en/neoprene-pro
+Allow: /en/tnt
+Allow: /en/trilam
+Allow: /en/trilam-pro
+Allow: /en/special-forces
+Allow: /en/sweater
+Allow: /en/pants
+Allow: /en/vest
+Allow: /en/pads
+Allow: /en/gloves
+Allow: /en/valve
+Allow: /en/batteries
+Allow: /en/downloads
+Allow: /en/materials
+Allow: /en/expertise
+Allow: /en/contact
+
+Disallow: /assets
+
+Sitemap: https://www.sftech.ch/sitemap.xml

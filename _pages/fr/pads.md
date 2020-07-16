@@ -17,7 +17,7 @@ image: assets/img/suits/heating-pads.png
 
 highlights:
   - icon: pads.svg
-    title: Sysdtème modulaire
+    title: Système modulaire
     sub: Permet à l'utilisateur d'enlever ou de remplacer un pad par lui-même
   - icon: humidity.svg
     title: Matériau réspirant

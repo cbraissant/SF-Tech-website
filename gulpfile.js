@@ -141,7 +141,7 @@ gulp.task('sass', function() {
       // Auto-prefix css styles for cross browser compatibility
       .pipe(
         autoprefixer({
-          browsers: ['last 10 versions'], //, 'safari 5', 'ie 11', 'opera 12.1', 'ios 6', 'android 4'],
+          browsers: ['last 10 versions'], //, 'safari 5', 'ie 11', 'opera 12.1', 'ios 6', 'android 4',
           cascade: false
         })
       )

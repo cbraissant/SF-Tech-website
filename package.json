@@ -9,17 +9,30 @@
   "author": "Chris Braissant",
   "license": "MIT",
   "devDependencies": {
-    "browser-sync": "^2.26.7",
-    "del": "^4.1.0",
-    "gulp": "^3.9.1",
-    "gulp-autoprefixer": "^6.0.0",
-    "gulp-changed": "^3.2.0",
-    "gulp-image-resize": "^0.13.1",
-    "gulp-minify": "^3.1.0",
-    "gulp-sass": "^4.0.1",
-    "gulp-util": "^3.0.8"
+    "browser-sync": "^2.26.10",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-images-resizer": "0.0.8",
+    "gulp-newer": "^1.4.0",
+    "gulp-sass": "^4.1.0",
+    "imagemin-mozjpeg": "^9.0.0",
+    "imagemin-pngquant": "^9.0.0"
   },
   "dependencies": {
     "npm": "^6.11.3"
-  }
+  },
+  "browserslist": [
+    "last 5 version",
+    "> 0.5%",
+    "IE 10",
+    "ie_mob 10",
+    "ff 30",
+    "chrome 34",
+    "safari 7",
+    "opera 23",
+    "ios 7",
+    "android 4.4",
+    "bb 10"
+  ]
 }

@@ -29,7 +29,7 @@ specs:
   - name: Données Techniques
     id: data
     data:
-    - "<strong>Tyxpe de batterie:</strong> Lithium Ion"
+    - "<strong>Type de batterie:</strong> Lithium Ion"
     - "<strong>Tension nominale:</strong> 11.1 V"
     - "<strong>>Capacité:</strong> 23.8 Ah / 13.6 Ah"
     - "<strong>Puissance de sortie max:</strong> 175 W / 100 W"

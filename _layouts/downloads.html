@@ -4,9 +4,13 @@ layout: default
 
 <section class="downloads-section">
   <div class="wrapper downloads-wrapper">
-    <h3 class="downloads-title">Downloads</h3>
+    <h3 class="downloads-title">
+      {% if page.lang == 'en' %}User guide{% endif %} {% if page.lang == 'fr'
+      %}Mode d'emploi{% endif %} {% if page.lang == 'de' %}Benutzerhandbuch{%
+      endif %}
+    </h3>
     <div class="downloads-file">
-      {% for file in page.downloads %}
+      {% for file in site.data.downloads.manuals %}
       <div class="downloads-box">
         <a href="{{ file.link }}" class="downloads-links" download="">
           <img
@@ -21,7 +25,32 @@ layout: default
       {% endfor %}
     </div>
 
-    <h3 class="downloads-title">Pictures</h3>
+    <h3 class="downloads-title">
+      {% if page.lang == 'en' %}Measurement form{% endif %} {% if page.lang == 'fr'
+      %}Prise de mesure{% endif %} {% if page.lang == 'de'
+      %}Vermessungsformular{% endif %}
+    </h3>
+    <div class="downloads-file">
+      {% for file in site.data.downloads.downloads %}
+      <div class="downloads-box">
+        <a href="{{ file.link }}" class="downloads-links" download="">
+          <img
+            src="{{site.url}}{{site.baseurl}}{{ file.icon }}"
+            class="downloads-icon"
+            alt=""
+          />
+        </a>
+        <p>{{ file.title }}</p>
+      </div>
+
+      {% endfor %}
+    </div>
+
+    <h3 class="downloads-title">
+      {% if page.lang == 'en' %}Pictures{% endif %} {% if page.lang == 'fr'
+      %}Photographies{% endif %} {% if page.lang == 'de' %}Fotografien{% endif
+      %}
+    </h3>
     <div class="downloads-file">
       {% for image in site.data.pictures %}
       <div class="downloads-box">

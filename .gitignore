@@ -2,8 +2,6 @@
 .jekyll-metadata
 .sass-cache
 _site
-_src/img/original
-_src/img/psd
 node_modules
 .vscode
 .jekyll-cache

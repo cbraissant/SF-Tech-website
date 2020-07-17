@@ -18,8 +18,8 @@ email: chris@sftech.ch
 description: >- # this means to ignore newlines until "baseurl:"
   Heavy duty drysuits for recreational, technical and commercial divers, made in Switzerland
 baseurl: '' # the subpath of your site, e.g. /blog
-url: 'https://www.sftech.ch' # the base hostname & protocol for your site, e.g. http://example.com
-# url: 'http://localhost:4000' # the base hostname & protocol for your site, e.g. http://example.com
+# url: 'https://www.sftech.ch' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'http://localhost:4000' # the base hostname & protocol for your site, e.g. http://example.com
 # url: 'http://192.168.1.40:4000' # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll

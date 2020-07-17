@@ -3,7 +3,7 @@ layout: heating
 
 lang: fr
 namespace: batteries
-permalink: /fr/batteries/
+permalink: /fr/ammonite/
 
 categories: heating
 

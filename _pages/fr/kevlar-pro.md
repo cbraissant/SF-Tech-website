@@ -10,10 +10,10 @@ categories: drysuit
 title: Neoprene Pro
 subtitle: La résistance par définition
 
-hero-image: /assets/img/jpg/1920/walz.jpg
+hero-image: walz.jpg
 hero-style: overlay
 
-image: assets/img/suits/kevlar.png
+image: kevlar.png
 
 highlights:
   - icon: shield.svg

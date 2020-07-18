@@ -10,10 +10,10 @@ categories: clothes
 title: Pantalon Polartec
 subtitle: Sous-vêtement haute performance
 
-hero-image: /assets/img/jpg/1920/undersuit-logo-0630.jpg
+hero-image: undersuit-logo-0630.jpg
 hero-style: overlay
 
-image: assets/img/suits/montage-pants.png
+image: montage-pants.png
 
 highlights:
   - icon: polartec.svg

@@ -10,10 +10,10 @@ categories: drysuit
 title: Neoprene Classic
 subtitle: Performance et efficacité
 
-hero-image: /assets/img/jpg/1920/cecile-surface.jpg
+hero-image: cecile-surface.jpg
 hero-style: overlay
 
-image: assets/img/suits/montage-classic.png
+image: montage-classic.png
 
 highlights:
   - icon: thermometer.svg

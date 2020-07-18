@@ -8,7 +8,7 @@ permalink: /fr/expertise/
 title: Domaine de compétences
 subtitle: Ce que l'on sait faire
 
-hero-image: /assets/img/jpg/1920/UTP-Ice.jpg
+hero-image: UTP-Ice.jpg
 hero-style:
 
 cat-header: "SF Tech est actif dans l'industrie de la plongée depuis plus de 10 ans. Notre but est de produire des combinaisons étanches de la meilleure qualitée possible. "

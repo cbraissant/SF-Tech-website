@@ -10,10 +10,10 @@ categories: drysuit
 title: Heating valve
 subtitle: The gateway to warmth
 
-hero-image: /assets/img/jpg/1920/heating-valve-0201.jpg
+hero-image: heating-valve-0201.jpg
 hero-style: overlay
 
-image: assets/img/suits/heating-valve-0460.png
+image: heating-valve-0460.png
 
 highlights:
   - icon: low-profile.svg

@@ -8,7 +8,7 @@ permalink: /en/expertise/
 title: Area of Expertise
 subtitle: Discover what we do
 
-hero-image: /assets/img/jpg/1920/UTP-Ice.jpg
+hero-image: UTP-Ice.jpg
 hero-style:
 
 cat-header: "SF Tech has been active in the diving industry for over 10 years. Our aim is to produce the best quality and the most reliable drysuit we can."

@@ -1,96 +1,84 @@
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
 
-  <!-- homepage META TAG -->
-  <title>
-    {% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}
-  </title>
-  <meta
-    name="description"
-    content="Heavy duty drysuits for recreational, technical and commercial divers, made in Switzerland"
-  />
-  <meta
-    name="keywords"
-    content="scuba, diving, drysuit, wetsuit, recreational, technical, commercial, neoprene, trilam, trilaminate, tnt, polartec"
-  />
-  <!-- ICONS -->
-  <link rel="icon" href="{{site.url}}{{site.baseurl}}/icons/icon-48x48.png" />
-  <link
-    rel="apple-touch-icon"
-    sizes="48x48"
-    href="{{site.url}}{{site.baseurl}}/icons/icon-48x48.png"
-  />
-  <link
-    rel="apple-touch-icon"
-    sizes="72x72"
-    href="{{site.url}}{{site.baseurl}}/icons/icon-72x72.png"
-  />
-  <link
-    rel="apple-touch-icon"
-    sizes="96x96"
-    href="{{site.url}}{{site.baseurl}}/icons/icon-96x96.png"
-  />
-  <link
-    rel="apple-touch-icon"
-    sizes="144x144"
-    href="{{site.url}}{{site.baseurl}}/icons/icon-144x144.png"
-  />
-  <link
-    rel="apple-touch-icon"
-    sizes="192x192"
-    href="{{site.url}}{{site.baseurl}}/icons/icon-192x192.png"
-  />
-  <link
-    rel="apple-touch-icon"
-    sizes="256x256"
-    href="{{site.url}}{{site.baseurl}}/icons/icon-256x256.png"
-  />
-  <link
-    rel="apple-touch-icon"
-    sizes="384x384"
-    href="{{site.url}}{{site.baseurl}}/icons/icon-384x384.png"
-  />
-  <link
-    rel="apple-touch-icon"
-    sizes="512x512"
-    href="{{site.url}}{{site.baseurl}}/icons/icon-512x512.png"
-  />
+    <!-- homepage META TAG -->
+    <title>
+        {% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}
+    </title>
+    <meta
+        name="description"
+        content="Heavy duty drysuits for recreational, technical and commercial divers, made in Switzerland"
+    />
+    <meta
+        name="keywords"
+        content="scuba, diving, drysuit, wetsuit, recreational, technical, commercial, neoprene, trilam, trilaminate, tnt, polartec"
+    />
+    <!-- ICONS -->
+    <link rel="icon" href="{{site.url}}{{site.baseurl}}/icons/icon-48x48.png" />
+    <link
+        rel="apple-touch-icon"
+        sizes="48x48"
+        href="{{site.url}}{{site.baseurl}}/icons/icon-48x48.png"
+    />
+    <link
+        rel="apple-touch-icon"
+        sizes="72x72"
+        href="{{site.url}}{{site.baseurl}}/icons/icon-72x72.png"
+    />
+    <link
+        rel="apple-touch-icon"
+        sizes="96x96"
+        href="{{site.url}}{{site.baseurl}}/icons/icon-96x96.png"
+    />
+    <link
+        rel="apple-touch-icon"
+        sizes="144x144"
+        href="{{site.url}}{{site.baseurl}}/icons/icon-144x144.png"
+    />
+    <link
+        rel="apple-touch-icon"
+        sizes="192x192"
+        href="{{site.url}}{{site.baseurl}}/icons/icon-192x192.png"
+    />
+    <link
+        rel="apple-touch-icon"
+        sizes="256x256"
+        href="{{site.url}}{{site.baseurl}}/icons/icon-256x256.png"
+    />
+    <link
+        rel="apple-touch-icon"
+        sizes="384x384"
+        href="{{site.url}}{{site.baseurl}}/icons/icon-384x384.png"
+    />
+    <link
+        rel="apple-touch-icon"
+        sizes="512x512"
+        href="{{site.url}}{{site.baseurl}}/icons/icon-512x512.png"
+    />
 
-  <link
-    rel="shortcut icon"
-    href="{{site.url}}{{site.baseurl}}/favicon.ico?"
-    type="image/x-icon"
-  />
-  <!-- pinterest -->
-  <meta name="p:domain_verify" content="b239718cc7f8817821e10f68966647d1" />
-  <link
-    rel="manifest"
-    href="{{site.url}}{{site.baseurl}}/manifest.webmanifest"
-  />
-  <meta name="theme-color" content="#ffed00" />
+    <link
+        rel="shortcut icon"
+        href="{{site.url}}{{site.baseurl}}/favicon.ico?"
+        type="image/x-icon"
+    />
+    <!-- pinterest -->
+    <meta name="p:domain_verify" content="b239718cc7f8817821e10f68966647d1" />
+    <link
+        rel="manifest"
+        href="{{site.url}}{{site.baseurl}}/manifest.webmanifest"
+    />
+    <meta name="theme-color" content="#ffed00" />
 
-  <!-- stylesheet -->
-  <link
-    rel="stylesheet"
-    href="{{site.url}}{{site.baseurl}}/assets/css/vendor/fontawesome.css"
-  />
-  <link
-    rel="stylesheet"
-    href="https://use.fontawesome.com/releases/v5.4.1/css/all.css"
-  />
-  <link
-    rel="stylesheet"
-    href="{{site.url}}{{site.baseurl}}/assets/css/vendor/aos.css"
-  />
-  <link
-    rel="stylesheet"
-    href="{{site.url}}{{site.baseurl}}/assets/css/main.css"
-  />
-  <link
-    rel="stylesheet"
-    href="{{site.url}}{{site.baseurl}}/assets/font/HelveticaNeueLTPro/HelveticaNeueLTPro.css"
-  />
-  <!-- <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css"> -->
+    <!-- stylesheet -->
+    <link
+        rel="stylesheet"
+        href="{{site.url}}{{site.baseurl}}/assets/css/vendor/aos.css"
+    />
+    <link
+        rel="stylesheet"
+        href="{{site.url}}{{site.baseurl}}/assets/css/main.css"
+    />
+    <!-- <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css"> -->
 </head>

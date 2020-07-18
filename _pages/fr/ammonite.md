@@ -10,10 +10,10 @@ categories: heating
 title: Batteries
 subtitle: Energie high-tech
 
-hero-image: /assets/img/jpg/1920/ammo-switch.jpg
+hero-image: ammo-switch.jpg
 hero-style: overlay
 
-image: assets/img/suits/batteries-montage.png
+image: batteries-montage.png
 
 specs:
   - name: Caractéristiques

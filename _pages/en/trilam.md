@@ -10,10 +10,10 @@ categories: drysuit
 title: Trilam Classic;
 subtitle: Lightness and durability
 
-hero-image: /assets/img/jpg/1920/sandra-3007a.jpg
+hero-image: sandra-3007a.jpg
 hero-style: overlay
 
-image: assets/img/suits/montage-trilam.png
+image: montage-trilam.png
 
 specs:
   - name: Characteristics

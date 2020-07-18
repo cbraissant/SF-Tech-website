@@ -10,10 +10,10 @@ categories: clothes
 title: Heizpads
 subtitle: Die Krönung der Modularität
 
-hero-image: /assets/img/jpg/1920/rollup_heathing.jpg
+hero-image: rollup_heathing.jpg
 hero-style: overlay
 
-image: assets/img/suits/heating-pads.png
+image: heating-pads.png
 
 highlights:
   - icon: pads.svg

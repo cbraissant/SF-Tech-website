@@ -10,10 +10,10 @@ categories: drysuit
 title: TNT CLASSIC
 subtitle: La nouvelle hybride
 
-hero-image: /assets/img/jpg/1920/sandra-3007a.jpg
+hero-image: sandra-3007a.jpg
 hero-style: overlay
 
-image: assets/img/suits/montage-tnt-classic.png
+image: montage-tnt-classic.png
 
 specs:
   - name: Caractéristiques

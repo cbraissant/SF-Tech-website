@@ -10,10 +10,10 @@ categories: clothing
 title: Polartec Pants
 subtitle: High Perfomance Undergarments
 
-hero-image: /assets/img/jpg/1920/undersuit-logo-0630.jpg
+hero-image: undersuit-logo-0630.jpg
 hero-style: overlay
 
-image: assets/img/suits/montage-pants.png
+image: montage-pants.png
 
 highlights:
   - icon: polartec.svg

@@ -9,10 +9,10 @@ categories: drysuit
 
 title: Special Forces
 subtitle: Bespoke drysuits for professionals
-hero-image: /assets/img/jpg/1920/commando-1632.jpg
+hero-image: commando-1632.jpg
 hero-style: overlay
 
-image: assets/img/suits/special-forces.png
+image: special-forces.png
 
 link-card:
   - classic

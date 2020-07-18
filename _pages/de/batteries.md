@@ -10,10 +10,10 @@ categories: heating
 title: Akkus
 subtitle: High Tech Energie
 
-hero-image: /assets/img/jpg/1920/batteries-0396.jpg
+hero-image: batteries-0396.jpg
 hero-style: overlay
 
-image: assets/img/suits/batteries-montage.png
+image: batteries-montage.png
 
 specs:
   - name: Eigenschaften

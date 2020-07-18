@@ -10,7 +10,7 @@ categories: drysuit
 title: Trilam Pro
 subtitle: Durability without compromise
 
-hero-image: /assets/img/jpg/1920/tom-trilam-2.jpg
+hero-image: tom-trilam-2.jpg
 hero-style: overlay
 
 image: 

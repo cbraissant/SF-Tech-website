@@ -11,10 +11,10 @@ title: TNT Pro
 subtitle: Le meilleur des deux mondes
 background: background6
 
-hero-image: /assets/img/jpg/1920/slawek-packo-v3.jpg
+hero-image: slawek-packo-v3.jpg
 hero-style: overlay
 
-image: assets/img/suits/montage-tnt.png
+image: montage-tnt.png
 
 specs:
   - name: Caractéristiques

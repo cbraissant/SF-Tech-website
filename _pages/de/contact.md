@@ -7,6 +7,6 @@ permalink: /de/contact/
 
 title: Kontaktiere uns
 subtitle: Nehmen wir Kontakt auf
-hero-image: /assets/img/jpg/1920/facade-1211.jpg
+hero-image: facade-1211.jpg
 hero-style: overlay
 ---

@@ -1,28 +1,28 @@
 {% assign card = site.data.cards.[include.card_type] %}
 
 <a
-  class="card"
-  href="{{site.url}}{{site.baseurl}}/{{page.lang}}{{ card.link }}"
+    class="card"
+    href="{{site.url}}{{site.baseurl}}/{{page.lang}}{{ card.link }}"
 >
-  <img
-    class="card-bg"
-    srcset="
-      {{site.url}}{{site.baseurl}}/assets/img/{{card.type}}/1024/{{card.img}}.{{card.type}} 1x,
-      {{site.url}}{{site.baseurl}}/assets/img/{{card.type}}/1680/{{card.img}}.{{card.type}} 2x
-    "
-    src="{{site.url}}{{site.baseurl}}/assets/img/{{card.type}}/1024/{{ card.img }}.{{card.type}}"
-    alt="{{ card.title }}"
-  />
-  <div class="card-inner">
-    {% if page.lang == 'en' %}
-    <div class="card-headline">{{ card.title_en }}</div>
-    <div class="card-sub">{{ card.sub_en }}</div>
-    {% endif %} {% if page.lang == 'fr' %}
-    <div class="card-headline">{{ card.title_fr }}</div>
-    <div class="card-sub">{{ card.sub_fr }}</div>
-    {% endif %} {% if page.lang == 'de' %}
-    <div class="card-headline">{{ card.title_de }}</div>
-    <div class="card-sub">{{ card.sub_de }}</div>
-    {% endif %}
-  </div>
+    <img
+        class="card-bg"
+        srcset="
+            {{site.url}}{{site.baseurl}}/assets/images/320/{{card.img}}.{{card.type}} 1x,
+            {{site.url}}{{site.baseurl}}/assets/images/800/{{card.img}}.{{card.type}} 2x
+        "
+        src="{{site.url}}{{site.baseurl}}/assets/iamges/800/{{ card.img }}.{{card.type}}"
+        alt="{{ card.title }}"
+    />
+    <div class="card-inner">
+        {% if page.lang == 'en' %}
+        <div class="card-headline">{{ card.title_en }}</div>
+        <div class="card-sub">{{ card.sub_en }}</div>
+        {% endif %} {% if page.lang == 'fr' %}
+        <div class="card-headline">{{ card.title_fr }}</div>
+        <div class="card-sub">{{ card.sub_fr }}</div>
+        {% endif %} {% if page.lang == 'de' %}
+        <div class="card-headline">{{ card.title_de }}</div>
+        <div class="card-sub">{{ card.sub_de }}</div>
+        {% endif %}
+    </div>
 </a>

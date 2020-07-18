@@ -11,10 +11,10 @@ categories: clothing
 title: Polartec Vest
 subtitle: Hochleistungsunterzieher
 
-hero-image: /assets/img/jpg/1920/undersuit-logo-0630.jpg
+hero-image: undersuit-logo-0630.jpg
 hero-style: overlay
 
-image: assets/img/suits/montage-vest.png
+image: montage-vest.png
 
 highlights:
 

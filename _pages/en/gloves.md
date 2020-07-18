@@ -10,10 +10,10 @@ categories: heating
 title: Heating gloves
 subtitle: Warm and comfortable
 
-hero-image: /assets/img/jpg/1920/gant-surface.jpg
+hero-image: gant-surface.jpg
 hero-style: overlay
 
-image: assets/img/suits/heating-gloves.png
+image: heating-gloves.png
 
 highlights:
   - icon: thermometer.svg

@@ -2,26 +2,26 @@
 # ==========================================================================
 
 classic:
-  title_en: Neoprene Classic
-  sub_en: Performance Meets Efficiency
-  title_fr: Neoprene Classic
-  sub_fr: Performance et efficacité
-  title_de: Neoprene Classic
-  sub_de: Leistungsfähigkeit trifft auf Effizienz
-  img: cecile-surface
-  type: jpg
-  link: /classic
+    title_en: Neoprene Classic
+    sub_en: Performance Meets Efficiency
+    title_fr: Neoprene Classic
+    sub_fr: Performance et efficacité
+    title_de: Neoprene Classic
+    sub_de: Leistungsfähigkeit trifft auf Effizienz
+    img: cecile-surface
+    type: jpg
+    link: /classic
 
 neoprene-pro:
-  title_en: Neoprene Pro
-  sub_en: Heavy duty by definition
-  title_fr: Neoprene Pro
-  sub_fr: La résistance par définition
-  title_de: Neoprene Pro
-  sub_de: Die Definition von Widerstandsfähigkeit
-  img: walz
-  type: jpg
-  link: /neoprene-pro
+    title_en: Neoprene Pro
+    sub_en: Heavy duty by definition
+    title_fr: Neoprene Pro
+    sub_fr: La résistance par définition
+    title_de: Neoprene Pro
+    sub_de: Die Definition von Widerstandsfähigkeit
+    img: walz
+    type: jpg
+    link: /neoprene-pro
 
 # trilam:
 #   title_en: Trilam Classic Kelvar
@@ -35,15 +35,15 @@ neoprene-pro:
 #   link: /trilam
 
 tnt-classic:
-  title_en: TNT Classic
-  sub_en: The new hybrid
-  title_fr: TNT Classic
-  sub_fr: La nouvelle hybride
-  title_de: TNT Classic
-  sub_de: Der neue Hybride
-  img: sandra-3007a
-  type: jpg
-  link: /tnt-classic
+    title_en: TNT Classic
+    sub_en: The new hybrid
+    title_fr: TNT Classic
+    sub_fr: La nouvelle hybride
+    title_de: TNT Classic
+    sub_de: Der neue Hybride
+    img: sandra-3007a
+    type: jpg
+    link: /tnt-classic
 
 # trilam-pro:
 #   title_en: Trilam Pro
@@ -57,140 +57,140 @@ tnt-classic:
 #   link: /trilam-pro
 
 tnt:
-  title_en: Titanium Neoprene Trilaminate
-  sub_en: The best of both world
-  title_fr: Titanium Neoprene Trilaminate
-  sub_fr: Le meilleur des deux mondes
-  title_de: Titanium Neoprene Trilaminate
-  sub_de: Das Beste aus beiden Welten
-  img: slawek-packo-v3
-  type: jpg
-  link: /tnt
+    title_en: Titanium Neoprene Trilaminate
+    sub_en: The best of both world
+    title_fr: Titanium Neoprene Trilaminate
+    sub_fr: Le meilleur des deux mondes
+    title_de: Titanium Neoprene Trilaminate
+    sub_de: Das Beste aus beiden Welten
+    img: slawek_packo
+    type: jpg
+    link: /tnt
 
 commando:
-  title_en: Special Forces
-  sub_en: Military grade drysuits
-  title_fr: Forces Speciales
-  sub_fr: Combinaisons de qualité militaire
-  title_de: Spezialeinheiten
-  sub_de: Anzüge in Militär-Qualität
-  img: commando-1632
-  type: jpg
-  link: /special-forces
+    title_en: Special Forces
+    sub_en: Military grade drysuits
+    title_fr: Forces Speciales
+    sub_fr: Combinaisons de qualité militaire
+    title_de: Spezialeinheiten
+    sub_de: Anzüge in Militär-Qualität
+    img: commando-1632
+    type: jpg
+    link: /special-forces
 
 # CLOTHES
 # ==========================================================================
 
 sweater:
-  title_en: Polartec Sweater
-  sub_en: High performance undergarments
-  title_fr: Pull Polartec
-  sub_fr: Vêtements haute performance
-  title_de: Polartec Pullover
-  sub_de: Hochwertige Unterzieher
-  img: undersuit-logo-0630
-  type: jpg
-  link: /sweater
+    title_en: Polartec Sweater
+    sub_en: High performance undergarments
+    title_fr: Pull Polartec
+    sub_fr: Vêtements haute performance
+    title_de: Polartec Pullover
+    sub_de: Hochwertige Unterzieher
+    img: undersuit-logo-0630
+    type: jpg
+    link: /sweater
 
 pants:
-  title_en: Polartec Pants
-  sub_en: High performance undergarments
-  title_fr: Pantalon Polartec
-  sub_fr: Vêtements haute performance
-  title_de: Polartec Hose
-  sub_de: Hochwertige Unterzieher
-  img: undersuit-logo-0630
-  type: jpg
-  link: /sweater
+    title_en: Polartec Pants
+    sub_en: High performance undergarments
+    title_fr: Pantalon Polartec
+    sub_fr: Vêtements haute performance
+    title_de: Polartec Hose
+    sub_de: Hochwertige Unterzieher
+    img: undersuit-logo-0630
+    type: jpg
+    link: /sweater
 
 vest:
-  title_en: Polartec Vest
-  sub_en: High performance undergarments
-  title_fr: Gilet Polartec
-  sub_fr: Vêtements haute performance
-  title_de: Polartec Weste
-  sub_de: Hochwertige Unterzieher
-  img: undersuit-logo-0630
-  type: jpg
-  link: /sweater
+    title_en: Polartec Vest
+    sub_en: High performance undergarments
+    title_fr: Gilet Polartec
+    sub_fr: Vêtements haute performance
+    title_de: Polartec Weste
+    sub_de: Hochwertige Unterzieher
+    img: undersuit-logo-0630
+    type: jpg
+    link: /sweater
 
 # HEATING
 # ==========================================================================
 pads:
-  title_en: Heating Pads
-  sub_en: Modularity at its best
-  title_fr: Pads chauffants
-  sub_fr: Modularité par excellence
-  title_de: Heiz-Pads
-  sub_de: Ausgezeichnete Modularität
-  img: rollup_heathing
-  type: jpg
-  link: /pads
+    title_en: Heating Pads
+    sub_en: Modularity at its best
+    title_fr: Pads chauffants
+    sub_fr: Modularité par excellence
+    title_de: Heiz-Pads
+    sub_de: Ausgezeichnete Modularität
+    img: rollup_heathing
+    type: jpg
+    link: /pads
 
 valve:
-  title_en: Heating valve
-  sub_en: The gateway to warmth
-  title_fr: Inflateur
-  sub_fr: The gateway to warmth
-  title_de: Heizeinlassventil
-  sub_de: Der Schlüssel zur Wärme
-  img: heating-valve-0201
-  type: jpg
-  link: /valve
+    title_en: Heating valve
+    sub_en: The gateway to warmth
+    title_fr: Inflateur
+    sub_fr: The gateway to warmth
+    title_de: Heizeinlassventil
+    sub_de: Der Schlüssel zur Wärme
+    img: heating-valve-0201
+    type: jpg
+    link: /valve
 
 gloves:
-  title_en: Heating gloves
-  sub_en: Warm and comfortable
-  title_fr: Gants chauffants
-  sub_fr: Chauds et confortable
-  title_de: Beheizte Handschuhe
-  sub_de: Warm und bequem
-  img: gant-surface
-  type: jpg
-  link: /gloves
+    title_en: Heating gloves
+    sub_en: Warm and comfortable
+    title_fr: Gants chauffants
+    sub_fr: Chauds et confortable
+    title_de: Beheizte Handschuhe
+    sub_de: Warm und bequem
+    img: gant-surface
+    type: jpg
+    link: /gloves
 
 batteries:
-  title_en: Batteries
-  sub_en: High Tech Energy
-  title_fr: Batteries
-  sub_fr: Energie high-tech
-  title_de: Akkus
-  sub_de: High Tech Energie
-  img: batteries-0396
-  type: jpg
-  link: /batteries
+    title_en: Batteries
+    sub_en: High Tech Energy
+    title_fr: Batteries
+    sub_fr: Energie high-tech
+    title_de: Akkus
+    sub_de: High Tech Energie
+    img: batteries-0396
+    type: jpg
+    link: /batteries
 
 # OTHER
 # ==========================================================================
 contact:
-  title_en: Contact us
-  sub_en: Let's get in touch
-  title_fr: Contactez-nous
-  sub_fr: Ecrivez-nous un message
-  title_de: Kontaktieren Sie uns
-  sub_de: schreiben Sie uns eine Nachricht
-  img: facade-1211
-  type: jpg
-  link: /contact
+    title_en: Contact us
+    sub_en: Let's get in touch
+    title_fr: Contactez-nous
+    sub_fr: Ecrivez-nous un message
+    title_de: Kontaktieren Sie uns
+    sub_de: schreiben Sie uns eine Nachricht
+    img: facade-1211
+    type: jpg
+    link: /contact
 
 materials:
-  title_en: Our materials
-  sub_en: High quality only
-  title_fr: Nos matériaux
-  sub_fr: Haute qualité uniquement
-  title_de: Unsere Materialien
-  sub_de: Nur die beste Qualität
-  img: material-0527
-  type: jpg
-  link: /materials
+    title_en: Our materials
+    sub_en: High quality only
+    title_fr: Nos matériaux
+    sub_fr: Haute qualité uniquement
+    title_de: Unsere Materialien
+    sub_de: Nur die beste Qualität
+    img: material-0527
+    type: jpg
+    link: /materials
 
 expertise:
-  title_en: Area of expertise
-  sub_en: What we can do
-  title_fr: Domaine d'expertise
-  sub_fr: Ce que l'on sait faire
-  title_de: Fachgebiete
-  sub_de: Was wir können
-  img: UTP-Ice
-  type: jpg
-  link: /expertise
+    title_en: Area of expertise
+    sub_en: What we can do
+    title_fr: Domaine d'expertise
+    sub_fr: Ce que l'on sait faire
+    title_de: Fachgebiete
+    sub_de: Was wir können
+    img: UTP-Ice
+    type: jpg
+    link: /expertise

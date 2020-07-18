@@ -9,6 +9,7 @@
 // npm install <package-name> --save-dev
 const gulp = require('gulp');
 const browserSync = require('browser-sync').create();
+const gulpClean = require('gulp-clean');
 
 // Jekyll
 const cp = require('child_process');
@@ -64,6 +65,12 @@ function cleanJekyll(cb) {
         cb(err);
     });
 }
+exports.delete = cleanJekyll;
+
+function cleanFiles(cb) {
+    return gulp.src('./_site/**/*.{html,js,css}').pipe(gulpClean());
+}
+exports.clean = cleanFiles;
 
 /************************************
         CSS
@@ -85,10 +92,13 @@ function buildSass(cb) {
 }
 
 function copyCss(cb) {
-    return gulp.src('./_src/css/**/*.js').pipe(gulp.dest('./_site/assets/css'));
+    return gulp
+        .src('./_src/css/**/*.css')
+        .pipe(gulp.dest('./_site/assets/css'));
 }
 
-exports.css = gulp.parallel(copyCss, buildSass);
+const buildCss = gulp.parallel(copyCss, buildSass);
+exports.css = buildCss;
 
 /************************************
         JAVASCRIPT
@@ -120,7 +130,7 @@ exports.serve = startBrowser;
 // Copy the original images to the corresponding site folder (SVG included)
 function copyOriginalImages(cb) {
     return gulp
-        .src('./_images/**/*.{jpg,jpeg,png,svg}')
+        .src('./_images/**/*.{jpg,jpeg,png,svg,JPG}')
         .pipe(gulpNewer('./_site/assets/images/original'))
         .pipe(gulp.dest('./_site/assets/images/original'));
 }
@@ -136,7 +146,7 @@ var resizeImageTasks = [];
     // create the task
     gulp.task(resizeImageTask, function () {
         return gulp
-            .src('./_site/assets/images/original/*.{jpg,jpeg,png}')
+            .src('./_site/assets/images/original/*.{jpg,jpeg,png,JPG}')
             .pipe(gulpNewer('./_site/assets/images/' + size + '/'))
             .pipe(
                 gulpResizer({
@@ -199,7 +209,7 @@ function watchImages(cb) {
 }
 
 exports.default = gulp.series(
-    gulp.series(buildImages, buildSass, buildJavascript, buildJekyll),
+    gulp.series(buildImages, buildCss, buildJavascript, buildJekyll),
     gulp.parallel(
         startBrowser,
         watchImages,

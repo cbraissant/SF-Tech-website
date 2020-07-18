@@ -9,7 +9,7 @@ categories: drysuit
 
 title: TNT Pro
 subtitle: Das Beste aus beiden Welten
-hero-image: slawek-packo-v3.jpg
+hero-image: slawek_packo.jpg
 hero-style: overlay
 
 image: montage-tnt.png

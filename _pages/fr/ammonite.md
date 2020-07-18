@@ -48,11 +48,11 @@ specs:
 
 highlights:
   - icon: battery-full.svg
-    title: Témoin de charge à LEDs
+    title: Témoin de charge
     sub: La charge de la batterie peut être directement vérifiée sur la tête de la batterie
   - icon: double-eo.svg
     title: Double sortie
-    sub: Permet de connecter une chauffage et une lampe supplémentaire
+    sub: Permet de connecter un chauffage et une lampe supplémentaire
 
 link-card:
   - pads

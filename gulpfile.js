@@ -83,7 +83,12 @@ function buildSass(cb) {
             .pipe(gulp.dest('./_site/assets/css'))
     );
 }
-exports.sass = buildSass;
+
+function copyCss(cb) {
+    return gulp.src('./_src/css/**/*.js').pipe(gulp.dest('./_site/assets/css'));
+}
+
+exports.css = gulp.parallel(copyCss, buildSass);
 
 /************************************
         JAVASCRIPT
@@ -112,13 +117,14 @@ exports.serve = startBrowser;
         IMAGES
  ************************************/
 
-// Copy the original images to the corresponding site folder
+// Copy the original images to the corresponding site folder (SVG included)
 function copyOriginalImages(cb) {
     return gulp
-        .src('./_images/**/*.{jpg, jpeg, png}')
+        .src('./_images/**/*.{jpg,jpeg,png,svg}')
         .pipe(gulpNewer('./_site/assets/images/original'))
         .pipe(gulp.dest('./_site/assets/images/original'));
 }
+exports.copyImages = copyOriginalImages;
 
 // create an array of tasks
 var resizeImageTasks = [];
@@ -130,7 +136,7 @@ var resizeImageTasks = [];
     // create the task
     gulp.task(resizeImageTask, function () {
         return gulp
-            .src('./_site/assets/images/original/*.{jpg, jpeg, png}')
+            .src('./_site/assets/images/original/*.{jpg,jpeg,png}')
             .pipe(gulpNewer('./_site/assets/images/' + size + '/'))
             .pipe(
                 gulpResizer({
@@ -146,7 +152,19 @@ var resizeImageTasks = [];
     resizeImageTasks.push(resizeImageTask);
 });
 
-const buildImages = gulp.series(copyOriginalImages, resizeImageTasks);
+// Copy the icons
+function copyIcons(cb) {
+    return gulp
+        .src('./_src/icons/*.{jpg,jpeg,png,svg}')
+        .pipe(gulpNewer('./_site/icons/'))
+        .pipe(gulp.dest('./_site/icons/'));
+}
+
+const buildImages = gulp.series(
+    copyOriginalImages,
+    copyIcons,
+    resizeImageTasks
+);
 exports.images = buildImages;
 
 /************************************

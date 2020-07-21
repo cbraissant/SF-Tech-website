@@ -13,6 +13,32 @@ subtitle: "Modern Akku<br>für Heizsysteme"
 hero-image: ammo-switch.jpg
 hero-style: overlay
 
+burntime:
+  - text: Heizpads (70%)
+    percentage: 83.3
+    time: 10h00
+    color: "#ff9f00"
+  - text: Heizhandschuhe (70%)
+    percentage: 91.6 
+    time: 11h00
+    color: "#de521a"
+  - text: Pads + Handschue (70%)
+    percentage: 43.75 
+    time: 5h15
+    color: "#BD2D36"
+  - text: Heizpads (100%)
+    percentage: 58.3
+    time: 7h00
+    color: "#ff9f00"
+  - text: Heizhandschuhe (100%)
+    percentage: 64.5 
+    time: 7h45
+    color: "#de521a"
+  - text: Pads + Handschue (100%)
+    percentage: 30.5  
+    time: 3h40
+    color: "#BD2D36"
+
 image: ammo-accu.png
 
 specs:

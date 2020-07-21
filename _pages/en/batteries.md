@@ -13,6 +13,32 @@ subtitle: "Modern power supply<br>for heating systems"
 hero-image: ammo-switch.jpg
 hero-style: overlay
 
+burntime:
+  - text: Heating pads (70%)
+    percentage: 83.3
+    time: 10h00
+    color: "#ff9f00"
+  - text: Heating gloves (70%)
+    percentage: 91.6 
+    time: 11h00
+    color: "#de521a"
+  - text: Pads + Gloves (70%)
+    percentage: 43.75 
+    time: 5h15
+    color: "#BD2D36"
+  - text: Heating pads (100%)
+    percentage: 58.3
+    time: 7h00
+    color: "#ff9f00"
+  - text: Heating gloves (100%)
+    percentage: 64.5 
+    time: 7h45
+    color: "#de521a"
+  - text: Pads + Gloves (100%)
+    percentage: 30.5  
+    time: 3h40
+    color: "#BD2D36"
+
 image: ammo-accu.png
 
 specs:

@@ -22,7 +22,7 @@ burntime:
     percentage: 91.6 
     time: 11h00
     color: "#de521a"
-  - text: Pads et gants (70%)
+  - text: Pads + Gants (70%)
     percentage: 43.75 
     time: 5h15
     color: "#BD2D36"
@@ -34,7 +34,7 @@ burntime:
     percentage: 64.5 
     time: 7h45
     color: "#de521a"
-  - text: Pads et gants (100%)
+  - text: Pads + Gants (100%)
     percentage: 30.5  
     time: 3h40
     color: "#BD2D36"

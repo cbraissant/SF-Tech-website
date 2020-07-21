@@ -8,55 +8,58 @@ permalink: /fr/batteries/
 categories: heating
 
 title: Batteries
-subtitle: Energie high-tech
+subtitle: "Alimentation moderne<br>pour systèmes chauffants"
 
-hero-image: batteries-0396.jpg
+hero-image: ammo-switch.jpg
 hero-style: overlay
 
-image: batteries-montage.png
+image: ammo-accu.png
 
 specs:
   - name: Caractéristiques
     id: characteristics
     data:
-    - Deux tailles et capacités différentes (23.8 Ah / 13.6 Ah)
-    - Deux versions de tête (standard / sidemount)
-    - Boitier en fibre de Carbone
-    - Tête fabriquée en Delrin
-    - Mechanisme de vérouillage à ressort
-    - Témoin de charge à Led sur la batterie
+    - "Deux versions: 100m ou 200m (SPECIAL)"
+    - Boitier en aluminium anodisé et Delrin®
+    - Interupteur magnetique à plusieurs positions (OFF / 70% / 100%)
+    - Deuxième sortie pour tête de lampe
+    - Système de protection du connecteur E/O
+    - Témoin à LED d'indication de la charge de la batterie
+    - Certifiée UN/DOT 38.3 pour le transport en avion
     - Certifiée CE
   - name: Données Techniques
     id: data
     data:
     - "<strong>Type de batterie:</strong> Lithium Ion"
-    - "<strong>Tension nominale:</strong> 11.1 V"
-    - "<strong>>Capacité:</strong> 23.8 Ah / 13.6 Ah"
-    - "<strong>Puissance de sortie max:</strong> 175 W / 100 W"
-    - "<strong>Courrant de charge max:</strong> 5.5 A / 3.0 A"
-    - "<strong>Profondeur d'utilisation max:</strong> 200m"
-    - "<strong>Température d'utilisation:</strong> -20°C to 60°C"
-    - "<strong>Longueur:</strong> 270mm / 185mm"
-    - "<strong>Diamètre:</strong> 61mm"
-    - "<strong>Poids (cable compris):</strong> 1510g / 1040g"
+    - "<strong>Tension nominale:</strong> 10.95 V"
+    - "<strong>Capacité:</strong> 23.45 Ah"
+    - "<strong>Temps de charge:</strong> ~8h00"
+    - "<strong>Puissance maximale délivrée:</strong> 200W"
+    - "<strong>Profondeur d'utilisation max:</strong> 100m / 200m (SPECIAL)"
+    - "<strong>Température d'utilisation:</strong> -10°C to 40°C"
+    - "<strong>Longueur:</strong> 262mm"
+    - "<strong>Diamètre:</strong> 66mm"
+    - "<strong>Poids:</strong> 1610g / 1800g"
+    - "<strong>Poids apparent dans l'eau:</strong> 715g / 1100g"
     - "<strong>Autonomie:</strong><br>
-        Pads chauffants uniquement: 7h15 / 4h00<br>
-        Gants chauffants uniquement: 8h00 / 4h30<br>
-        Pads et gants chauffants: 3h45 / 2h00"
+        Pads chauffants uniquement (40W): 7h00 (100%) / 10h00 (70%)<br>
+        Gants chauffants uniquement (36W): 7h45 (100%) / 11h00 (70%) <br>
+        Pads et gants chauffants (76W): 3h40 (100%) / 5h15 (70%) <br>
+        * Valeurs indicatives, peuvent varier suivant la température et l'usure de la batterie"
 
 highlights:
-  - icon: fiber.svg
-    title: Boitier en fibre de carbone
-    sub: Solide, léger et durable
   - icon: battery-full.svg
-    title: Témoin de charge à 5 LEDs
-    sub: La charge de la batterie peut être directement vérifiée sur la batterie
-  - icon: batteries.svg
-    title: Plusieurs configurations
-    sub: Choisis la parmis 4 configurations différentes
-  - icon: finger-push.svg
-    title: Mécanisme de vérouillage simple et efficace
-    sub: Un système de vérouillage à ressort permet d'ouvrir la batterie facilement
+    title: Témoin de charge
+    sub: La charge de la batterie peut être directement vérifiée sur la tête de la batterie
+  - icon: double-eo.svg
+    title: Double sortie
+    sub: Permet de connecter un chauffage ainsi qu'une lampe supplémentaire
+  - icon: switch.svg
+    title: Réglage de puissance
+    sub: Intensité de sortie réglable à l'aide du switch magnétique
+  - icon: depth.svg
+    title: 100m / 200m
+    sub: Disponible en deux configurations, suivant la profondeur maximale d'utilisation souhaitée
 
 link-card:
   - pads
@@ -65,10 +68,14 @@ link-card:
   - valve
   
 ---
-Compacte, technologie haute gamme et matériels de qualité. La corps de la batterie est réalisé en fibre de carbone afin de réduire le volume et le poids apparent de la batterie.
+Alimentation moderne pour système chauffant. Simplicité, utilisation intuitive et performances fiables.
 
-Deux tailles différentes de batterie sont disponible: La Standard ayant une capacité de 23.8 Ah et la Mini de 13.6 Ah. Chaque batterie est constituée de 3 cellules Lithium-Ion en série, délivrant une tension nominale de sortie de 11.1 V (12.6 V à pleine charge). La puissance maximale est réspectivement de 175 Watt et 100 Watt. Sur le dessus du pack batterie, un témoin de charge à 5 LED's permet à l'utilisateur de contrôler l'état de la batterie.
+Facile d'utilisation - Un interupteur magnétique à trois positions permet de régler l'intensité de la batterie sous l'eau. La forme et position de l'interupteur le rendent accessible même en portant des gants épais. Une deuxième sortie sur le dessus de la batterie permet de connecter une lampe étanche. La charge de la batterie se fait par le connecteur supplémentaire sur le dessus de la tête. La boitier reste fermé en permanance garantissant une étanchéité longue durée.
 
-La tête amovible est fabriquée en Delrin, un matériau robuste et solide. La mécanisme de fixation consiste en un verrou à ressort sur le côté du boitier, et l'étanchéité est garantie à l'aide de deux joint thoriques radiaux. La connexion du cable E/O est renforcé d'un presse-étoupe en métal à sa base.
+Electronique intelligente - Un témoin à LED sur le dessus de la tête indique le status et le niveau de charge de la batterie. L'électronique de la tête reconnait automatiquement quand le câble E/O est déconneté et coupe la tension de sortie, protégeant le connecteur de l'electrolyse. Le courant est automatiquement rétabli lorsque le chauffage est reconnecté.
 
-La tête de la batterie est disponible en version droite ou en version sidemount. La version sidemount offre une sortie coudée à 90° afin d'optimiser le routage du câble lorsque la batterie est positionnée horizontalement sur une sous-cutale.
+Performances - La batterie est disponible en deux versions: La version standard ayant une profondeur maximale d'utilisation de 100m, et la version SPECIAL certifiée jusqu'à 200m. Dans les deux versions, le boitier et la tête sont fabriqués est en aluminium anodisé et en Delrin®. Qualité, durabilité et finitions irréprochables! 
+
+
+
+

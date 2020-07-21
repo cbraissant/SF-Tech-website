@@ -8,55 +8,58 @@ permalink: /de/batteries/
 categories: heating
 
 title: Akkus
-subtitle: High Tech Energie
+subtitle: "Modern Akku<br>für Heizsysteme"
 
-hero-image: batteries-0396.jpg
+hero-image: ammo-switch.jpg
 hero-style: overlay
 
-image: batteries-montage.png
+image: ammo-accu.png
 
 specs:
   - name: Eigenschaften
     id: characteristics
     data:
-    - Zwei unterschiedliche Grössen und Leistungen (23,8 Ah / 13,6 Ah)
-    - Zwei Kopfversionen (Standard/ Sidemount)
-    - Karbonkörper
-    - Aus Delrin hergestellter Kopf
-    - Riegel mit Sicherungsfeder
-    - Ladeanzeige auf dem Batteriepack
+    - "Zwei versionen: 100m or 200m (SPECIAL)"
+    - Gehäuse aus hart eloxiertem Aluminium und Delrin®
+    - Magnetschalter mit drei Positionen (OFF / 70% / 100%)
+    - Zweiter Ausgang für Tauchlicht
+    - Schutzsystem für das E/O-Kabel 
+    - LED-Anzeige für Akkustatus und Ladezustand
+    - UN/DOT 38.3 konform für den Transport mit dem Flugzeug
     - CE zertifiziert
   - name: Technische Daten
     id: data
     data:
     - "<strong>Batterieart:</strong> Lithium-Ionen"
-    - "<strong>Nominalspannung:</strong> 11.1 V"
-    - "<strong>Kapazität:</strong> 23.8 Ah / 13.6 Ah"
-    - "<strong>Maximale Ausgangsleistung:</strong> 175 W / 100 W"
-    - "<strong>Maximaler Ladestrom:</strong> 5.5 A / 3.0 A"
-    - "<strong>Maximale Einsatztiefe:</strong> 200m"
-    - "<strong>Einsatztemperatur:</strong> -20°C to 60°C"
-    - "<strong>Länge:</strong> 270mm / 185mm"
-    - "<strong>Durchmesser:</strong> 61mm"
-    - "<strong>Gewicht (inklusive Kabel):</strong> 1510g / 1040g"
-    - "<strong>Betriebsdauer (max):</strong><br>
-        Nur Pads : 7h15 / 4h00<br>
-        Nur Handschuhe : 8h00 / 4h30<br>
-        Pads und Handschuhe: 3h45 / 2h00"
+    - "<strong>Nominalspannung:</strong> 10.95 V"
+    - "<strong>Kapazität:</strong> 23.45 Ah"
+    - "<strong>Ladezeit:</strong> ~8h00"
+    - "<strong>Maximale Ausgangsleistung:</strong> 200W"
+    - "<strong>Maximale Einsatztiefe:</strong> 100m / 200m (SPECIAL)"
+    - "<strong>Einsatztemperatur:</strong> -10°C to 40°C"
+    - "<strong>Länge:</strong> 262mm"
+    - "<strong>Durchmesser:</strong> 66mm"
+    - "<strong>Gewicht:</strong> 1610g / 1800g"
+    - "<strong>Gewicht im Wasser:</strong> 715g / 1100g"
+    - "<strong>Brenndauer:</strong><br>
+        Heizpads (40W): 7h00 (100%) / 10h00 (70%)<br>
+        Heizhandschuhe (36W): 7h45 (100%) / 11h00 (70%) <br>
+        Heizpads und Heizhandschuhe (76W): 3h40 (100%) / 5h15 (70%) <br>
+        * Richtwerte. Kann je nach Temperatur und Batterieverschleiß variieren"
 
 highlights:
-  - icon: fiber.svg
-    title: Karbonfaser Behälter
-    sub: Stabiles, leichtes und langlebiges Material
   - icon: battery-full.svg
-    title: 5-fach LED Ladeanzeige
-    sub: Der Ladezustand kann direkt auf der Batterie abgelesen werden
-  - icon: batteries.svg
-    title: Verschiedene Konfigurationen
-    sub: Wähle die für Dich Beste aus 4 verfügbaren Optionen aus
-  - icon: finger-push.svg
-    title: Einfacher Anschlussmechanismus
-    sub: Ein Federverriegelungssystem ermöglicht es, die Batterie einfach zu verschliessen
+    title: LED-Anzeige
+    sub: Informationen zum Akkustatus und zum Ladezustand
+  - icon: double-eo.svg
+    title: Zwei Ausgang
+    sub: Zweiter Ausgang für Tauchlicht
+  - icon: switch.svg
+    title: Einstellbare Leistung
+    sub: Magnetschalter zur Einstellung der Ausgangsleistung
+  - icon: depth.svg
+    title: 100m / 200m
+    sub: Verfügbar in zwei Konfigurationen, abhängig von der gewünschten maximalen Einsatztiefe
 
 link-card:
   - pads
@@ -65,10 +68,10 @@ link-card:
   - valve
   
 ---
-Kompakte, hochwertige Technologie und hochwertige Materialien. Der Körper der Batterie ist aus Karbonfaser hergestellt, um das Volumen und das Gewicht zu reduzieren.
+Modernes Akku für Heizsysteme. Einfachheit, intuitive Bedienung und zuverlässige Leistung.
 
-Es sind zwei unterschiedliche Batteriegrössen verfügbar: die Standardbatterie mit 23,8 Ah und die Mini mit 13,6 Ah. Jede der Batterien besteht aus 3 in Reihe geschalteten Lithium-Ionen-Zellen, die eine Ausgangsspannung von 11,1 V liefern (maximal 12,6 V bei voller Ladung). Die Maximalen Ausgangsleistungen sind jeweils 175 W und 100 W. Auf der Oberseite des Batteriepacks befindet sich eine 5-Fach LED-Ladeanzeige, die es dem Benutzer ermöglicht den Ladestatus der Batterie zu prüfen.
+Einfach zu bedienen - Mit einem dreistelligen Magnetschalter können Sie die Batterieintensität unter Wasser einstellen. Die Form und Position des Schalters machen ihn auch mit dicken Handschuhen zugänglich. Über eine zweite Steckdose oben am Akku können Sie ein wasserdichtes Licht anschließen. Der Akku wird über den zusätzlichen Anschluss oben am Kopf aufgeladen. Das Gehäuse bleibt dauerhaft geschlossen, um eine langfristige Abdichtung zu gewährleisten.
 
-Der abnehmbare Kopf ist aus Delrin gefertigt – ein stabiles und zuverlässiges Material. Der Verschlussmechanismus an der Seite des Gehäuses besteht aus einem Riegel mit einer Sicherungsfeder und zwei O-Ringe garantieren die Dichtheit. Das E/O-Kabel ist an der Basis mit einer Metallspirale gegen Abknicken gesichert.
+Intelligente Elektronik - Eine LED oben am Kopf zeigt den Batteriestatus und den Ladezustand an. Die Elektronik im Kopf erkennt automatisch, wenn das E / O-Kabel abgezogen wird, und unterbricht die Ausgangsspannung, um den Stecker vor Elektrolyse zu schützen. Die Stromversorgung wird automatisch wiederhergestellt, wenn das Heizsystem wieder angeschlossen wird.
 
-Der Kopf ist als Standard Version (gerade) oder als Sidemount Version erhältlich. Die Sidemount Version bietet einen 90° Abgang, der den E/O-Kabelverlauf bei einer Montage am Schrittgurt verbessert.
+Leistung - Der Akku ist in zwei Versionen erhältlich: Die Standardversion mit einer maximalen Betriebstiefe von 100 m und die SPECIAL-Version mit einer Zertifizierung von bis zu 200 m. In beiden Versionen bestehen das Gehäuse und der Kopf aus eloxiertem Aluminium und Delrin®. Qualität, Langlebigkeit und einwandfreie Oberflächen!

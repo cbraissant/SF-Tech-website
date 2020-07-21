@@ -8,55 +8,58 @@ permalink: /en/batteries/
 categories: heating
 
 title: Batteries
-subtitle: High Tech Energy
+subtitle: "Modern power supply<br>for heating systems"
 
-hero-image: batteries-0396.jpg
+hero-image: ammo-switch.jpg
 hero-style: overlay
 
-image: batteries-montage.png
+image: ammo-accu.png
 
 specs:
   - name: Characteristics
     id: characteristics
     data:
-    - Two different sizes and capacities (23.8 Ah / 13.6 Ah)
-    - Two heads versions (standard / sidemount)
-    - Carbon case
-    - Delrin machined head
-    - Spring loaded lock pin
-    - Fuel gauge indicator on the battery pack
-    - CE certified
+    - "Two versions: 100m or 200m (SPECIAL)"
+    - Casing in hard anodised aluminium and Delrin®
+    - Multi-position magnetic switch (OFF / 70% / 100%)
+    - Second output available for umbilical light
+    - Protective system for the E/O cord 
+    - LED indicator for the battery status and charge level
+    - UN/DOT 38.3 compliant for transport by plane
+    - CE Certification
   - name: Technical Data
     id: data
     data:
     - "<strong>Battery type:</strong> Lithium Ion"
-    - "<strong>Nominal voltage:</strong> 11.1 V"
-    - "<strong>Capacity:</strong> 23.8 Ah / 13.6 Ah"
-    - "<strong>Maximal output power:</strong> 175 W / 100 W"
-    - "<strong>Maximal current load:</strong> 5.5 A / 3.0 A"
-    - "<strong>Maximum operating depth:</strong> 200m"
-    - "<strong>Operating temperature:</strong> -20°C to 60°C"
-    - "<strong>Length:</strong> 270mm / 185mm"
-    - "<strong>Diameter:</strong> 61mm"
-    - "<strong>Weight (cable included):</strong> 1510g / 1040g"
-    - "<strong>Autonomy (max):</strong><br>
-        Pads only: 7h15 / 4h00<br>
-        Gloves only: 8h00 / 4h30<br>
-        Pads and gloves: 3h45 / 2h00"
+    - "<strong>Nominal voltage:</strong> 10.95 V"
+    - "<strong>Capacity:</strong> 23.45 Ah"
+    - "<strong>Charging time:</strong> ~8h00"
+    - "<strong>Maximum output power:</strong> 200W"
+    - "<strong>Maximum operating depth:</strong> 100m / 200m (SPECIAL)"
+    - "<strong>Operating temperature:</strong> -10°C to 40°C"
+    - "<strong>Length:</strong> 262mm"
+    - "<strong>Diameter:</strong> 66mm"
+    - "<strong>Weight:</strong> 1610g / 1800g"
+    - "<strong>Weight in water:</strong> 715g / 1100g"
+    - "<strong>Operating time:</strong><br>
+        Heating pads (40W): 7h00 (100%) / 10h00 (70%)<br>
+        Heating gloves (36W): 7h45 (100%) / 11h00 (70%) <br>
+        Heating pads and gloves (76W): 3h40 (100%) / 5h15 (70%) <br>
+        * Indicative values. May vary depending on the temperature and battery wear"
 
 highlights:
-  - icon: fiber.svg
-    title: Carbon fiber canister
-    sub: Strong, lightweight and durable material
   - icon: battery-full.svg
-    title: 5 LEDs fuel gauge
-    sub: The charge of the battery can be checked directly on the battery pack
-  - icon: batteries.svg
-    title: Multiple configurations
-    sub: Choose the best option for your need from 4 different configurations available
-  - icon: finger-push.svg
-    title: Simple locking mechanism
-    sub: A spring loaded push pin locks the head to the canister
+    title: Led indicator
+    sub: The battery status and charge level can be check dirrectly on the head
+  - icon: double-eo.svg
+    title: Dual output
+    sub: Second output available for umbilical light
+  - icon: switch.svg
+    title: Adjustable power
+    sub: Magnetic switch to adjsut the output power
+  - icon: depth.svg
+    title: 100m / 200m
+    sub: Available in two configurations, depending on the maximum operating depth desired
 
 link-card:
   - pads
@@ -65,10 +68,14 @@ link-card:
   - valve
   
 ---
-Compact, high technology and best quality materials. The main body of the battery is realized in carbon fiber to reduce the volume and apparent weight of the battery.
+Modern power supply for heating systems. Simplicity, intuitive operation and reliable performances.
 
-Two different battery sizes are available: the Standard having a capacity of 23.8 Ah and the Mini of 13.6 Ah. Each battery consists of three Lithium-Ion cells in series providing an output voltage of 11.1V (maximum 12.6V at full load). The maximum output powers are respectively 175W and 100W. On top of the battery pack itself, a 5 LEDs fuel gauge allows the user to check the charge of the battery.
+Easy to use - A three-position magnetic switch allows you to adjust the battery intensity underwater. The shape and position of the switch make it accessible even when wearing thick gloves. A second outlet on the top of the battery allows you to connect a waterproof lamp. The battery is charged through the additional connector on the top of the head. The case remains permanently closed guaranteeing long-term waterproofing.
 
-The removable head in manufactured in Delrin, a strong and reliable material. The locking mechanism is realised with a spring-loaded pin on the side of the body, and watertightness is guaranteed by two radial O-rings. The E/O cable is reinforced with a metal cable gland at the base. 
+Smart Electronics - An LED  on the top of the head indicates battery status and charge level. The electronics in the head automatically recognize when the E/O cable is disconnected and cut off the output voltage, protecting the connector from electrolysis. Power is automatically restored when the heating system is reconnected.
 
-The head is available is standard straight version or sidemount version. The sidemount version offers a 90° output to optimize the wiring of the E/O cable when the battery is mounted on the crotch strap.
+Performance - The battery is available in two versions: The standard version with a maximum operating depth of 100m, and the SPECIAL version certified up to 200m. In both versions, the housing and the head are made of anodized aluminum and Delrin®. Quality, durability and irreproachable finishes!
+
+
+
+

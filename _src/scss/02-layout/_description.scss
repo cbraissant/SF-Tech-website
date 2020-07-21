@@ -2,62 +2,62 @@
 // ==========================================================================
 
 .description-section {
-  padding: 0;
-  @include mq(laptop) {
-    display: flex;
-    flex-direction: row-reverse;
-    height: 100%;
-  }
+    padding: 0;
+    @include mq(laptop) {
+        display: flex;
+        flex-direction: row-reverse;
+        height: 100%;
+    }
 }
 
 .description-half {
-  @include mq(laptop) {
-    width: 50vw;
-    display: flex;
-    flex: 1;
-  }
+    @include mq(laptop) {
+        width: 50%;
+        display: flex;
+        flex: 1;
+    }
 }
 .description-inner {
-  padding: $spacing 0;
-  @include mq(laptop) {
-    margin-left: auto;
-    width: 100%;
-    max-width: 0.5 * $max-width;
-  }
+    padding: $spacing 0;
+    @include mq(laptop) {
+        margin-left: auto;
+        width: 100%;
+        max-width: 0.5 * $max-width;
+    }
 }
 
 .description-data {
-  max-width: 35rem;
-  margin: auto;
-  padding: $padding;
-  @include mq(laptop) {
-    margin-left: 0;
-  }
+    max-width: 35rem;
+    margin: auto;
+    padding: $padding;
+    @include mq(laptop) {
+        margin-left: 0;
+    }
 }
 
 .description-picture {
-  min-height: 50vh;
-  @include mq(laptop) {
-    min-height: 0;
-  }
-  width: 100%;
-  background-size: cover;
-  background-position: center;
+    min-height: 50vh;
+    @include mq(laptop) {
+        min-height: 0;
+    }
+    width: 100%;
+    background-size: cover;
+    background-position: center;
 }
 
 .description-image {
-  height: 50vh;
-  width: 100%;
-  object-fit: cover;
-  @include mq(laptop) {
-    float: left;
-    width: 50vw;
-    height: 100%;
-  }
+    height: 50vh;
+    width: 100%;
+    object-fit: cover;
+    @include mq(laptop) {
+        float: left;
+        width: 50vw;
+        height: 100%;
+    }
 }
 
 .description-title {
-  border-bottom: 1px solid $yellow;
-  padding-bottom: $padding;
-  margin-bottom: $padding;
+    border-bottom: 1px solid $yellow;
+    padding-bottom: $padding;
+    margin-bottom: $padding;
 }

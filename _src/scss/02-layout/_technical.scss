@@ -2,77 +2,77 @@
 // ==========================================================================
 
 .technical-section {
-  padding-top: $spacing;
-  padding-bottom: $spacing;
-  @include mq(tablet) {
-    padding-top: 2 * $spacing;
-    padding-bottom: 2 * $spacing;
-  }
+    padding-top: $spacing;
+    padding-bottom: $spacing;
+    @include mq(tablet) {
+        padding-top: $spacing;
+        padding-bottom: $spacing;
+    }
 
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  // parallax background for laptop only
-  @include mq(laptop) {
-    background-attachment: fixed;
-  }
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    // parallax background for laptop only
+    @include mq(laptop) {
+        background-attachment: fixed;
+    }
 }
 
 .technical-wrapper {
-  @include mq(laptop) {
-    display: flex;
-    flex-direction: row;
-    height: 100%;
-  }
+    @include mq(laptop) {
+        display: flex;
+        flex-direction: row;
+        height: 100%;
+    }
 }
 
 .technical-half {
-  @include mq(laptop) {
-    display: inline-block;
-    width: 50%;
-    display: flex;
-    flex: 1;
-  }
+    @include mq(laptop) {
+        display: inline-block;
+        width: 50%;
+        display: flex;
+        flex: 1;
+    }
 }
 
 .technical-inner {
-  max-width: 35rem;
-  margin: 0 auto;
+    max-width: 35rem;
+    margin: 0 auto;
 }
 
 @include mq(laptop) {
-  .technical-half:nth-child(odd) .technical-inner {
-    margin-left: 0;
-    margin-right: auto;
-  }
-  .technical-half:nth-child(even) .technical-inner {
-    margin-left: auto;
-    margin-right: 0;
-  }
+    .technical-half:nth-child(odd) .technical-inner {
+        margin-left: 0;
+        margin-right: auto;
+    }
+    .technical-half:nth-child(even) .technical-inner {
+        margin-left: auto;
+        margin-right: 0;
+    }
 }
 
 .technical-list {
-  display: table;
-  margin-left: 2em;
+    display: table;
+    margin-left: 2em;
 }
 
 .technical-data:first-child {
-  padding-bottom: $spacing;
-  @include mq(laptop) {
-    padding: 0;
-  }
+    padding-bottom: $spacing;
+    @include mq(laptop) {
+        padding: 0;
+    }
 }
 
 .technical-items:before {
-  content: '\2500';
-  display: inline-block;
-  width: 2em;
-  color: $yellow;
-  margin-left: -2em;
+    content: '\2500';
+    display: inline-block;
+    width: 2em;
+    color: $yellow;
+    margin-left: -2em;
 }
 
 .technical-title {
-  border-bottom: 1px solid $yellow;
-  padding-bottom: $padding;
-  margin-bottom: $padding;
+    border-bottom: 1px solid $yellow;
+    padding-bottom: $padding;
+    margin-bottom: $padding;
 }

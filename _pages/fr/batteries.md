@@ -39,6 +39,7 @@ burntime:
     time: 3h40
     color: "#BD2D36"
 
+burn-title: Autonomie
 burn-warning: "* Valeurs indicatives, peuvent varier suivant la température et l'usure de la batterie"
 
 image: ammo-accu.png

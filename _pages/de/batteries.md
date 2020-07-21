@@ -39,6 +39,9 @@ burntime:
     time: 3h40
     color: "#BD2D36"
 
+burn-title: Brenndauer
+burn-warning: "* Richtwerte. Kann je nach Temperatur und Batterieverschleiß variieren"
+
 image: ammo-accu.png
 
 specs:
@@ -67,11 +70,6 @@ specs:
     - "<strong>Durchmesser:</strong> 66mm"
     - "<strong>Gewicht:</strong> 1610g / 1800g"
     - "<strong>Gewicht im Wasser:</strong> 715g / 1100g"
-    - "<strong>Brenndauer:</strong><br>
-        Heizpads (40W): 7h00 (100%) / 10h00 (70%)<br>
-        Heizhandschuhe (36W): 7h45 (100%) / 11h00 (70%) <br>
-        Heizpads und Heizhandschuhe (76W): 3h40 (100%) / 5h15 (70%) <br>
-        * Richtwerte. Kann je nach Temperatur und Batterieverschleiß variieren"
 
 highlights:
   - icon: battery-full.svg

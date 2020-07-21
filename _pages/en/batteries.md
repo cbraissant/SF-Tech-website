@@ -39,6 +39,9 @@ burntime:
     time: 3h40
     color: "#BD2D36"
 
+burn-title: Operating time
+burn-warning: "* Indicative values. May vary depending on the temperature and battery wear"
+
 image: ammo-accu.png
 
 specs:
@@ -67,11 +70,6 @@ specs:
     - "<strong>Diameter:</strong> 66mm"
     - "<strong>Weight:</strong> 1610g / 1800g"
     - "<strong>Weight in water:</strong> 715g / 1100g"
-    - "<strong>Operating time:</strong><br>
-        Heating pads (40W): 7h00 (100%) / 10h00 (70%)<br>
-        Heating gloves (36W): 7h45 (100%) / 11h00 (70%) <br>
-        Heating pads and gloves (76W): 3h40 (100%) / 5h15 (70%) <br>
-        * Indicative values. May vary depending on the temperature and battery wear"
 
 highlights:
   - icon: battery-full.svg

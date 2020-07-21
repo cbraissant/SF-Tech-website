@@ -1,0 +1,35 @@
+<section class="burntime-section darktheme" id="burntime">
+    <div class="wrapper">
+        <h4 class="burntime-title">Autonomie</h4>
+        <div class="burn-wrapper">
+            {% for burn in page.burntime %}
+            <div class="single-chart">
+                <div class="burntime-subtitle">
+                    {{ burn.text }}
+                </div>
+                <svg viewBox="0 0 36 36" class="circular-chart orange">
+                    <!-- background -->
+                    <path
+                        class="circle-bg"
+                        d="M18 2.0845
+                a 15.9155 15.9155 0 0 1 0 31.831
+                a 15.9155 15.9155 0 0 1 0 -31.831"
+                    />
+                    <!--  -->
+                    <path
+                        class="circle"
+                        stroke="{{ burn.color }}"
+                        stroke-dasharray="{{ burn.percentage }}, 100"
+                        d="M18 2.0845
+                    a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0
+                    -31.831"
+                    />
+                    <text x="18" y="20.35" class="percentage">
+                        {{ burn.time }}
+                    </text>
+                </svg>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>

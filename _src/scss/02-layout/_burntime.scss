@@ -1,0 +1,77 @@
+.burntime-section {
+}
+
+.burn-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    @include mq(laptop) {
+    }
+}
+
+.single-chart {
+    // Positioning and sizing
+    width: 100%;
+    padding: $padding;
+    @include mq(tablet) {
+        width: 33%;
+        margin-bottom: $spacing;
+    }
+    @include mq(laptop) {
+        width: 33%;
+    }
+    // Text styles
+    text-align: center;
+}
+
+.circular-chart {
+    display: block;
+    margin: 10px auto;
+    max-height: 150px;
+    max-width: 80%;
+    @include mq(tablet) {
+        max-height: 250px;
+    }
+    @include mq(laptop) {
+        max-height: 250px;
+    }
+}
+
+.circle-bg {
+    fill: $dark-gray;
+    // stroke: #eee;
+    stroke-width: 3.8;
+}
+
+.circle {
+    fill: none;
+    stroke-width: 2.8;
+    stroke-linecap: round;
+    animation: progress 2s ease-out forwards;
+}
+
+@keyframes progress {
+    0% {
+        stroke-dasharray: 0 100;
+    }
+}
+
+.percentage {
+    fill: #fff;
+    font-family: sans-serif;
+    font-size: 0.5em;
+    text-anchor: middle;
+}
+
+.burntime-subtitle {
+    @include fluid-type(20rem, 75rem, 1rem, 1.4rem);
+    line-height: 1;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.burntime-title {
+    border-bottom: 1px solid $yellow;
+    padding-bottom: $padding;
+    margin-bottom: $padding;
+}

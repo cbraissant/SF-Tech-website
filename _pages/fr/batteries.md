@@ -13,8 +13,35 @@ subtitle: "Alimentation moderne<br>pour systèmes chauffants"
 hero-image: ammo-switch.jpg
 hero-style: overlay
 
-image: ammo-accu.png
+burntime:
+  - text: Pads chauffants (70%)
+    percentage: 83.3
+    time: 10h00
+    color: "#ff9f00"
+  - text: Gants chauffants (70%)
+    percentage: 91.6 
+    time: 11h00
+    color: "#de521a"
+  - text: Pads et gants (70%)
+    percentage: 43.75 
+    time: 5h15
+    color: "#BD2D36"
+  - text: Pads chauffants (100%)
+    percentage: 58.3
+    time: 7h00
+    color: "#ff9f00"
+  - text: Gants chauffants (100%)
+    percentage: 64.5 
+    time: 7h45
+    color: "#de521a"
+  - text: Pads et gants (100%)
+    percentage: 30.5  
+    time: 3h40
+    color: "#BD2D36"
 
+burn-warning: "* Valeurs indicatives, peuvent varier suivant la température et l'usure de la batterie"
+
+image: ammo-accu.png
 specs:
   - name: Caractéristiques
     id: characteristics
@@ -40,12 +67,7 @@ specs:
     - "<strong>Longueur:</strong> 262mm"
     - "<strong>Diamètre:</strong> 66mm"
     - "<strong>Poids:</strong> 1610g / 1800g"
-    - "<strong>Poids apparent dans l'eau:</strong> 715g / 1100g"
-    - "<strong>Autonomie:</strong><br>
-        Pads chauffants uniquement (40W): 7h00 (100%) / 10h00 (70%)<br>
-        Gants chauffants uniquement (36W): 7h45 (100%) / 11h00 (70%) <br>
-        Pads et gants chauffants (76W): 3h40 (100%) / 5h15 (70%) <br>
-        * Valeurs indicatives, peuvent varier suivant la température et l'usure de la batterie"
+    - "<strong>Poids apparent dans l'eau:</strong> 715g / 1100g"        
 
 highlights:
   - icon: battery-full.svg

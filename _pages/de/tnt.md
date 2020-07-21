@@ -118,5 +118,3 @@ Der TNT bietet alle Vorteile des Trilaminats, ist aber gleichzeitig flexibler un
 Um Festigkeit und Zuverlässigkeit zu garantieren, ist der komplette Anzug aus Aramid-Faser (DuPont™ Kevlar®) verstärktem Stoff hergestellt. Nur die besten auf dem Markt erhältlichen Materialien werden verwendet. Das hoch verdichtete Neopren wird von Yamamoto hergestellt, während das Kevlar® aus der Schweiz kommt.
 
 Der SF Tech TNT ist der perfekte Trockenkombi für anspruchsvolle Taucher die ein massgeschneidertes Topmodell mit beispielloser Bewegungsfreiheit und unvergleichlicher Strapazierfähigkeit suchen.
-
-Der SF TECH TNT ist standardmässig mit einem Frontreissverschluss und einem Teleskoptorso ausgestattet. Dies ermöglicht es dem Taucher den Anzug alleine an- und auszuziehen. Der Falz des Teleskoptorsos hält durch ein Gummiband im Schritt der Hose.

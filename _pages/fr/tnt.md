@@ -120,5 +120,3 @@ La SF Tech TNT offre tous les avantages d'une trilimanée tout en alliant la fle
 Pour guarantir durabilité et fiabilité, la TNT est entièrement recouverte de tissu renforcé de fibres d'aramide. Uniquement les meilleurs matériaux disponibles sur le marché sont utilisés: Le tissus à base d'aramide DuPont™ Kevlar® est produit en Suisse, laminé de néoprène haute-densité au Japon et retravaillé dans nos ateliers en Suisse.
 
 La SF Tech TNT est la combinsaion parfaite pour les plongeurs exigeants cherchant une combinaison haut de gamme sur-mesure avec une liberté de mouvement sans précédent et une durabilité inégalée.
-
-De base, la SF Tech TNT est équipée d'une fermeture frontale en métal avec torse télescopique pour faciliter l'habillage. Le pli de la combinaison est tenu en place par une sous-cutale elastique.

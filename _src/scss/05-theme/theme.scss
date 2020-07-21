@@ -2,13 +2,13 @@
 // ==========================================================================
 
 .darktheme {
-  color: $text-darktheme;
-  background-color: $background-darktheme;
+    color: $text-darktheme;
+    background-color: $background-darktheme;
 }
 
 .darktheme h3 {
-  color: $text-darktheme;
-  border-color: $text-darktheme;
+    color: $text-darktheme;
+    //   border-color: $text-darktheme;
 }
 
 .darktheme button:hover,
@@ -17,25 +17,25 @@
 .darktheme .btn:hover,
 .darktheme .btn:focus,
 .darktheme .btn:active {
-  color: $button-text;
-  border-color: $button-border;
+    color: $button-text;
+    border-color: $button-border;
 }
 
 .darktheme button,
 .darktheme .btn,
 .darktheme .btn:visited {
-  color: $black;
-  border: 1px solid $black;
+    color: $black;
+    border: 1px solid $black;
 }
 
 .lighttheme {
-  color: $text-lighttheme;
-  background-color: $background-lighttheme;
+    color: $text-lighttheme;
+    background-color: $background-lighttheme;
 }
 
 .lighttheme h3 {
-  color: $text-lighttheme;
-  border-color: $text-lighttheme;
+    color: $text-lighttheme;
+    border-color: $text-lighttheme;
 }
 
 .lighttheme button:hover,
@@ -44,14 +44,14 @@
 .lighttheme .btn:hover,
 .lighttheme .btn:focus,
 .lighttheme .btn:active {
-  color: $light-button-text;
-  border: 2px solid $light-button-border;
-  @include boldfont();
+    color: $light-button-text;
+    border: 2px solid $light-button-border;
+    @include boldfont();
 }
 
 .lighttheme button,
 .lighttheme .btn,
 .lighttheme .btn:visited {
-  color: $black;
-  border: 1px solid $black;
+    color: $black;
+    border: 1px solid $black;
 }

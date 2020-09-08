@@ -74,13 +74,13 @@ specs:
 highlights:
   - icon: battery-full.svg
     title: Led indicator
-    sub: The battery status and charge level can be check dirrectly on the head
+    sub: The battery status and charge level can be checked directly on the head
   - icon: double-eo.svg
     title: Dual output
     sub: Second output available for umbilical light
   - icon: switch.svg
     title: Adjustable power
-    sub: Magnetic switch to adjsut the output power
+    sub: Magnetic switch to adjust the output power
   - icon: depth.svg
     title: 100m / 200m
     sub: Available in two configurations, depending on the maximum operating depth desired
@@ -96,7 +96,7 @@ Modern power supply for heating systems. Simplicity, intuitive operation and rel
 
 Easy to use - A three-position magnetic switch allows you to adjust the battery intensity underwater. The shape and position of the switch make it accessible even when wearing thick gloves. A second outlet on the top of the battery allows you to connect a waterproof lamp. The battery is charged through the additional connector on the top of the head. The case remains permanently closed guaranteeing long-term waterproofing.
 
-Smart Electronics - An LED  on the top of the head indicates battery status and charge level. The electronics in the head automatically recognize when the E/O cable is disconnected and cut off the output voltage, protecting the connector from electrolysis. Power is automatically restored when the heating system is reconnected.
+Smart Electronics - A LED  on the top of the head indicates battery status and charge level. The electronics in the head automatically recognize when the E/O cable is disconnected and cut off the output voltage, protecting the connector from electrolysis. Power is automatically restored when the heating system is reconnected.
 
 Performance - The battery is available in two versions: The standard version with a maximum operating depth of 100m, and the SPECIAL version certified up to 200m. In both versions, the housing and the head are made of anodized aluminum and Delrin®. Quality, durability and irreproachable finishes!
 

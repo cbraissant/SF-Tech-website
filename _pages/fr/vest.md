@@ -41,8 +41,8 @@ specs:
   id: materials
   data:
     - "Polartec® Power Stretch®"
-    - "Outer shell: 88% Polyester / 12% Elastan"
-    - "Inner lining: 100% Polyester"
+    - "Tissu externe: 88% Polyester / 12% Elastan"
+    - "Doublure interne: 100% Polyester"
 
 link-card:
   - pants

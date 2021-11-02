@@ -27,12 +27,12 @@ gloves:
 
 hood-att:
   title: Hood attached
-  text: 6mm hood fixed
+  text: fixed 7mm hood
   icon: option-hood-att.svg
 
 hood-sep:
   title: Hood removable
-  text: 6mm hood separated
+  text: K01 5mm hood
   icon: option-hood-sep.svg
 
 inf-apeks:

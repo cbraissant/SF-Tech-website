@@ -27,12 +27,12 @@ gloves:
 
 hood-att:
   title: Cagoule attenante
-  text: cagoule 6mm attachée
+  text: cagoule 7mm attenante
   icon: option-hood-att.svg
 
 hood-sep:
   title: Cagoule amovible
-  text: cagoule 6mm séparée
+  text: cagoule K01 5mm
   icon: option-hood-sep.svg
 
 inf-apeks:

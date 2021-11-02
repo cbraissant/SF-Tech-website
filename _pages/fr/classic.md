@@ -121,7 +121,7 @@ showcase:
   - neoprene-10.png
 
 ---
-La SF Tech Neoprene Classic est la combinaison étanche parfaite pour les plongeurs recréatifs ou techniques recherchant chaleur en haut froide, sans compromis de mobilité. Fabriqué à l'aide du meilleur néoprène, cette combinaison est chaude, extrêmement flexible et garanti une grande aisance de mouvement.
+La SF Tech Neoprene Classic est la combinaison étanche parfaite pour les plongeurs recréatifs ou techniques recherchant chaleur en eau froide, sans compromis de mobilité. Fabriqué à l'aide du meilleur néoprène, cette combinaison est chaude, extrêmement flexible et garanti une grande aisance de mouvement.
 
 La couche isolante est composée de néoprène Yamamoto hyper-compressé de 2mm, une mousse de néoprène à cellule fermée gardant sa densité même à grande profondeur. Les bras, le torse, le dos ainsi que les genoux et l'entre-jambe sont recouvert de tissu renforcé de fibre d'aramide (DuPont™ Kevlar®). Les reste de la combinaison est fabriqué à l'aide de Supratex, un matériau très résistant à base de nylon et de polyester.
 

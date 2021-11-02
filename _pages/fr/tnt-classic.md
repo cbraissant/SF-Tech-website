@@ -13,13 +13,7 @@ subtitle: La nouvelle hybride
 hero-image: sandra-3007a.jpg
 hero-style: overlay
 
-main-image: 61118.jpg
-main-image: 61085-1.png
-main-image: 61089.png
-main-image: 61077.jpg
-main-title: TNT CLASSIC
-main-subtitle: La nouvelle hybride
-main-description: This is an random description of a suit. This is an awesome diving suit, and you will be dry. Look at how awesome it looks!
+image: montage-tnt-classic.png
 
 specs:
   - name: Caractéristiques

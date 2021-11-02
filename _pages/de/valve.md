@@ -10,7 +10,7 @@ categories: drysuit
 title: Heating valve
 subtitle: Das Tor zur Wärme
 
-hero-image: heating-valve-0201.jpg
+hero-image: heating-valve-new-2368.jpg
 hero-style: overlay
 
 image: heating-valve-0460.png

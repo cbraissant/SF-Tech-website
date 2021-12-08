@@ -38,13 +38,13 @@ specs:
       - Compatible avec les inflateurs Apeks
       - Connecteur de batterie E/O étanche
       - Connecteur étanche rapide à verrouillage avec le chauffage
-  - name: Technical data
+  - name: Données techniques
     id: technical
     data:
       - Fabriqué en POM (Delrin)
       - Connecteur rapide Apeks
       - Câble E/O Ø5.8mm
-      - Longeur de câble d'environ 50cm
+      - Longueur de câble d'environ 50cm
   
 link-card:
   - pads

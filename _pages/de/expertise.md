@@ -22,8 +22,7 @@ categories:
 datas:
   - title: Kaltes Wasser tauchen
     anchor: coldwater
-    style: expertise-br
-    overlay: expertise-ltr
+    style: expertise-tr
     image: UTP-074.jpg
     description: '
     <p>Unser Team taucht das ganze Jahr über in der Schweiz und unsere Ausrüstung wurde mit Rücksicht auf Wärme hergestellt. Unsere Kunden, die auf Kaltwassertauchen spezialisiert sind, können sich auf alle Arten von Aktivitäten freuen: Eisfreizeittauchen, kommerzielle Arbeit, extreme Expedition in den Polen usw. In letzter Zeit haben mehrere Forscherteams in den gefrorenen Gewässern von Antarktis oder Grönland getaucht mit unseren Produkten.</p>
@@ -32,7 +31,6 @@ datas:
   - title: Höhlen- und Technisches Tauchen
     anchor: cave
     style: expertise-tl
-    overlay: expertise-rtl
     image: sandra-0774.jpg
     description: '
     <p>Alle unsere Trockenanzüge werden mit Blick auf Stärke und Zuverlässigkeit hergestellt. Von Anfang an war es das Ziel, einen Anzug zu entwickeln, der dem Gebrauch und Missbrauch von technischen Tauchern und insbesondere Höhlentauchern standhält. Mit harten Einschränkungen während der Tauchgänge, aber noch mehr an Land in engen Passagen auf scharfen Felsen, sind Tauchgänge mit mehreren Siphons möglich. Und die Trockenanzüge von SF Tech sind mehr als qualifiziert für diesen Job.</p>

@@ -7,9 +7,7 @@ layout: default
 <section class="">
     <div class="wrapper expertise-wrapper">
         {% for category in page.categories %}
-        <a href="{{ category.link }}" class="btn" draggable="false"
-            >{{ category.text }}</a
-        >
+        <a href="{{ category.link }}" class="btn" draggable="false">{{ category.text }}</a>
         {% endfor %}
     </div>
 </section>
@@ -18,12 +16,8 @@ layout: default
 <section class="expertise-section" id="{{ data.anchor }}">
     <!-- image -->
     <div class="expertise-container">
-        <img
-            class="expertise-image"
-            src="{{ site.url }}{{ site.baseurl }}/assets/images/1920/{{ data.image }}"
-            alt=""
-        />
-        <div class="expertise-overlay {{ data.overlay }}"></div>
+        <img class="expertise-image" src="{{ site.url }}{{ site.baseurl }}/assets/images/1920/{{ data.image }}" alt="" />
+        <div class="expertise-overlay"></div>
     </div>
 
     <!-- text -->

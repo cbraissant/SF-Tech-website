@@ -26,21 +26,21 @@
 .expertise-inner {
   @include mq(laptop) {
     position: absolute;
-  }
-  display: flex;
-  padding: $spacing;
-  max-width: 40rem;
-  margin: 0 auto;
+}
+display: flex;
+padding: $spacing;
+max-width: 40rem;
+margin: 0 auto;
 }
 
 .expertise-link {
-  padding-top: $padding;
+    padding-top: $padding;
 }
 
 .expertise-data {
-  padding: $padding;
-  @include mq(laptop) {
-    // background-color: rgba(33,33,33,0.8);
+    padding: $padding;
+    @include mq(laptop) {
+        background-color: rgba(0, 0, 0, 0.4);
   }
 }
 
@@ -78,6 +78,7 @@
 .expertise-container {
   position: relative;
   line-height: 0;
+  width: 100%;
 }
 
 .expertise-overlay {
@@ -91,25 +92,11 @@
     bottom: 0;
     right: 0;
     left: 0;
-  }
-
-  .expertise-ltr {
     background-image: linear-gradient(
       to right,
-      rgba(0, 0, 0, 0),
-      rgba(0, 0, 0, 0.1),
       rgba(0, 0, 0, 0.7),
-      rgba(0, 0, 0, 1)
-    );
-  }
-
-  .expertise-rtl {
-    background-image: linear-gradient(
-      to left,
-      rgba(0, 0, 0, 0),
       rgba(0, 0, 0, 0.1),
-      rgba(0, 0, 0, 0.7),
-      rgba(0, 0, 0, 1)
-    );
+      rgba(0, 0, 0, 0.1),
+      rgba(0, 0, 0, 0.7))
   }
 }

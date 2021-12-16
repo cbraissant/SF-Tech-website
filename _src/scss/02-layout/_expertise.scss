@@ -40,7 +40,8 @@ margin: 0 auto;
 .expertise-data {
     padding: $padding;
     @include mq(laptop) {
-        background-color: rgba(0, 0, 0, 0.4);
+        background-color: rgba(0, 0, 0, 0.7);
+        border-radius: 1em;
   }
 }
 

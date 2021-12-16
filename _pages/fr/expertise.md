@@ -42,6 +42,5 @@ datas:
     image: team-archeo.jpg
     description: "
     <p>Depuis des années, les professionnels de divers domaines nous font confiance pour la conféction de leurs outils de travail. SF Tech est fière de pouvoir équiper divers corps de métier tel que les entreprises de construction, la police, les pompiers, l'armée ou encore les archéologues.</p>
-    <p>Ces passionnés utilisent leurs combinaisons en toute confiance et avec fierté. Alors pourquoi pas vous </p>
-
+    <p>Ces passionnés utilisent nos combinaisons en toute confiance et avec fierté. Alors pourquoi pas vous?</p>"
 ---

@@ -8,7 +8,7 @@ permalink: /de/vest/
 
 categories: clothing
 
-title: Polartec Vest
+title: Polartec Weste
 subtitle: Hochleistungsunterzieher
 
 hero-image: undersuit-logo-0630.jpg

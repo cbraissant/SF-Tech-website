@@ -8,7 +8,7 @@ permalink: /de/sweater/
 
 categories: clothing
 
-title: Polartec Sweater
+title: Polartec Pullover
 subtitle: Hochleistungsunterzieher
 
 hero-image: undersuit-logo-0630.jpg

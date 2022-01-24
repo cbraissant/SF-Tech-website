@@ -7,7 +7,7 @@ permalink: /de/pants/
 
 categories: clothing
 
-title: Polartec Pants
+title: Polartec Hose
 subtitle: Hochleistungunterzieher
 
 hero-image: undersuit-logo-0630.jpg

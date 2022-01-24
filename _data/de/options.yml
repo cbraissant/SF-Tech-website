@@ -116,12 +116,12 @@ valve-sitech:
   icon: option-valve-sitech.svg
 
 wrist-latex:
-  title: Latex Handgelenkmanschetten
+  title: Latex Armmanschetten
   text: Hochleistungs-Latex
   icon: option-wrist-latex.svg
 
 wrist-silicone:
-  title: Silikon Handgelenkmanschetten
+  title: Silikon Armmanschetten
   text: Si Tech QCS System
   icon: option-wrist-silicone.svg
 

@@ -68,7 +68,7 @@ function cleanJekyll(cb) {
 exports.delete = cleanJekyll;
 
 function cleanFiles(cb) {
-    return gulp.src('./_site/**/*.{html,js,css}').pipe(gulpClean());
+    return gulp.src('./_site/**/*.{shtml,html,js,css}').pipe(gulpClean());
 }
 exports.clean = cleanFiles;
 

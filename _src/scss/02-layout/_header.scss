@@ -36,7 +36,7 @@
   // Positioning and sizing
   position: absolute;
   height: $header-height-phone;
-  padding: $header-height-phone/2;
+  padding: calc($header-height-phone/2);
   right: 60px;
   top: 0;
   z-index: 100;
@@ -47,7 +47,7 @@
   @include mq(laptop) {
     right: 0;
     height: $header-height;
-    padding-top: $header-height/2;
+    padding-top: calc($header-height/2);
   }
 
   .lang-selected {

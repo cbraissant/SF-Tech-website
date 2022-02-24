@@ -108,7 +108,7 @@
   .menu-item {
     height: $header-height;
     padding: 5px;
-    padding-top: $header-height/2;
+    padding-top: calc($header-height/2);
     min-width: 120px;
     line-height: 0px;
   }

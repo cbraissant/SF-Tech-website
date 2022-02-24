@@ -4,7 +4,7 @@
 // Fluid font sizing
 // --------------------------------------------------------
 @function strip-unit($value) {
-  @return $value / ($value * 0 + 1);
+  @return calc($value / ($value * 0 + 1rem));
 }
 
 @mixin fluid-type($min-vw, $max-vw, $min-font-size, $max-font-size) {

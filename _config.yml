@@ -49,6 +49,7 @@ exclude:
         'feed.xml',
         'Gemfile',
         'Gemfile.lock',
+        'npm-shrinkwrap.json',
         'package-lock.json',
         'package.json',
         'redirects.json',

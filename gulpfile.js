@@ -17,7 +17,7 @@ const { groupCollapsed } = require('console');
 // const gutil = require('gulp-util');
 
 // SASS and CSS
-const sass = require('gulp-sass');
+const sass = require('gulp-sass')(require('sass'));
 const autoprefixer = require('gulp-autoprefixer');
 
 // Images
@@ -178,7 +178,7 @@ const buildImages = gulp.series(
 exports.images = buildImages;
 
 /************************************
-        MAIN TASK AND WATCHERS
+        WATCHERS
  ************************************/
 function watchSass(cb) {
     gulp.watch('./_src/scss/**/*.{scss,css}', buildSass);
@@ -208,13 +208,25 @@ function watchImages(cb) {
     );
 }
 
+/************************************
+ BUILD
+ ************************************/
+const buildSite = gulp.series(cleanFiles, buildImages, buildCss, buildJavascript, buildJekyll);
+exports.build = buildSite;
+
+const watchSite = gulp.parallel(
+    startBrowser,
+    watchImages,
+    watchJekyll,
+    watchSass,
+    watchJavascript
+);
+exports.watch = watchSite;
+
+
+/************************************
+    MAIN
+************************************/
 exports.default = gulp.series(
-    gulp.series(buildImages, buildCss, buildJavascript, buildJekyll),
-    gulp.parallel(
-        startBrowser,
-        watchImages,
-        watchJekyll,
-        watchSass,
-        watchJavascript
-    )
+    gulp.series(buildSite, watchSite)
 );

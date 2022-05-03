@@ -11,7 +11,7 @@ categories: clothing
 title: Polartec Pullover
 subtitle: Hochleistungsunterzieher
 
-hero-image: undersuit-logo-0630.jpg
+hero-image: polartec-boat.jpg
 hero-style: overlay
 
 image: montage-sweater.png

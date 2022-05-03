@@ -46,7 +46,7 @@ specs:
 highlights:
   - icon: patent.svg
     title: Matériau révolutionnaire
-    sub: Nouveau matériau breveté à fabriqué à base de néoprène haute densité
+    sub: Nouveau matériau breveté fabriqué à base de néoprène haute densité
   - icon: stretch.svg
     title: Mobilité incroyable
     sub: La matériau TNT offre une flexibilité et une souplesse sans précédent
@@ -113,10 +113,10 @@ link-card:
   - neoprene-pro
   - tnt-classic
 ---
-La SF Tech TNT est composée d’un matériau révolutionnaire: un trilaminé à base de néoprène haute densité, avec deux couches de titanium supplémentaires agissant comme réflecteurs de chaleur. La chaleur ressentie dans une SF Tech TNT est jusqu'à deux fois plus importante que dans une trilam standard à base de butyle.
+La SF Tech TNT Pro est composée d’un matériau révolutionnaire: un trilaminé à base de néoprène haute densité, avec deux couches de titanium supplémentaires agissant comme réflecteurs de chaleur. La chaleur ressentie dans une SF Tech TNT est jusqu'à deux fois plus importante que dans une trilam standard à base de butyle.
 
-La SF Tech TNT offre tous les avantages d'une trilimanée tout en alliant la flexibilité et la chaleur du néoprène: <strong>Le meilleur des deux mondes!</strong>
+La SF Tech TNT Pro offre tous les avantages d'une trilimanée tout en alliant la flexibilité et la chaleur du néoprène: <strong>Le meilleur des deux mondes!</strong>
 
-Pour guarantir durabilité et fiabilité, la TNT est entièrement recouverte de tissu renforcé de fibres d'aramide. Uniquement les meilleurs matériaux disponibles sur le marché sont utilisés: Le tissus à base d'aramide DuPont™ Kevlar® est produit en Suisse, laminé de néoprène haute-densité au Japon et retravaillé dans nos ateliers en Suisse.
+Pour garantir durabilité et fiabilité, la TNT Pro est entièrement recouverte de tissu renforcé de fibres d'aramide. Uniquement les meilleurs matériaux disponibles sur le marché sont utilisés: Le tissus à base d'aramide DuPont™ Kevlar® est produit en Suisse, laminé de néoprène haute-densité au Japon et retravaillé dans nos ateliers en Suisse.
 
-La SF Tech TNT est la combinsaion parfaite pour les plongeurs exigeants cherchant une combinaison haut de gamme sur-mesure avec une liberté de mouvement sans précédent et une durabilité inégalée.
+La SF Tech TNT Pro est la combinaison parfaite pour les plongeurs exigeants cherchant une combinaison haut de gamme sur-mesure avec une liberté de mouvement sans précédent et une durabilité inégalée.

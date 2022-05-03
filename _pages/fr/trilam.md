@@ -117,4 +117,4 @@ La SF Tech Trilam Classic est une combinaison versatile, pour plongeurs recréat
 
 Le trilaminé est un matériau léger et flexible et la coupe près du corps garantie une excellente liberté de mouvement. La fermeture frontale avec torse télescopique facilite l'habillage et permet au plongeur d'être indépendant.
 
-Des renforts sont prévus sur les bras, le torse et le dos, ainsi que le genoux et l'entre-jambe. Le reste de la combinaison est réalisé en Nylon RipStop, un matériau souvent utilisé pour la création de produits techniques à fortes contraintes, comme les ailes de parapentes ou des voiles de bateaux.
+Des renforts sont prévus sur les bras, le torse et le dos, ainsi que le genoux et l'entrejambe. Le reste de la combinaison est réalisé en Nylon RipStop, un matériau souvent utilisé pour la création de produits techniques à fortes contraintes, comme les ailes de parapentes ou des voiles de bateaux.

@@ -18,7 +18,7 @@ image: heating-valve-0460.png
 highlights:
   - icon: low-profile.svg
     title: Faible profil
-    sub: Petite et profilée pour éviter tout encombrement
+    sub: Petit et profilé pour éviter tout encombrement
   - icon: maximize.svg
     title: Reversible
     sub: L'arrivée d'air peut être changée de côté pour améliorer le routage des tuyaux
@@ -27,7 +27,7 @@ highlights:
     sub: L'inflateur peut être monté sur tous les pads Apeks
   - icon: drop.svg
     title: Connecteur étanche
-    sub: Le connecteur E/O est fait pour être branché et debranché sous l'eau
+    sub: Le connecteur E/O est fait pour être branché et débranché sous l'eau
 
 specs:
   - name: Caractéristiques
@@ -52,7 +52,7 @@ link-card:
   - batteries
   - sweater
 ---
-De faible profil, le passage combinaison SF Tech est construit de manière à être plus plat qu'un inflateur standard tout en fournissant une connectique E/O pour un système de chauffage. Fabriqué en Delrin, un materiau ayant un excellente résistance aux chocs, le passage combi est extrêmement robuste et durable.
+De faible profil, le passage combinaison SF Tech est construit de manière à être plus plat qu'un inflateur standard tout en fournissant une connectique E/O pour un système de chauffage. Fabriqué en Delrin, un materiau ayant une excellente résistance aux chocs, le passage combi est extrêmement robuste et durable.
 
 Muni d'un raccord d'inflateur standard, il peut être directement utilisé sans avoir recours à un adaptateur. La position de l'arrivée d'air est inversable afin de garantir un routage des tuyaux optimal. Le passage combinaison est compatible avec les inflateurs Apeks.
 

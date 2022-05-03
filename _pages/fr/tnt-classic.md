@@ -48,7 +48,7 @@ specs:
 highlights:
   - icon: patent.svg
     title: Matériau révolutionnaire
-    sub: Nouveau matériau breveté à fabriqué à base de néoprène haute densité
+    sub: Nouveau matériau breveté fabriqué à base de néoprène haute densité
   - icon: stretch.svg
     title: Mobilité incroyable
     sub: La matériau TNT offre une flexibilité et une souplesse sans précédent
@@ -57,7 +57,7 @@ highlights:
     sub: "YKK Proseal® est la fermeture étanche la plus résistante du marché"
   - icon: pencil.svg
     title: "Une taille: La Tienne!"
-    sub: Pour garantir une qualité irréprochable, tout les combinaisons SF Tech sont faites sur mesures, avec ton choix d'options et de couleurs.
+    sub: Pour garantir une qualité irréprochable, toutes les combinaisons SF Tech sont faites sur mesure, avec ton choix d'options et de couleurs.
 
 option:
   - type: knee-pads
@@ -117,8 +117,8 @@ link-card:
   - pads
   - tnt
 ---
-La SF Tech TNT Classic est une combinaison hybride fabriquée avec notre matériau TNT révolutionnaire et un trilaminé Nylon RipStop haut de gamme. Une combinaison versatile, pour plongeurs recréatifs ou techniques, en eaux froides ou tempérées. Avec ses renforts en fibres d'aramide, la TNT Classic est parfaite pour les plongées en pleines eau, mais aussi adaptées à la plongée sous-plafond ou en épave.
+La SF Tech TNT Classic est une combinaison hybride fabriquée avec notre matériau TNT révolutionnaire et un trilaminé Nylon RipStop haut de gamme. Une combinaison versatile, pour plongeurs recréatifs ou techniques, en eaux froides ou tempérées. Avec ses renforts en fibres d'aramide, la TNT Classic est parfaite pour les plongées en pleine eau, mais aussi adaptées à la plongée souterraine ou en épave.
 
-Le TNT et le Trilam sont des matériaux légers et flexibles et la coupe près du corps garantie une excellente liberté de mouvement. La fermeture frontale avec torse télescopique facilite l'habillage et permet au plongeur d'être indépendant.
+Le TNT et le Trilam sont des matériaux légers et flexibles et la coupe près du corps garantit une excellente liberté de mouvement. La fermeture frontale avec torse télescopique facilite l'habillage et permet au plongeur d'être indépendant.
 
-Des renforts sont prévus sur les bras, le torse et le dos, ainsi que le genoux et l'entre-jambe. Le reste de la combinaison est réalisé en Nylon RipStop, un matériau souvent utilisé pour la création de produits techniques à fortes contraintes, comme les ailes de parapentes ou des voiles de bateaux.
+Des renforts sont prévus sur les bras, le torse et le dos, ainsi que le genoux et l'entrejambe. Le reste de la combinaison est réalisé en Nylon RipStop, un matériau souvent utilisé pour la création de produits techniques à fortes contraintes, comme les ailes de parapentes ou des voiles de bateaux.

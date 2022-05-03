@@ -24,7 +24,7 @@ highlights:
     sub: Grande puissance de chauffage
   - icon: cloth.svg
     title: Très confortables
-    sub: Fabriqués en Lycra, un tissus doux et souple
+    sub: Fabriqués en Lycra, un tissu doux et souple
   - icon: drop.svg
     title: Connecteur étanche
     sub: Connecteur étanche rapide à verrouillage
@@ -53,10 +53,10 @@ link-card:
   - batteries
 
 ---
-Le système de gants chauffants SF Tech est conçu afin de fournir le maximum de chaleur possible aux endroits nécessaire. Un corps de chauffe couvre l'ensemble des doigts, à l'intérieur, au bout et sur le dessus de ceux-ci, ainsi que le dessus de la main. Avec une puissance maximale de chauffe de 36W, le système garantit un confort en température sans précédent.
+Le système de gants chauffants SF Tech est conçu afin de fournir le maximum de chaleur possible aux endroits nécessaires. Un corps de chauffe couvre l'ensemble des doigts, à l'intérieur, au bout et sur le dessus de ceux-ci, ainsi que le dessus de la main. Avec une puissance maximale de chauffe de 36W, le système garantit un confort en température sans précédent.
 
-Gants très confortables, fabriqués en Lyrca, un matériaux exceptionnellement doux et souple. Proche de la main, ils sont compatibles avec la majeure partie des systèmes de gants étanches. Un manchon en néoprène permet de serrer le poignet et de maintenir la connexion électrique.
+Gants très confortables, fabriqués en Lycra, un matériau exceptionnellement doux et souple. Proche de la main, ils sont compatibles avec la majeure partie des systèmes de gants étanches. Un manchon en néoprène permet de serrer le poignet et de maintenir la connexion électrique.
 
 Les gants sont entièrement compatibles avec les sous-vêtements SF Tech, ainsi l'ensemble des câbles passe dans la sous-combinaison. Ils peuvent être utilisés indépendamment ou en conjonction avec le système de pads chauffants par l'intermédiaire d'un raccord en Y.
 
-La connexion entre les gants et le câble est réalisée à l'aide de connecteurs rapides rotatifs permettant à l'utilisateur de positionner la câble dans la position désirée. Le raccord avec le passage combinaison est  réalisé à l'aide d'un connecteur étanche à verrouillage rapide, afin de faciliter le branchement en s'équipant tout en garantissant une connexion stable durant la plongée.
+La connexion entre les gants et le câble est réalisée à l'aide de connecteurs rapides rotatifs permettant à l'utilisateur de positionner le câble dans la position désirée. Le raccord avec le passage combinaison est  réalisé à l'aide d'un connecteur étanche à verrouillage rapide, afin de faciliter le branchement en s'équipant tout en garantissant une connexion stable durant la plongée.

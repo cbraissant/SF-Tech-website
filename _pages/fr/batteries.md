@@ -93,11 +93,11 @@ link-card:
 ---
 Alimentation moderne pour système chauffant. Simplicité, utilisation intuitive et performances fiables.
 
-Facile d'utilisation - Un interupteur magnétique à trois positions permet de régler l'intensité de la batterie sous l'eau. La forme et position de l'interupteur le rendent accessible même en portant des gants épais. Une deuxième sortie sur le dessus de la batterie permet de connecter une lampe étanche. La charge de la batterie se fait par le connecteur supplémentaire sur le dessus de la tête. Le boitier reste fermé en permanance garantissant une étanchéité longue durée.
+Facile d'utilisation - Un interrupteur magnétique à trois positions permet de régler l'intensité de la batterie sous l'eau. La forme et position de l'interrupteur le rendent accessible même en portant des gants épais. Une deuxième sortie sur le dessus de la batterie permet de connecter une lampe étanche. La charge de la batterie se fait par le connecteur supplémentaire sur le dessus de la tête. Le boîtier reste fermé en permanence garantissant une étanchéité longue durée.
 
-Electronique intelligente - Un témoin à LED sur le dessus de la tête indique le status et le niveau de charge de la batterie. L'électronique de la tête reconnait automatiquement quand le câble E/O est déconneté et coupe la tension de sortie, protégeant le connecteur de l'electrolyse. Le courant est automatiquement rétabli lorsque le chauffage est reconnecté.
+Electronique intelligente - Un témoin à LED sur le dessus de la tête indique le statut et le niveau de charge de la batterie. L'électronique de la tête reconnait automatiquement quand le câble E/O est déconnecté et coupe la tension de sortie, protégeant le connecteur de l'électrolyse. Le courant est automatiquement rétabli lorsque le chauffage est reconnecté.
 
-Performances - La batterie est disponible en deux versions: La version standard ayant une profondeur maximale d'utilisation de 100m, et la version SPECIAL certifiée jusqu'à 200m. Dans les deux versions, le boitier et la tête sont fabriqués est en aluminium anodisé et en Delrin®. Qualité, durabilité et finitions irréprochables! 
+Performances - La batterie est disponible en deux versions: La version standard ayant une profondeur maximale d'utilisation de 100m, et la version SPECIAL certifiée jusqu'à 200m. Dans les deux versions, le boîtier et la tête sont fabriqués en aluminium anodisé et en Delrin®. Qualité, durabilité et finitions irréprochables! 
 
 
 

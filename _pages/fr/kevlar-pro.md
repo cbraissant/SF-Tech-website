@@ -17,7 +17,7 @@ image: kevlar.png
 
 highlights:
   - icon: shield.svg
-    title: Entièrement en renforcée
+    title: Entièrement renforcée
     sub: Matériau renforcé par des fibres d'aramide utilisé sur l'ensemble de la combinaison
   - icon: zipper.svg
     title: Fermeture métal
@@ -27,7 +27,7 @@ highlights:
     sub: Contrairement aux néoprènes à base de pétrole, le néoprène Yamamoto est fabriqué à 99.7% de roche de calcaire
   - icon: pencil.svg
     title: "Une taille: La Tienne!"
-    sub: Pour garantir une qualité irréprochable, tout les combinaisons SF Tech sont faites sur mesures, avec ton choix d'options et de couleurs.
+    sub: Pour garantir une qualité irréprochable, toutes les combinaisons SF Tech sont faites sur mesure, avec ton choix d'options et de couleurs.
 
 specs:
   - name: Caractéristiques
@@ -106,8 +106,8 @@ link-card:
   - tnt
   - valve
 ---
-Fabriquée entièrement en néoprène hyper-compressé de 2mm, renforcée de fibres d'aramide, la SF Tech Neoprene Pro est faite pour durer. Conçue pour des plongeurs exigeants en environements hostiles, elle est l'outil ideal pour les plongeurs techniques ou commerciaux, mais est aussi adaptées au plongeurs recréatifs désirant le top du top.
+Fabriquée entièrement en néoprène hyper-compressé de 2mm, renforcée de fibres d'aramide, la SF Tech Neoprene Pro est faite pour durer. Conçue pour des plongeurs exigeants en environnements hostiles, elle est l'outil ideal pour les plongeurs techniques ou commerciaux, mais est aussi adaptée au plongeurs recréatifs désirant le top du top.
 
-La couche isolante est composée de néoprène Yamamoto hyper-compressé de 2mm, une mousse de néoprène à cellule fermée gardant sa densité même à grande profondeur. L'ensemble de la combinaison est recouvert de tissu renforcé de fibres d'aramide et une couche de protection supplémentaire est ajoutée sur les genoux.
+La couche isolante est composée de néoprène Yamamoto hyper-compressé de 2mm, une mousse de néoprène à cellules fermées gardant sa densité même à grande profondeur. L'ensemble de la combinaison est recouvert de tissu renforcé de fibres d'aramide et une couche de protection supplémentaire est ajoutée sur les genoux.
 
 De base, la SF Tech Neoprene Pro est équipée d'une fermeture frontale en métal avec torse télescopique pour faciliter l'habillage. Le pli de la combinaison est tenu en place par une sous-cutale elastique.

@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+{% include hero.html %}
+
+<section class="wrapper faq-wrapper">
+  {% for topics in page.faq %}
+  <div>
+    <h2>{{ topics.title }}</h2>
+    {% for item in topics.questions %}
+    <details class="faq-details">
+      <summary>{{ item.q }}</summary>
+      <p>{{ item.a }}</p>
+    </details>
+    {% endfor %}
+  </div>
+  {% endfor %}
+</section>

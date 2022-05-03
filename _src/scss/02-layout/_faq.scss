@@ -1,0 +1,24 @@
+.faq-wrapper {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.faq-wrapper>div:not(:last-child) {
+  margin-bottom: 1.5rem;
+}
+
+.faq-details {
+  padding: 1rem;
+}
+
+.faq-details>summary {
+  font-size: 1.6rem;
+}
+
+.faq-details:not(:last-child) {
+  border-bottom: 1px solid;
+}
+
+.faq-details>:not(summary) {
+  padding-left: 1.8rem;
+}

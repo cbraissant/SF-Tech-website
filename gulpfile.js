@@ -32,11 +32,11 @@ const mozjpeg = require('imagemin-mozjpeg');
  ************************************/
 const siteRoot = '_site';
 const jekyllFiles = [
-    './_data/**',
-    './_includes/**',
-    './_layouts/**',
-    './_pages/**',
-    'posts/**',
+  './_data/**',
+  './_includes/**',
+  './_layouts/**',
+  './_pages/**',
+  'posts/**',
 ];
 
 /************************************
@@ -45,30 +45,30 @@ const jekyllFiles = [
 
 // Task to build Jekyll
 function buildJekyll(cb) {
-    cp.exec('bundle exec jekyll build --incremental --drafts', function (
-        err,
-        stdout,
-        stderr
-    ) {
-        console.log(stdout);
-        console.log(stderr);
-        cb(err);
-    });
+  cp.exec('bundle exec jekyll build --incremental --drafts', function (
+    err,
+    stdout,
+    stderr
+  ) {
+    console.log(stdout);
+    console.log(stderr);
+    cb(err);
+  });
 }
 exports.jekyll = buildJekyll;
 
 // Task to clean _site/ and other Jekyll caches
 function cleanJekyll(cb) {
-    cp.exec('bundle exec jekyll clean', function (err, stdout, stderr) {
-        console.log(stdout);
-        console.log(stderr);
-        cb(err);
-    });
+  cp.exec('bundle exec jekyll clean', function (err, stdout, stderr) {
+    console.log(stdout);
+    console.log(stderr);
+    cb(err);
+  });
 }
 exports.delete = cleanJekyll;
 
 function cleanFiles(cb) {
-    return gulp.src('./_site/**/*.{shtml,html,js,css}').pipe(gulpClean());
+  return gulp.src('./_site/**/*.{shtml,html,js,css}').pipe(gulpClean());
 }
 exports.clean = cleanFiles;
 
@@ -76,25 +76,25 @@ exports.clean = cleanFiles;
         CSS
  ************************************/
 function buildSass(cb) {
-    return (
-        gulp
-            .src('./_src/scss/main.scss')
-            // Compile SASS files
-            .pipe(sass().on('error', sass.logError))
-            // Auto-prefix css styles for cross browser compatibility
-            .pipe(
-                autoprefixer({
-                    cascade: false,
-                })
-            )
-            .pipe(gulp.dest('./_site/assets/css'))
-    );
+  return (
+    gulp
+      .src('./_src/scss/main.scss')
+      // Compile SASS files
+      .pipe(sass().on('error', sass.logError))
+      // Auto-prefix css styles for cross browser compatibility
+      .pipe(
+        autoprefixer({
+          cascade: false,
+        })
+      )
+      .pipe(gulp.dest('./_site/assets/css'))
+  );
 }
 
 function copyCss(cb) {
-    return gulp
-        .src('./_src/css/**/*.css')
-        .pipe(gulp.dest('./_site/assets/css'));
+  return gulp
+    .src('./_src/css/**/*.css')
+    .pipe(gulp.dest('./_site/assets/css'));
 }
 
 const buildCss = gulp.parallel(copyCss, buildSass);
@@ -104,7 +104,7 @@ exports.css = buildCss;
         JAVASCRIPT
  ************************************/
 function buildJavascript(cb) {
-    return gulp.src('./_src/js/**/*.js').pipe(gulp.dest('./_site/assets/js'));
+  return gulp.src('./_src/js/**/*.js').pipe(gulp.dest('./_site/assets/js'));
 }
 exports.javascript = buildJavascript;
 
@@ -112,14 +112,14 @@ exports.javascript = buildJavascript;
         BROWSER-SYNC
  ************************************/
 function startBrowser(cb) {
-    // initializes browserSync
-    browserSync.init('./_site/**', {
-        server: { baseDir: './_site' },
-        port: 4000,
-        online: true,
-        delay: 5000,
-        open: false,
-    });
+  // initializes browserSync
+  browserSync.init('./_site/**', {
+    server: { baseDir: './_site' },
+    port: 4000,
+    online: true,
+    delay: 5000,
+    open: false,
+  });
 }
 exports.serve = startBrowser;
 
@@ -129,10 +129,10 @@ exports.serve = startBrowser;
 
 // Copy the original images to the corresponding site folder (SVG included)
 function copyOriginalImages(cb) {
-    return gulp
-        .src('./_images/**/*.{jpg,jpeg,png,svg,JPG}')
-        .pipe(gulpNewer('./_site/assets/images/original'))
-        .pipe(gulp.dest('./_site/assets/images/original'));
+  return gulp
+    .src('./_images/**/*.{jpg,jpeg,png,svg,JPG}')
+    .pipe(gulpNewer('./_site/assets/images/original'))
+    .pipe(gulp.dest('./_site/assets/images/original'));
 }
 exports.copyImages = copyOriginalImages;
 
@@ -141,39 +141,39 @@ var resizeImageTasks = [];
 
 // create a task for each size
 [1920, 800, 320].forEach(function (size) {
-    // name the task (f.ex "resize_1920")
-    var resizeImageTask = 'resize_' + size;
-    // create the task
-    gulp.task(resizeImageTask, function () {
-        return gulp
-            .src('./_site/assets/images/original/*.{jpg,jpeg,png,JPG}')
-            .pipe(gulpNewer('./_site/assets/images/' + size + '/'))
-            .pipe(
-                gulpResizer({
-                    verbose: true,
-                    width: size,
-                    height: size,
-                    noCrop: true,
-                })
-            )
-            .pipe(gulpImagemin([mozjpeg(), pngquant()]))
-            .pipe(gulp.dest('./_site/assets/images/' + size + '/'));
-    });
-    resizeImageTasks.push(resizeImageTask);
+  // name the task (f.ex "resize_1920")
+  var resizeImageTask = 'resize_' + size;
+  // create the task
+  gulp.task(resizeImageTask, function () {
+    return gulp
+      .src('./_site/assets/images/original/*.{jpg,jpeg,png,JPG}')
+      .pipe(gulpNewer('./_site/assets/images/' + size + '/'))
+      .pipe(
+        gulpResizer({
+          verbose: true,
+          width: size,
+          height: size,
+          noCrop: true,
+        })
+      )
+      .pipe(gulpImagemin([mozjpeg(), pngquant()]))
+      .pipe(gulp.dest('./_site/assets/images/' + size + '/'));
+  });
+  resizeImageTasks.push(resizeImageTask);
 });
 
 // Copy the icons
 function copyIcons(cb) {
-    return gulp
-        .src('./_src/icons/*.{jpg,jpeg,png,svg}')
-        .pipe(gulpNewer('./_site/icons/'))
-        .pipe(gulp.dest('./_site/icons/'));
+  return gulp
+    .src('./_src/icons/*.{jpg,jpeg,png,svg}')
+    .pipe(gulpNewer('./_site/icons/'))
+    .pipe(gulp.dest('./_site/icons/'));
 }
 
 const buildImages = gulp.series(
-    copyOriginalImages,
-    copyIcons,
-    resizeImageTasks
+  copyOriginalImages,
+  copyIcons,
+  resizeImageTasks
 );
 exports.images = buildImages;
 
@@ -181,45 +181,46 @@ exports.images = buildImages;
         WATCHERS
  ************************************/
 function watchSass(cb) {
-    gulp.watch('./_src/scss/**/*.{scss,css}', buildSass);
+  gulp.watch('./_src/scss/**/*.{scss,css}', buildSass);
 }
 
 function watchJavascript(cb) {
-    gulp.watch('./_src/js/**/*.{js}', buildJavascript);
+  gulp.watch('./_src/js/**/*.{js}', buildJavascript);
 }
 
 function watchJekyll(cb) {
-    gulp.watch(
-        [
-            './_data/**/*.*',
-            './_includes/**/*.*',
-            './_layouts/**/*.*',
-            './_pages/**/*.*',
-            './_posts/**/*.*',
-        ],
-        buildJekyll
-    );
+  gulp.watch(
+    [
+      './_data/**/*.*',
+      './_includes/**/*.*',
+      './_layouts/**/*.*',
+      './_pages/**/*.*',
+      './_posts/**/*.*',
+    ],
+    buildJekyll
+  );
 }
 
 function watchImages(cb) {
-    gulp.watch(
-        './_images/**/*.*',
-        gulp.series(copyOriginalImages, resizeImageTasks)
-    );
+  gulp.watch(
+    './_images/**/*.*',
+    gulp.series(copyOriginalImages, resizeImageTasks)
+  );
 }
 
 /************************************
  BUILD
  ************************************/
-const buildSite = gulp.series(cleanFiles, buildImages, buildCss, buildJavascript, buildJekyll);
+// const buildSite = gulp.series(cleanFiles, buildImages, buildCss, buildJavascript, buildJekyll);
+const buildSite = gulp.series(cleanFiles, buildCss, buildJavascript, buildJekyll);
 exports.build = buildSite;
 
 const watchSite = gulp.parallel(
-    startBrowser,
-    watchImages,
-    watchJekyll,
-    watchSass,
-    watchJavascript
+  startBrowser,
+  watchImages,
+  watchJekyll,
+  watchSass,
+  watchJavascript
 );
 exports.watch = watchSite;
 
@@ -228,5 +229,5 @@ exports.watch = watchSite;
     MAIN
 ************************************/
 exports.default = gulp.series(
-    gulp.series(buildSite, watchSite)
+  gulp.series(buildSite, watchSite)
 );

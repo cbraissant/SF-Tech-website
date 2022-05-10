@@ -1,4 +1,7 @@
 ---
+layout: ambassador
+permalink: /fr/ambassadors/:basename/
+
 name: Frank Vasseur
 date_of_birth: 17 juin 1968
 nationality: Français

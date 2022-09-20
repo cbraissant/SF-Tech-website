@@ -13,7 +13,7 @@ subtitle: Die Krönung der Modularität
 hero-image: rollup_heathing.jpg
 hero-style: overlay
 
-image: heating-pads.png
+image: heating-pads-0290.png
 
 highlights:
   - icon: pads.svg

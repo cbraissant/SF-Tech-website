@@ -55,7 +55,7 @@ link-card:
 ---
 The SF Tech heated glove system is designed to provide the maximum amount of warmth where needed. A heating wire covers all the fingers, on the inside, outside and on the top, as well as the top of the hand. With a maximum heating power of 36W, the system guarantees unprecedented temperature comfort.
 
-Very comfortable gloves, made of Lyrca, an exceptionally soft and flexible material. Close to the hand, they are compatible with most of the dryglove systems. A neoprene cuff helps to tighten the wrist and maintain the electrical connection.
+Very comfortable gloves, made of Lycra, an exceptionally soft and flexible material. Close to the hand, they are compatible with most of the dryglove systems. A neoprene cuff helps to tighten the wrist and maintain the electrical connection.
 
 The gloves are fully compatible with SF Tech undergarments, so all cables are passed through the lining of the sweater. Gloves can be used independently or in conjunction with the heating pads system via a Y-connector.
 

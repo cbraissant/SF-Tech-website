@@ -39,6 +39,8 @@ toc:
     subfolderitems:
       - page: Téléchargement
         url: /downloads
+      - page: FAQ
+        url: /faq
       # - page: Measure Form
       #   url: /measure
       # - page: Mode d'emploi

@@ -5,7 +5,7 @@ lang: fr
 namespace: faq
 permalink: /fr/faq/
 
-title: faq
+title: FAQ
 subtitle: Questions les plus fréquentes
 hero-image: 61164_md.jpg
 hero-style: overlay
@@ -31,6 +31,11 @@ faq:
         a: "Toutes nos combinaisons sont fabriquées dans nos locaux à Puidoux, en Suisse."
   - title: "Service et réparations"
     questions:
+      - q: "Quelles sont les démarches pour envoyer ma combinaison à réparer?"
+        a: "En cas d'un envoi dans nos locaux en Suisse, la combinaison doit être envoyée seule, sans accessoires ou sac, et avec les poches vides. Dans le paquet, ajouter un document comprenant:
+        - Les travaux a effectué
+        - Vos coordonnées
+        "
       - q: "Ma fermeture éclair va dure, que faire?"
         a: "Les fermetures éclair en métal sont particulièrement dures à ouvrir ou fermer lorsqu'elle sont neuves. Afin de faciliter les manipulation, il est conseiller de mettre de la parafine sur les dents externe de la fermeture avant chaque utilisation."
       - q: "Ma collerette néoprène est abimée, comment la réparer?"

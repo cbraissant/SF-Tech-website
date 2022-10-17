@@ -4,13 +4,14 @@
 .masthead {
   // Positioning and sizing
   height: $header-height-phone;
-  position: fixed;
+  position: sticky;
   top: 0;
   width: 100%;
   z-index: 10;
 
   // Background and borders
   background-color: $background-color;
+
   @include mq(laptop) {
     height: $header-height;
     background-color: $header-background;

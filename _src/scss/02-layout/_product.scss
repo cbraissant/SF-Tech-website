@@ -6,13 +6,14 @@ $product-height: 80vh;
 
 .product-section {
   padding: 0;
-  padding-top: $header-height-phone;
-  @include mq(laptop) {
-    padding-top: $header-height;
-  }
+  // padding-top: $header-height-phone;
+  // @include mq(laptop) {
+  //   padding-top: $header-height;
+  // }
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+
   @include mq(laptop) {
     height: $product-height;
   }
@@ -31,6 +32,7 @@ $product-height: 80vh;
     display: flex;
     flex: 1;
   }
+
   padding: $padding;
 }
 
@@ -62,6 +64,7 @@ $product-height: 80vh;
   text-align: center;
   margin: auto;
   width: 100%;
+
   @include mq(laptop) {
     text-align: left;
     margin-top: auto;
@@ -82,6 +85,7 @@ $product-height: 80vh;
   display: flex;
   margin: 0 auto;
   max-width: 400px;
+
   @include mq(laptop) {
     margin: 0;
     width: 100%;

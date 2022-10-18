@@ -6,4 +6,31 @@ namespace: home
 permalink: /en/home/
 
 redirect_from: /en/
+
+title: SF Tech | Heavy duty drysuits
+subtitle: For recreational and technical divers
+
+heroImage: montage-poing-wide.jpeg
+heroStyle:
+
+cards:
+  - type: tnt-classic
+  - type: tnt
+    style: grid-col2
+  - type: classic
+    style: grid-col2
+  - type: valve
+    style: grid-row2
+  - type: pads
+  - type: batteries
+    style: grid-row2
+  - type: gloves
+  - type: contact
+  - type: materials
+    style: grid-col2
+  - type: neoprene-pro
+  - type: sweater
+  - type: expertise
+    style: grid-col2
+  - type: commando
 ---

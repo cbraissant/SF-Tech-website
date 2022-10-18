@@ -6,23 +6,35 @@ body {
   position: relative;
 }
 
+main {
+  margin-top: $header-height-phone;
+
+  @include mq(laptop) {
+    margin-top: $header-height;
+  }
+}
+
 // Link reset
 a {
   text-decoration: none;
   color: $link-color;
 }
+
 a:visited {
   text-decoration: none;
   color: $link-color;
 }
+
 a:hover {
   text-decoration: none;
   color: $link-color;
 }
+
 a:focus {
   text-decoration: none;
   color: inherit;
 }
+
 a:hover,
 a:active {
   text-decoration: none;
@@ -32,9 +44,11 @@ a:active {
 h5 a {
   color: inherit;
 }
+
 h5 a:visited {
   color: inherit;
 }
+
 h5 a:hover {
   color: inherit;
   color: $link-color;

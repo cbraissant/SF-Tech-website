@@ -1,8 +1,14 @@
 ---
-name: Maxim Kuznetsov
+layout: ambassador
+lang: fr
+namespace: ambassadors/max/
+permalink: /fr/ambassadors/:basename/
+
+fullname: Maxim Kuznetsov
 date_of_birth: 20 mai 1963
 nationality: Russe / Américain
 job: Instructeur de plongée spéléologique
+image: maxim_kuznetsov.png
 web: https://www.cavemax.com
 instagram:
 twitter:

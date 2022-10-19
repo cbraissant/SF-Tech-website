@@ -1,8 +1,14 @@
 ---
-name: Xavier Meniscus
+layout: ambassador
+lang: fr
+namespace: ambassadors/xavier/
+permalink: /fr/ambassadors/:basename/
+
+fullname: Xavier Meniscus
 date_of_birth: 28 juin 1968
 nationality: Français
 job: Scaphandrier professionnel
+image: xavier_meniscus.png
 web: 
 instagram:
 twitter:

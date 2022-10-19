@@ -1,14 +1,14 @@
 ---
 layout: ambassadors
 
-lang: fr
+lang: en
 namespace: ambassadors
-permalink: /fr/ambassadors/
+permalink: /en/ambassadors/
 
 categories: about
 
-title: Ambassadeurs
-subtitle: Des personnes qui nous font confiance
+title: Ambassadors
+subtitle: People who trust us
 
 hero-image: montage-poing-wide.jpg
 

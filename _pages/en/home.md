@@ -10,7 +10,7 @@ redirect_from: /en/
 title: SF Tech | Heavy duty drysuits
 subtitle: For recreational and technical divers
 
-heroImage: montage-poing-wide.jpeg
+heroImage: max_cave.jpeg
 heroStyle:
 
 cards:

@@ -1,38 +1,71 @@
 ---
 layout: default
+
+title: SF Tech | Heavy duty drysuits
+subtitle: For recreational and technical divers
+
+heroImage: /assets/images/1920/max_cave.jpeg
+heroStyle:
+
+cards:
+    - type: tnt-classic
+    - type: tnt
+      style: grid-col2
+    - type: classic
+      style: grid-col2
+    - type: valve
+      style: grid-row2
+    - type: pads
+    - type: batteries
+      style: grid-row2
+    - type: gloves
+    - type: contact
+    - type: materials
+      style: grid-col2
+    - type: neoprene-pro
+    - type: sweater
+    - type: expertise
+      style: grid-col2
+    - type: commando
 ---
 
-<section class="hero-section {{ 'page.heroStyle' }}" style="background-image: url('{{ site.url }}{{ site.baseurl }}/assets/images/1920/{{
-    page.heroImage
-  }}')" id="hero">
-  <div class="wrapper hero-wrapper">
-    <div class="hero-inner">
-      <div class="home-suptitle">
-        <span>3 lights,</span>
-        <span>2 computers,</span>
-        <span>2 masks,</span>
-        <span>4 tanks</span>
-      </div>
-      <h1 class="home-title">one drysuit!</h1>
-      <h2 class="home-subtitle">make the right choice</h2>
-    </div>
+<section
+    class="hero-section {{ 'layout.heroStyle' }}"
+    style="background-image: url('{{ site.url }}{{ site.baseurl }}{{
+    layout.heroImage
+  }}')"
+    id="hero"
+>
+    <div class="wrapper hero-wrapper">
+        <div class="hero-inner">
+            <div class="home-suptitle">
+                <span>3 lights,</span>
+                <span>2 computers,</span>
+                <span>2 masks,</span>
+                <span>4 tanks</span>
+            </div>
+            <h1 class="home-title">one drysuit!</h1>
+            <h2 class="home-subtitle">make the right choice</h2>
+        </div>
 
-    {% for cta in page.cta %}
-    <div class="hero-cta">
-      <a class="btn" draggable="false" href="{{ cta.link }}">{{ cta.text }}</a>
+        {% for cta in page.cta %}
+        <div class="hero-cta">
+            <a class="btn" draggable="false" href="{{ cta.link }}"
+                >{{ cta.text }}</a
+            >
+        </div>
+        {% endfor %}
     </div>
-    {% endfor %}
-  </div>
 </section>
 
 <section class="home-section">
-  <div class="wrapper">
-    <div class="home-grid">
-      {% for homecard in page.cards %}
-      <div class="{{ homecard.style }} jsReveal">
-        {% include card.html card_type=homecard.type %}
-      </div>
-      {% endfor %}
+    <div class="wrapper">
+        <div class="home-grid">
+            {% for homecard in layout.cards %}
+            <div class="{{ homecard.style }} jsReveal">
+                {% include card.html card_type=homecard.type %}
+            </div>
+            {% endfor %}
+        </div>
     </div>
-  </div>
 </section>

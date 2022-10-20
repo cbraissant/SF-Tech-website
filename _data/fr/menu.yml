@@ -49,6 +49,8 @@ toc:
     subfolderitems:
       # - page: News
       #   url: /news
+      - page: Ambassadeurs
+        url: /ambassadors
       - page: Domaine de compétences
         url: /expertise
   - title: Contact

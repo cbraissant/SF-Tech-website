@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+<section class="wrapper ambassador-section" id="description">
+  <div class="ambassador-half">
+    <div class="ambassador-inner">
+      <img class="ambassador-image" src="{{site.url}}{{site.baseurl}}/assets/images/800/{{page.image}}" alt="" />
+    </div>
+  </div>
+
+  <div class="ambassador-half">
+    <div class="ambassador-inner">
+      <div class="ambassador-data">
+        <h3 class="ambassador-title">
+          {{ page.fullname}}
+        </h3>
+        {{ content }}
+        <h4 class="ambassador-subtitle">
+          {% if page.lang == 'en' %}About SF Tech:{% endif %}
+          {% if page.lang == 'fr'%}A propos de SF Tech:{% endif %}
+          {% if page.lang == 'de' %}Über SF Tech:{%endif %}
+        </h4>
+        <p>{{ page.catchphrase }}</p>
+        <div class="ambassador-icons">
+          {% if page.web %}
+          <a class="social-link" href="{{ page.web}}" target="_blank">
+            {% include svg/website.svg %}
+          </a>
+          {% endif %}
+
+          {% if page.facebook %}
+          <a class="social-link" href="{{ page.facebook}}" target="_blank">
+            {% include svg/fb_icons.svg %}
+          </a>
+          {% endif %}
+
+          {% if page.instagram %}
+          <a class="social-link" href="{{ page.instagram}}" target="_blank">
+            {% include svg/instagram.svg %}
+          </a>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

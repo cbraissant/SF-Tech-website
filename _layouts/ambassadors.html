@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+{% include hero.html %}
+
+<section class="wrapper ambassadors-section">
+  {% for ambassador in page.ambassadors %}
+  <div class="ambassadors-card">
+    <a href={{ ambassador.link }} class="ambassadors-link">
+      <div class="ambassadors-effect">
+        <img class="ambassadors-image" src="{{site.url}}{{site.baseurl}}/assets/images/800/{{ambassador.image}}" alt="" />
+        <div class="ambassadors-overlay">
+          <strong>
+            {% if page.lang == 'en' %}Read more{% endif %}
+            {% if page.lang == 'fr'%}Lire la suite{% endif %}
+            {% if page.lang == 'de' %}Weiterlesen{%endif %}
+          </strong>
+        </div>
+      </div>
+      <h3 class="ambassadors-card-title">{{ ambassador.name }}</h3>
+    </a>
+  </div>
+  {% endfor %}
+</section>

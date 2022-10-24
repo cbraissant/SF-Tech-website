@@ -104,11 +104,11 @@ pants:
     link: /sweater
 
 vest:
-    title_en: Polartec Vest
+    title_en: Softshell Vest
     sub_en: High performance undergarments
-    title_fr: Gilet Polartec
+    title_fr: Gilet Softshell
     sub_fr: Vêtements haute performance
-    title_de: Polartec Weste
+    title_de: Softshell Weste
     sub_de: Hochwertige Unterzieher
     img: undersuit-logo-0630
     type: jpg

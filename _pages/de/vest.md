@@ -14,38 +14,35 @@ subtitle: Hochleistungsunterzieher
 hero-image: undersuit-logo-0630.jpg
 hero-style: overlay
 
-image: montage-vest.png
+image: montage-softshell.png
 
 highlights:
-
-- icon: polartec.svg
-  title: Polartec® Power Stretch®
-  sub: Flexibles, atmungsaktives und wärmespeicherndes Material
-- icon: flame.svg
-  title: Für das Heizsystem vorbereitet
-  sub: Taschen und Kabelöffnungen für das SF Tech Heizsystem
-- icon: vest.svg
-  title: Breites Schrittband
-  sub: Damit der Unterzieher beim An- und Ausziehen an Ort und Stelle bleibt
-- icon: snow-flake.svg
-  title: Für kaltes Wetter entwickelt
-  sub: Stoffart und -Dicke sorgen auch in eiskaltem Wasser für genug Wärme
+  - icon: humidity.svg
+    title: Atmungsaktives Material
+    sub: Lässt die Feuchtigkeit von innen nach aussen durch und hält so die Haut trocken und warm
+  - icon: flame.svg
+    title: Für das Heizsystem vorbereitet
+    sub: Taschen und Kabelöffnungen für das SF Tech Heizsystem
+  - icon: vest.svg
+    title: Breites Schrittband
+    sub: Damit der Unterzieher beim An- und Ausziehen an Ort und Stelle bleibt
+  - icon: plume.svg
+    title: Dünn und leicht
+    sub: Nimmt keinen Platz ein und ermöglicht das Hinzufügen einer Heizungsanlage
 
 specs:
-
-- name: Eigenschaften
-  id: characteristics
-  data:
-  - Breites Schrittband
-  - Für das SF Tech Heizsystem entwickelt
-  - SF Tech Logo auf der Brust
-  - Geruchs- und Bakterienresistent
-- name: Materialien
-  id: materials
-  data:
-  - "Polartec® Power Stretch®"
-  - "Aussenschicht: 88% Polyester / 12% Elasthan"
-  - "Futter: 100% Polyester"
+  - name: Eigenschaften
+    id: characteristics
+    data:
+    - Breites Schrittband
+    - Für das SF Tech Heizsystem entwickelt
+    - SF Tech Logo auf der Brust
+    - Geruchs- und Bakterienresistent
+  - name: Materialien
+    id: materials
+    data:
+    - "Aussenschicht: 100% Polyester + TPU"
+    - "Futter: 100% Polyester"
 
 link-card:
 

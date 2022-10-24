@@ -7,27 +7,27 @@ permalink: /fr/vest/
 
 categories: clothes
 
-title: Gilet Polartec
+title: Gilet Softshell
 subtitle: Sous-vêtement haute performance
 
 hero-image: undersuit-logo-0630.jpg
 hero-style: overlay
 
-image: montage-vest.png
+image: montage-softshell.png
 
 highlights:
-  - icon: polartec.svg
-    title: Polartec® Power Stretch®
-    sub: Matériau flexible, respirant et chaud
+  - icon: humidity.svg
+    title: Matériau respirant
+    sub: Permet à l'humidité de s'évaporer à travers le vêtement, gardant la peau sèche et chaude
   - icon: flame.svg
     title: Prêt pour le chauffage
     sub: Poches et passages de câble compatibles avec le chauffage SF Tech
   - icon: vest.svg
     title: Large sous-cutale
     sub: Pour maintenir le vêtement en place lors de l'habillage
-  - icon: snow-flake.svg
-    title: Créer pour l'eau froide
-    sub: Matériau et épaisseur fournissant assez de chaleur pour des eaux glaciales
+  - icon: plume.svg
+    title: Fin et léger
+    sub: Ne prend pas de place et permet d'ajouter un système de chauffage à une sous-combinaison existante
 
 specs:
 - name: Caractéristiques
@@ -40,8 +40,7 @@ specs:
 - name: Materials
   id: materials
   data:
-    - "Polartec® Power Stretch®"
-    - "Tissu externe: 88% Polyester / 12% Elastan"
+    - "Tissu externe: 100% Polyester + TPU"
     - "Doublure interne: 100% Polyester"
 
 link-card:
@@ -51,7 +50,7 @@ link-card:
   - batteries
 
 ---
-Le gilet SF Tech est spécialement conçu afin d’offrir la meilleure expérience possible en combinaison étanche. Polartec® Power Stretch® a la capacité de conserver la chaleur sans restreindre les mouvements ou l'agilité pendant les activités. Polartec® est un matériau respirant permettant d’évacuer continuellement la vapeur d’eau tout en retenant la chaleur. La couche en contact avec la peau reste sèche et confortable.
+Le gilet SF Tech Softshell est spécialement conçu pour être utilisé en dessous d'une sous-combinaison existante. Fin et léger, il ne prend pas de place et offre la possibilité d'ajouter un système de chauffage à n'importe quelle configuration. Softshell est un matériau respirant permettant d’évacuer continuellement la vapeur d’eau tout en retenant la chaleur. La couche en contact avec la peau reste sèche et confortable.
 
 Le gilet SF Tech sans manche couvre la partie haute du coprs et s'utilise en conjonction avec un autre sous-vétements. Afin de garantir l'efficacité du chauffage, le gilet doit se porter au plus proche du corps, entre la peau et la sous-combinaison. Une large sous-cutale élastique permet de garder le vêtement en place lors de l'habillage ou en plongée. 
 

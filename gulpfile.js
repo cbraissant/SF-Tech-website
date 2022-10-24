@@ -43,8 +43,23 @@ const jekyllFiles = [
         JEKYLL
  ************************************/
 
-// Task to build Jekyll
-function buildJekyll(cb) {
+// Task to build Jekyll for Dev
+function buildDevJekyll(cb) {
+  cp.exec('bundle exec jekyll build --incremental --drafts --config _config.yml,_config_dev.yml', function (
+    err,
+    stdout,
+    stderr
+  ) {
+    console.log(stdout);
+    console.log(stderr);
+    cb(err);
+  });
+}
+exports.devJekyll = buildDevJekyll;
+
+
+// Task to build Jekyll for Prod
+function buildProdJekyll(cb) {
   cp.exec('bundle exec jekyll build --incremental --drafts', function (
     err,
     stdout,
@@ -55,7 +70,8 @@ function buildJekyll(cb) {
     cb(err);
   });
 }
-exports.jekyll = buildJekyll;
+exports.prodJekyll = buildProdJekyll;
+
 
 // Task to clean _site/ and other Jekyll caches
 function cleanJekyll(cb) {
@@ -197,7 +213,7 @@ function watchJekyll(cb) {
       './_pages/**/*.*',
       './_posts/**/*.*',
     ],
-    buildJekyll
+    buildDevJekyll
   );
 }
 
@@ -209,11 +225,11 @@ function watchImages(cb) {
 }
 
 /************************************
- BUILD
+ DEV AND PROD BUILD 
  ************************************/
-// const buildSite = gulp.series(cleanFiles, buildImages, buildCss, buildJavascript, buildJekyll);
-const buildSite = gulp.series(cleanFiles, buildCss, buildJavascript, buildJekyll);
-exports.build = buildSite;
+const buildDevSite = gulp.series(cleanFiles, buildCss, buildJavascript, buildDevJekyll);
+const buildProdSite = gulp.series(cleanFiles, buildCss, buildJavascript, buildProdJekyll);
+exports.build = buildProdSite;
 
 const watchSite = gulp.parallel(
   startBrowser,
@@ -229,5 +245,5 @@ exports.watch = watchSite;
     MAIN
 ************************************/
 exports.default = gulp.series(
-  gulp.series(buildSite, watchSite)
+  gulp.series(buildDevSite, watchSite)
 );

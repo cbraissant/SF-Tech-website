@@ -5,15 +5,18 @@ layout: default
 {% include hero.html %}
 
 <section class="wrapper faq-wrapper">
-  {% for topics in page.faq %}
-  <div>
-    <h2>{{ topics.title }}</h2>
-    {% for item in topics.questions %}
-    <details class="faq-details">
-      <summary>{{ item.q }}</summary>
-      <p>{{ item.a }}</p>
-    </details>
-    {% endfor %}
-  </div>
-  {% endfor %}
+  {{ content }}
 </section>
+
+<script>
+  var coll = document.getElementsByTagName("dt");
+  var i;
+
+  for (i = 0; i < coll.length; i++) {
+    coll[i].addEventListener("click", function () {
+      this.classList.toggle("isActive");
+      var content = this.nextElementSibling;
+      content.classList.toggle("isShown")
+    });
+  }
+</script>

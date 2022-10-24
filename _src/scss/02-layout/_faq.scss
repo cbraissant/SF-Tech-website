@@ -3,22 +3,49 @@
   margin: 0 auto;
 }
 
-.faq-wrapper>div:not(:last-child) {
-  margin-bottom: 1.5rem;
+.faq-wrapper h3 {
+  border-bottom: 1px solid $yellow;
+  padding-bottom: $padding;
+  margin-bottom: $padding;
+
+  &:not(:first-child) {
+    margin-top: 5*$padding;
+  }
 }
 
-.faq-details {
-  padding: 1rem;
+// dl = wrapper
+// dt = question
+// dd = definition
+.faq-wrapper dt {
+
+  padding: $padding;
+  // font-weight: bold;
+
+  &:hover {
+    color: $yellow;
+  }
+
+  &:after {
+    content: '\002B';
+    font-weight: bold;
+    float: right;
+    margin-left: 5px;
+  }
 }
 
-.faq-details>summary {
-  font-size: 1.6rem;
+.faq-wrapper .isActive {
+  color: $yellow;
+
+  &:after {
+    content: "\2212";
+  }
 }
 
-.faq-details:not(:last-child) {
-  border-bottom: 1px solid;
+.faq-wrapper dd {
+  padding: $padding 3*$padding;
+  display: none;
 }
 
-.faq-details>:not(summary) {
-  padding-left: 1.8rem;
+.faq-wrapper .isShown {
+  display: block;
 }

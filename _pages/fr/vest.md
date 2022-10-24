@@ -10,7 +10,7 @@ categories: clothes
 title: Gilet Softshell
 subtitle: Sous-vêtement haute performance
 
-hero-image: undersuit-logo-0630.jpg
+hero-image: rollup_heathing.jpg
 hero-style: overlay
 
 image: montage-softshell.png

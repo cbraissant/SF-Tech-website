@@ -11,7 +11,7 @@ categories: clothing
 title: Polartec Weste
 subtitle: Hochleistungsunterzieher
 
-hero-image: undersuit-logo-0630.jpg
+hero-image: rollup_heathing.jpg
 hero-style: overlay
 
 image: montage-softshell.png

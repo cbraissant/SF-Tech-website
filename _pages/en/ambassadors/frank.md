@@ -13,7 +13,7 @@ web:
 instagram:
 twitter:
 facebook: 
-catchphrase: "I have been diving with an SF Tech wetsuit since 2009. Durable, comfortable, reliable, it remains the best wetsuit I've ever used for technical diving and cave diving."
+catchphrase: "I have been diving with an SF Tech drysuit since 2009. Durable, comfortable, reliable, it remains the best drysuit I've ever used for technical diving and cave diving."
 
 ---
 Born in 1968, Frank discovered outdoor activities when he was a scout. He took up caving and other outdoor activities in 1984, and learned to dive in 1987, with the aim of furthering his cave explorations. Since then, he has been learning and using new equipment and technology to explore caves further, but safely.

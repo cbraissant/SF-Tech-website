@@ -13,7 +13,7 @@ web: https://www.gozotechnicaldiving.com/#home
 instagram: https://www.instagram.com/gozo_technical_diving
 twitter:
 facebook: https://www.facebook.com/gozotechnicaldiving
-catchphrase: "SF Tech wetsuits are for me, the best drysuits ever made with the best customer service you can get."
+catchphrase: "SF Tech drysuits are for me, the best drysuits ever made with the best customer service you can get."
 ---
 Tom was born in Switzerland in 1965, he has worked all over the world, training ESA and Navy astronauts on rebreathers. He also does safety dives for world famous freedivers and technical divers.
 Loic Leferme, Fred Buyle, Şahika Ercümen and Sarah Campbell, Pascal Bernabe, Don Shirely and many others.

@@ -9,12 +9,15 @@
 .highlights-group {
   // Positioning and sizing
   width: 100%;
+
   @include mq(tablet) {
     width: 50%;
   }
+
   @include mq(laptop) {
     width: 25%;
   }
+
   padding: $padding;
 
   // Text styles
@@ -28,4 +31,8 @@
 
 .highlights-description {
   padding: 0;
+}
+
+.highlights-title {
+  padding-bottom: $padding
 }

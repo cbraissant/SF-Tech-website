@@ -1,0 +1,60 @@
+.faq-wrapper {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.faq-wrapper h3 {
+  border-bottom: 1px solid $yellow;
+  padding-bottom: $padding;
+  margin-bottom: $padding;
+
+  &:not(:first-child) {
+    margin-top: 5*$padding;
+  }
+}
+
+// dl = wrapper
+// dt = question
+// dd = definition
+.faq-wrapper dt {
+
+  padding: $padding;
+  // font-weight: bold;
+
+  &:hover {
+    color: $yellow;
+  }
+
+  &:after {
+    content: '\002B';
+    font-weight: bold;
+    float: right;
+    margin-left: 5px;
+  }
+}
+
+.faq-wrapper .isActive {
+  color: $yellow;
+
+  &:after {
+    content: "\2212";
+  }
+}
+
+.faq-wrapper dd {
+  padding: $padding 3*$padding;
+  display: none;
+}
+
+.faq-wrapper .isShown {
+  display: block;
+  border-left: 1px solid $yellow
+}
+
+.faq-wrapper li {
+  list-style: disc;
+}
+
+.faq-wrapper ul {
+  margin-left: 1rem;
+}

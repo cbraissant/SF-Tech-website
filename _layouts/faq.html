@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+{% include hero.html %}
+
+<section class="wrapper faq-wrapper">
+  {{ content }}
+</section>
+
+<script>
+  var coll = document.getElementsByTagName("dt");
+  var i;
+
+  for (i = 0; i < coll.length; i++) {
+    coll[i].addEventListener("click", function () {
+      this.classList.toggle("isActive");
+      var content = this.nextElementSibling;
+      content.classList.toggle("isShown")
+    });
+  }
+</script>

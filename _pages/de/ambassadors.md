@@ -25,6 +25,12 @@ ambassadors:
   - name: Maxim Kuznetsov
     link: max
     image: maxim_kuznetsov.png
+  - name: Sabine Sidi-Ali
+    link: sabine
+    image: sabine.png
+  - name: Severine Bär
+    link: severine
+    image: severine_bar.png
   - name: Thorsten 'Toddy' Wälde
     link: toddy
     image: thorsten_waelde.png

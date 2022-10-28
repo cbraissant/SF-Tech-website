@@ -27,3 +27,20 @@ downloads:
     - title: Trockentauchanzug Vermassungs-formular (de)
       link: /assets/files/measurement-form-de.pdf
       icon: measurement-form-de.jpg
+
+service-form:
+    - title: Repair form (en)
+      link: /assets/files/service-form-en.pdf
+      icon: service-form-en.png
+
+    - title: Formulaire de réparation (fr)
+      link: /assets/files/service-form-fr.pdf
+      icon: service-form-fr.png
+
+    - title: Reparaturformular (de)
+      link: /assets/files/service-form-de.pdf
+      icon: service-form-de.png
+
+    - title: Import form (en)
+      link: /assets/files/import-export-en.pdf
+      icon: import-export-en.png

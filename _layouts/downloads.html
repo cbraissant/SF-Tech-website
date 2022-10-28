@@ -13,11 +13,7 @@ layout: default
       {% for file in site.data.downloads.manuals %}
       <div class="downloads-box">
         <a href="{{ file.link }}" class="downloads-links" download="">
-          <img
-            src="{{site.url}}{{site.baseurl}}/assets/images/320/{{ file.icon }}"
-            class="downloads-icon"
-            alt=""
-          />
+          <img src="{{site.url}}{{site.baseurl}}/assets/images/320/{{ file.icon }}" class="downloads-icon" alt="" />
         </a>
         <p>{{ file.title }}</p>
       </div>
@@ -34,11 +30,24 @@ layout: default
       {% for file in site.data.downloads.downloads %}
       <div class="downloads-box">
         <a href="{{ file.link }}" class="downloads-links" download="">
-          <img
-            src="{{site.url}}{{site.baseurl}}/assets/images/320/{{ file.icon }}"
-            class="downloads-icon"
-            alt=""
-          />
+          <img src="{{site.url}}{{site.baseurl}}/assets/images/320/{{ file.icon }}" class="downloads-icon" alt="" />
+        </a>
+        <p>{{ file.title }}</p>
+      </div>
+
+      {% endfor %}
+    </div>
+
+    <h3 class="downloads-title">
+      {% if page.lang == 'en' %}Repair form{% endif %}
+      {% if page.lang == 'fr' %}Formulaire de réparation{% endif %}
+      {% if page.lang == 'de' %}Reparaturformular{% endif %}
+    </h3>
+    <div class="downloads-file">
+      {% for file in site.data.downloads.service-form %}
+      <div class="downloads-box">
+        <a href="{{ file.link }}" class="downloads-links" download="">
+          <img src="{{site.url}}{{site.baseurl}}/assets/images/320/{{ file.icon }}" class="downloads-icon" alt="" />
         </a>
         <p>{{ file.title }}</p>
       </div>
@@ -54,15 +63,8 @@ layout: default
     <div class="downloads-file">
       {% for image in site.data.pictures %}
       <div class="downloads-box">
-        <a
-          href="{{site.url}}{{site.baseurl}}{{image.link}}"
-          class="downloads-links"
-        >
-          <img
-            src="{{site.url}}{{site.baseurl}}{{ image.icon }}"
-            class="downloads-icon"
-            alt=""
-          />
+        <a href="{{site.url}}{{site.baseurl}}{{image.link}}" class="downloads-links">
+          <img src="{{site.url}}{{site.baseurl}}{{ image.icon }}" class="downloads-icon" alt="" />
         </a>
         {% if image.credit %}
         <p>Photo credit:<br />{{ image.credit }}</p>

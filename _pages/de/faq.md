@@ -20,7 +20,7 @@ Was ist das grundlegende Zubehör?
 
 Wie sind die Lieferzeiten?
 : Unsere Lieferzeiten variieren je nach Saison und Auslastung. <br>
-Insgesamt dauert es von der Bestellung bis zur Lieferung etwa zehn Wochen.<br>
+Insgesamt dauert es von der Bestellung bis zur Lieferung sechs bis zwölf Wochen.<br>
 Bitte [kontaktieren Sie uns](https://www.sftech.ch/{{page.lang}}/contact) direkt für weitere Informationen und genaue Fristen.
 
 Wie werden die Messungen durchgeführt?

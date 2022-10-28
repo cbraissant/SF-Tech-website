@@ -19,7 +19,7 @@ What are the standard accessories?
 
 What are the delivery times?
 : Our delivery times vary depending on the season and workload. <br>
-Overall, it takes about ten weeks from order to delivery.<br>
+Overall, it takes from six to twelve weeks from order to delivery.<br>
 Please [contact us](https://www.sftech.ch/{{page.lang}}/contact) directly for more information and precise deadlines.
 
 How are the measurements taken?

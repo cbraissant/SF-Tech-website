@@ -20,7 +20,7 @@ Quels sont les accessoires de base?
 
 Quels sont les délais de fabrication?
 : Nos délais varient en fonction des périodes et de la charge de travail.<br>
-Globalement, il faut compter un délais d'environ 10 semaines entre la commande et la livraison.<br>
+Globalement, il faut compter de six à douze semaines entre la commande et la livraison.<br>
 Pour plus de détails et des délais plus précis, merci de bien vouloir nous [contacter](https://www.sftech.ch/{{page.lang}}/contact) directement.
 
 Comment s'effectue la prise de mesure? 
